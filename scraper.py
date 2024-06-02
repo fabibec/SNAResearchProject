@@ -20,8 +20,8 @@ from ofunctions.network import set_ip_version
 from dotenv import load_dotenv
 
 load_dotenv()
-data_path = "/home/fabian/Education/IT_4/sna/ca2/data"
-driver_path = "/home/fabian/Education/IT_4/sna/ca2/driver/geckodriver"
+data_path = os.environ.get("DATA_PATH")
+driver_path = os.environ.get("DRIVER_PATH")
 zugfinder_mail = os.environ.get("ZF_MAIL")
 zugfinder_pw = os.environ.get("ZF_PW")
 root_date = datetime.date(2024, 5, 30)
@@ -176,8 +176,6 @@ def scrape_delay_data(d):
                 trains.append(col)
 
     for train in trains[:2]:
-        header = ["date"]
-        frame = [header]
         header_written = False
 
         formatted_train = train.replace(' ', '_')
@@ -207,20 +205,24 @@ def scrape_delay_data(d):
                     cols = row.find_elements(By.CSS_SELECTOR, "td")
                     if not header_written:
                         # Create Headers
-                        header.append(cols[1].text + ".in")
-                        header.append(cols[1].text + ".out")
+                        header = ["date"]
+                        header.append(cols[1].text.replace(' ', '_') + ".in")
+                        header.append(cols[1].text.replace(' ', '_') + ".out")
 
-                    for c in cols[3:]:
-                        if c.text == "":
-                            delay.append(0)
+                        # Build empty dataframe
+                        delay_df = pd.DataFrame(columns=header)
+                        delay_df = delay_df[1:]
+                        delay_df.set_index("date", inplace=True)
+
+                    for c in cols[2:3]:
                         m = re.search("^.*?\([^\d]*(\d+)[^\d]*\).*$", c.text)
                         if m is not None:
-                            delay.append(int(m.group(1)))
-                        else:
-                            delay.append(0)
+                            if c == cols[2]:
+                                delay_df.at[str_date, f"{cols[1].text.replace(' ', '_')}.in"] = float(m.group(1))
+                            else:
+                                delay_df.at[str_date, f"{cols[1].text.replace(' ', '_')}.out"] = float(m.group(1))
 
                 header_written = True
-                frame.append(delay)
                 current_date -= datetime.timedelta(days=1)
 
                 time.sleep(random_wait())
@@ -229,14 +231,11 @@ def scrape_delay_data(d):
                 print("Element not found")
                 pass
 
-        delay_df = pd.DataFrame(frame)
-        # Set header
-        delay_df.columns = delay_df.iloc[0]
-        delay_df = delay_df[1:]
-        delay_df.set_index("date", inplace=True)
+        # Fill empty elements
+        delay_df.fillna(0.0, inplace=True)
         delay_df.to_csv(data_path + f"/delay/raw/{formatted_train}.csv")
         print(f"Processed {formatted_train}")
 
 
 w = ZugfinderWebdriver()
-w.driver.quit()
+scrape_delay_data(w)
