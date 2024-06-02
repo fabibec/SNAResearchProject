@@ -1,0 +1,6 @@
+./data
+./driver
+./venv
+./scrape.py
+./.env
+./.idea
