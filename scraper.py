@@ -9,7 +9,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -35,7 +35,7 @@ class ZugfinderWebdriver:
     def __init__(self):
         # Configure driver
         self.options = Options()
-        #self.options.add_argument("--headless")
+        self.options.add_argument("--headless")
         self.profile = webdriver.FirefoxProfile()
         self.profile.set_preference("browser.download.folderList", 2)
         self.profile.set_preference("browser.download.manager.showWhenStarting", False)
@@ -44,6 +44,7 @@ class ZugfinderWebdriver:
         self.options.profile = self.profile
 
         # login
+        print("**Performing Login**")
         self.driver = webdriver.Firefox(self.options)
         self.driver.get('https://www.zugfinder.net/en/login')
         login_form = self.driver.find_element(By.ID, "bewertung")
@@ -200,8 +201,10 @@ def find_suitable_trains(d):
             writer.writerow([train])
 
 
-def scrape_delay_data(d):
+def scrape_delay_data(d, start_index, go_back_days=60):
     print("**Looking for delay data**")
+    print(f"Start at index {start_index}.")
+
     trains = []
     with open(data_path + "/trains/trains.csv", "r") as possible_trains:
         reader = csv.reader(possible_trains)
@@ -209,32 +212,31 @@ def scrape_delay_data(d):
             for col in row:
                 trains.append(col)
 
-    for train in trains[:2]:
+    for tnum, train in enumerate(trains[start_index:]):
         # Saving station information in order to recreate the journey later
         journey = []
 
         # Build empty dataframe
         delay_df = pd.DataFrame(columns=["date"])
-        delay_df = delay_df[1:]
         delay_df.set_index("date", inplace=True)
 
         formatted_train = train.replace(' ', '_')
-        d.driver.get(f"https://www.zugfinder.net/en/train-{formatted_train}-720")
+        d.driver.get(f"https://www.zugfinder.net/en/train-{formatted_train}-730")
 
         current_date = root_date
-        end_date = current_date - datetime.timedelta(days=3)
+        end_date = current_date - datetime.timedelta(days=go_back_days)
 
         punctuality_table = d.driver.find_element(By.XPATH,
             "/ html / body / div / div[1] / div[2] / div[11] / div[1] / table[1] / tbody")
 
-        while current_date >= end_date:
+        while current_date > end_date:
             try:
                 str_date = current_date.strftime('%Y-%m-%d')
 
                 table_el = punctuality_table.find_element(By.XPATH, f'//*[@id="{str_date}"]')
                 d.driver.execute_script("arguments[0].click();", table_el)
 
-                punctuality_form = WebDriverWait(d.driver, 1000).until(
+                punctuality_form = WebDriverWait(d.driver, 20).until(
                     EC.presence_of_element_located((By.XPATH, f'//*[@id="form_{str_date}"]')))
                 punctuality_table = punctuality_form.find_element(By.CSS_SELECTOR, "table")
 
@@ -245,25 +247,39 @@ def scrape_delay_data(d):
                     cols = row.find_elements(By.CSS_SELECTOR, "td")
 
                     s = cols[1].text.replace(' ', '_')
+
+                    if s == "Zu_viele_Abfragen_in_zu_kurzer_Zeit._Bitte_bestätige,_dass_du_ein_Mensch_bist!":
+                        print(f"Bot-Detection. Restart at index {tnum + start_index}.")
+                        bypass_bot_detection(d)
+                        return tnum + start_index
+
                     if s not in journey:
-                        journey.insert((num - 1), s)
+                        journey.insert(num, s)
 
-                    for c in cols[2:3]:
+                    for c in cols[2:4]:
+                        # Search for delay in minutes
                         m = re.search("^.*?\([^\d]*(\d+)[^\d]*\).*$", c.text)
+
+                        # Build column name
+                        if c == cols[2]:
+                            column_name = f"{cols[1].text.replace(' ', '_')}.in"
+                        else:
+                            column_name = f"{cols[1].text.replace(' ', '_')}.out"
+
+                        # Add new column if needed
+                        if column_name not in delay_df:
+                            delay_df[column_name] = pd.Series(dtype=int)
+
+                        # Add data if present
                         if m is not None:
-                            if c == cols[2]:
-                                column_name = f"{cols[1].text.replace(' ', '_')}.in"
-                            else:
-                                column_name = f"{cols[1].text.replace(' ', '_')}.out"
-
-                            if column_name not in delay_df:
-                                delay_df[column_name] = pd.Series(dtype=int)
-
-                            delay_df.at[str_date, column_name] = int(m.group(1))
+                            delay_df.loc[str_date, column_name] = int(m.group(1))
+                        else:
+                            delay_df.loc[str_date, column_name] = 0
 
                 current_date -= datetime.timedelta(days=1)
 
-                time.sleep(random_wait())
+                time.sleep(2.0)
+
             except NoSuchElementException:
                 current_date -= datetime.timedelta(days=1)
                 pass
@@ -272,41 +288,57 @@ def scrape_delay_data(d):
         delay_df.fillna(0, inplace=True)
 
         # Use Journey information to correctly rearrange the station order
-        print(journey.reverse())
-        new_cols = []
-        for station in journey:
-            new_cols.append(station + ".in")
-            new_cols.append(station + ".out")
+        rearranged_columns = []
+        for s in journey:
+            rearranged_columns.append(s + ".in")
+            rearranged_columns.append(s + ".out")
 
-
-        delay_df.to_csv(data_path + f"/delay/raw/{formatted_train}.csv")
+        delay_df.to_csv(data_path + f"/delay/raw/{formatted_train}.csv", columns=rearranged_columns)
         print(f"Processed {formatted_train}")
 
+    return -1
 
-def remove_abroad_trains():
-    l = []
-    with open(data_path + "/trains/trains.csv", "r") as file:
-        reader = csv.reader(file)
-        for row in reader:
-            l.append(row[0])
 
-    test = copy.deepcopy(l)
+def bypass_bot_detection(d):
+    d.driver.get(f"https://www.zugfinder.net/en/train-ICE_1679")
+    test_date = (datetime.date.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
+    table_el = d.driver.find_element(By.XPATH, f'//*[@id="{test_date}"]')
+    d.driver.execute_script("arguments[0].click();", table_el)
+    not_a_bot_link = WebDriverWait(d.driver, 10).until(
+        EC.presence_of_element_located((By.XPATH,
+            "/html/body/div/div[1]/div[2]/div[11]/div[1]/table[1]/tbody/tr[6]/td/form/table/tr[1]/td[2]/a")))
+    d.driver.execute_script("arguments[0].click();", not_a_bot_link)
+    # Switching to popup window
 
-    for t in test:
+    question = WebDriverWait(d.driver, 1000).until(
+        EC.presence_of_element_located((By.XPATH,
+            "/html/body/div/div[1]/div[3]/div/form/fieldset/input")))
+
+    attempts = 0
+    while attempts <= 5:
         try:
-            t.split(".")[1]
-            l.remove(t)
-        except KeyError:
-            pass
-
-    with open(data_path + "/trains/trains.csv", "w") as file:
-        wr = csv.writer(file)
-        for t in l:
-            wr.writerow([t])
-
+            d.driver.execute_script("arguments[0].setAttribute('value', '8');", question)
+            break
+        except StaleElementReferenceException:
+            attempts += 1
+    time.sleep(2)
+    check = d.driver.find_element(By.XPATH, "/html/body/div/div[1]/div[3]/div/form/input")
+    check.click()
+    #d.driver.execute_script("arguments[0].click();", check)
+    time.sleep(1)
+    print("Bot-Detection solved! Will continue.")
 
 w = ZugfinderWebdriver()
 # get_list_of_german_train_stations()
 # find_suitable_trains(w)
-scrape_delay_data(w)
+
+up_to = 38
+while up_to != -1:
+    try:
+        up_to = scrape_delay_data(w, up_to)
+    except TimeoutError:
+        time.sleep(120)
+        print("Timeout, wait 2 Minutes")
+        continue
+
 w.driver.quit()
