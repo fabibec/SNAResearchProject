@@ -1,0 +1,73 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EN 60237,Rosenheim,09:44,Pivka,00:33,3
+IC 460,Rosenheim,05:22,Stuttgart Hbf,01:54,1
+D 480,Rosenheim,08:38,Stuttgart Hbf,05:21,
+EN 414,Rosenheim,08:38,Stuttgart Hbf,05:21,2
+EN 462,Rosenheim,02:07,Salzburg Hbf,05:21,2
+EN 480,Rosenheim,08:38,Stuttgart Hbf,05:21,2
+NJ 236,Rosenheim,08:38,Stuttgart Hbf,05:21,2
+NJ 40425,Rosenheim,10:13,Wien Hbf,06:18,29
+NJ 469,Rosenheim,10:13,Wien Hbf,06:18,31
+IC 1296,Rosenheim,11:40,Frankfurt(Main)Hbf,06:49,
+RJX 265,Rosenheim,10:32,Wien Hbf,07:03,
+EC 288,Rosenheim,08:27,München Hbf,07:47,2
+RJX 61,Rosenheim,14:19,Budapest-Keleti,08:03,
+EC 1281,Rosenheim,09:18,Innsbruck Hbf,08:13,9
+EC 1289,Rosenheim,08:58,Jenbach,08:13,
+EC 81,Rosenheim,14:10,Bologna Centrale,08:13,10
+IC 1298,Rosenheim,09:02,München Hbf,08:19,
+RJ 1298,Rosenheim,09:02,München Hbf,08:19,28
+WB 959,Rosenheim,11:52,Wien Westbahnhof,08:28,
+NJ 294,Rosenheim,09:22,München Hbf,08:38,FALSE
+NJ 40235,Rosenheim,09:22,München Hbf,08:38,
+IC 111,Rosenheim,09:50,Freilassing,08:55,
+RJ 111,Rosenheim,13:19,Klagenfurt Hbf,08:55,3
+IC 1290,Rosenheim,09:41,München Hbf,09:02,3
+ICE 1290,Rosenheim,13:40,Frankfurt(Main)Hbf,09:02,5
+EN 407,Rosenheim,10:01,München Hbf,09:14,2
+IC 60407,Rosenheim,10:01,München Hbf,09:14,2
+WB 948,Rosenheim,10:13,München Hbf,09:32,4
+ICE 1218,Rosenheim,18:55,Berlin Hbf,09:48,1
+EC 83,Rosenheim,17:33,Rimini,10:13,5
+WB 963,Rosenheim,13:52,Wien Westbahnhof,10:28,
+IC 2082,Rosenheim,19:21,Hamburg-Altona,10:47,1
+EC 217,Rosenheim,16:14,Graz Hbf,10:54,2
+EC 218,Rosenheim,15:40,Frankfurt(Main)Hbf,11:02,2
+RJ 286,Rosenheim,12:27,München Hbf,11:46,1
+EC 85,Rosenheim,18:25,Venezia Santa Lucia,12:13,FALSE
+WB 965,Rosenheim,15:52,Wien Westbahnhof,12:28,
+EC 113,Rosenheim,17:19,Klagenfurt Hbf,12:54,2
+ICE 114,Rosenheim,21:09,Dortmund Hbf,13:02,7
+WB 962,Rosenheim,14:12,München Hbf,13:32,3
+RJ 88,Rosenheim,14:27,München Hbf,13:46,44
+RJ 87,Rosenheim,20:16,Bologna Centrale,14:13,
+IC 2083,Rosenheim,17:04,Berchtesgaden Hbf,14:42,30
+ICE 115,Rosenheim,19:19,Klagenfurt Hbf,14:54,4
+EC 112,Rosenheim,19:40,Frankfurt(Main)Hbf,15:02,8
+WB 966,Rosenheim,16:13,München Hbf,15:32,2
+RJ 86,Rosenheim,16:27,München Hbf,15:46,33
+WB 971,Rosenheim,19:52,Wien Westbahnhof,16:28,
+EC 219,Rosenheim,22:14,Graz Hbf,16:54,21
+EC 216,Rosenheim,19:58,Stuttgart Hbf,17:02,5
+EC 84,Rosenheim,18:28,München Hbf,17:46,
+RJ 287,Rosenheim,19:18,Innsbruck Hbf,18:13,39
+WB 983,Rosenheim,21:52,Wien Westbahnhof,18:28,
+EC 117,Rosenheim,17:57,Bohumin,18:54,
+RJ 268,Rosenheim,19:38,München Hbf,19:02,34
+EN 406,Rosenheim,09:37,Warszawa Wschodnia,19:22,
+IC 60406,Rosenheim,08:11,Opoczno Poludnie,19:22,1
+WB 970,Rosenheim,20:13,München Hbf,19:32,1
+EC 82,Rosenheim,20:26,München Hbf,19:46,25
+IC 1299,Rosenheim,20:52,Freilassing,19:57,
+RJ 1299,Rosenheim,21:00,Salzburg Hbf,19:57,3
+EC 289,Rosenheim,21:18,Innsbruck Hbf,20:13,16
+NJ 295,Rosenheim,10:30,Roma Termini,20:50,
+IC 1291,Rosenheim,22:01,Salzburg Hbf,20:55,8
+RJ 110,Rosenheim,21:41,München Hbf,21:02,1
+WB 982,Rosenheim,22:13,München Hbf,21:32,
+EC 80,Rosenheim,22:27,München Hbf,21:46,18
+IC 1295,Rosenheim,22:50,Freilassing,21:54,
+RJ 1295,Rosenheim,22:59,Salzburg Hbf,21:54,2
+NJ 40420,Rosenheim,09:05,Hamburg-Altona,21:59,3
+NJ 420,Rosenheim,11:01,Amsterdam Centraal,21:59,FALSE
+ICE 1211,Rosenheim,23:18,Innsbruck Hbf,22:13,1

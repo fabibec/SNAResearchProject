@@ -1,0 +1,12 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1577,Velgast,15:03,Stuttgart Hbf,05:36,
+ICE 1179,Velgast,10:16,Hamburg Hbf,07:41,1
+ICE 1671,Velgast,18:39,Karlsruhe Hbf,09:40,5
+ICE 1678,Velgast,11:18,Ostseebad Binz,10:15,44
+ICE 203,Velgast,22:55,Basel SBB,11:56,
+ICE 1676,Velgast,12:29,Stralsund Hbf,12:15,
+ICE 1675,Velgast,21:09,Frankfurt(Main)Hbf,13:40,
+ICE 208,Velgast,15:29,Ostseebad Binz,14:15,19
+ICE 1677,Velgast,19:58,Hannover Hbf,15:40,FALSE
+ICE 1672,Velgast,17:20,Ostseebad Binz,16:16,15
+ICE 1074,Velgast,18:50,Greifswald,18:15,23

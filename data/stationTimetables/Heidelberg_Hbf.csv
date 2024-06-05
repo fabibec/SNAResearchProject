@@ -1,0 +1,61 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 937,Heidelberg Hbf,01:04,Stuttgart Hbf,00:06,8
+ICE 698,Heidelberg Hbf,07:36,Berlin Hbf,01:27,
+ICE 619,Heidelberg Hbf,06:03,München Hbf,02:19,6
+ICE 618,Heidelberg Hbf,11:23,Kiel Hbf,03:43,
+ICE 699,Heidelberg Hbf,08:08,München Hbf,04:34,
+ICE 774,Heidelberg Hbf,11:36,Hamburg Hbf,05:47,
+IC 2381,Heidelberg Hbf,09:23,Singen(Hohentwiel),06:15,
+IC 897,Heidelberg Hbf,10:28,Lindau-Reutin,06:52,
+RJX 897,Heidelberg Hbf,17:57,Flughafen Wien,06:52,
+IC 2298,Heidelberg Hbf,08:00,Frankfurt(Main)Hbf,06:59,
+ICE 1118,Heidelberg Hbf,08:33,Wiesbaden Hbf,07:20,5
+ICE 1672,Heidelberg Hbf,17:20,Ostseebad Binz,07:46,
+ICE 557,Heidelberg Hbf,15:17,Berlin Ostbahnhof,07:55,
+ICE 1571,Heidelberg Hbf,08:51,Karlsruhe Hbf,08:14,1
+ICE 1949,Heidelberg Hbf,18:40,Dresden Hbf,08:24,4
+ICE 1513,Heidelberg Hbf,09:19,Stuttgart Hbf,08:39,FALSE
+ICE 1098,Heidelberg Hbf,09:40,Frankfurt(Main)Hbf,08:46,1
+EC 113,Heidelberg Hbf,17:19,Klagenfurt Hbf,09:13,7
+ICE 1548,Heidelberg Hbf,10:24,Stuttgart Hbf,09:35,6
+IC 2374,Heidelberg Hbf,19:34,Westerland(Sylt),09:46,16
+ICE 1573,Heidelberg Hbf,10:50,Karlsruhe Hbf,10:15,8
+IC 2047,Heidelberg Hbf,20:40,Dresden Hbf,10:24,1
+IC 1296,Heidelberg Hbf,11:40,Frankfurt(Main)Hbf,10:46,
+ICE 999,Heidelberg Hbf,11:50,Stuttgart Hbf,11:11,
+ICE 1578,Heidelberg Hbf,20:14,Velgast,11:46,1
+ICE 119,Heidelberg Hbf,19:05,Innsbruck Hbf,12:06,2
+ICE 1515,Heidelberg Hbf,12:50,Karlsruhe Hbf,12:15,14
+IC 2045,Heidelberg Hbf,22:38,Dresden Hbf,12:24,8
+ICE 1290,Heidelberg Hbf,13:40,Frankfurt(Main)Hbf,12:46,
+FLX 1241,Heidelberg Hbf,13:43,Stuttgart Hbf,13:07,2
+EC 219,Heidelberg Hbf,22:14,Graz Hbf,13:13,4
+ICE 1576,Heidelberg Hbf,21:32,Rostock Hbf,13:46,6
+IC 2012,Heidelberg Hbf,18:04,Dortmund Hbf,13:55,43
+IC 2013,Heidelberg Hbf,18:13,Oberstdorf,14:06,FALSE
+ICE 1577,Heidelberg Hbf,15:03,Stuttgart Hbf,14:15,FALSE
+EC 218,Heidelberg Hbf,15:40,Frankfurt(Main)Hbf,14:46,5
+EC 117,Heidelberg Hbf,17:57,Bohumin,15:13,5
+ICE 710,Heidelberg Hbf,17:07,Limburg Süd,15:20,
+ICE 1944,Heidelberg Hbf,16:22,Stuttgart Hbf,15:35,19
+ICE 1514,Heidelberg Hbf,21:49,Hamburg-Altona,15:46,2
+ICE 118,Heidelberg Hbf,20:35,Münster(Westf)Hbf,15:55,14
+ICE 1579,Heidelberg Hbf,16:50,Karlsruhe Hbf,16:15,16
+ICE 1168,Heidelberg Hbf,17:40,Frankfurt(Main)Hbf,16:46,
+IC 1291,Heidelberg Hbf,22:01,Salzburg Hbf,17:13,3
+ICE 1512,Heidelberg Hbf,18:33,Wiesbaden Hbf,17:20,FALSE
+IC 2046,Heidelberg Hbf,18:27,Stuttgart Hbf,17:35,10
+ICE 1572,Heidelberg Hbf,21:56,Hannover Hbf,17:46,FALSE
+ICE 650,Heidelberg Hbf,18:46,Stuttgart Hbf,18:06,FALSE
+ICE 1549,Heidelberg Hbf,22:22,Dortmund Hbf,18:24,2
+EC 112,Heidelberg Hbf,19:40,Frankfurt(Main)Hbf,18:46,5
+ICE 1099,Heidelberg Hbf,22:14,München Hbf,19:13,2
+IC 2048,Heidelberg Hbf,21:30,Tübingen Hbf,19:35,4
+IC 2375,Heidelberg Hbf,20:57,Stuttgart Hbf,20:15,32
+IC 2393,Heidelberg Hbf,20:57,Stuttgart Hbf,20:15,32
+IC 2343,Heidelberg Hbf,23:23,Köln Hbf,20:25,1
+RJX 890,Heidelberg Hbf,21:52,Frankfurt(Main)Hbf,20:55,
+IC 2299,Heidelberg Hbf,21:56,Stuttgart Hbf,21:14,9
+FLX 1245,Heidelberg Hbf,21:59,Stuttgart Hbf,21:17,167
+IC 2440,Heidelberg Hbf,22:22,Stuttgart Hbf,21:35,19
+ICE 773,Heidelberg Hbf,22:55,Stuttgart Hbf,22:11,54

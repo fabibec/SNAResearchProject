@@ -1,0 +1,100 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1080,Göttingen,08:09,Hamburg Hbf,04:05,3
+ICE 24,Göttingen,07:05,Lüneburg,05:36,
+NJ 40420,Göttingen,09:05,Hamburg-Altona,05:53,120
+NJ 490,Göttingen,09:05,Hamburg-Altona,05:53,120
+ICE 1573,Göttingen,10:50,Karlsruhe Hbf,05:54,45
+ICE 571,Göttingen,15:27,Berlin Ostbahnhof,06:16,5
+ICE 581,Göttingen,10:45,München Hbf,06:24,10
+ICE 1088,Göttingen,08:57,Hamburg Hbf,06:56,12
+ICE 876,Göttingen,09:42,Berlin Ostbahnhof,07:06,
+ICE 71,Göttingen,13:10,Basel SBB,07:16,6
+ICE 1676,Göttingen,12:29,Stralsund Hbf,07:18,1
+ICE 783,Göttingen,11:42,München Hbf,07:31,
+ICE 2546,Göttingen,10:43,Berlin Südkreuz,08:09,9
+ICE 573,Göttingen,12:38,Stuttgart Hbf,08:16,11
+ICE 533,Göttingen,12:40,München Hbf,08:24,8
+ICE 583,Göttingen,12:40,München Hbf,08:24,8
+ICE 888,Göttingen,10:21,Hamburg Hbf,08:29,4
+ICE 1515,Göttingen,12:50,Karlsruhe Hbf,08:39,2
+ICE 672,Göttingen,10:36,Hamburg Hbf,08:40,1
+IC 2083,Göttingen,17:04,Berchtesgaden Hbf,09:11,11
+IC 2085,Göttingen,16:11,Oberstdorf Busbahnhof,09:11,11
+ICE 73,Göttingen,16:00,Zürich HB,09:16,
+ICE 1674,Göttingen,11:45,Hamburg-Altona,09:17,6
+ICE 91,Göttingen,16:47,Wien Hbf,09:26,13
+ICE 684,Göttingen,11:22,Hamburg Hbf,09:29,9
+ICE 774,Göttingen,11:36,Hamburg Hbf,09:40,11
+ICE 994,Göttingen,12:42,Berlin Südkreuz,10:08,
+ICE 575,Göttingen,14:38,Stuttgart Hbf,10:16,7
+ICE 585,Göttingen,14:41,München Hbf,10:25,7
+ICE 886,Göttingen,12:21,Hamburg Hbf,10:29,9
+ICE 1577,Göttingen,15:03,Stuttgart Hbf,10:37,39
+ICE 474,Göttingen,12:36,Hamburg Hbf,10:40,41
+ICE 75,Göttingen,18:00,Zürich HB,11:16,5
+ICE 1672,Göttingen,17:20,Ostseebad Binz,11:17,25
+ICE 682,Göttingen,13:22,Hamburg Hbf,11:29,18
+ICE 787,Göttingen,15:44,München Hbf,11:31,2
+ICE 772,Göttingen,13:36,Hamburg Hbf,11:40,18
+ICE 992,Göttingen,14:46,Berlin Südkreuz,12:09,1
+ICE 577,Göttingen,16:38,Stuttgart Hbf,12:16,12
+ICE 587,Göttingen,16:41,München Hbf,12:25,
+ICE 882,Göttingen,14:22,Hamburg Hbf,12:29,3
+ICE 1579,Göttingen,16:50,Karlsruhe Hbf,12:39,2
+ICE 78,Göttingen,14:36,Hamburg Hbf,12:40,32
+ICE 77,Göttingen,20:00,Zürich HB,13:16,11
+IC 2374,Göttingen,19:34,Westerland(Sylt),13:17,26
+ICE 680,Göttingen,15:39,Hamburg Hbf,13:29,8
+ICE 789,Göttingen,17:44,München Hbf,13:31,7
+ICE 770,Göttingen,15:36,Hamburg Hbf,13:40,11
+ICE 798,Göttingen,16:42,Berlin Südkreuz,14:09,1
+ICE 579,Göttingen,18:38,Stuttgart Hbf,14:16,128
+ICE 689,Göttingen,18:40,München Hbf,14:25,102
+ICE 880,Göttingen,16:21,Hamburg Hbf,14:29,8
+ICE 1671,Göttingen,18:39,Karlsruhe Hbf,14:39,100
+ICE 76,Göttingen,16:36,Hamburg Hbf,14:40,34
+ICE 1578,Göttingen,20:14,Velgast,15:17,52
+ICE 79,Göttingen,22:00,Zürich HB,15:17,55
+ICE 588,Göttingen,17:22,Hamburg Hbf,15:29,14
+ICE 881,Göttingen,19:45,München Hbf,15:31,57
+ICE 578,Göttingen,17:36,Hamburg Hbf,15:40,44
+ICE 796,Göttingen,18:46,Berlin Südkreuz,16:09,3
+ICE 771,Göttingen,20:38,Stuttgart Hbf,16:16,83
+ICE 681,Göttingen,20:45,München Hbf,16:25,12
+ICE 788,Göttingen,18:21,Hamburg Hbf,16:30,12
+IC 2375,Göttingen,20:57,Stuttgart Hbf,16:40,11
+IC 2393,Göttingen,20:57,Stuttgart Hbf,16:40,10
+ICE 74,Göttingen,19:43,Kiel Hbf,16:40,22
+IC 2082,Göttingen,19:21,Hamburg-Altona,16:47,23
+IC 2084,Göttingen,19:21,Hamburg-Altona,16:47,23
+ICE 1171,Göttingen,23:04,Basel SBB,17:16,27
+ICE 1576,Göttingen,21:32,Rostock Hbf,17:17,47
+ICE 586,Göttingen,19:22,Hamburg Hbf,17:30,12
+ICE 883,Göttingen,21:42,München Hbf,17:31,38
+ICE 576,Göttingen,19:37,Hamburg Hbf,17:40,8
+ICE 794,Göttingen,20:42,Berlin Südkreuz,18:09,
+ICE 773,Göttingen,22:55,Stuttgart Hbf,18:17,40
+ICE 683,Göttingen,22:40,München Hbf,18:25,19
+ICE 786,Göttingen,20:22,Hamburg Hbf,18:29,4
+ICE 1675,Göttingen,21:09,Frankfurt(Main)Hbf,18:39,13
+ICE 2872,Göttingen,20:58,Hamburg Hbf,18:56,3
+ICE 72,Göttingen,20:58,Hamburg Hbf,18:56,FALSE
+ICE 273,Göttingen,23:09,Karlsruhe Hbf,19:16,44
+ICE 1514,Göttingen,21:49,Hamburg-Altona,19:17,4
+ICE 584,Göttingen,21:20,Hamburg Hbf,19:29,32
+ICE 885,Göttingen,23:43,München Hbf,19:31,20
+ICE55920,Göttingen,21:36,Hamburg Hbf,19:40,
+ICE 1687,Göttingen,20:10,Kassel-Wilhelmshöhe,19:45,20
+ICE 792,Göttingen,22:42,Berlin Ostbahnhof,20:09,
+ICE 685,Göttingen,00:45,München Hbf,20:25,25
+ICE 90,Göttingen,22:34,Hamburg-Altona,20:30,83
+ICE 1572,Göttingen,21:56,Hannover Hbf,21:17,FALSE
+ICE 532,Göttingen,23:55,Oldenburg(Oldb)Hbf,21:28,
+ICE 582,Göttingen,23:40,Hamburg Hbf,21:28,
+ICE 572,Göttingen,23:40,Hamburg Hbf,21:41,37
+ICE 887,Göttingen,01:51,Wiesbaden Hbf,22:02,21
+ICE 790,Göttingen,00:54,Berlin Ostbahnhof,22:10,1
+ICE 2926,Göttingen,00:22,Hamburg Hbf,22:29,30
+ICE 782,Göttingen,00:22,Hamburg Hbf,22:29,FALSE
+ICE 376,Göttingen,01:03,Hamburg-Altona,22:45,30
+ICE 879,Göttingen,23:12,Kassel-Wilhelmshöhe,22:54,

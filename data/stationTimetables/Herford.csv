@@ -1,0 +1,27 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 103,Herford,18:07,München Hbf,06:33,
+ICE 646,Herford,09:07,Düsseldorf Hbf,07:11,
+ICE 656,Herford,09:15,Köln Hbf,07:11,
+IC 2445,Herford,12:58,Dresden Hbf,07:29,
+ICE 753,Herford,11:02,Berlin Ostbahnhof,08:16,
+IC 2042,Herford,10:46,Köln Hbf,08:32,
+IC 2443,Herford,14:57,Dresden Hbf,09:28,
+ICE 1052,Herford,13:12,Aachen Hbf,09:43,1
+ICE 1545,Herford,13:02,Berlin Ostbahnhof,10:16,1
+ICE 1944,Herford,16:22,Stuttgart Hbf,10:34,1
+IC 2441,Herford,16:47,Dresden Hbf,11:28,5
+ICE 757,Herford,15:02,Berlin Ostbahnhof,12:16,1
+IC 2046,Herford,18:27,Stuttgart Hbf,12:32,2
+ICE 1949,Herford,18:40,Dresden Hbf,13:28,17
+ICE 758,Herford,17:12,Aachen Hbf,13:43,1
+IC 2048,Herford,21:30,Tübingen Hbf,14:32,2
+IC 2047,Herford,20:40,Dresden Hbf,15:28,37
+ICE 1051,Herford,19:02,Berlin Ostbahnhof,16:16,36
+IC 2440,Herford,22:22,Stuttgart Hbf,16:32,1
+IC 2045,Herford,22:38,Dresden Hbf,17:28,1
+ICE 1544,Herford,18:48,Dortmund Hbf,17:44,4
+IC 2442,Herford,23:13,Frankfurt(Main)Hbf,18:32,5
+IC 2043,Herford,22:58,Leipzig/Halle Flughafen,19:28,40
+ICE 752,Herford,22:12,Köln Hbf,19:43,3
+IC 2444,Herford,23:54,Koblenz Hbf,20:33,1
+ICE 102,Herford,00:18,Hannover Hbf,23:29,FALSE

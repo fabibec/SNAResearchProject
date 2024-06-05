@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2272,Freiberg(Sachs),12:01,Warnemünde,06:20,2
+IC 2270,Freiberg(Sachs),14:05,Warnemünde,08:51,
+IC 2271,Freiberg(Sachs),19:40,Chemnitz Hbf,19:13,13
+IC 2273,Freiberg(Sachs),21:40,Chemnitz Hbf,21:13,37

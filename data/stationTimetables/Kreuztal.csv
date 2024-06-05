@@ -1,0 +1,10 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2223,Kreuztal,08:26,Frankfurt(Main)West,06:45,
+IC 2324,Kreuztal,11:38,Münster(Westf)Hbf,09:16,3
+IC 2229,Kreuztal,14:35,Frankfurt(Main)Hbf,12:45,5
+IC 2320,Kreuztal,14:57,Dortmund Hbf,13:16,FALSE
+IC 2323,Kreuztal,18:35,Frankfurt(Main)Hbf,16:45,FALSE
+IC 2226,Kreuztal,19:39,Münster(Westf)Hbf,17:16,1
+IC 2325,Kreuztal,20:35,Frankfurt(Main)Hbf,18:45,FALSE
+IC 2224,Kreuztal,20:57,Dortmund Hbf,19:16,FALSE
+IC 2327,Kreuztal,20:55,Siegen,20:45,FALSE

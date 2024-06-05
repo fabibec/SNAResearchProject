@@ -1,0 +1,34 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1944,Riesa,16:22,Stuttgart Hbf,05:47,8
+EC 459,Riesa,09:24,Praha hl.n.,06:32,FALSE
+ICE 1654,Riesa,11:10,Frankfurt(Main)Hbf,06:48,3
+IC 2046,Riesa,18:27,Stuttgart Hbf,07:47,12
+IC 2449,Riesa,08:38,Dresden Hbf,08:02,
+ICE 1652,Riesa,13:10,Frankfurt(Main)Hbf,08:48,6
+IC 2048,Riesa,21:30,Tübingen Hbf,09:47,2
+IC 2447,Riesa,10:58,Dresden Hbf,10:02,3
+ICE 1650,Riesa,15:13,Frankfurt(Main)Hbf,10:48,14
+ICE 1555,Riesa,11:40,Dresden Hbf,11:02,FALSE
+IC 2440,Riesa,22:22,Stuttgart Hbf,11:47,1
+IC 2445,Riesa,12:58,Dresden Hbf,12:02,1
+ICE 1558,Riesa,17:08,Frankfurt(Main)Hbf,12:48,FALSE
+ICE 1557,Riesa,13:40,Dresden Hbf,13:02,2
+IC 2442,Riesa,23:13,Frankfurt(Main)Hbf,13:48,
+IC 2443,Riesa,14:57,Dresden Hbf,14:02,4
+ICE 1556,Riesa,19:10,Frankfurt(Main)Hbf,14:48,3
+ICE 1559,Riesa,15:40,Dresden Hbf,15:02,37
+IC 2444,Riesa,23:54,Koblenz Hbf,15:47,
+IC 2441,Riesa,16:47,Dresden Hbf,16:02,1
+ICE 1554,Riesa,21:12,Frankfurt(Main)Hbf,16:48,12
+ICE 1651,Riesa,17:39,Dresden Hbf,17:02,6
+IC 2446,Riesa,21:23,Hannover Hbf,17:47,
+ICE 1949,Riesa,18:40,Dresden Hbf,18:02,43
+ICE 1552,Riesa,23:25,Frankfurt(Main)Hbf,18:48,5
+ICE 1653,Riesa,19:39,Dresden Hbf,19:02,18
+IC 2047,Riesa,20:40,Dresden Hbf,20:02,21
+ICE 1655,Riesa,21:39,Dresden Hbf,21:02,3
+EC 458,Riesa,09:05,Zürich HB,21:49,15
+EN 12,Riesa,05:28,Leipzig Hbf,21:49,2
+EN 40458,Riesa,09:05,Zürich HB,21:49,15
+IC 2045,Riesa,22:38,Dresden Hbf,22:02,5
+ICE 1657,Riesa,23:39,Dresden Hbf,23:02,2

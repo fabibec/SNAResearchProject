@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1515,Bad Bevensen,12:50,Karlsruhe Hbf,07:05,1
+ICE 1676,Bad Bevensen,12:29,Stralsund Hbf,08:49,12
+ICE 1578,Bad Bevensen,20:14,Velgast,16:49,55
+ICE 1687,Bad Bevensen,20:10,Kassel-Wilhelmshöhe,18:09,16

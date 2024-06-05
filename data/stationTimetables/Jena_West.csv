@@ -1,0 +1,7 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2156,Jena West,12:40,Köln Hbf,06:46,FALSE
+IC 2151,Jena West,09:55,Gera Hbf,09:15,4
+IC 2152,Jena West,18:11,Düsseldorf Hbf,12:46,3
+IC 2155,Jena West,15:55,Gera Hbf,15:15,41
+IC 2150,Jena West,21:00,Kassel-Wilhelmshöhe,18:46,
+IC 2157,Jena West,21:55,Gera Hbf,21:15,11

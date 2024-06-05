@@ -1,0 +1,9 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2324,Werdohl,11:38,Münster(Westf)Hbf,10:04,6
+IC 2229,Werdohl,14:35,Frankfurt(Main)Hbf,11:57,5
+IC 2320,Werdohl,14:57,Dortmund Hbf,14:04,FALSE
+IC 2323,Werdohl,18:35,Frankfurt(Main)Hbf,15:57,FALSE
+IC 2325,Werdohl,20:35,Frankfurt(Main)Hbf,17:57,FALSE
+IC 2226,Werdohl,19:39,Münster(Westf)Hbf,18:04,1
+IC 2327,Werdohl,20:55,Siegen,19:57,FALSE
+IC 2224,Werdohl,20:57,Dortmund Hbf,20:04,FALSE

@@ -1,0 +1,31 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 242,Rheine,10:00,Amsterdam Centraal,07:36,7
+IC 2208,Rheine,10:18,Norddeich Mole,07:56,
+IC 141,Rheine,12:01,Berlin Ostbahnhof,08:26,12
+IC 240,Rheine,12:00,Amsterdam Centraal,09:36,2
+ICE 606,Rheine,12:16,Norddeich Mole,09:56,2
+IC 2009,Rheine,19:09,Konstanz,10:04,1
+IC 143,Rheine,14:01,Berlin Ostbahnhof,10:26,3
+IC 148,Rheine,14:00,Amsterdam Centraal,11:36,24
+IC 604,Rheine,13:25,Emden Hbf,11:56,
+ICE 604,Rheine,13:52,Emden Außenhafen,11:56,
+IC 2321,Rheine,16:35,Frankfurt(Main)Hbf,12:04,
+IC 145,Rheine,16:01,Berlin Ostbahnhof,12:26,FALSE
+IC 146,Rheine,16:00,Amsterdam Centraal,13:36,2
+IC 2322,Rheine,16:16,Norddeich Mole,13:56,
+IC 2203,Rheine,16:18,Köln Hbf,14:04,
+IC 147,Rheine,18:01,Berlin Ostbahnhof,14:26,15
+ICE 370,Rheine,18:01,Berlin Ostbahnhof,14:26,14
+IC 144,Rheine,18:00,Amsterdam Centraal,15:36,2
+IC 2200,Rheine,18:03,Norddeich Mole,15:56,3
+ICE 605,Rheine,19:20,Koblenz Hbf,16:04,24
+IC 149,Rheine,20:01,Berlin Ostbahnhof,16:26,8
+IC 142,Rheine,20:00,Amsterdam Centraal,17:36,1
+IC 2014,Rheine,19:26,Emden Hbf,17:56,54
+IC 2207,Rheine,18:29,Münster(Westf)Hbf,18:04,
+ICE 607,Rheine,20:20,Köln Hbf,18:04,3
+IC 241,Rheine,22:01,Berlin Ostbahnhof,18:26,15
+IC 140,Rheine,22:00,Amsterdam Centraal,19:36,1
+IC 2002,Rheine,21:26,Emden Hbf,19:56,2
+IC 2209,Rheine,22:19,Köln Hbf,20:04,2
+IC 243,Rheine,22:01,Hannover Hbf,20:26,9

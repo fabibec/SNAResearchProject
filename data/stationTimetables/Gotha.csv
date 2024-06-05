@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2164,Gotha,23:00,Karlsruhe Hbf,06:11,
+ICE 806,Gotha,10:38,Hamburg-Altona,06:11,
+ICE 1636,Gotha,13:00,Ostseebad Binz,06:53,1
+IC 2156,Gotha,12:40,Köln Hbf,07:48,FALSE
+IC 1640,Gotha,16:32,Dortmund Hbf,08:25,7
+IC 2151,Gotha,09:55,Gera Hbf,08:25,4
+IC 2152,Gotha,18:11,Düsseldorf Hbf,13:48,10
+IC 2155,Gotha,15:55,Gera Hbf,14:25,37
+FLX 1245,Gotha,21:59,Stuttgart Hbf,17:37,161
+IC 2150,Gotha,21:00,Kassel-Wilhelmshöhe,19:48,1
+IC 2157,Gotha,21:55,Gera Hbf,20:25,14
+ICE 274,Gotha,22:36,Erfurt Hbf,22:21,1
+ICE 592,Gotha,23:33,Erfurt Hbf,23:18,16

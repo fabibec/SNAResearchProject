@@ -1,0 +1,4 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 267,Müllheim(Baden),10:49,München Hbf,06:24,
+FLX 1243,Müllheim(Baden),19:15,Basel Bad,18:56,20
+ICE 266,Müllheim(Baden),21:56,Basel SBB,21:30,23

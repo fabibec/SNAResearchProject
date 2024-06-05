@@ -1,0 +1,21 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1577,Stralsund Hbf,15:03,Stuttgart Hbf,05:21,1
+ICE 1071,Stralsund Hbf,10:19,Berlin Südkreuz,07:14,6
+ICE 1179,Stralsund Hbf,10:16,Hamburg Hbf,07:27,1
+ICE 1073,Stralsund Hbf,12:18,Berlin Südkreuz,09:14,
+ICE 1671,Stralsund Hbf,18:39,Karlsruhe Hbf,09:26,
+ICE 1678,Stralsund Hbf,11:18,Ostseebad Binz,10:31,42
+ICE 1711,Stralsund Hbf,19:03,München Hbf,11:15,2
+ICE 1636,Stralsund Hbf,13:00,Ostseebad Binz,12:14,
+ICE 1040,Stralsund Hbf,15:59,Berlin Gesundbrunnen,13:15,
+ICE 1075,Stralsund Hbf,16:13,Berlin Südkreuz,13:15,1
+ICE 1675,Stralsund Hbf,21:09,Frankfurt(Main)Hbf,13:26,2
+ICE 208,Stralsund Hbf,15:29,Ostseebad Binz,14:29,FALSE
+ICE 1076,Stralsund Hbf,15:36,Ostseebad Binz,14:50,FALSE
+ICE 1715,Stralsund Hbf,16:53,Prenzlau,15:15,
+ICE 1677,Stralsund Hbf,19:58,Hannover Hbf,15:26,
+ICE 1672,Stralsund Hbf,17:20,Ostseebad Binz,16:32,FALSE
+ICE 1710,Stralsund Hbf,17:33,Ostseebad Binz,16:40,FALSE
+ICE 1077,Stralsund Hbf,18:52,Prenzlau,17:14,
+ICE 1074,Stralsund Hbf,18:50,Greifswald,18:31,22
+ICE 1072,Stralsund Hbf,19:29,Ostseebad Binz,18:40,FALSE

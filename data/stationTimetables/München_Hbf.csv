@@ -1,0 +1,172 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 618,München Hbf,11:23,Kiel Hbf,00:01,2
+IC 460,München Hbf,05:22,Stuttgart Hbf,02:38,
+ICE 616,München Hbf,12:30,Hamburg-Altona,03:18,6
+ICE 888,München Hbf,10:21,Hamburg Hbf,04:13,1
+ICE 822,München Hbf,09:46,Düsseldorf Hbf,04:48,
+ICE 1068,München Hbf,07:52,Karlsruhe Hbf,05:00,
+ICE 804,München Hbf,13:48,Kiel Hbf,05:06,
+ICE 684,München Hbf,11:22,Hamburg Hbf,05:14,
+ICE 614,München Hbf,14:30,Hamburg-Altona,05:32,1
+ICE 1122,München Hbf,10:07,Düsseldorf Hbf,05:34,3
+ICE 1098,München Hbf,09:40,Frankfurt(Main)Hbf,05:44,
+ICE 1008,München Hbf,12:03,Hamburg-Altona,05:53,
+ICE 820,München Hbf,10:50,Düsseldorf Hbf,05:53,
+ICE 886,München Hbf,12:21,Hamburg Hbf,06:14,
+IC 265,München Hbf,07:01,Rosenheim,06:22,
+RJX 265,München Hbf,10:32,Wien Hbf,06:22,
+ICE 1012,München Hbf,12:05,Dortmund Hbf,06:26,6
+ICE 692,München Hbf,15:00,Berlin Hbf,06:41,1
+ICE 728,München Hbf,11:47,Düsseldorf Hbf,06:47,1
+ICE 9576,München Hbf,09:51,Karlsruhe Hbf,06:49,
+TGV 9576,München Hbf,12:33,Paris Est,06:49,1
+ICE 1114,München Hbf,10:57,Berlin Hbf,06:52,
+EC 198,München Hbf,10:27,Zürich HB,06:54,
+ECE 198,München Hbf,10:27,Zürich HB,06:54,1
+ICE 602,München Hbf,13:41,Hamburg-Altona,06:57,
+ICE 802,München Hbf,14:39,Hamburg-Altona,07:13,
+ICE 682,München Hbf,13:22,Hamburg Hbf,07:18,11
+RJX 61,München Hbf,14:19,Budapest-Keleti,07:23,
+ICE 612,München Hbf,17:22,Kiel Hbf,07:28,
+EC 1281,München Hbf,09:18,Innsbruck Hbf,07:34,
+EC 1289,München Hbf,08:58,Jenbach,07:34,
+EC 81,München Hbf,14:10,Bologna Centrale,07:34,1
+IC 1296,München Hbf,11:40,Frankfurt(Main)Hbf,07:46,
+ICE 726,München Hbf,12:48,Düsseldorf Hbf,07:47,
+WB 959,München Hbf,11:52,Wien Westbahnhof,07:49,
+ICE 1006,München Hbf,14:06,Hamburg-Altona,07:56,
+IC 111,München Hbf,09:50,Freilassing,08:16,
+RJ 111,München Hbf,13:19,Klagenfurt Hbf,08:16,1
+ICE 882,München Hbf,14:22,Hamburg Hbf,08:20,1
+ICE 1010,München Hbf,14:10,Dortmund Hbf,08:28,
+ICE 1694,München Hbf,13:56,Berlin Hbf,08:39,
+ICE 690,München Hbf,17:00,Berlin Hbf,08:46,3
+ICE 724,München Hbf,13:51,Düsseldorf Hbf,08:47,
+ICE 1600,München Hbf,15:39,Hamburg-Altona,08:50,FALSE
+ICE 1710,München Hbf,17:33,Ostseebad Binz,08:50,FALSE
+ICE 1112,München Hbf,12:57,Berlin Hbf,08:52,
+EC 196,München Hbf,12:27,Zürich HB,08:54,
+ECE 196,München Hbf,12:27,Zürich HB,08:54,1
+ICE 568,München Hbf,11:52,Karlsruhe Hbf,09:03,4
+ICE 680,München Hbf,15:39,Hamburg Hbf,09:18,1
+ICE 610,München Hbf,18:30,Hamburg-Altona,09:27,
+RJX 63,München Hbf,16:19,Budapest-Keleti,09:29,
+EC 83,München Hbf,17:33,Rimini,09:34,4
+ICE 1290,München Hbf,13:40,Frankfurt(Main)Hbf,09:47,6
+WB 963,München Hbf,13:52,Wien Westbahnhof,09:48,
+ICE 722,München Hbf,14:49,Düsseldorf Hbf,09:51,1
+ICE 800,München Hbf,16:38,Hamburg-Altona,09:55,
+EC 217,München Hbf,16:14,Graz Hbf,10:16,1
+ICE 880,München Hbf,16:21,Hamburg Hbf,10:21,
+ICE 918,München Hbf,16:10,Dortmund Hbf,10:30,1
+ICE 1218,München Hbf,18:55,Berlin Hbf,10:46,
+ICE 720,München Hbf,15:43,Düsseldorf Hbf,10:48,1
+ICE 1110,München Hbf,14:57,Berlin Hbf,10:52,
+EC 194,München Hbf,14:27,Zürich HB,10:54,
+ECE 194,München Hbf,14:27,Zürich HB,10:54,1
+ICE 508,München Hbf,17:40,Hamburg-Altona,10:57,1
+ICE 566,München Hbf,13:52,Karlsruhe Hbf,11:03,3
+ICE 708,München Hbf,18:38,Hamburg-Altona,11:14,1
+ICE 588,München Hbf,17:22,Hamburg Hbf,11:18,1
+ICE 518,München Hbf,20:30,Hamburg-Altona,11:28,
+RJX 65,München Hbf,18:19,Budapest-Keleti,11:28,
+EC 85,München Hbf,18:25,Venezia Santa Lucia,11:33,
+WB 965,München Hbf,15:52,Wien Westbahnhof,11:45,
+EC 218,München Hbf,15:40,Frankfurt(Main)Hbf,11:48,2
+ICE 628,München Hbf,16:49,Düsseldorf Hbf,11:51,
+ICE 1004,München Hbf,18:12,Hamburg-Altona,11:56,
+EC 113,München Hbf,17:19,Klagenfurt Hbf,12:17,
+ICE 788,München Hbf,18:21,Hamburg Hbf,12:21,5
+ICE 596,München Hbf,20:55,Berlin Hbf,12:46,1
+ICE 626,München Hbf,18:41,Dortmund Hbf,12:47,
+ICE 1108,München Hbf,16:57,Berlin Hbf,12:52,1
+EC 192,München Hbf,16:27,Zürich HB,12:54,
+ECE 192,München Hbf,16:27,Zürich HB,12:54,1
+ICE 506,München Hbf,19:41,Hamburg-Altona,12:56,
+ICE 564,München Hbf,15:02,Stuttgart Hbf,13:03,1
+ICE 586,München Hbf,19:22,Hamburg Hbf,13:18,1
+ICE 516,München Hbf,22:30,Hamburg-Altona,13:28,
+RJX 67,München Hbf,20:19,Budapest-Keleti,13:29,
+IC 87,München Hbf,14:12,Rosenheim,13:34,
+RJ 87,München Hbf,20:16,Bologna Centrale,13:34,
+ICE 114,München Hbf,21:09,Dortmund Hbf,13:47,9
+ICE 624,München Hbf,19:42,Dortmund Hbf,13:51,1
+ICE 706,München Hbf,20:39,Hamburg-Altona,13:54,
+ICE 115,München Hbf,19:19,Klagenfurt Hbf,14:17,1
+ICE 786,München Hbf,20:22,Hamburg Hbf,14:21,1
+ICE 914,München Hbf,20:18,Dortmund Hbf,14:28,1
+ICE 594,München Hbf,22:54,Berlin Hbf,14:46,1
+ICE 622,München Hbf,20:56,Dortmund Hbf,14:47,1
+ICE 1106,München Hbf,18:57,Berlin Hbf,14:52,1
+EC 190,München Hbf,18:27,Zürich HB,14:54,
+ECE 190,München Hbf,18:27,Zürich HB,14:54,1
+ICE 504,München Hbf,21:40,Hamburg-Altona,14:57,1
+ICE 562,München Hbf,19:17,Saarbrücken Hbf,15:02,7
+ICE 704,München Hbf,22:22,Hamburg Hbf,15:14,1
+ICE 584,München Hbf,21:20,Hamburg Hbf,15:18,1
+ICE 514,München Hbf,00:30,Hamburg-Altona,15:28,1
+RJX 69,München Hbf,19:32,Wien Hbf,15:29,
+IC 89,München Hbf,16:12,Rosenheim,15:34,
+EC 112,München Hbf,19:40,Frankfurt(Main)Hbf,15:46,29
+WB 971,München Hbf,19:52,Wien Westbahnhof,15:48,
+ICE 620,München Hbf,21:46,Dortmund Hbf,15:51,8
+ICE 1002,München Hbf,20:00,Berlin Gesundbrunnen,15:56,1
+EC 219,München Hbf,22:14,Graz Hbf,16:17,17
+ICE 1222,München Hbf,23:21,Dortmund Hbf,16:18,FALSE
+ICE 912,München Hbf,22:09,Dortmund Hbf,16:28,
+ICE 592,München Hbf,23:33,Erfurt Hbf,16:46,1
+ICE 1128,München Hbf,21:05,Wiesbaden Hbf,16:48,1
+ICE 528,München Hbf,22:41,Dortmund Hbf,16:48,1
+EC 98,München Hbf,20:27,Zürich HB,16:53,
+ECE 98,München Hbf,20:27,Zürich HB,16:53,1
+ICE 1104,München Hbf,20:57,Berlin Hbf,16:53,FALSE
+ICE 2904,München Hbf,20:57,Berlin Hbf,16:53,5
+ICE 502,München Hbf,23:49,Hamburg-Altona,16:57,1
+ICE 266,München Hbf,21:56,Basel SBB,16:58,2
+ICE 702,München Hbf,22:33,Berlin Gesundbrunnen,17:09,1
+ICE 532,München Hbf,23:55,Oldenburg(Oldb)Hbf,17:17,
+ICE 582,München Hbf,23:40,Hamburg Hbf,17:17,
+ICE 512,München Hbf,00:14,Münster(Westf)Hbf,17:28,12
+RJX 261,München Hbf,00:19,Budapest-Keleti,17:30,23
+IC 287,München Hbf,18:12,Rosenheim,17:34,
+RJ 287,München Hbf,19:18,Innsbruck Hbf,17:34,38
+ICE 1120,München Hbf,22:05,Düsseldorf Hbf,17:35,FALSE
+EC 216,München Hbf,19:58,Stuttgart Hbf,17:47,21
+WB 983,München Hbf,21:52,Wien Westbahnhof,17:49,
+ICE 1000,München Hbf,22:00,Berlin Gesundbrunnen,17:51,2
+EC 117,München Hbf,17:57,Bohumin,18:17,
+ICE 782,München Hbf,00:22,Hamburg Hbf,18:19,1
+ICE 910,München Hbf,22:51,Köln Hbf,18:28,1
+EN 406,München Hbf,09:37,Warszawa Wschodnia,18:35,
+IC 60406,München Hbf,08:11,Opoczno Poludnie,18:35,2
+ICE 590,München Hbf,22:08,Frankfurt(Main)Hbf,18:46,1
+ICE 524,München Hbf,00:53,Dortmund Hbf,18:47,1
+EC 96,München Hbf,22:27,Zürich HB,18:51,
+ECE 96,München Hbf,22:27,Zürich HB,18:51,1
+ICE 1102,München Hbf,22:57,Berlin Hbf,18:52,3
+ICE 500,München Hbf,23:56,Berlin Südkreuz,18:56,1
+IC 3844.be,München Hbf,22:21,Liège-Guillemins,19:01,
+ICE 560,München Hbf,21:59,Karlsruhe Hbf,19:01,
+ICE 1500,München Hbf,23:26,Leipzig Hbf,19:10,4
+ICE 580,München Hbf,23:04,Kassel-Wilhelmshöhe,19:18,1
+IC 1299,München Hbf,20:52,Freilassing,19:19,
+RJ 1299,München Hbf,21:00,Salzburg Hbf,19:19,
+ICE 510,München Hbf,00:07,Köln Hbf,19:28,3
+ICE 526,München Hbf,23:34,Dortmund Hbf,19:28,1
+EC 289,München Hbf,21:18,Innsbruck Hbf,19:34,11
+ICE 522,München Hbf,00:29,Köln Hbf,19:48,
+ICE 1018,München Hbf,00:00,Berlin Gesundbrunnen,19:55,6
+NJ 295,München Hbf,10:30,Roma Termini,20:10,2
+IC 1291,München Hbf,22:01,Salzburg Hbf,20:17,9
+ICE 520,München Hbf,23:44,Aschaffenburg Hbf,20:48,
+ICE 1100,München Hbf,01:01,Berlin Gesundbrunnen,20:52,
+ICE 8,München Hbf,01:01,Berlin Gesundbrunnen,20:52,
+IC 1295,München Hbf,22:50,Freilassing,21:16,
+RJ 1295,München Hbf,22:59,Salzburg Hbf,21:16,
+ICE 1211,München Hbf,23:18,Innsbruck Hbf,21:34,1
+ICE 698,München Hbf,07:36,Berlin Hbf,21:51,1
+ICE 1160,München Hbf,00:43,Stuttgart Hbf,22:46,
+NJ 40420,München Hbf,09:05,Hamburg-Altona,22:52,70
+NJ 420,München Hbf,11:01,Amsterdam Centraal,22:52,70
+ICE 1080,München Hbf,08:09,Hamburg Hbf,23:02,5
+ICE 24,München Hbf,07:05,Lüneburg,23:02,

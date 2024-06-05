@@ -1,0 +1,4 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2031,Peine,08:15,Leipzig Hbf,05:55,
+IC 2436,Peine,09:38,Emden Hbf,06:06,1
+IC 2437,Peine,23:01,Magdeburg Hbf,21:57,4

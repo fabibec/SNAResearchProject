@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+D 1416,Bredstedt,09:55,Westerland(Sylt),08:32,
+D 1426,Bredstedt,12:25,Westerland(Sylt),11:02,2
+D 1446,Bredstedt,16:18,Niebüll,16:03,FALSE
+D 1455,Bredstedt,20:14,Husum,19:59,
+D 1464,Bredstedt,21:55,Westerland(Sylt),20:35,

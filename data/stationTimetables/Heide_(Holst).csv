@@ -1,0 +1,15 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2214,Heide(Holst),12:34,Westerland(Sylt),10:52,46
+IC 2216,Heide(Holst),12:23,Dagebüll Mole,10:54,46
+IC 2313,Heide(Holst),17:07,Köln Hbf,10:57,FALSE
+IC 2076,Heide(Holst),13:53,Dagebüll Mole,11:59,4
+IC 2074,Heide(Holst),13:37,Westerland(Sylt),12:00,4
+IC 2375,Heide(Holst),20:57,Stuttgart Hbf,12:18,7
+IC 2393,Heide(Holst),20:57,Stuttgart Hbf,12:18,7
+IC 2310,Heide(Holst),16:34,Westerland(Sylt),14:54,5
+IC 2312,Heide(Holst),16:23,Dagebüll Mole,14:54,5
+IC 2215,Heide(Holst),20:57,Köln Hbf,15:01,14
+IC 2217,Heide(Holst),20:57,Köln Hbf,15:01,14
+IC 2075,Heide(Holst),20:17,Berlin Gesundbrunnen,16:00,17
+IC 2077,Heide(Holst),20:17,Berlin Gesundbrunnen,16:00,17
+IC 2374,Heide(Holst),19:34,Westerland(Sylt),17:29,26

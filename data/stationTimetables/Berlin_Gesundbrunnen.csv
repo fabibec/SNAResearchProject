@@ -1,0 +1,58 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 501,Berlin Gesundbrunnen,09:17,München Hbf,04:23,1
+ICE 1701,Berlin Gesundbrunnen,10:42,München Hbf,05:20,
+ICE 1001,Berlin Gesundbrunnen,10:02,München Hbf,05:51,
+IC 257,Berlin Gesundbrunnen,08:34,Bad Schandau,06:06,
+RJ 257,Berlin Gesundbrunnen,17:33,Graz Hbf,06:06,1
+ICE 503,Berlin Gesundbrunnen,11:03,München Hbf,06:19,3
+IC 296,Berlin Gesundbrunnen,08:37,Rostock Hbf,06:44,
+IC 2070,Berlin Gesundbrunnen,09:24,Hamburg-Altona,07:01,
+EC 171,Berlin Gesundbrunnen,11:24,Praha hl.n.,07:16,1
+IC 2274,Berlin Gesundbrunnen,10:01,Warnemünde,07:44,4
+IC 2074,Berlin Gesundbrunnen,13:37,Westerland(Sylt),08:04,
+IC 2076,Berlin Gesundbrunnen,13:53,Dagebüll Mole,08:04,
+IC 2173,Berlin Gesundbrunnen,16:27,Wien Franz-Josefs-Bahnhof,08:19,
+EC 173,Berlin Gesundbrunnen,20:28,Budapest-Nyugati,09:03,20
+ICE 870,Berlin Gesundbrunnen,11:28,Hamburg-Altona,09:08,1
+ICE 1636,Berlin Gesundbrunnen,13:00,Ostseebad Binz,09:24,
+IC 2272,Berlin Gesundbrunnen,12:01,Warnemünde,09:44,7
+ICE 1071,Berlin Gesundbrunnen,10:19,Berlin Südkreuz,10:04,-2
+IC 2175,Berlin Gesundbrunnen,12:27,Dresden Hbf,10:19,8
+ICE 1107,Berlin Gesundbrunnen,15:08,München Hbf,10:51,FALSE
+ICE 2907,Berlin Gesundbrunnen,15:08,München Hbf,10:51,
+EC 379,Berlin Gesundbrunnen,15:24,Praha hl.n.,11:09,3
+IC 2270,Berlin Gesundbrunnen,14:05,Warnemünde,11:44,33
+ICE 1076,Berlin Gesundbrunnen,15:36,Ostseebad Binz,11:50,31
+ICE 1073,Berlin Gesundbrunnen,12:18,Berlin Südkreuz,12:04,
+IC 2177,Berlin Gesundbrunnen,14:27,Dresden Hbf,12:19,
+ICE 1109,Berlin Gesundbrunnen,17:10,München Hbf,12:52,
+EC 176,Berlin Gesundbrunnen,15:24,Hamburg-Altona,13:08,5
+EC 175,Berlin Gesundbrunnen,17:24,Praha hl.n.,13:12,1
+IC 2178,Berlin Gesundbrunnen,16:05,Warnemünde,13:44,4
+ICE 1710,Berlin Gesundbrunnen,17:33,Ostseebad Binz,13:47,FALSE
+ICE 1711,Berlin Gesundbrunnen,19:03,München Hbf,14:09,
+IC 2179,Berlin Gesundbrunnen,16:27,Dresden Hbf,14:19,1
+ICE 1111,Berlin Gesundbrunnen,19:11,München Hbf,14:52,2
+EC 174,Berlin Gesundbrunnen,19:15,Flensburg,14:55,5
+EC 177,Berlin Gesundbrunnen,19:24,Praha hl.n.,15:06,16
+FLX 1245,Berlin Gesundbrunnen,21:59,Stuttgart Hbf,15:16,168
+IC 2176,Berlin Gesundbrunnen,18:05,Warnemünde,15:44,1
+ICE 1072,Berlin Gesundbrunnen,19:29,Ostseebad Binz,15:50,
+ICE 1075,Berlin Gesundbrunnen,16:13,Berlin Südkreuz,16:01,
+IC 2271,Berlin Gesundbrunnen,19:40,Chemnitz Hbf,16:19,
+ICE 1113,Berlin Gesundbrunnen,21:12,München Hbf,16:52,
+EC 378,Berlin Gesundbrunnen,20:22,Kiel Hbf,17:08,
+EC 179,Berlin Gesundbrunnen,21:24,Praha hl.n.,17:16,1
+IC 2174,Berlin Gesundbrunnen,20:01,Warnemünde,17:44,1
+ICE 1070,Berlin Gesundbrunnen,20:33,Stralsund Hbf,17:49,14
+IC 2273,Berlin Gesundbrunnen,21:40,Chemnitz Hbf,18:19,
+ICE 1115,Berlin Gesundbrunnen,23:07,München Hbf,18:52,1
+ICE 871,Berlin Gesundbrunnen,21:07,Dresden Hbf,19:03,6
+EC 172,Berlin Gesundbrunnen,21:35,Hamburg-Altona,19:08,3
+EN 27,Berlin Gesundbrunnen,22:32,Bad Schandau,19:39,
+NJ 457,Berlin Gesundbrunnen,09:59,Graz Hbf,19:39,1
+IC 2172,Berlin Gesundbrunnen,21:37,Rostock Hbf,19:44,1
+ICE 1119,Berlin Gesundbrunnen,00:01,München Hbf,19:51,
+IC 2275,Berlin Gesundbrunnen,22:27,Dresden Hbf,20:19,7
+IC 17,Berlin Gesundbrunnen,03:48,Lichtenfels,22:19,
+IC 297,Berlin Gesundbrunnen,10:47,Wien Hbf,22:19,

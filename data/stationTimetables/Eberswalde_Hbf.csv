@@ -1,0 +1,10 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1071,Eberswalde Hbf,10:19,Berlin Südkreuz,09:33,1
+ICE 1636,Eberswalde Hbf,13:00,Ostseebad Binz,09:57,
+ICE 1073,Eberswalde Hbf,12:18,Berlin Südkreuz,11:33,1
+ICE 1076,Eberswalde Hbf,15:36,Ostseebad Binz,12:23,28
+ICE 1711,Eberswalde Hbf,19:03,München Hbf,13:33,4
+ICE 1710,Eberswalde Hbf,17:33,Ostseebad Binz,14:17,FALSE
+ICE 1075,Eberswalde Hbf,16:13,Berlin Südkreuz,15:33,1
+ICE 1072,Eberswalde Hbf,19:29,Ostseebad Binz,16:23,1
+ICE 1070,Eberswalde Hbf,20:33,Stralsund Hbf,18:23,9

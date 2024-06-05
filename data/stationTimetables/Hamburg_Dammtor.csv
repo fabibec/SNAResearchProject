@@ -1,0 +1,110 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 514,Hamburg Dammtor,00:30,Hamburg-Altona,00:23,47
+ICE 700,Hamburg Dammtor,00:48,Hamburg-Altona,00:39,21
+ICE 376,Hamburg Dammtor,01:03,Hamburg-Altona,00:56,38
+EC 2507,Hamburg Dammtor,12:49,Freiburg(Breisgau) Hbf,04:29,
+EC 7,Hamburg Dammtor,15:58,Interlaken Ost,04:29,1
+ICE 751,Hamburg Dammtor,09:04,Berlin Ostbahnhof,05:12,
+ICE 701,Hamburg Dammtor,12:42,München Hbf,05:20,5
+ICE 515,Hamburg Dammtor,14:26,München Hbf,05:38,FALSE
+ICE 1031,Hamburg Dammtor,09:53,Köln Hbf,06:05,
+ICE 573,Hamburg Dammtor,12:38,Stuttgart Hbf,06:11,FALSE
+ICE 1515,Hamburg Dammtor,12:50,Karlsruhe Hbf,06:16,FALSE
+ICE 505,Hamburg Dammtor,13:01,München Hbf,06:26,2
+IC 2083,Hamburg Dammtor,17:04,Berchtesgaden Hbf,06:31,2
+IC 2085,Hamburg Dammtor,16:11,Oberstdorf Busbahnhof,06:31,2
+EC 9,Hamburg Dammtor,17:00,Zürich HB,06:38,1
+ICE 920,Hamburg Dammtor,07:06,Hamburg-Altona,06:58,1
+ICE 1599,Hamburg Dammtor,07:21,Hamburg-Altona,07:14,
+ICE 73,Hamburg Dammtor,16:00,Zürich HB,07:15,1
+ICE 91,Hamburg Dammtor,16:47,Wien Hbf,07:21,
+ICE 703,Hamburg Dammtor,14:01,München Hbf,07:27,FALSE
+ICE 608,Hamburg Dammtor,07:41,Hamburg-Altona,07:32,5
+ICE 731,Hamburg Dammtor,11:58,Köln Hbf,07:46,4
+ICE 575,Hamburg Dammtor,14:38,Stuttgart Hbf,08:15,FALSE
+ICE 922,Hamburg Dammtor,08:29,Hamburg-Altona,08:22,4
+ICE 507,Hamburg Dammtor,15:04,München Hbf,08:27,FALSE
+ICE 808,Hamburg Dammtor,08:41,Hamburg-Altona,08:32,51
+ICE 107,Hamburg Dammtor,16:47,Basel SBB,08:37,1
+ICE55918,Hamburg Dammtor,08:45,Hamburg-Altona,08:38,FALSE
+EC 379,Hamburg Dammtor,15:24,Praha hl.n.,08:44,8
+IC 2214,Hamburg Dammtor,12:34,Westerland(Sylt),09:21,10
+IC 2216,Hamburg Dammtor,12:23,Dagebüll Mole,09:21,10
+ICE 705,Hamburg Dammtor,16:42,München Hbf,09:28,6
+ICE 1606,Hamburg Dammtor,09:39,Hamburg-Altona,09:31,13
+ICE 519,Hamburg Dammtor,18:26,München Hbf,09:38,5
+NJ 40420,Hamburg Dammtor,09:05,Hamburg-Altona,09:38,126
+NJ 490,Hamburg Dammtor,09:05,Hamburg-Altona,09:38,126
+ICE 1005,Hamburg Dammtor,16:01,München Hbf,09:58,FALSE
+IC 2074,Hamburg Dammtor,13:37,Westerland(Sylt),10:15,2
+IC 2076,Hamburg Dammtor,13:53,Dagebüll Mole,10:15,2
+ICE 618,Hamburg Dammtor,11:23,Kiel Hbf,10:21,8
+ICE 509,Hamburg Dammtor,17:01,München Hbf,10:26,FALSE
+ICE 806,Hamburg Dammtor,10:38,Hamburg-Altona,10:30,3
+ICE 109,Hamburg Dammtor,18:47,Basel SBB,10:38,9
+ICE 77,Hamburg Dammtor,20:00,Zürich HB,11:16,
+ICE 707,Hamburg Dammtor,18:03,München Hbf,11:28,8
+ICE 1604,Hamburg Dammtor,11:39,Hamburg-Altona,11:31,24
+ICE 1704,Hamburg Dammtor,11:39,Hamburg-Altona,11:31,24
+ICE 1674,Hamburg Dammtor,11:45,Hamburg-Altona,11:37,21
+ICE 611,Hamburg Dammtor,20:29,München Hbf,11:38,8
+ICE 616,Hamburg Dammtor,12:30,Hamburg-Altona,12:21,31
+ICE 1601,Hamburg Dammtor,19:03,München Hbf,12:24,4
+ICE 201,Hamburg Dammtor,20:47,Basel SBB,12:38,2
+IC 2310,Hamburg Dammtor,16:34,Westerland(Sylt),13:06,8
+IC 2312,Hamburg Dammtor,16:23,Dagebüll Mole,13:06,8
+ICE 206,Hamburg Dammtor,13:30,Hamburg-Altona,13:21,42
+ICE 709,Hamburg Dammtor,20:43,München Hbf,13:28,FALSE
+ICE 602,Hamburg Dammtor,13:41,Hamburg-Altona,13:31,11
+IC 2375,Hamburg Dammtor,20:57,Stuttgart Hbf,14:19,FALSE
+IC 2393,Hamburg Dammtor,20:57,Stuttgart Hbf,14:19,1
+ICE 614,Hamburg Dammtor,14:30,Hamburg-Altona,14:21,31
+ICE 603,Hamburg Dammtor,21:03,München Hbf,14:27,15
+ICE 802,Hamburg Dammtor,14:39,Hamburg-Altona,14:30,9
+ICE 202,Hamburg Dammtor,15:30,Hamburg-Altona,15:21,1
+ICE 801,Hamburg Dammtor,22:44,München Hbf,15:28,
+ICE 1600,Hamburg Dammtor,15:39,Hamburg-Altona,15:31,FALSE
+ICE 2914,Hamburg Dammtor,15:39,Hamburg-Altona,15:31,31
+IC 2374,Hamburg Dammtor,19:34,Westerland(Sylt),15:37,40
+ICE 615,Hamburg Dammtor,00:28,München Hbf,15:38,7
+ICE 612,Hamburg Dammtor,17:22,Kiel Hbf,16:21,29
+ICE 1605,Hamburg Dammtor,23:03,München Hbf,16:25,5
+ICE 1705,Hamburg Dammtor,21:04,Jena-Göschwitz,16:25,5
+ICE 800,Hamburg Dammtor,16:38,Hamburg-Altona,16:30,8
+ICE 205,Hamburg Dammtor,00:59,Basel SBB,16:38,3
+ICE 1687,Hamburg Dammtor,20:10,Kassel-Wilhelmshöhe,17:20,1
+ICE 200,Hamburg Dammtor,17:30,Hamburg-Altona,17:21,6
+ICE 803,Hamburg Dammtor,23:09,Nürnberg Hbf,17:28,3
+ICE 508,Hamburg Dammtor,17:40,Hamburg-Altona,17:32,8
+ICE 617,Hamburg Dammtor,00:25,Stuttgart Hbf,17:38,2
+IC 2075,Hamburg Dammtor,20:17,Berlin Gesundbrunnen,17:45,20
+IC 2077,Hamburg Dammtor,20:17,Berlin Gesundbrunnen,17:45,20
+ICE 610,Hamburg Dammtor,18:30,Hamburg-Altona,18:21,FALSE
+ICE 1607,Hamburg Dammtor,22:29,Erfurt Hbf,18:27,3
+ICE 708,Hamburg Dammtor,18:38,Hamburg-Altona,18:30,46
+ICE 207,Hamburg Dammtor,22:49,Köln Hbf,18:37,FALSE
+ICE 74,Hamburg Dammtor,19:43,Kiel Hbf,18:43,39
+IC 2073,Hamburg Dammtor,21:00,Berlin Gesundbrunnen,18:44,3
+IC 2082,Hamburg Dammtor,19:21,Hamburg-Altona,19:14,24
+IC 2084,Hamburg Dammtor,19:21,Hamburg-Altona,19:14,24
+ICE 108,Hamburg Dammtor,19:30,Hamburg-Altona,19:21,7
+ICE 699,Hamburg Dammtor,08:08,München Hbf,19:28,FALSE
+ICE 506,Hamburg Dammtor,19:41,Hamburg-Altona,19:31,37
+ICE 619,Hamburg Dammtor,06:03,München Hbf,19:38,FALSE
+ICE 1030,Hamburg Dammtor,20:05,Hamburg-Altona,19:57,21
+ICE 518,Hamburg Dammtor,20:30,Hamburg-Altona,20:21,23
+ICE 609,Hamburg Dammtor,22:36,Berlin Südkreuz,20:27,FALSE
+ICE 706,Hamburg Dammtor,20:39,Hamburg-Altona,20:30,10
+ICE 209,Hamburg Dammtor,00:47,Köln Hbf,20:38,
+EC 8,Hamburg Dammtor,21:30,Hamburg-Altona,21:21,50
+ICE 504,Hamburg Dammtor,21:40,Hamburg-Altona,21:32,29
+ICE 1514,Hamburg Dammtor,21:49,Hamburg-Altona,21:37,29
+ICE 805,Hamburg Dammtor,00:10,Berlin Ostbahnhof,21:42,FALSE
+IC 60471,Hamburg Dammtor,10:05,Zürich HB,22:01,3
+NJ 471,Hamburg Dammtor,10:05,Zürich HB,22:01,3
+ICE 516,Hamburg Dammtor,22:30,Hamburg-Altona,22:21,37
+ICE 90,Hamburg Dammtor,22:34,Hamburg-Altona,22:27,103
+ICE 921,Hamburg Dammtor,07:02,Frankfurt(Main)Hbf,22:37,31
+ICE 907,Hamburg Dammtor,01:11,Berlin Ostbahnhof,22:44,
+EC 6,Hamburg Dammtor,23:30,Hamburg-Altona,23:22,36
+ICE 502,Hamburg Dammtor,23:49,Hamburg-Altona,23:41,26

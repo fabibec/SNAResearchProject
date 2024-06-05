@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2208,Gelsenkirchen Hbf,10:18,Norddeich Mole,06:43,
+ICE 606,Gelsenkirchen Hbf,12:16,Norddeich Mole,08:45,1
+IC 604,Gelsenkirchen Hbf,13:25,Emden Hbf,10:45,
+ICE 604,Gelsenkirchen Hbf,13:52,Emden Außenhafen,10:45,2
+IC 2009,Gelsenkirchen Hbf,19:09,Konstanz,11:14,4
+FLX 1341,Gelsenkirchen Hbf,13:08,Köln Hbf,11:48,
+IC 2202,Gelsenkirchen Hbf,15:53,Bremerhaven-Lehe,12:45,2
+IC 2201,Gelsenkirchen Hbf,14:18,Köln Hbf,13:13,2
+IC 2200,Gelsenkirchen Hbf,18:03,Norddeich Mole,14:45,4
+IC 2203,Gelsenkirchen Hbf,16:18,Köln Hbf,15:14,4
+IC 2014,Gelsenkirchen Hbf,19:26,Emden Hbf,16:50,49
+ICE 605,Gelsenkirchen Hbf,19:20,Koblenz Hbf,17:15,18
+FLX 1343,Gelsenkirchen Hbf,19:08,Köln Hbf,17:49,3
+IC 2002,Gelsenkirchen Hbf,21:26,Emden Hbf,18:46,
+ICE 607,Gelsenkirchen Hbf,20:20,Köln Hbf,19:14,4
+IC 2209,Gelsenkirchen Hbf,22:19,Köln Hbf,21:14,4

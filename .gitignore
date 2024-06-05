@@ -1,6 +1,5 @@
-./data
 ./driver
 ./venv
-./scrape.py
+code/scrape.py
 ./.env
 ./.idea

@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 991,Worms Hbf,09:18,München Hbf,06:08,3
+ICE 115,Worms Hbf,19:19,Klagenfurt Hbf,10:45,FALSE
+IC 2014,Worms Hbf,19:26,Emden Hbf,13:15,4
+IC 2009,Worms Hbf,19:09,Konstanz,14:45,23
+ICE 114,Worms Hbf,21:09,Dortmund Hbf,17:14,

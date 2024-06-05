@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1076,Bernau(b Berlin),15:36,Ostseebad Binz,12:05,32
+ICE 1711,Bernau(b Berlin),19:03,München Hbf,13:49,1
+ICE 1710,Bernau(b Berlin),17:33,Ostseebad Binz,14:00,FALSE
+ICE 1072,Bernau(b Berlin),19:29,Ostseebad Binz,16:05,1
+ICE 1070,Bernau(b Berlin),20:33,Stralsund Hbf,18:05,13

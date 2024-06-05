@@ -1,0 +1,60 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EC 459,Darmstadt Hbf,09:24,Praha hl.n.,00:02,9
+EN 40459,Darmstadt Hbf,09:24,Praha hl.n.,00:02,9
+IC 60409,Darmstadt Hbf,08:20,Berlin Hbf,00:02,9
+NJ 409,Darmstadt Hbf,08:20,Berlin Hbf,00:02,9
+IC 60471,Darmstadt Hbf,10:05,Zürich HB,04:50,43
+NJ 471,Darmstadt Hbf,10:05,Zürich HB,04:50,43
+IC 60471,Darmstadt Hbf ZOB,10:05,Zürich HB,04:54,41
+IC 2381,Darmstadt Hbf,09:23,Singen(Hohentwiel),05:36,
+IC 897,Darmstadt Hbf,10:28,Lindau-Reutin,06:13,
+RJX 897,Darmstadt Hbf,17:57,Flughafen Wien,06:13,
+ICE 1571,Darmstadt Hbf,08:51,Karlsruhe Hbf,07:31,2
+IC 2298,Darmstadt Hbf,08:00,Frankfurt(Main)Hbf,07:42,
+ICE 1672,Darmstadt Hbf,17:20,Ostseebad Binz,08:24,
+EC 113,Darmstadt Hbf,17:19,Klagenfurt Hbf,08:38,2
+ICE 932,Darmstadt Hbf,08:56,Frankfurt(Main)Hbf,08:40,FALSE
+ICE 1098,Darmstadt Hbf,09:40,Frankfurt(Main)Hbf,09:24,
+ICE 1573,Darmstadt Hbf,10:50,Karlsruhe Hbf,09:37,5
+ICE 1573,Darmstadt Hbf ZOB,10:50,Karlsruhe Hbf,09:37,4
+IC 2374,Darmstadt Hbf ZOB,19:34,Westerland(Sylt),10:24,18
+IC 2374,Darmstadt Hbf,19:34,Westerland(Sylt),10:24,17
+ICE 999,Darmstadt Hbf,11:50,Stuttgart Hbf,10:37,1
+IC 1296,Darmstadt Hbf,11:40,Frankfurt(Main)Hbf,11:24,-3
+ICE 1515,Darmstadt Hbf,12:50,Karlsruhe Hbf,11:37,7
+ICE 1515,Darmstadt Hbf ZOB,12:50,Karlsruhe Hbf,11:37,7
+ICE 1578,Darmstadt Hbf,20:14,Velgast,12:24,FALSE
+ICE 1578,Darmstadt Hbf ZOB,20:14,Velgast,12:24,1
+FLX 1241,Darmstadt Hbf,13:43,Stuttgart Hbf,12:34,2
+EC 219,Darmstadt Hbf,22:14,Graz Hbf,12:37,FALSE
+ICE 1290,Darmstadt Hbf,13:40,Frankfurt(Main)Hbf,13:24,1
+ICE 1577,Darmstadt Hbf,15:03,Stuttgart Hbf,13:37,FALSE
+ICE 1577,Darmstadt Hbf ZOB,15:03,Stuttgart Hbf,13:37,174
+ICE 1576,Darmstadt Hbf,21:32,Rostock Hbf,14:24,3
+ICE 1576,Darmstadt Hbf ZOB,21:32,Rostock Hbf,14:24,3
+EC 117,Darmstadt Hbf,17:57,Bohumin,14:37,
+EC 218,Darmstadt Hbf,15:40,Frankfurt(Main)Hbf,15:24,1
+ICE 1579,Darmstadt Hbf,16:50,Karlsruhe Hbf,15:37,16
+ICE 1579,Darmstadt Hbf ZOB,16:50,Karlsruhe Hbf,15:37,17
+FLX 1243,Darmstadt Hbf,19:15,Basel Bad,16:24,13
+ICE 1514,Darmstadt Hbf,21:49,Hamburg-Altona,16:24,4
+ICE 1514,Darmstadt Hbf ZOB,21:49,Hamburg-Altona,16:24,1
+IC 1291,Darmstadt Hbf,22:01,Salzburg Hbf,16:38,4
+ICE 1168,Darmstadt Hbf,17:40,Frankfurt(Main)Hbf,17:24,1
+ICE 1671,Darmstadt Hbf,18:39,Karlsruhe Hbf,17:37,FALSE
+ICE 1671,Darmstadt Hbf ZOB,18:39,Karlsruhe Hbf,17:37,128
+ICE 1572,Darmstadt Hbf,21:56,Hannover Hbf,18:24,FALSE
+ICE 1099,Darmstadt Hbf,22:14,München Hbf,18:37,
+EC 112,Darmstadt Hbf,19:40,Frankfurt(Main)Hbf,19:24,34
+IC 2375,Darmstadt Hbf ZOB,20:57,Stuttgart Hbf,19:37,28
+IC 2375,Darmstadt Hbf,20:57,Stuttgart Hbf,19:37,29
+IC 2375,Darmstadt Hbf ZOB,20:55,Amsterdam Centraal,19:37,28
+IC 2375,Darmstadt Hbf,20:55,Amsterdam Centraal,19:37,29
+IC 2393,Darmstadt Hbf ZOB,20:57,Stuttgart Hbf,19:37,28
+IC 2393,Darmstadt Hbf,20:57,Stuttgart Hbf,19:37,29
+ICE 1570,Darmstadt Hbf,22:56,Kassel-Wilhelmshöhe,20:24,3
+FLX 1245,Darmstadt Hbf,21:59,Stuttgart Hbf,20:34,164
+IC 2299,Darmstadt Hbf,21:56,Stuttgart Hbf,20:37,7
+ICE 935,Darmstadt Hbf,23:29,Saarbrücken Hbf,21:20,
+RJX 890,Darmstadt Hbf,21:52,Frankfurt(Main)Hbf,21:33,
+ICE 937,Darmstadt Hbf,01:04,Stuttgart Hbf,23:26,2

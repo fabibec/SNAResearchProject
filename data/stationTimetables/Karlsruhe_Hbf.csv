@@ -1,0 +1,115 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2326,Karlsruhe Hbf,05:30,Frankfurt(Main)West,03:35,
+IC 60403,Karlsruhe Hbf,08:39,Zürich HB,04:02,
+NJ 403,Karlsruhe Hbf,08:39,Zürich HB,04:02,
+ICE 1061,Karlsruhe Hbf,07:54,München Hbf,04:59,
+EC 458,Karlsruhe Hbf,09:05,Zürich HB,05:09,120
+EN 40458,Karlsruhe Hbf,09:05,Zürich HB,05:09,120
+IC 60408,Karlsruhe Hbf,09:05,Zürich HB,05:09,120
+NJ 408,Karlsruhe Hbf,09:05,Zürich HB,05:09,120
+ICE 3,Karlsruhe Hbf,09:00,Zürich HB,05:56,
+ICE 270,Karlsruhe Hbf,12:32,Berlin Hbf,05:58,
+ICE 561,Karlsruhe Hbf,08:49,München Hbf,06:00,
+IC 60471,Karlsruhe Hbf,10:05,Zürich HB,06:04,37
+NJ 471,Karlsruhe Hbf,10:05,Zürich HB,06:04,37
+ICE 474,Karlsruhe Hbf,12:36,Hamburg Hbf,06:51,7
+ICE 2521,Karlsruhe Hbf,08:03,Freiburg(Breisgau) Hbf,06:58,2
+ICE 271,Karlsruhe Hbf,11:22,Chur,06:58,2
+ICE 206,Karlsruhe Hbf,13:30,Hamburg-Altona,07:00,3
+ICE 1672,Karlsruhe Hbf,17:20,Ostseebad Binz,07:02,
+IC 2063,Karlsruhe Hbf,14:04,Leipzig Hbf,07:07,
+IC 2571,Karlsruhe Hbf,10:17,Singen(Hohentwiel),07:27,1
+TGV 9578,Karlsruhe Hbf,10:13,Paris Est,07:32,5
+ICE 1178,Karlsruhe Hbf,09:05,Stuttgart Hbf,07:36,1
+ICE 5,Karlsruhe Hbf,09:47,Basel SBB,07:59,6
+ICE 374,Karlsruhe Hbf,14:32,Berlin Hbf,08:00,1
+ICE 267,Karlsruhe Hbf,10:49,München Hbf,08:05,4
+ICE 9568,Karlsruhe Hbf,10:38,Paris Est,08:06,
+ICE 78,Karlsruhe Hbf,14:36,Hamburg Hbf,08:51,17
+ICE 101,Karlsruhe Hbf,10:47,Basel SBB,09:00,2
+ICE 202,Karlsruhe Hbf,15:30,Hamburg-Altona,09:00,14
+IC 2065,Karlsruhe Hbf,16:04,Leipzig Hbf,09:06,1
+EC 151,Karlsruhe Hbf,12:00,Zürich HB,09:11,
+ECE 151,Karlsruhe Hbf,12:00,Zürich HB,09:11,FALSE
+ICE 9571,Karlsruhe Hbf,10:04,Stuttgart Hbf,09:28,
+TGV 9576,Karlsruhe Hbf,12:33,Paris Est,09:53,
+TGV 9561,Karlsruhe Hbf,12:00,Wien Franz-Josefs-Bahnhof,09:55,
+ICE 275,Karlsruhe Hbf,13:58,Interlaken Ost,09:59,1
+ICE 372,Karlsruhe Hbf,16:32,Berlin Hbf,10:00,5
+ICE 76,Karlsruhe Hbf,16:36,Hamburg Hbf,10:51,7
+ICE 103,Karlsruhe Hbf,18:07,München Hbf,11:00,2
+ICE 200,Karlsruhe Hbf,17:30,Hamburg-Altona,11:00,7
+IC 2067,Karlsruhe Hbf,18:04,Leipzig Hbf,11:06,1
+ICE 71,Karlsruhe Hbf,13:10,Basel SBB,11:11,1
+ICE 1578,Karlsruhe Hbf,20:14,Velgast,11:15,1
+ICE 9574,Karlsruhe Hbf,14:13,Paris Est,11:32,
+EC 2507,Karlsruhe Hbf,12:49,Freiburg(Breisgau) Hbf,11:49,1
+EC 7,Karlsruhe Hbf,15:58,Interlaken Ost,11:49,2
+ICE 277,Karlsruhe Hbf,13:47,Basel SBB,11:59,6
+ICE 370,Karlsruhe Hbf,18:01,Berlin Ostbahnhof,12:00,3
+ICE 565,Karlsruhe Hbf,14:49,München Hbf,12:05,1
+ICE 74,Karlsruhe Hbf,19:43,Kiel Hbf,12:51,4
+ICE 108,Karlsruhe Hbf,19:30,Hamburg-Altona,13:00,1
+ICE 255,Karlsruhe Hbf,14:47,Basel SBB,13:00,FALSE
+ICE 2871,Karlsruhe Hbf,14:47,Basel SBB,13:00,5
+IC 2069,Karlsruhe Hbf,20:04,Leipzig Hbf,13:06,1
+ICE 1576,Karlsruhe Hbf,21:32,Rostock Hbf,13:10,
+ICE 73,Karlsruhe Hbf,16:00,Zürich HB,13:11,5
+ICE 9573,Karlsruhe Hbf,14:04,Stuttgart Hbf,13:27,
+EC 9,Karlsruhe Hbf,17:00,Zürich HB,13:49,10
+ICE 279,Karlsruhe Hbf,15:47,Basel SBB,13:59,17
+ICE 278,Karlsruhe Hbf,20:32,Berlin Hbf,14:00,3
+ICE 567,Karlsruhe Hbf,16:49,München Hbf,14:05,1
+EC 8,Karlsruhe Hbf,21:30,Hamburg-Altona,14:12,1
+ICE 2872,Karlsruhe Hbf,20:58,Hamburg Hbf,14:51,13
+ICE 72,Karlsruhe Hbf,20:58,Hamburg Hbf,14:51,FALSE
+TGV 9583,Karlsruhe Hbf,15:18,Mannheim Hbf,14:54,
+ICE 106,Karlsruhe Hbf,17:04,Köln Hbf,15:00,7
+ICE 107,Karlsruhe Hbf,16:47,Basel SBB,15:00,17
+IC 2161,Karlsruhe Hbf,22:04,Leipzig Hbf,15:06,6
+ICE 1514,Karlsruhe Hbf,21:49,Hamburg-Altona,15:10,1
+ICE 75,Karlsruhe Hbf,18:00,Zürich HB,15:11,FALSE
+TGV 9580,Karlsruhe Hbf,21:34,Aix-en-Provence TGV,15:12,
+ICE 9572,Karlsruhe Hbf,18:16,Paris Est,15:32,
+IC 2009,Karlsruhe Hbf,19:09,Konstanz,15:36,20
+ICE 371,Karlsruhe Hbf,19:58,Interlaken Ost,15:59,17
+ICE 276,Karlsruhe Hbf,22:52,Berlin Hbf,16:00,6
+ICE 569,Karlsruhe Hbf,18:49,München Hbf,16:05,2
+EC 6,Karlsruhe Hbf,23:30,Hamburg-Altona,16:12,7
+ICE 109,Karlsruhe Hbf,18:47,Basel SBB,17:00,46
+ICE 254,Karlsruhe Hbf,22:29,Amsterdam Centraal,17:00,FALSE
+ICE 2870,Karlsruhe Hbf,19:04,Köln Hbf,17:00,2
+IC 2163,Karlsruhe Hbf,20:18,Nürnberg Hbf,17:06,
+ICE 77,Karlsruhe Hbf,20:00,Zürich HB,17:11,23
+FLX 1243,Karlsruhe Hbf,19:15,Basel Bad,17:25,14
+EC 472,Karlsruhe Hbf,17:58,Mannheim Hbf,17:31,FALSE
+ECE 472,Karlsruhe Hbf,17:58,Mannheim Hbf,17:31,FALSE
+ICE 9563,Karlsruhe Hbf,18:18,Mannheim Hbf,17:55,
+ICE 274,Karlsruhe Hbf,22:36,Erfurt Hbf,18:00,4
+ICE 373,Karlsruhe Hbf,21:59,Interlaken Ost,18:00,5
+TGV 9560,Karlsruhe Hbf,20:43,Paris Est,18:05,
+ICE 9577,Karlsruhe Hbf,21:38,München Hbf,18:28,
+TGV 9577,Karlsruhe Hbf,21:38,München Hbf,18:28,
+ICE 376,Karlsruhe Hbf,01:03,Hamburg-Altona,18:51,6
+ICE 102,Karlsruhe Hbf,00:18,Hannover Hbf,19:00,7
+ICE 201,Karlsruhe Hbf,20:47,Basel SBB,19:00,7
+ICE 1570,Karlsruhe Hbf,22:56,Kassel-Wilhelmshöhe,19:10,2
+ICE 79,Karlsruhe Hbf,22:00,Zürich HB,19:11,71
+TGV 9570,Karlsruhe Hbf,22:13,Paris Est,19:32,
+ICE 272,Karlsruhe Hbf,21:08,Frankfurt(Main)Hbf,20:00,15
+ICE 375,Karlsruhe Hbf,21:49,Basel SBB,20:00,13
+ICE 266,Karlsruhe Hbf,21:56,Basel SBB,20:07,11
+TGV 9579,Karlsruhe Hbf,21:33,Stuttgart Hbf,20:27,
+ICE 100,Karlsruhe Hbf,05:48,Berlin Ostbahnhof,21:02,55
+ICE 203,Karlsruhe Hbf,22:55,Basel SBB,21:03,6
+ICE 1171,Karlsruhe Hbf,23:04,Basel SBB,21:12,23
+ICE 2873,Karlsruhe Hbf,23:04,Basel SBB,21:12,24
+ICE 377,Karlsruhe Hbf,23:59,Basel SBB,22:00,14
+ICE 4,Karlsruhe Hbf,23:08,Frankfurt(Main)Hbf,22:02,12
+ICE 9567,Karlsruhe Hbf,00:04,Frankfurt(Main)Hbf,22:07,5
+EC 459,Karlsruhe Hbf,09:24,Praha hl.n.,23:07,11
+EN 12,Karlsruhe Hbf,05:28,Leipzig Hbf,23:07,45
+EN 40459,Karlsruhe Hbf,09:24,Praha hl.n.,23:07,11
+IC 60409,Karlsruhe Hbf,08:20,Berlin Hbf,23:07,7
+NJ 409,Karlsruhe Hbf,08:20,Berlin Hbf,23:07,7
+ICE 205,Karlsruhe Hbf,00:59,Basel SBB,23:13,42

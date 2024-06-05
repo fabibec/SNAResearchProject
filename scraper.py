@@ -33,10 +33,11 @@ def random_wait():
 
 
 class ZugfinderWebdriver:
-    def __init__(self):
+    def __init__(self, headless=True):
         # Configure driver
         self.options = Options()
-        self.options.add_argument("--headless")
+        if headless:
+            self.options.add_argument("--headless")
         self.profile = webdriver.FirefoxProfile()
         self.profile.set_preference("browser.download.folderList", 2)
         self.profile.set_preference("browser.download.manager.showWhenStarting", False)
@@ -290,7 +291,7 @@ def scrape_delay_data(d, start_index, go_back_days=60):
 
                     if s == "Zu_viele_Abfragen_in_zu_kurzer_Zeit._Bitte_bestätige,_dass_du_ein_Mensch_bist!":
                         print(f"Bot-Detection. Restart at index {tnum + start_index}.")
-                        bypass_bot_detection(d)
+                        magic_method(d)
                         return tnum + start_index
 
                     if s not in journey:
@@ -339,7 +340,7 @@ def scrape_delay_data(d, start_index, go_back_days=60):
     return -1
 
 
-def bypass_bot_detection(d):
+def magic_method(d):
     d.driver.get(f"https://www.zugfinder.net/en/train-ICE_1679")
     test_date = (datetime.date.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
     table_el = d.driver.find_element(By.XPATH, f'//*[@id="{test_date}"]')
@@ -364,24 +365,34 @@ def bypass_bot_detection(d):
     time.sleep(2)
     check = d.driver.find_element(By.XPATH, "/html/body/div/div[1]/div[3]/div/form/input")
     check.click()
-    #d.driver.execute_script("arguments[0].click();", check)
     time.sleep(1)
     print("Bot-Detection solved! Will continue.")
 
+
 if __name__ == "__main__":
-    # w = ZugfinderWebdriver()
-    get_list_of_german_train_stations()
+    '''Init the selenium crawler'''
+    w = ZugfinderWebdriver(headless=True)
+
+    '''Scrape the station information'''
+    # get_list_of_german_train_stations()
+    # append_num_of_platforms()
+
+    '''Scrape the departure boards for german stations 
+    and exclude the trains that have non german stations in their route'''
+    # scrape_trains(d)
     # find_suitable_trains(w)
 
-    append_num_of_platforms()
-'''
-    up_to = 49
+    '''This scrapes the delay data for every train
+    Disclaimer: This stuff is VERY slow and sometimes the website times out, so you have to restart the program'''
+    up_to = 87
     while up_to != -1:
         try:
             up_to = scrape_delay_data(w, up_to)
-        except TimeoutError:
-            time.sleep(120)
+        except Exception as e:
+            # This exception clause is very broad, so you can run the script overnight, and it tries to restart
+            print(f"Exception ocured :\n{e}\n Trying to continue")
+            time.sleep(20)
             print("Timeout, wait 2 Minutes")
             continue
 
-    w.driver.quit()'''
+    w.driver.quit()

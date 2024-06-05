@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1020,Straubing,16:06,Hamburg-Altona,05:57,38
+IC 297,Straubing,10:47,Wien Hbf,07:34,4
+ICE 92,Straubing,20:15,Hamburg-Altona,13:12,13
+ICE 93,Straubing,17:47,Wien Hbf,14:49,58
+IC 296,Straubing,08:37,Rostock Hbf,22:37,

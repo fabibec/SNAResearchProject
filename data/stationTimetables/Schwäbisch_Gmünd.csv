@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2061,Schwäbisch Gmünd,07:49,Ansbach,06:42,
+IC 2164,Schwäbisch Gmünd,23:00,Karlsruhe Hbf,07:18,
+IC 2063,Schwäbisch Gmünd,14:04,Leipzig Hbf,08:42,2
+IC 2162,Schwäbisch Gmünd,10:53,Karlsruhe Hbf,09:18,4
+IC 2065,Schwäbisch Gmünd,16:04,Leipzig Hbf,10:41,1
+IC 2160,Schwäbisch Gmünd,12:53,Karlsruhe Hbf,11:18,2
+IC 2067,Schwäbisch Gmünd,18:04,Leipzig Hbf,12:41,3
+IC 2068,Schwäbisch Gmünd,13:52,Stuttgart Hbf,13:18,2
+IC 2069,Schwäbisch Gmünd,20:04,Leipzig Hbf,14:41,1
+IC 2066,Schwäbisch Gmünd,16:52,Karlsruhe Hbf,15:18,22
+IC 2161,Schwäbisch Gmünd,22:04,Leipzig Hbf,16:41,1
+IC 2064,Schwäbisch Gmünd,17:53,Stuttgart Hbf,17:18,10
+IC 2163,Schwäbisch Gmünd,20:18,Nürnberg Hbf,18:41,
+IC 2062,Schwäbisch Gmünd,19:53,Stuttgart Hbf,19:18,1
+IC 2165,Schwäbisch Gmünd,22:18,Nürnberg Hbf,20:41,3
+IC 2060,Schwäbisch Gmünd,23:00,Karlsruhe Hbf,21:18,7

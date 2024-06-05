@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 876,Hildesheim Hbf,09:42,Berlin Ostbahnhof,07:36,1
+ICE 2546,Hildesheim Hbf,10:43,Berlin Südkreuz,08:37,10
+ICE 791,Hildesheim Hbf,09:50,Göttingen,09:21,3
+ICE 994,Hildesheim Hbf,12:42,Berlin Südkreuz,10:37,2
+ICE 793,Hildesheim Hbf,11:50,Göttingen,11:21,29
+ICE 992,Hildesheim Hbf,14:46,Berlin Südkreuz,12:37,1
+ICE 795,Hildesheim Hbf,13:50,Göttingen,13:21,3
+ICE 798,Hildesheim Hbf,16:42,Berlin Südkreuz,14:37,
+ICE 797,Hildesheim Hbf,15:50,Göttingen,15:21,2
+ICE 796,Hildesheim Hbf,18:46,Berlin Südkreuz,16:37,4
+ICE 799,Hildesheim Hbf,17:50,Göttingen,17:21,4
+ICE 794,Hildesheim Hbf,20:42,Berlin Südkreuz,18:37,
+ICE 995,Hildesheim Hbf,19:50,Göttingen,19:19,5
+ICE 792,Hildesheim Hbf,22:42,Berlin Ostbahnhof,20:37,7
+ICE 879,Hildesheim Hbf,23:12,Kassel-Wilhelmshöhe,22:19,3
+ICE 790,Hildesheim Hbf,00:54,Berlin Ostbahnhof,22:42,

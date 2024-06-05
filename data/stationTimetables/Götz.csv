@@ -1,0 +1,4 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+WB 961,Götzis,12:52,Wien Westbahnhof,05:35,
+NJ 447,Götzis,07:04,Wien Hbf (Autoreisezuganlage),22:04,5
+WB 968,Götzis,22:47,Bregenz,22:20,

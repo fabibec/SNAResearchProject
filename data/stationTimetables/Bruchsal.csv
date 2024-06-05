@@ -1,0 +1,19 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1061,Bruchsal,07:54,München Hbf,05:09,
+ICE 561,Bruchsal,08:49,München Hbf,06:16,
+IC 2571,Bruchsal,10:17,Singen(Hohentwiel),06:55,
+ICE 1672,Bruchsal,17:20,Ostseebad Binz,07:22,
+ICE 1068,Bruchsal,07:52,Karlsruhe Hbf,07:39,
+ICE 267,Bruchsal,10:49,München Hbf,08:17,3
+ICE 1571,Bruchsal,08:51,Karlsruhe Hbf,08:35,2
+ICE 1573,Bruchsal,10:50,Karlsruhe Hbf,10:35,9
+ICE 1578,Bruchsal,20:14,Velgast,11:22,2
+ICE 568,Bruchsal,11:52,Karlsruhe Hbf,11:40,1
+ICE 565,Bruchsal,14:49,München Hbf,12:17,
+ICE 1515,Bruchsal,12:50,Karlsruhe Hbf,12:35,17
+ICE 1576,Bruchsal,21:32,Rostock Hbf,13:22,3
+ICE 566,Bruchsal,13:52,Karlsruhe Hbf,13:40,
+ICE 567,Bruchsal,16:49,München Hbf,14:17,2
+ICE 1514,Bruchsal,21:49,Hamburg-Altona,15:22,4
+ICE 569,Bruchsal,18:49,München Hbf,16:17,3
+ICE 1579,Bruchsal,16:50,Karlsruhe Hbf,16:35,19

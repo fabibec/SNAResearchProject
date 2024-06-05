@@ -1,0 +1,23 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 540,Delmenhorst,01:08,Oldenburg(Oldb)Hbf,00:51,24
+ICE 841,Delmenhorst,08:36,Berlin Ostbahnhof,04:48,
+IC 2033,Delmenhorst,10:15,Leipzig Hbf,05:54,2
+IC 2438,Delmenhorst,08:21,Norddeich Mole,06:04,2
+ICE 533,Delmenhorst,12:40,München Hbf,06:59,1
+ICE55913,Delmenhorst,08:14,Hannover Hbf,06:59,
+IC 2035,Delmenhorst,12:39,Berlin Ostbahnhof,07:54,2
+IC 2436,Delmenhorst,09:38,Emden Hbf,08:04,8
+IC 2037,Delmenhorst,14:15,Leipzig Hbf,09:54,2
+IC 2434,Delmenhorst,11:50,Emden Außenhafen,10:04,22
+IC 2039,Delmenhorst,16:15,Leipzig Hbf,11:54,4
+IC 2432,Delmenhorst,14:19,Norddeich Mole,12:04,2
+ICE 1133,Delmenhorst,16:29,Bitterfeld,12:49,
+IC 2431,Delmenhorst,19:59,Cottbus Hbf,13:54,1
+IC 2430,Delmenhorst,15:38,Emden Hbf,14:04,6
+IC 2433,Delmenhorst,20:15,Leipzig Hbf,15:54,2
+IC 2038,Delmenhorst,17:38,Emden Hbf,16:06,4
+IC 2435,Delmenhorst,22:15,Leipzig Hbf,17:54,2
+IC 2036,Delmenhorst,20:20,Norddeich Mole,18:04,5
+IC 2034,Delmenhorst,22:14,Norddeich,20:05,14
+IC 2439,Delmenhorst,22:05,Bremen Hbf,21:54,1
+ICE 532,Delmenhorst,23:55,Oldenburg(Oldb)Hbf,23:39,34

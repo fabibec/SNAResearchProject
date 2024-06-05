@@ -1,0 +1,24 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+NJ 40490,Regensburg Hbf,11:01,Amsterdam Centraal,00:10,55
+NJ 490,Regensburg Hbf,09:05,Hamburg-Altona,00:10,55
+ICE 1020,Regensburg Hbf,16:06,Hamburg-Altona,06:22,46
+IC 297,Regensburg Hbf,10:47,Wien Hbf,07:11,
+ICE 21,Regensburg Hbf,12:47,Wien Hbf,09:25,22
+ICE 94,Regensburg Hbf,16:20,Hamburg-Altona,09:35,14
+ICE 228,Regensburg Hbf,17:21,Dortmund Hbf,10:32,38
+ICE 23,Regensburg Hbf,14:47,Wien Hbf,11:25,
+ICE 28,Regensburg Hbf,19:24,Dortmund Hbf,12:35,29
+ICE 91,Regensburg Hbf,16:47,Wien Hbf,13:25,34
+ICE 92,Regensburg Hbf,20:15,Hamburg-Altona,13:33,30
+ICE 93,Regensburg Hbf,17:47,Wien Hbf,14:25,51
+ICE 26,Regensburg Hbf,21:19,Dortmund Hbf,14:35,81
+ICE 27,Regensburg Hbf,18:47,Wien Hbf,15:25,
+ICE 90,Regensburg Hbf,22:34,Hamburg-Altona,16:35,76
+ICE 29,Regensburg Hbf,20:47,Wien Hbf,17:25,3
+ICE 95,Regensburg Hbf,21:47,Wien Hbf,18:25,64
+ICE 22,Regensburg Hbf,01:20,Dortmund Hbf,18:35,27
+ICE 229,Regensburg Hbf,23:05,Wien Hbf,19:25,12
+ICE 20,Regensburg Hbf,23:37,Frankfurt(Main)Hbf,20:35,42
+IC 17,Regensburg Hbf,03:48,Lichtenfels,22:59,
+IC 296,Regensburg Hbf,08:37,Rostock Hbf,22:59,14
+ICE 929,Regensburg Hbf,00:50,Passau Hbf,23:40,46
