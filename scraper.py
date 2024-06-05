@@ -14,6 +14,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 import requests as r
+from requests_ratelimiter import LimiterSession
 import pandas as pd
 
 from ofunctions.network import set_ip_version
@@ -88,6 +89,45 @@ def get_list_of_german_train_stations():
     print(f"Found {len(stations.index)} stations")
 
     stations.to_csv(data_path + "/stations/raw/stations.csv")
+
+
+def append_num_of_platforms():
+    # Append number of platform by using DB-API
+    try:
+        station_df = pd.read_csv(data_path + "/stations/raw/stations.csv")
+    except FileNotFoundError:
+        print("Base Dataframe not found")
+        return
+
+    station_df["platforms"] = pd.Series(dtype=int)
+
+    session = LimiterSession(per_second=9)
+    session.headers.update({'DB-Client-ID': os.environ.get("DB_CLIENT_ID")})
+    session.headers.update({'DB-Api-Key': os.environ.get("DB_CLIENT_SEC")})
+    session.headers.update({'accept': 'application/vnd.de.db.ris+json'})
+
+    for index, row in station_df.iterrows():
+        platforms = []
+        main_station_id = row['id']
+        response = session.get(
+            f"https://apis.deutschebahn.com/db-api-marketplace/apis/ris-stations/v1/platforms/{main_station_id}" +
+            "?includeSectors=false" +
+            "&includeAccessibility=false&includeOperational=false&includeSubPlatforms=false")
+
+        data = response.json()["platforms"]
+
+        for d in data:
+            if d["name"] not in platforms:
+                platforms.append(d["name"])
+
+            for lp in d["linkedPlatforms"]:
+                if lp not in platforms:
+                    platforms.append(d["name"])
+
+        station_df.at[index, "platforms"] = len(platforms)
+        print("Processed " + row['name'])
+
+    station_df.to_csv(data_path + "/stations/raw/stations.csv")
 
 
 def scrape_trains(d):
@@ -328,17 +368,20 @@ def bypass_bot_detection(d):
     time.sleep(1)
     print("Bot-Detection solved! Will continue.")
 
-w = ZugfinderWebdriver()
-# get_list_of_german_train_stations()
-# find_suitable_trains(w)
+if __name__ == "__main__":
+    # w = ZugfinderWebdriver()
+    get_list_of_german_train_stations()
+    # find_suitable_trains(w)
 
-up_to = 38
-while up_to != -1:
-    try:
-        up_to = scrape_delay_data(w, up_to)
-    except TimeoutError:
-        time.sleep(120)
-        print("Timeout, wait 2 Minutes")
-        continue
+    append_num_of_platforms()
+'''
+    up_to = 49
+    while up_to != -1:
+        try:
+            up_to = scrape_delay_data(w, up_to)
+        except TimeoutError:
+            time.sleep(120)
+            print("Timeout, wait 2 Minutes")
+            continue
 
-w.driver.quit()
+    w.driver.quit()'''
