@@ -57,9 +57,6 @@ class ZugfinderWebdriver:
         login_form.submit()
         time.sleep(2.0)
 
-    def __del__(self):
-        self.driver.quit()
-
 
 def get_list_of_german_train_stations():
     set_ip_version(4)
@@ -108,6 +105,7 @@ def append_num_of_platforms():
     session.headers.update({'accept': 'application/vnd.de.db.ris+json'})
 
     for index, row in station_df.iterrows():
+        additional_ids = []
         platforms = []
         main_station_id = row['id']
         response = session.get(
@@ -121,8 +119,19 @@ def append_num_of_platforms():
             if d["name"] not in platforms:
                 platforms.append(d["name"])
 
-            for lp in d["linkedPlatforms"]:
-                if lp not in platforms:
+        additional_ids += re.findall(r"[0-9]+", row["additionalIds"])
+
+        for a_id in additional_ids:
+            print(a_id)
+            response = session.get(
+                f"https://apis.deutschebahn.com/db-api-marketplace/apis/ris-stations/v1/platforms/{a_id}" +
+                "?includeSectors=false" +
+                "&includeAccessibility=false&includeOperational=false&includeSubPlatforms=false")
+
+            data = response.json()["platforms"]
+
+            for d in data:
+                if d["name"] not in platforms:
                     platforms.append(d["name"])
 
         station_df.at[index, "platforms"] = len(platforms)
@@ -342,7 +351,7 @@ def scrape_delay_data(d, start_index, go_back_days=60):
 
 def magic_method(d):
     d.driver.get(f"https://www.zugfinder.net/en/train-ICE_1679")
-    test_date = (datetime.date.today() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
+    test_date = (datetime.date(2024, 6, 4)).strftime('%Y-%m-%d')
     table_el = d.driver.find_element(By.XPATH, f'//*[@id="{test_date}"]')
     d.driver.execute_script("arguments[0].click();", table_el)
     not_a_bot_link = WebDriverWait(d.driver, 10).until(
@@ -366,7 +375,6 @@ def magic_method(d):
     check = d.driver.find_element(By.XPATH, "/html/body/div/div[1]/div[3]/div/form/input")
     check.click()
     time.sleep(1)
-    print("Bot-Detection solved! Will continue.")
 
 
 if __name__ == "__main__":
@@ -375,7 +383,7 @@ if __name__ == "__main__":
 
     '''Scrape the station information'''
     # get_list_of_german_train_stations()
-    # append_num_of_platforms()
+    #append_num_of_platforms()
 
     '''Scrape the departure boards for german stations 
     and exclude the trains that have non german stations in their route'''
@@ -384,15 +392,14 @@ if __name__ == "__main__":
 
     '''This scrapes the delay data for every train
     Disclaimer: This stuff is VERY slow and sometimes the website times out, so you have to restart the program'''
-    up_to = 87
+    up_to = 244
     while up_to != -1:
         try:
             up_to = scrape_delay_data(w, up_to)
         except Exception as e:
             # This exception clause is very broad, so you can run the script overnight, and it tries to restart
-            print(f"Exception ocured :\n{e}\n Trying to continue")
+            print(f"Exception occurred :\n{e}\nTrying to continue")
             time.sleep(20)
-            print("Timeout, wait 2 Minutes")
             continue
 
-    w.driver.quit()
+    # w.driver.quit()
