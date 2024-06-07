@@ -286,8 +286,14 @@ def scrape_delay_data(d, start_index, go_back_days=60):
                 table_el = punctuality_table.find_element(By.XPATH, f'//*[@id="{str_date}"]')
                 d.driver.execute_script("arguments[0].click();", table_el)
 
-                punctuality_form = WebDriverWait(d.driver, 20).until(
-                    EC.presence_of_element_located((By.XPATH, f'//*[@id="form_{str_date}"]')))
+                # In some case there are table elements with no delay data so this causes a timeout
+                try:
+                    punctuality_form = WebDriverWait(d.driver, 3).until(
+                        EC.presence_of_element_located((By.XPATH, f'//*[@id="form_{str_date}"]')))
+                except TimeoutException:
+                    current_date -= datetime.timedelta(days=1)
+                    continue
+
                 punctuality_table = punctuality_form.find_element(By.CSS_SELECTOR, "table")
 
                 rows = punctuality_table.find_elements(By.CSS_SELECTOR, "tr")
@@ -392,7 +398,8 @@ if __name__ == "__main__":
 
     '''This scrapes the delay data for every train
     Disclaimer: This stuff is VERY slow and sometimes the website times out, so you have to restart the program'''
-    up_to = 244
+    # Rerun on : 'IC_2163.csv' 'IC604.csv'
+    up_to = 356
     while up_to != -1:
         try:
             up_to = scrape_delay_data(w, up_to)
@@ -402,4 +409,4 @@ if __name__ == "__main__":
             time.sleep(20)
             continue
 
-    # w.driver.quit()
+    w.driver.quit()
