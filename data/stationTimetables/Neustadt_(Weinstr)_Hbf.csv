@@ -1,5 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-ICE 932,Neustadt(Weinstr)Hbf,08:56,Frankfurt(Main)Hbf,07:40,FALSE
-ICE 563,Neustadt(Weinstr)Hbf,12:49,München Hbf,09:37,
-ICE 562,Neustadt(Weinstr)Hbf,19:17,Saarbrücken Hbf,18:11,1
-ICE 935,Neustadt(Weinstr)Hbf,23:29,Saarbrücken Hbf,22:19,

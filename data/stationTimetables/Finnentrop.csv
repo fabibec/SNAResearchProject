@@ -1,9 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-IC 2324,Finnentrop,11:38,Münster(Westf)Hbf,09:46,5
-IC 2229,Finnentrop,14:35,Frankfurt(Main)Hbf,12:15,6
-IC 2320,Finnentrop,14:57,Dortmund Hbf,13:46,FALSE
-IC 2323,Finnentrop,18:35,Frankfurt(Main)Hbf,16:15,FALSE
-IC 2226,Finnentrop,19:39,Münster(Westf)Hbf,17:46,2
-IC 2325,Finnentrop,20:35,Frankfurt(Main)Hbf,18:15,FALSE
-IC 2224,Finnentrop,20:57,Dortmund Hbf,19:46,FALSE
-IC 2327,Finnentrop,20:55,Siegen,20:15,FALSE

@@ -1,5 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-IC 2084,Sonthofen,19:21,Hamburg-Altona,10:01,7
-IC 2012,Sonthofen,18:04,Dortmund Hbf,10:11,6
-IC 2085,Sonthofen,16:11,Oberstdorf,15:52,21
-IC 2013,Sonthofen,18:13,Oberstdorf,17:52,FALSE

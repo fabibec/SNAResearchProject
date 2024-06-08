@@ -1,9 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-IC 2324,Altena(Westf),11:38,Münster(Westf)Hbf,10:13,6
-IC 2229,Altena(Westf),14:35,Frankfurt(Main)Hbf,11:48,5
-IC 2320,Altena(Westf),14:57,Dortmund Hbf,14:13,FALSE
-IC 2323,Altena(Westf),18:35,Frankfurt(Main)Hbf,15:48,FALSE
-IC 2325,Altena(Westf),20:35,Frankfurt(Main)Hbf,17:48,FALSE
-IC 2226,Altena(Westf),19:39,Münster(Westf)Hbf,18:13,
-IC 2327,Altena(Westf),20:55,Siegen,19:48,FALSE
-IC 2224,Altena(Westf),20:57,Dortmund Hbf,20:13,FALSE

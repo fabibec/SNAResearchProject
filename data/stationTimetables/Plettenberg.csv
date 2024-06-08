@@ -1,9 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-IC 2324,Plettenberg,11:38,Münster(Westf)Hbf,09:57,5
-IC 2229,Plettenberg,14:35,Frankfurt(Main)Hbf,12:04,5
-IC 2320,Plettenberg,14:57,Dortmund Hbf,13:57,FALSE
-IC 2323,Plettenberg,18:35,Frankfurt(Main)Hbf,16:04,FALSE
-IC 2226,Plettenberg,19:39,Münster(Westf)Hbf,17:57,1
-IC 2325,Plettenberg,20:35,Frankfurt(Main)Hbf,18:04,FALSE
-IC 2224,Plettenberg,20:57,Dortmund Hbf,19:57,FALSE
-IC 2327,Plettenberg,20:55,Siegen,20:04,FALSE

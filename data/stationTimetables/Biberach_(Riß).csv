@@ -1,8 +1,0 @@
-﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
-IC 897,Biberach(Riß),10:28,Lindau-Reutin,09:24,
-RJX 897,Biberach(Riß),17:57,Flughafen Wien,09:24,
-ICE 118,Biberach(Riß),20:35,Münster(Westf)Hbf,13:21,1
-ICE 119,Biberach(Riß),19:05,Innsbruck Hbf,14:36,1
-RJ 860,Biberach(Riß),20:43,Wiesloch-Walldorf,18:45,68
-RJX 860,Biberach(Riß),20:05,Stuttgart Hbf,18:45,55
-RJX 890,Biberach(Riß),21:52,Frankfurt(Main)Hbf,18:45,39
