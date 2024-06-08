@@ -110,7 +110,7 @@ def process_delay():
     print("**Process Delay**")
     # Result dataframe
     result = pd.DataFrame(columns=["source", "target", "sumDelay", "maxDelay", "minDelay", "stdDev", "n", "connections"])
-    result.set_index(["source", "target"], drop=False, inplace=True)
+    result.set_index(["source", "target"], drop=False, inplace=True, verify_integrity=True)
 
     # Get all delay files
     all_files = os.listdir(data_path + "/delay/processed")
@@ -177,7 +177,7 @@ def add_station_delay():
 
 if __name__ == "__main__":
     '''This only keeps the stations we need for the network and some possibly interesting attributes'''
-    #process_stations()
+    process_stations()
 
     '''Builds an edge list with some attributes for the network'''
     process_delay()

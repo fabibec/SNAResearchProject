@@ -1,3 +1,6 @@
+./data
+~./data/edges
+~./data/stations/processed
 ./driver
 ./venv
 code/scrape.py
