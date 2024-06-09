@@ -1,8 +1,8 @@
 ./data
-~./data/edges
-~./data/stations/processed
+~./data/edge_list.csv
+~./data/nodes.csv
 ./driver
-./venv
+./.venv
 code/scrape.py
 ./.env
 ./.idea

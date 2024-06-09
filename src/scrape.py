@@ -389,7 +389,7 @@ if __name__ == "__main__":
 
     '''Scrape the station information'''
     # get_list_of_german_train_stations()
-    #append_num_of_platforms()
+    # append_num_of_platforms()
 
     '''Scrape the departure boards for german stations 
     and exclude the trains that have non german stations in their route'''
@@ -399,7 +399,7 @@ if __name__ == "__main__":
     '''This scrapes the delay data for every train
     Disclaimer: This stuff is VERY slow and sometimes the website times out, so you have to restart the program'''
     # Rerun on : 'IC_2163.csv' 'IC604.csv'
-    up_to = 356
+    up_to = 0
     while up_to != -1:
         try:
             up_to = scrape_delay_data(w, up_to)

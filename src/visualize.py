@@ -8,6 +8,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 data_path = os.environ.get("DATA_PATH")
+red = "#EF3D59"
+orange = "#E17A47"
+yellow = "#EFC958"
+green = "4AB19D"
+blue = "#344E5C"
 
 nodes = pd.read_csv(data_path + "/stations/processed/stations.csv")
 edge_list = pd.read_csv(data_path + "/edges/connection_list.csv", index_col=False)
@@ -31,8 +36,8 @@ pos = {}
 for count, elem in enumerate(nodes['name']):
     pos[elem] = (mx[count], my[count])
 
-nx.draw_networkx_nodes(graph, pos, node_color='r', alpha=0.8, node_size=75)
-nx.draw_networkx_edges(graph, pos, edge_color='g', alpha=0.2, arrows=False)
+nx.draw_networkx_nodes(graph, pos, node_color=red, alpha=0.8, node_size=75)
+nx.draw_networkx_edges(graph, pos, edge_color=blue, alpha=0.2, arrows=False)
 
 m.drawcountries(linewidth=3)
 m.drawstates(linewidth=0.2)

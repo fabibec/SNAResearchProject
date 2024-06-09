@@ -1,0 +1,312 @@
+name,federalState,latitude,longitude,type,segment,platforms,stationManagement,controlCenter,operator,operatorShort,regionalSector,delay
+Aachen Hbf,Nordrhein-Westfalen,50.7678,6.091499,Knotenbahnhof,Großstadtknoten,7.0,Düsseldorf,Duisburg Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-1.2315270935960592
+Aalen Hbf,Baden-Württemberg,48.841013,10.096271,Knotenbahnhof,Regionaler Knoten,5.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.40105820105820106
+Altenbeken,Nordrhein-Westfalen,51.766433,8.943319,Knotenbahnhof,Regionaler Knoten,6.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.39932885906040266
+Ansbach,Bayern,49.298032,10.578239,Knotenbahnhof,Regionaler Knoten,7.0,Nürnberg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.5244444444444445
+Aschaffenburg Hbf,Bayern,49.980557,9.143697,Knotenbahnhof,Regionaler Knoten,8.0,Nordfranken,Würzburg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.8617594254937163
+Augsburg Hbf,Bayern,48.365441,10.88557,Knotenbahnhof,Großstadtknoten,15.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.6824254881808839
+Aulendorf,Baden-Württemberg,47.953052,9.644046,Knotenbahnhof,Regionaler Knoten,5.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.0
+Bad Hersfeld,Hessen,50.869632,9.716182,Knotenbahnhof,Regionaler Knoten,5.0,Kassel,Kassel-Wilhelmshöhe,nordhessischer-verkehrsverbund-mbh,NVV,RB Mitte,0.14480077745383868
+Bamberg,Bayern,49.900759,10.899489,Knotenbahnhof,Regionaler Knoten,7.0,Nordfranken,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.3556
+Bensheim,Hessen,49.681329,8.616717,Knotenbahnhof,Regionaler Knoten,4.0,Darmstadt,Frankfurt (Main) Hbf,verkehrsverbund-rhein-neckar-gmbh,VRN,RB Mitte,-0.027
+Bielefeld Hbf,Nordrhein-Westfalen,52.029261,8.532722,Knotenbahnhof,Großstadtknoten,7.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.37088815789473684
+Schwerte (Ruhr),Nordrhein-Westfalen,51.442281,7.55896,Knotenbahnhof,Regionaler Knoten,6.0,Dortmund,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.24890829694323144
+Bingen (Rhein) Hbf,Rheinland-Pfalz,49.968729,7.884263,Knotenbahnhof,Regionaler Knoten,6.0,Mainz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-sud,ZPNV Süd,RB Mitte,0.09193776520509193
+Bochum Hbf,Nordrhein-Westfalen,51.478609,7.223275,Knotenbahnhof,Großstadtknoten,8.0,Essen,Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.16336077844311378
+Bonn Hbf,Nordrhein-Westfalen,50.732008,7.097136,Knotenbahnhof,Großstadtknoten,5.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-0.7155688622754491
+Boppard Hbf,Rheinland-Pfalz,50.231413,7.586102,Zubringerbahnhof,Regionaler Zubringer,3.0,Koblenz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-nord,ZVRP Nord,RB Mitte,-0.6
+Braunschweig Hbf,Niedersachsen,52.252218,10.540295,Knotenbahnhof,Großstadtknoten,8.0,Braunschweig / Göttingen,Hannover Hbf,regionalverband-grossraum-braunschweig,RVB,RB Nord,0.22677080527875035
+Bremen Hbf,Bremen,53.083481,8.813834,Metropolbahnhof,Metropolbahnhof,9.0,Bremen / Osnabrück,Bremen Hbf,senat-fur-umwelt-bau-verkehr-und-europa-bremen,SUBV,RB Nord,0.5930874237583503
+Bremerhaven Hbf,Bremen,53.534912,8.599555,Knotenbahnhof,Regionaler Knoten,4.0,Bremen / Osnabrück,Bremen Hbf,senat-fur-umwelt-bau-verkehr-und-europa-bremen,SUBV,RB Nord,0.34285714285714286
+Bruchsal,Baden-Württemberg,49.124622,8.589649,Knotenbahnhof,Regionaler Knoten,8.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.021043000914913082
+Buchloe,Bayern,48.033723,10.716217,Knotenbahnhof,Regionaler Knoten,5.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.18333333333333332
+Büchen,Schleswig-Holstein,53.474972,10.623298,Knotenbahnhof,Regionaler Knoten,4.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.185589519650655
+Bünde (Westf),Nordrhein-Westfalen,52.202075,8.573876,Knotenbahnhof,Regionaler Knoten,3.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.35294117647058826
+Celle,Niedersachsen,52.6204548,10.062468,Knotenbahnhof,Regionaler Knoten,6.0,Hannover,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.08398058252427185
+Crailsheim,Baden-Württemberg,49.137872,10.064326,Knotenbahnhof,Regionaler Knoten,4.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.1671957671957672
+Darmstadt Hbf,Hessen,49.872503,8.629636,Knotenbahnhof,Großstadtknoten,11.0,Darmstadt,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,-0.04262295081967213
+Delmenhorst,Niedersachsen,53.052792,8.629758,Knotenbahnhof,Regionaler Knoten,3.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-0.3002461033634126
+Singen (Hohentwiel),Baden-Württemberg,47.758438,8.840383,Knotenbahnhof,Regionaler Knoten,9.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.5123809523809524
+Dillenburg,Hessen,50.734883,8.294088,Knotenbahnhof,Regionaler Knoten,5.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.4076827757125155
+Soest,Nordrhein-Westfalen,51.578419,8.104589,Knotenbahnhof,Regionaler Knoten,3.0,Dortmund,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.2751677852348993
+Donaueschingen,Baden-Württemberg,47.947786,8.498919,Knotenbahnhof,Regionaler Knoten,5.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.011560693641618497
+Donauwörth,Bayern,48.714026,10.771443,Knotenbahnhof,Regionaler Knoten,7.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.1423982869379015
+Dortmund Hbf,Nordrhein-Westfalen,51.517896,7.45929,Metropolbahnhof,Metropolbahnhof,16.0,Dortmund,Dortmund Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-2.3483939286974937
+Düsseldorf Flughafen,Nordrhein-Westfalen,51.292009,6.786836,Knotenbahnhof,Großstadtknoten,4.0,Düsseldorf,Düsseldorf Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.3345471096950387
+Düren,Nordrhein-Westfalen,50.809517,6.482451,Knotenbahnhof,Regionaler Knoten,8.0,Düsseldorf,Duisburg Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,0.06513409961685823
+Düsseldorf Hbf,Nordrhein-Westfalen,51.219962,6.794319,Metropolbahnhof,Metropolbahnhof,16.0,Düsseldorf,Düsseldorf Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.6153409090909091
+Duisburg Hbf,Nordrhein-Westfalen,51.429785,6.775903,Metropolbahnhof,Metropolbahnhof,12.0,Duisburg,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.3269984558736192
+Solingen Hbf,Nordrhein-Westfalen,51.160766,7.004187,Knotenbahnhof,Großstadtknoten,5.0,Düsseldorf,Düsseldorf Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.12398585396297067
+Straubing,Bayern,48.876978,12.574094,Knotenbahnhof,Regionaler Knoten,5.0,Regensburg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.7916666666666666
+Stuttgart Hbf,Baden-Württemberg,48.784084,9.181635,Metropolbahnhof,Metropolbahnhof,18.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-2.0865893622384672
+Essen Hbf,Nordrhein-Westfalen,51.451355,7.014793,Metropolbahnhof,Metropolbahnhof,11.0,Essen,Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.33779001179709006
+Eutingen im Gäu,Baden-Württemberg,48.479952,8.782236,Zubringerbahnhof,Regionaler Zubringer,3.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.016666666666666666
+Finnentrop,Nordrhein-Westfalen,51.173048,7.964563,Zubringerbahnhof,Regionaler Zubringer,4.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.3900343642611684
+Frankfurt (Main) Hbf,Hessen,50.107145,8.663789,Metropolbahnhof,Metropolbahnhof,29.0,Frankfurt a. M.,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,-0.5986939119443859
+Freiburg (Breisgau) Hbf,Baden-Württemberg,47.997697,7.84117,Knotenbahnhof,Großstadtknoten,8.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.07784431137724551
+Freilassing,Bayern,47.836916,12.977193,Knotenbahnhof,Regionaler Knoten,9.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.007042253521126761
+Friedberg (Hess),Hessen,50.332606,8.762056,Knotenbahnhof,Regionaler Knoten,10.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.026490066225165563
+Friedrichshafen Stadt,Baden-Württemberg,47.653224,9.4739,Knotenbahnhof,Regionaler Knoten,11.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.0
+Fürth (Bay) Hbf,Bayern,49.469707,10.989988,Knotenbahnhof,Regionaler Knoten,8.0,Nürnberg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.03333333333333333
+Fulda,Hessen,50.554723,9.683977,Knotenbahnhof,Großstadtknoten,10.0,Kassel,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.6057692307692307
+Traunstein,Bayern,47.869727,12.638801,Knotenbahnhof,Regionaler Knoten,6.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.2746478873239437
+Gelsenkirchen Hbf,Nordrhein-Westfalen,51.504903,7.102455,Knotenbahnhof,Großstadtknoten,6.0,Essen,Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.10493827160493827
+Treuchtlingen,Bayern,48.961267,10.908159,Knotenbahnhof,Regionaler Knoten,7.0,Nürnberg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.4619883040935672
+Gießen,Hessen,50.579059,8.661462,Knotenbahnhof,Regionaler Knoten,11.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.3137254901960784
+Göppingen,Baden-Württemberg,48.700027,9.651969,Knotenbahnhof,Regionaler Knoten,7.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.18333333333333332
+Göttingen,Niedersachsen,51.536815,9.926072,Knotenbahnhof,Großstadtknoten,8.0,Braunschweig / Göttingen,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-1.9373204022988506
+Treysa,Hessen,50.910661,9.185673,Zubringerbahnhof,Regionaler Zubringer,4.0,Kassel,Kassel-Wilhelmshöhe,nordhessischer-verkehrsverbund-mbh,NVV,RB Mitte,0.05718954248366013
+Günzburg,Bayern,48.4605626,10.2792621,Knotenbahnhof,Regionaler Knoten,6.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.18412698412698414
+Tübingen Hbf,Baden-Württemberg,48.515811,9.055407,Knotenbahnhof,Regionaler Knoten,6.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-15.661538461538461
+Hagen Hbf,Nordrhein-Westfalen,51.362747,7.460249,Knotenbahnhof,Großstadtknoten,12.0,Hagen,Düsseldorf Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.23154819863680623
+Hamburg-Harburg,Hamburg,53.455908,9.991701,Knotenbahnhof,Großstadtknoten,8.0,Hamburg,Hamburg Hbf,hamburger-verkehrsverbund-gmbh,BWVI,RB Nord,0.23121573685907773
+Hamm (Westf) Hbf,Nordrhein-Westfalen,51.678078,7.807821,Knotenbahnhof,Großstadtknoten,14.0,Dortmund,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,1.4330058939096266
+Hanau Hbf,Hessen,50.120953,8.929,Knotenbahnhof,Regionaler Knoten,11.0,Frankfurt a. M.,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.315358361774744
+Hannover Hbf,Niedersachsen,52.376761,9.741021,Metropolbahnhof,Metropolbahnhof,12.0,Hannover,Hannover Hbf,region-hannover,RH,RB Nord,-0.0963362469778687
+Heide (Holst),Schleswig-Holstein,54.193563,9.101029,Knotenbahnhof,Regionaler Knoten,5.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.4666666666666667
+Heidelberg Hbf,Baden-Württemberg,49.403567,8.675442,Knotenbahnhof,Großstadtknoten,9.0,Mannheim,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.09461426491994178
+Helmstedt,Niedersachsen,52.222086,11.010553,Zubringerbahnhof,Regionaler Zubringer,4.0,Braunschweig / Göttingen,Hannover Hbf,regionalverband-grossraum-braunschweig,RVB,RB Nord,0.1654275092936803
+Herford,Nordrhein-Westfalen,52.119609,8.663643,Knotenbahnhof,Regionaler Knoten,7.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.14627081824764662
+Tuttlingen,Baden-Württemberg,47.980579,8.798542,Knotenbahnhof,Regionaler Knoten,5.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.3210227272727273
+Uelzen,Niedersachsen,52.969781,10.553053,Knotenbahnhof,Regionaler Knoten,7.0,Braunschweig / Göttingen,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.07303628847037207
+Hildesheim Hbf,Niedersachsen,52.160626,9.953497,Knotenbahnhof,Großstadtknoten,9.0,Braunschweig / Göttingen,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.35961968680089484
+Ulm Hbf,Baden-Württemberg,48.399437,9.982227,Knotenbahnhof,Großstadtknoten,12.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.47603675192450956
+Unna,Nordrhein-Westfalen,51.538982,7.692858,Knotenbahnhof,Regionaler Knoten,8.0,Dortmund,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.027777777777777776
+Viersen,Nordrhein-Westfalen,51.254947,6.403896,Knotenbahnhof,Regionaler Knoten,5.0,Düsseldorf,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.011904761904761904
+Homburg (Saar) Hbf,Saarland,49.328082,7.337035,Knotenbahnhof,Regionaler Knoten,7.0,Saarbrücken,Saarbrücken Hbf,zweckverband-personennahverkehr-saarland,ZPS,RB Mitte,0.1774891774891775
+Horb,Baden-Württemberg,48.441471,8.688982,Knotenbahnhof,Regionaler Knoten,6.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.07396449704142012
+Husum,Schleswig-Holstein,54.472271,9.055026,Knotenbahnhof,Regionaler Knoten,4.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,-0.08121212121212121
+Immendingen,Baden-Württemberg,47.936007,8.729536,Zubringerbahnhof,Regionaler Zubringer,5.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.05660377358490566
+Ingolstadt Hbf,Bayern,48.744541,11.437337,Knotenbahnhof,Großstadtknoten,7.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.184472049689441
+Kaiserslautern Hbf,Rheinland-Pfalz,49.436137,7.768716,Knotenbahnhof,Großstadtknoten,11.0,Kaiserslautern,Saarbrücken Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-sud,ZPNV Süd,RB Mitte,0.06926406926406926
+Karlsruhe Hbf,Baden-Württemberg,48.993515,8.402181,Metropolbahnhof,Metropolbahnhof,16.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-1.7320441988950277
+Wanne-Eickel Hbf,Nordrhein-Westfalen,51.531256,7.165783,Knotenbahnhof,Großstadtknoten,8.0,Essen,Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.012121212121212121
+Kaufbeuren,Bayern,47.875432,10.629496,Knotenbahnhof,Regionaler Knoten,4.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.7333333333333333
+Warburg (Westf),Nordrhein-Westfalen,51.492953,9.163845,Zubringerbahnhof,Regionaler Zubringer,4.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.33557046979865773
+Kempten (Allgäu) Hbf,Bayern,47.711745,10.31761,Knotenbahnhof,Regionaler Knoten,5.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.6166666666666667
+Kiel Hbf,Schleswig-Holstein,54.314985,10.131976,Knotenbahnhof,Großstadtknoten,8.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,-3.1759656652360513
+Koblenz Hbf,Rheinland-Pfalz,50.350929,7.588345,Knotenbahnhof,Großstadtknoten,11.0,Koblenz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-nord,ZVRP Nord,RB Mitte,-1.0902877697841726
+Köln Hbf,Nordrhein-Westfalen,50.94303,6.958729,Metropolbahnhof,Metropolbahnhof,11.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-3.1603090766823163
+Krefeld Hbf,Nordrhein-Westfalen,51.325717,6.569885,Knotenbahnhof,Großstadtknoten,5.0,Duisburg,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.15476190476190477
+Kreuztal,Nordrhein-Westfalen,50.956029,7.991696,Zubringerbahnhof,Regionaler Zubringer,3.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.20790378006872853
+Weilheim (Oberbay),Bayern,47.845363,11.14286,Knotenbahnhof,Regionaler Knoten,5.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.08333333333333333
+Leer (Ostfriesl),Niedersachsen,53.23165,7.465283,Knotenbahnhof,Regionaler Knoten,3.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.14837494112105512
+Lichtenfels,Bayern,50.146452,11.059472,Knotenbahnhof,Regionaler Knoten,6.0,Nordfranken,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.39232053422370616
+Ludwigsburg,Baden-Württemberg,48.891862,9.18542,Knotenbahnhof,Regionaler Knoten,5.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.46551724137931033
+Lüneburg,Niedersachsen,53.249656,10.41989,Knotenbahnhof,Regionaler Knoten,6.0,Hamburg,Hamburg Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.07523383489223262
+Mainz Hbf,Rheinland-Pfalz,50.001117,8.25872,Knotenbahnhof,Großstadtknoten,14.0,Mainz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-sud,ZPNV Süd,RB Mitte,-0.10580325548478414
+Mannheim Hbf,Baden-Württemberg,49.479354,8.468921,Metropolbahnhof,Metropolbahnhof,11.0,Mannheim,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.13261359974218498
+Memmingen,Bayern,47.985581,10.186853,Knotenbahnhof,Regionaler Knoten,5.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,1.125
+Wiesbaden Hbf,Hessen,50.070791,8.243731,Knotenbahnhof,Großstadtknoten,10.0,Darmstadt,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,-2.48705501618123
+Witten Hbf,Nordrhein-Westfalen,51.435544,7.329442,Knotenbahnhof,Regionaler Knoten,4.0,Essen,Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.47594501718213056
+Minden (Westf),Nordrhein-Westfalen,52.290138,8.934728,Knotenbahnhof,Regionaler Knoten,5.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.21359223300970873
+Mönchengladbach Hbf,Nordrhein-Westfalen,51.196583,6.446111,Knotenbahnhof,Großstadtknoten,9.0,Düsseldorf,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-1.719298245614035
+Worms Hbf,Rheinland-Pfalz,49.63494,8.356448,Knotenbahnhof,Regionaler Knoten,8.0,Mainz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-sud,ZPNV Süd,RB Mitte,-0.08163265306122448
+Mülheim (Ruhr) Hbf,Nordrhein-Westfalen,51.431342,6.88651,Knotenbahnhof,Großstadtknoten,4.0,Duisburg,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.030456852791878174
+Würzburg Hbf,Bayern,49.801796,9.93578,Knotenbahnhof,Großstadtknoten,11.0,Nordfranken,Würzburg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.19724863443253085
+München Hbf,Bayern,48.140232,11.558335,Metropolbahnhof,Metropolbahnhof,34.0,München,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-4.800738916256158
+München Ost,Bayern,48.12744,11.604971,Knotenbahnhof,Großstadtknoten,12.0,München,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.07591623036649214
+Münster (Westf) Hbf,Nordrhein-Westfalen,51.956566,7.635715,Knotenbahnhof,Großstadtknoten,9.0,Münster (Westf),Essen Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.4499646809512597
+Wuppertal Hbf,Nordrhein-Westfalen,51.254363,7.149543,Knotenbahnhof,Großstadtknoten,5.0,Düsseldorf,Düsseldorf Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.015206929740134744
+Neumünster,Schleswig-Holstein,54.075752,9.979816,Knotenbahnhof,Regionaler Knoten,6.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,-0.296137339055794
+Neuss Hbf,Nordrhein-Westfalen,51.204351,6.684527,Knotenbahnhof,Großstadtknoten,8.0,Düsseldorf,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.23333333333333334
+Neustadt (Weinstr) Hbf,Rheinland-Pfalz,49.349553,8.140757,Knotenbahnhof,Regionaler Knoten,6.0,Kaiserslautern,Saarbrücken Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-sud,ZPNV Süd,RB Mitte,0.05627705627705628
+Nienburg (Weser),Niedersachsen,52.645566,9.217753,Knotenbahnhof,Regionaler Knoten,6.0,Hannover,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-0.2647317502198769
+Nürnberg Hbf,Bayern,49.445616,11.082989,Metropolbahnhof,Metropolbahnhof,21.0,Nürnberg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.2609254498714653
+Oberhausen Hbf,Nordrhein-Westfalen,51.474878,6.851588,Knotenbahnhof,Großstadtknoten,10.0,Duisburg,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.16229656419529837
+Offenburg,Baden-Württemberg,48.476475,7.946723,Knotenbahnhof,Regionaler Knoten,7.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.13738019169329074
+Oldenburg (Oldb) Hbf,Niedersachsen,53.144323,8.222713,Knotenbahnhof,Großstadtknoten,7.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-2.056936647955092
+Osnabrück Hbf,Niedersachsen,52.272851,8.061781,Knotenbahnhof,Großstadtknoten,9.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.32777115613825986
+Paderborn Hbf,Nordrhein-Westfalen,51.712979,8.740505,Knotenbahnhof,Regionaler Knoten,6.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.37583892617449666
+Passau Hbf,Bayern,48.573632,13.450776,Knotenbahnhof,Regionaler Knoten,7.0,Regensburg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-8.728033472803347
+Pforzheim Hbf,Baden-Württemberg,48.894152,8.703099,Knotenbahnhof,Großstadtknoten,9.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.05508474576271186
+Plattling,Bayern,48.779619,12.86394,Knotenbahnhof,Regionaler Knoten,7.0,Regensburg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.200836820083682
+Plochingen,Baden-Württemberg,48.71308,9.41081,Knotenbahnhof,Regionaler Knoten,8.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.144
+Recklinghausen Hbf,Nordrhein-Westfalen,51.616359,7.20349,Knotenbahnhof,Großstadtknoten,3.0,Münster (Westf),Essen Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,0.13144517066085692
+Regensburg Hbf,Bayern,49.011672,12.099617,Knotenbahnhof,Großstadtknoten,8.0,Regensburg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.6778242677824268
+Remagen,Rheinland-Pfalz,50.577215,7.229779,Knotenbahnhof,Regionaler Knoten,5.0,Koblenz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-nord,ZVRP Nord,RB Mitte,-0.007383100902378999
+Reutlingen Hbf,Baden-Württemberg,48.496079,9.209116,Knotenbahnhof,Regionaler Knoten,3.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.23076923076923078
+Rheine,Nordrhein-Westfalen,52.276299,7.434255,Knotenbahnhof,Regionaler Knoten,6.0,Münster (Westf),Essen Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.11228406909788867
+Rheydt Hbf,Nordrhein-Westfalen,51.163027,6.439564,Knotenbahnhof,Regionaler Knoten,4.0,Düsseldorf,Duisburg Hbf,zweckverband-verkehrsverbund-rhein-ruhr-aor,VRR,RB West,-0.021929824561403508
+Rosenheim,Bayern,47.850018,12.119202,Knotenbahnhof,Regionaler Knoten,8.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.018433179723502304
+Rottweil,Baden-Württemberg,48.165304,8.639295,Knotenbahnhof,Regionaler Knoten,6.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.9901719901719902
+Saarbrücken Hbf,Saarland,49.241065,6.991021,Knotenbahnhof,Großstadtknoten,10.0,Saarbrücken,Saarbrücken Hbf,zweckverband-personennahverkehr-saarland,ZPS,RB Mitte,-1.3541666666666667
+Schwäbisch Gmünd,Baden-Württemberg,48.801011,9.787795,Knotenbahnhof,Regionaler Knoten,3.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.17566137566137566
+Andernach,Rheinland-Pfalz,50.434542,7.404839,Knotenbahnhof,Regionaler Knoten,4.0,Koblenz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-nord,ZVRP Nord,RB Mitte,-0.1588021778584392
+Hausach,Baden-Württemberg,48.284924,8.181665,Zubringerbahnhof,Regionaler Zubringer,3.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.011560693641618497
+Marburg (Lahn),Hessen,50.819272,8.775014,Knotenbahnhof,Regionaler Knoten,6.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.1210762331838565
+Mühlacker,Baden-Württemberg,48.953192,8.846101,Knotenbahnhof,Regionaler Knoten,5.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.18058690744920994
+Villingen (Schwarzw),Baden-Württemberg,48.058022,8.465261,Knotenbahnhof,Regionaler Knoten,4.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.023121387283236993
+Wabern (Bz Kassel),Hessen,51.103134,9.35804,Zubringerbahnhof,Regionaler Zubringer,5.0,Kassel,Kassel-Wilhelmshöhe,nordhessischer-verkehrsverbund-mbh,NVV,RB Mitte,0.07465618860510806
+Wetzlar,Hessen,50.565631,8.503819,Knotenbahnhof,Regionaler Knoten,5.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.19454770755885997
+Ainring,Bayern,47.815033,12.964501,Zubringerbahnhof,ländlicher Zubringer,1.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,1.5333333333333334
+Altena (Westf),Nordrhein-Westfalen,51.301981,7.668808,Zubringerbahnhof,ländlicher Zubringer,2.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.012027491408934709
+Hude,Niedersachsen,53.109429,8.460956,Knotenbahnhof,Regionaler Knoten,4.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.06691449814126393
+Lennestadt-Altenhundem,Nordrhein-Westfalen,51.104132,8.071517,Zubringerbahnhof,Regionaler Zubringer,3.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.20221948212083848
+Lippstadt,Nordrhein-Westfalen,51.670687,8.348785,Knotenbahnhof,Regionaler Knoten,3.0,Dortmund,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.18456375838926176
+Neu-Edingen/Friedrichsfeld,Baden-Württemberg,49.44867,8.580125,Zubringerbahnhof,Regionaler Zubringer,5.0,Mannheim,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.030303030303030304
+Augustfehn,Niedersachsen,53.22089,7.759659,Zubringerbahnhof,ländlicher Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.578996282527881
+Montabaur,Rheinland-Pfalz,50.444834,7.825333,Knotenbahnhof,Regionaler Knoten,5.0,Koblenz,Mainz Hbf,zweckverband-schienenpersonennahverkehr-rheinland-pfalz-nord,ZVRP Nord,RB Mitte,0.38704318936877075
+Bad Nauheim,Hessen,50.367904,8.749334,Knotenbahnhof,Regionaler Knoten,3.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,-0.2825278810408922
+Bad Oeynhausen,Nordrhein-Westfalen,52.205398,8.796523,Knotenbahnhof,Regionaler Knoten,3.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.3974358974358974
+Bad Reichenhall,Bayern,47.731168,12.881825,Zubringerbahnhof,Regionaler Zubringer,2.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.5833333333333334
+Bad Reichenhall-Kirchberg,Bayern,47.718538,12.874001,Zubringerbahnhof,ländlicher Zubringer,1.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.7666666666666667
+Bad Zwischenahn,Niedersachsen,53.182547,8.003123,Zubringerbahnhof,Regionaler Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.5260223048327137
+Baden-Baden,Baden-Württemberg,48.790327,8.190831,Knotenbahnhof,Regionaler Knoten,5.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.39166666666666666
+Norden,Niedersachsen,53.588196,7.218913,Zubringerbahnhof,ländlicher Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.20200181983621474
+Bayerisch Gmain,Bayern,47.720375,12.89507,Zubringerbahnhof,ländlicher Zubringer,1.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.5166666666666667
+Radolfzell,Baden-Württemberg,47.735873,8.968984,Knotenbahnhof,Regionaler Knoten,6.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.03007518796992481
+Berchtesgaden Hbf,Bayern,47.626688,12.999058,Zubringerbahnhof,ländlicher Zubringer,3.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.8666666666666667
+Bad Bevensen,Niedersachsen,53.078247,10.574141,Zubringerbahnhof,Regionaler Zubringer,2.0,Braunschweig / Göttingen,Hannover Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-0.01639344262295082
+Biberach (Riß),Baden-Württemberg,48.101845,9.793127,Knotenbahnhof,Regionaler Knoten,3.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.0
+Bischofswiesen,Bayern,47.65189,12.960141,Zubringerbahnhof,ländlicher Zubringer,2.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.1
+Böblingen,Baden-Württemberg,48.687758,9.004128,Knotenbahnhof,Regionaler Knoten,5.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.15976331360946747
+Bondorf (b Herrenberg),Baden-Württemberg,48.523552,8.827662,Knotenbahnhof,Regionaler Knoten,3.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.08875739644970414
+Bonn-Beuel,Nordrhein-Westfalen,50.738476,7.127657,Knotenbahnhof,Regionaler Knoten,3.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-0.0016286644951140066
+Bredstedt,Schleswig-Holstein,54.621166,8.970336,Zubringerbahnhof,ländlicher Zubringer,2.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.9731543624161074
+Bremerhaven-Lehe,Bremen,53.566324,8.600657,Zubringerbahnhof,Regionaler Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,senat-fur-umwelt-bau-verkehr-und-europa-bremen,SUBV,RB Nord,-2.5047619047619047
+Coburg,Bayern,50.2629273,10.9573281,Knotenbahnhof,Regionaler Knoten,5.0,Nordfranken,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.4652777777777778
+Diepholz,Niedersachsen,52.604771,8.380334,Zubringerbahnhof,Regionaler Zubringer,3.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.05333333333333334
+Ellwangen,Baden-Württemberg,48.964121,10.129681,Zubringerbahnhof,Regionaler Zubringer,3.0,Ulm,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.6783068783068783
+Emden Hbf,Niedersachsen,53.369036,7.195176,Knotenbahnhof,Regionaler Knoten,5.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-2.1074380165289255
+Engen,Baden-Württemberg,47.856347,8.772786,Knotenbahnhof,Regionaler Knoten,3.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.056818181818181816
+Erkelenz,Nordrhein-Westfalen,51.076564,6.32172,Zubringerbahnhof,Regionaler Zubringer,2.0,Düsseldorf,Duisburg Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-0.21929824561403508
+Erlangen,Bayern,49.5958303,11.0016382,Knotenbahnhof,Großstadtknoten,4.0,Nürnberg,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.29917610710607623
+Esslingen (Neckar),Baden-Württemberg,48.73881,9.30008,Knotenbahnhof,Regionaler Knoten,6.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.08090310442144873
+Fischen,Bayern,47.456591,10.271717,Zubringerbahnhof,ländlicher Zubringer,2.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.029166666666666667
+Frankfurt (Main) West,Hessen,50.118864,8.639335,Knotenbahnhof,Großstadtknoten,5.0,Frankfurt a. M.,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.20159453302961275
+Gäufelden,Baden-Württemberg,48.559661,8.850308,Zubringerbahnhof,Regionaler Zubringer,2.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.28402366863905326
+Garmisch-Partenkirchen,Bayern,47.491452,11.097013,Zubringerbahnhof,Regionaler Zubringer,5.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.25
+Geilenkirchen,Nordrhein-Westfalen,50.961039,6.124518,Knotenbahnhof,Regionaler Knoten,3.0,Düsseldorf,Duisburg Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-0.19736842105263158
+Lennestadt-Grevenbrück,Nordrhein-Westfalen,51.141781,8.017977,Zubringerbahnhof,ländlicher Zubringer,2.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.10996563573883161
+Gütersloh Hbf,Nordrhein-Westfalen,51.906941,8.385071,Knotenbahnhof,Regionaler Knoten,4.0,Bielefeld,Dortmund Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.09836065573770492
+Hamburg Dammtor,Hamburg,53.560751,9.989566,Knotenbahnhof,Großstadtknoten,4.0,Hamburg,Hamburg Hbf,hamburger-verkehrsverbund-gmbh,BWVI,RB Nord,0.5382690302398332
+Hamburg Hbf,Hamburg,53.552736,10.006909,Metropolbahnhof,Metropolbahnhof,12.0,Hamburg,Hamburg Hbf,hamburger-verkehrsverbund-gmbh,BWVI,RB Nord,-0.665383476458395
+Hamburg-Altona,Hamburg,53.552695,9.935175,Knotenbahnhof,Großstadtknoten,12.0,Hamburg,Hamburg Hbf,hamburger-verkehrsverbund-gmbh,BWVI,RB Nord,-4.384481424148607
+Hamburg-Bergedorf,Hamburg,53.489832,10.206171,Knotenbahnhof,Großstadtknoten,5.0,Hamburg,Hamburg Hbf,hamburger-verkehrsverbund-gmbh,BWVI,RB Nord,0.021052631578947368
+Hammerau,Bayern,47.795883,12.946134,Zubringerbahnhof,ländlicher Zubringer,2.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.1
+Heppenheim (Bergstr),Hessen,49.641553,8.633379,Knotenbahnhof,Regionaler Knoten,2.0,Darmstadt,Frankfurt (Main) Hbf,verkehrsverbund-rhein-neckar-gmbh,VRN,RB Mitte,-0.40816326530612246
+Herrenberg,Baden-Württemberg,48.593991,8.862662,Knotenbahnhof,Regionaler Knoten,6.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.3816568047337278
+Herzogenrath,Nordrhein-Westfalen,50.870916,6.094486,Knotenbahnhof,Regionaler Knoten,4.0,Düsseldorf,Duisburg Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,0.05357142857142857
+Hünfeld,Hessen,50.673271,9.762453,Zubringerbahnhof,Regionaler Zubringer,3.0,Kassel,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.0
+Siegen-Weidenau,Nordrhein-Westfalen,50.895966,8.029842,Zubringerbahnhof,Regionaler Zubringer,2.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.1308411214953271
+Immenstadt,Bayern,47.559203,10.213999,Knotenbahnhof,Regionaler Knoten,3.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.3416666666666667
+Itzehoe,Schleswig-Holstein,53.923873,9.510287,Knotenbahnhof,Regionaler Knoten,4.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.1702127659574468
+Karlsruhe-Durlach,Baden-Württemberg,49.002328,8.462822,Knotenbahnhof,Großstadtknoten,8.0,Karlsruhe,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.4822485207100592
+Kassel-Wilhelmshöhe,Hessen,51.313114,9.446898,Knotenbahnhof,Großstadtknoten,8.0,Kassel,Kassel-Wilhelmshöhe,nordhessischer-verkehrsverbund-mbh,NVV,RB Mitte,0.49201596806387227
+Keitum,Schleswig-Holstein,54.888814,8.368969,Zubringerbahnhof,Regionaler Zubringer,2.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.65
+Klanxbüll,Schleswig-Holstein,54.861997,8.676454,Zubringerbahnhof,Regionaler Zubringer,2.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,1.15
+Köln/Bonn Flughafen,Nordrhein-Westfalen,50.878901,7.119302,Knotenbahnhof,Großstadtknoten,4.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,0.13316582914572864
+Köln Süd,Nordrhein-Westfalen,50.9273,6.938059,Knotenbahnhof,Regionaler Knoten,4.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,-0.06779661016949153
+Köln Messe/Deutz,Nordrhein-Westfalen,50.940874,6.975001,Knotenbahnhof,Großstadtknoten,10.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,0.11182027061526678
+Konstanz,Baden-Württemberg,47.658754,9.177312,Knotenbahnhof,Regionaler Knoten,3.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.20930232558139536
+Kronach,Bayern,50.239612,11.320115,Zubringerbahnhof,Regionaler Zubringer,5.0,Nordfranken,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.01669449081803005
+Hannover-Messe / Laatzen,Niedersachsen,52.316899,9.792863,Zubringerbahnhof,Regionaler Zubringer,6.0,Hannover,Hannover Hbf,region-hannover,RH,RB Nord,0.11650485436893204
+Langenhorn (Schlesw),Schleswig-Holstein,54.685934,8.946413,Zubringerbahnhof,ländlicher Zubringer,2.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,-0.3138075313807531
+Limburg Süd,Hessen,50.382498,8.096112,Zubringerbahnhof,Regionaler Zubringer,2.0,Gießen,Kassel-Wilhelmshöhe,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.2403846153846154
+Lingen (Ems),Niedersachsen,52.519867,7.321731,Zubringerbahnhof,Regionaler Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-0.6246418338108882
+Ludwigsstadt,Bayern,50.486583,11.382989,Zubringerbahnhof,ländlicher Zubringer,3.0,Nordfranken,Nürnberg Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.04006677796327212
+Marienhafe,Niedersachsen,53.5192358,7.27436006,Zubringerbahnhof,ländlicher Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.12857142857142856
+Meppen,Niedersachsen,52.696021,7.298015,Zubringerbahnhof,Regionaler Zubringer,3.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.07545367717287488
+Müllheim (Baden),Baden-Württemberg,47.809743,7.599332,Knotenbahnhof,Regionaler Knoten,4.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-1.0606060606060606
+München-Pasing,Bayern,48.149852,11.461872,Knotenbahnhof,Großstadtknoten,9.0,München,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.2959877219907915
+Murnau,Bayern,47.682266,11.192628,Zubringerbahnhof,Regionaler Zubringer,4.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.016666666666666666
+Niebüll,Schleswig-Holstein,54.789605,8.834572,Knotenbahnhof,Regionaler Knoten,6.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,0.43120638085742774
+Norddeich,Niedersachsen,53.621579,7.160824,Zubringerbahnhof,ländlicher Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.0980603448275862
+Nürtingen,Baden-Württemberg,48.627997,9.342648,Knotenbahnhof,Regionaler Knoten,3.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.13846153846153847
+Oberndorf (Neckar),Baden-Württemberg,48.295669,8.575514,Zubringerbahnhof,ländlicher Zubringer,3.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.5738636363636364
+Oberstdorf,Bayern,47.411032,10.278097,Zubringerbahnhof,Regionaler Zubringer,5.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-10.120833333333334
+Westerstede-Ocholt,Niedersachsen,53.202166,7.886468,Zubringerbahnhof,ländlicher Zubringer,3.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.3336431226765799
+Osterholz-Scharmbeck,Niedersachsen,53.222776,8.797434,Knotenbahnhof,Regionaler Knoten,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.13333333333333333
+Papenburg (Ems),Niedersachsen,53.089706,7.386708,Zubringerbahnhof,Regionaler Zubringer,2.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,0.2664756446991404
+Peine,Niedersachsen,52.318942,10.232145,Zubringerbahnhof,Regionaler Zubringer,2.0,Braunschweig / Göttingen,Hannover Hbf,regionalverband-grossraum-braunschweig,RVB,RB Nord,-0.3850574712643678
+Piding,Bayern,47.759543,12.91153,Zubringerbahnhof,Regionaler Zubringer,2.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.36666666666666664
+Plettenberg,Nordrhein-Westfalen,51.23193,7.868913,Zubringerbahnhof,ländlicher Zubringer,3.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,0.08762886597938144
+Prien am Chiemsee,Bayern,47.855513,12.346615,Knotenbahnhof,Regionaler Knoten,4.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.11971830985915492
+Ravensburg,Baden-Württemberg,47.784481,9.6061,Knotenbahnhof,Regionaler Knoten,3.0,Friedrichshafen,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.0
+Schorndorf,Baden-Württemberg,48.80715,9.52631,Knotenbahnhof,Regionaler Knoten,6.0,Stuttgart,Stuttgart Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.008403361344537815
+Siegburg/Bonn,Nordrhein-Westfalen,50.793915,7.203026,Knotenbahnhof,Regionaler Knoten,4.0,Köln,Köln Hbf,zweckverband-nahverkehr-rheinland-gmbh,NVR,RB West,0.6364513018322083
+Sonthofen,Bayern,47.513241,10.272344,Zubringerbahnhof,Regionaler Zubringer,3.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.49166666666666664
+Spaichingen,Baden-Württemberg,48.068987,8.740147,Zubringerbahnhof,ländlicher Zubringer,3.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.35353535353535354
+Sulz (Neckar),Baden-Württemberg,48.366485,8.636748,Zubringerbahnhof,ländlicher Zubringer,2.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.11931818181818182
+Triberg,Baden-Württemberg,48.140004,8.236806,Zubringerbahnhof,ländlicher Zubringer,3.0,Freiburg,Freiburg (Breisgau) Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.16184971098265896
+Übersee,Bayern,47.822047,12.487338,Zubringerbahnhof,ländlicher Zubringer,3.0,Rosenheim,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,-0.7333333333333333
+Vaihingen (Enz),Baden-Württemberg,48.948118,8.957632,Knotenbahnhof,Regionaler Knoten,4.0,Mannheim,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,0.41935483870967744
+Verden (Aller),Niedersachsen,52.920818,9.237855,Knotenbahnhof,Regionaler Knoten,5.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-0.2647317502198769
+Werdohl,Nordrhein-Westfalen,51.259485,7.757544,Zubringerbahnhof,Regionaler Zubringer,2.0,Hagen,Düsseldorf Hbf,zweckverband-nahverkehr-westfalen-lippe,NWL,RB West,-0.01718213058419244
+Westerland (Sylt),Schleswig-Holstein,54.906839,8.310925,Zubringerbahnhof,Regionaler Zubringer,7.0,Schleswig-Holstein,Kiel Hbf,nahverkehrsverbund-schleswig-holstein-gmbh,NAH.SH,RB Nord,-3.617094017094017
+Wiesloch-Walldorf,Baden-Württemberg,49.291353,8.664146,Knotenbahnhof,Regionaler Knoten,3.0,Mannheim,Mannheim Hbf,nahverkehrsgesellschaft-baden-wurttemberg-mbh,NVBW,RB Südwest,-0.20251716247139587
+Wolfsburg Hbf,Niedersachsen,52.429498,10.787784,Knotenbahnhof,Großstadtknoten,6.0,Braunschweig / Göttingen,Hannover Hbf,regionalverband-grossraum-braunschweig,RVB,RB Nord,0.4794935805991441
+Neu-Ulm,Bayern,48.393039,10.004823,Knotenbahnhof,Regionaler Knoten,4.0,Augsburg,München Hbf,bayerische-eisenbahngesellschaft-mbh,BEG,RB Süd,0.03571428571428571
+Norddeich Mole,Niedersachsen,53.624315,7.158806,Zubringerbahnhof,ländlicher Zubringer,1.0,Bremen / Osnabrück,Bremen Hbf,landesnahverkehrsgesellschaft-niedersachsen-mbh,LNVG,RB Nord,-1.5041322314049588
+Angermünde,Brandenburg,53.015221,13.996361,Knotenbahnhof,Regionaler Knoten,5.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.08121212121212121
+Bad Kleinen,Mecklenburg-Vorpommern,53.766974,11.466925,Knotenbahnhof,Regionaler Knoten,4.0,Schwerin,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.03856749311294766
+Bergen auf Rügen,Mecklenburg-Vorpommern,54.4205,13.417821,Zubringerbahnhof,Regionaler Zubringer,4.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.07001795332136446
+Berlin-Lichtenberg,Berlin,52.5101355,13.4966934,Knotenbahnhof,Großstadtknoten,8.0,Berlin Regional- und S-Bahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,0.14366197183098592
+Bitterfeld,Sachsen-Anhalt,51.622861,12.31685,Knotenbahnhof,Regionaler Knoten,6.0,Halle (Saale),Leipzig Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.40050590219224286
+Brandenburg Hbf,Brandenburg,52.400554,12.566138,Knotenbahnhof,Regionaler Knoten,5.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.06172839506172839
+Bützow,Mecklenburg-Vorpommern,53.837114,11.998194,Zubringerbahnhof,Regionaler Zubringer,3.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.08477842003853564
+Cottbus Hbf,Brandenburg,51.750957,14.324162,Knotenbahnhof,Regionaler Knoten,10.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-2.857142857142857
+Dessau Hbf,Sachsen-Anhalt,51.839865,12.234945,Knotenbahnhof,Regionaler Knoten,7.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,1.631578947368421
+Doberlug-Kirchhain,Brandenburg,51.620576,13.564241,Zubringerbahnhof,ländlicher Zubringer,4.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.0014064697609001407
+Döbeln Hbf,Sachsen,51.126568,13.094988,Zubringerbahnhof,ländlicher Zubringer,4.0,Leipzig,Leipzig Hbf,zweckverband-verkehrsverbund-mittelsachsen,VMS,RB Südost,-0.05084745762711865
+Dresden Hbf,Sachsen,51.040563,13.732035,Metropolbahnhof,Metropolbahnhof,15.0,Dresden,Dresden,verkehrsbund-oberelbe-gmbh,VVO,RB Südost,-2.906599768429178
+Dresden-Neustadt,Sachsen,51.065899,13.740701,Knotenbahnhof,Großstadtknoten,8.0,Dresden,Dresden,verkehrsbund-oberelbe-gmbh,VVO,RB Südost,0.20774091627172195
+Eberswalde Hbf,Brandenburg,52.834021,13.797062,Knotenbahnhof,Regionaler Knoten,5.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.06527415143603134
+Eisenach,Thüringen,50.976922,10.331986,Knotenbahnhof,Regionaler Knoten,6.0,Erfurt,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.23253796095444684
+Elsterwerda,Brandenburg,51.459677,13.516428,Zubringerbahnhof,Regionaler Zubringer,3.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.06990291262135923
+Erfurt Hbf,Thüringen,50.972551,11.038499,Knotenbahnhof,Großstadtknoten,10.0,Erfurt,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.025215252152521524
+Frankfurt (Oder),Brandenburg,52.336416,14.546496,Knotenbahnhof,Regionaler Knoten,6.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,1.5172413793103448
+Freiberg (Sachs),Sachsen,50.908725,13.344141,Knotenbahnhof,Regionaler Knoten,4.0,Chemnitz,Dresden,zweckverband-verkehrsverbund-mittelsachsen,VMS,RB Südost,-0.6877637130801688
+Gera Hbf,Thüringen,50.883421,12.077092,Knotenbahnhof,Regionaler Knoten,6.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,-3.0517241379310347
+Jena-Göschwitz,Thüringen,50.883942,11.593537,Knotenbahnhof,Regionaler Knoten,6.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,-0.09550045913682277
+Gotha,Thüringen,50.93907,10.712568,Knotenbahnhof,Regionaler Knoten,6.0,Erfurt,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.35997521685254025
+Greifswald,Mecklenburg-Vorpommern,54.092923,13.370262,Zubringerbahnhof,Regionaler Zubringer,3.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.22933070866141733
+Halle (Saale) Hbf,Sachsen-Anhalt,51.477509,11.987085,Knotenbahnhof,Großstadtknoten,13.0,Halle (Saale),Leipzig Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,-0.05438441098317095
+Chemnitz Hbf,Sachsen,50.839696,12.930877,Knotenbahnhof,Großstadtknoten,13.0,Chemnitz,Dresden,zweckverband-verkehrsverbund-mittelsachsen,VMS,RB Südost,-2.814189189189189
+Königs Wusterhausen,Brandenburg,52.296635,13.631472,Knotenbahnhof,Regionaler Knoten,3.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.36607142857142855
+Köthen,Sachsen-Anhalt,51.751929,11.989358,Zubringerbahnhof,Regionaler Zubringer,5.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,-0.311529933481153
+Leipzig Hbf,Sachsen,51.3454712,12.3820639,Metropolbahnhof,Metropolbahnhof,25.0,Leipzig,Leipzig Hbf,zweckverband-fur-den-nahverkehrsraum-leipzig,ZVNL,RB Südost,-1.0846462774173617
+Ludwigslust,Mecklenburg-Vorpommern,53.334671,11.494491,Knotenbahnhof,Regionaler Knoten,5.0,Schwerin,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.1625693893735131
+Lübben (Spreewald),Brandenburg,51.939737,13.877182,Knotenbahnhof,Regionaler Knoten,3.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.36607142857142855
+Lübbenau (Spreewald),Brandenburg,51.862169,13.9609,Zubringerbahnhof,Regionaler Zubringer,3.0,Cottbus,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.29464285714285715
+Lutherstadt Wittenberg Hauptbahnhof,Sachsen-Anhalt,51.867811,12.662285,Knotenbahnhof,Regionaler Knoten,6.0,Halle (Saale),Leipzig Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.20029382957884426
+Magdeburg Hbf,Sachsen-Anhalt,52.130349,11.626891,Knotenbahnhof,Großstadtknoten,9.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,-0.2684258416742493
+Naumburg (Saale) Hbf,Sachsen-Anhalt,51.163071,11.796984,Knotenbahnhof,Regionaler Knoten,5.0,Halle (Saale),Leipzig Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.08104738154613467
+Neustrelitz Hbf,Mecklenburg-Vorpommern,53.359255,13.074603,Knotenbahnhof,Regionaler Knoten,4.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.0788135593220339
+Berlin Ostbahnhof,Berlin,52.5104881,13.4346807,Knotenbahnhof,Großstadtknoten,9.0,Berlin Fernbahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-4.132530120481928
+Pasewalk,Mecklenburg-Vorpommern,53.515353,13.988875,Zubringerbahnhof,Regionaler Zubringer,4.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.15878787878787878
+Prenzlau,Brandenburg,53.321608,13.866532,Zubringerbahnhof,ländlicher Zubringer,3.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.01575757575757576
+Riesa,Sachsen,51.309654,13.287734,Knotenbahnhof,Regionaler Knoten,9.0,Leipzig,Leipzig Hbf,verkehrsbund-oberelbe-gmbh,VVO,RB Südost,0.4647092038396386
+Rostock Hbf,Mecklenburg-Vorpommern,54.078246,12.131079,Knotenbahnhof,Großstadtknoten,11.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.4079601990049751
+Rudolstadt (Thür),Thüringen,50.7179313,11.3388991,Zubringerbahnhof,Regionaler Zubringer,3.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.27712854757929883
+Saalfeld (Saale),Thüringen,50.6502734,11.3745832,Knotenbahnhof,Regionaler Knoten,7.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,-0.09849749582637729
+Salzwedel,Sachsen-Anhalt,52.858113,11.162035,Zubringerbahnhof,ländlicher Zubringer,4.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.0
+Schwerin Hbf,Mecklenburg-Vorpommern,53.634739,11.407455,Knotenbahnhof,Großstadtknoten,4.0,Schwerin,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.23846153846153847
+Stendal Hbf,Sachsen-Anhalt,52.594723,11.854412,Knotenbahnhof,Regionaler Knoten,8.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.5724240915878547
+Stralsund Hbf,Mecklenburg-Vorpommern,54.308626,13.077321,Knotenbahnhof,Regionaler Knoten,6.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.5020576131687243
+Velgast,Mecklenburg-Vorpommern,54.277316,12.803137,Zubringerbahnhof,ländlicher Zubringer,3.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.03424657534246575
+Waren (Müritz),Mecklenburg-Vorpommern,53.521512,12.680678,Zubringerbahnhof,ländlicher Zubringer,3.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.04922644163150492
+Weimar,Thüringen,50.991487,11.326458,Knotenbahnhof,Regionaler Knoten,5.0,Erfurt,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.15953307392996108
+Weißenfels,Sachsen-Anhalt,51.204615,11.970926,Zubringerbahnhof,Regionaler Zubringer,4.0,Halle (Saale),Leipzig Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.05623100303951368
+Wittenberge,Brandenburg,53.003115,11.762871,Knotenbahnhof,Regionaler Knoten,5.0,Schwerin,Rostock Hbf,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,0.04930046635576282
+Züssow,Mecklenburg-Vorpommern,53.973879,13.548191,Zubringerbahnhof,Regionaler Zubringer,2.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.10787878787878788
+Berlin-Spandau,Berlin,52.5346481,13.1968975,Knotenbahnhof,Großstadtknoten,6.0,Berlin Fernbahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,0.44229272090307514
+Berlin-Wannsee,Berlin,52.4209723,13.1795275,Knotenbahnhof,Großstadtknoten,7.0,Berlin Regional- und S-Bahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-0.14814814814814814
+Berlin Zoologischer Garten,Berlin,52.507277,13.331992,Knotenbahnhof,Großstadtknoten,6.0,Berlin Regional- und S-Bahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-0.17548746518105848
+Anklam,Mecklenburg-Vorpommern,53.856102,13.701827,Zubringerbahnhof,ländlicher Zubringer,2.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.17939393939393938
+Berlin Gesundbrunnen,Berlin,52.548963,13.388513,Knotenbahnhof,Großstadtknoten,10.0,Berlin Fernbahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-0.5615706319702602
+Berlin Südkreuz,Berlin,52.475047,13.365319,Metropolbahnhof,Metropolbahnhof,10.0,Berlin Fernbahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-0.331596339603457
+Berlin Hbf,Berlin,52.525592,13.369545,Metropolbahnhof,Metropolbahnhof,14.0,Berlin Fernbahnhöfe,Berlin Ostbahnhof,verkehrsverbund-berlin-brandenburg-gmbh-fur-berlin,VBB Berlin,RB Ost,-0.8288590604026845
+Ostseebad Binz,Mecklenburg-Vorpommern,54.404819,13.600507,Zubringerbahnhof,ländlicher Zubringer,3.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.947935368043088
+Hermsdorf-Klosterlausnitz,Thüringen,50.903779,11.858626,Zubringerbahnhof,Regionaler Zubringer,2.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,-0.034482758620689655
+Jena Paradies,Thüringen,50.924856,11.587461,Knotenbahnhof,Regionaler Knoten,2.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.05652759084791386
+Jena West,Thüringen,50.923286,11.577848,Knotenbahnhof,Regionaler Knoten,2.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,0.13583815028901733
+Potsdam Hbf,Brandenburg,52.391509,13.0667031,Knotenbahnhof,Großstadtknoten,6.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.11522633744855967
+Ribnitz-Damgarten West,Mecklenburg-Vorpommern,54.239176,12.436965,Zubringerbahnhof,ländlicher Zubringer,2.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,0.09571984435797666
+Stadtroda,Thüringen,50.868216,11.722792,Zubringerbahnhof,ländlicher Zubringer,2.0,Chemnitz,Erfurt Hbf,thuringer-landesamt-fur-bau-und-verkehr,TLBV,RB Südost,-0.21182266009852216
+Warnemünde,Mecklenburg-Vorpommern,54.176852,12.091271,Knotenbahnhof,Regionaler Knoten,5.0,Rostock,Rostock Hbf,verkehrsgesellschaft-mecklenburg-vorpommern-mbh,VMV,RB Ost,-0.8183098591549296
+Magdeburg-Buckau,Sachsen-Anhalt,52.109204,11.63004,Zubringerbahnhof,Regionaler Zubringer,4.0,Magdeburg,Magdeburg Hbf,nahverkehrsservice-sachsen-anhalt-gmbh,NASA,RB Südost,0.0
+Bernau (b Berlin),Brandenburg,52.6755689,13.5926414,Knotenbahnhof,Regionaler Knoten,4.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,-0.06040268456375839
+Oranienburg,Brandenburg,52.753653,13.249613,Knotenbahnhof,Regionaler Knoten,6.0,Potsdam,Potsdam,verkehrsverbund-berlin-brandenburg-gmbh-fur-brandenburg,VBB,RB Ost,0.2770745428973277
+Frankfurt am Main Flughafen Fernbahnhof,Hessen,50.053167,8.570185,Knotenbahnhof,Großstadtknoten,4.0,Frankfurt a. M.,Frankfurt (Main) Hbf,rhein-main-verkehrsverbund-gmbh,RMV,RB Mitte,0.5971405665419561
