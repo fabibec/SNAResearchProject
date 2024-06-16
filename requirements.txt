@@ -90,7 +90,7 @@ pyxdg==0.27
 PyYAML==5.4.1
 qutebrowser==2.5.0
 reportlab==3.6.8
-requests==2.25.1
+requests~=2.32.3
 scapy==2.4.4
 scipy==1.8.0
 SecretStorage==3.3.1
@@ -114,3 +114,8 @@ Wikipedia-API==0.6.0
 xdg==5
 xkit==0.0.0
 zipp==1.0.0
+
+pandas~=2.2.2
+selenium~=4.21.0
+ofunctions~=2.7.0
+python-dotenv~=1.0.1

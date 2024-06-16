@@ -1,8 +1,13 @@
 ./data
-~./data/edge_list.csv
+~./data/edges.csv
 ~./data/nodes.csv
+~./data/visualisations/
 ./driver
 ./.venv
 code/scrape.py
 ./.env
 ./.idea
+./oldCode
+./paper
+~./paper/paper.tex
+~./paper/paper.pdf

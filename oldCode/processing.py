@@ -1,5 +1,4 @@
 import os
-from statistics import variance
 
 import pandas as pd
 from dotenv import load_dotenv
@@ -8,9 +7,8 @@ load_dotenv()
 data_path = os.environ.get("DATA_PATH")
 
 
+'''The station and delay data has different formats for the station names, this translates the station names'''
 def delay_format_to_station(station):
-    # The station and delay data has different formats for the station names, this translates the station names
-
     # Strip away the .in and .out behind station names
     ret = station.replace("_", " ").split(".")[0]
 
@@ -24,20 +22,14 @@ def delay_format_to_station(station):
     return ret
 
 
+'''Some formating of the stations make it hard to match them to the corresponding delay entries'''
 def format_station_names(df):
-    # Some formating of the stations make it hard to match them to the corresponding delay entries
     for station in df["name"].values:
         if " Pbf" in station:
             index = df.loc[(df['name'] == station)].index[0]
             new_name = station.replace(" Pbf", "")
             print(f"Renamed {station} -> {new_name} in stations")
             df.loc[index, "name"] = new_name
-        if " Hauptbahnhof" in station:
-            index = df.loc[(df['name'] == station)].index[0]
-            new_name = station.replace(" Hauptbahnhof", " Hbf")
-            print(f"Renamed {station} -> {new_name} in stations")
-            df.loc[index, "name"] = new_name
-
 
 def process_stations():
     print("**Processing Stations**")
@@ -114,7 +106,8 @@ def process_stations():
 def process_delay():
     print("**Process Delay**")
     # Result dataframe
-    result = pd.DataFrame(columns=["source", "target", "sumDelay", "numTrains", "numDelayedTrains"])
+    result = pd.DataFrame(columns=["source", "target", "sumDelay", "maxDelay", "minDelay", "stdDev",
+                                   "n", "connections", "pureDelay", "pureDelayNum", "punctuality"])
     result.set_index(["source", "target"], drop=False, inplace=True, verify_integrity=True)
 
     # Get all delay files
@@ -136,36 +129,62 @@ def process_delay():
                 except IndexError:
                     index = None
 
-                temp = delay_df[(delay_df[incoming] > -1) & (delay_df[outgoing] > - 1)]
-                num_trains = temp[incoming].count()
-
-                delayed = temp[(temp[incoming] > 0) | (temp[outgoing] > 0)]
-                num_delayed_trains = delayed[incoming].count()
-
-                temp = temp.replace(-1, 0)
-                sum_delay = temp[incoming].sum() - temp[outgoing].sum()
+                temp = delay_df[incoming] - delay_df[outgoing]
+                sum_delay = temp.sum()
+                count_pure_delay = len([i for i in temp if i != 0])
+                count_delay = temp.count()
+                min_delay = temp.min()
+                max_delay = temp.max()
+                std_dev_delay = round(temp.var(), 5)
 
                 # Skip possible self loops
                 if outgoing_f == incoming_f:
                     continue
 
                 if index is None:
-                    result.loc[len(result.index)] = [outgoing_f, incoming_f, sum_delay, num_trains, num_delayed_trains]
+                    print(f"{outgoing_f} -> {incoming_f} added")
+                    result.loc[len(result.index)] = \
+                        [outgoing_f, incoming_f, sum_delay, max_delay, min_delay, std_dev_delay,
+                         count_delay, 1.0, 0.0, count_pure_delay, 0.0]
                 else:
+                    # Sum of delays (for avg)
                     result.loc[index, "sumDelay"] += sum_delay
 
-                    result.loc[index, "numTrains"] += num_trains
+                    # Maximum delay
+                    tmp = result.loc[index, "maxDelay"]
+                    result.loc[index, "maxDelay"] = max(max_delay, tmp)
 
-                    result.loc[index, "numDelayedTrains"] += num_delayed_trains
+                    # Minimum delay
+                    tmp = result.loc[index, "minDelay"]
+                    result.loc[index, "minDelay"] = min(min_delay, tmp)
+
+                    # Standard Deviation
+                    result.loc[index, "stdDev"] += std_dev_delay
+
+                    # Num of delay values (for avg)
+                    result.loc[index, "n"] += count_delay
+
+                    # Num of trains that use this connection
+                    result.loc[index, "connections"] += 1.0
+
+                    # Pure Delay
+                    result.loc[index, "pureDelayNum"] += count_pure_delay
+
+                    print(f"{outgoing_f} -> {incoming_f} updated")
             else:
                 raise AttributeError
 
+    result["pureDelay"] = round(result["sumDelay"] / result["pureDelayNum"], 5)
+    result["punctuality"] = round((result["n"] - result["pureDelayNum"]) / result["n"], 5)
+    result["avgDelay"] = round(result["sumDelay"] / result["n"], 5)
+    result["stdDev"] = round(result["stdDev"]**(1/2), 5)
+    result.drop(["n", "pureDelayNum", "sumDelay"], axis=1, inplace=True)
     result.to_csv(data_path + "/edges/connection_list.csv", index=False)
     print(f"Constructed {len(result.index)} edges")
 
 
+'''Small helper function to check for possible duplicates'''
 def check_duplicates():
-    # Small helper function to check for possible duplicates
     df = pd.read_csv(data_path + "/edges/connection_list.csv", index_col=False)
     df2 = df[df.duplicated(["source", "target"], keep=False)]
     df2.to_csv(data_path + "/duplicates.csv")
@@ -174,11 +193,9 @@ def check_duplicates():
 def add_station_delay():
     print("**Calculating station delay**")
     station_df = pd.read_csv(data_path + "/stations/processed/stations.csv", index_col=False)
-    new_columns = ["sumInDelay", "sumOutDelay", "numTrainsIn", "numTrainsOut",
-                   "numDelayedTrainsIn", "numDelayedTrainsOut", "stdDevIn", "stdDevOut"]
-    for col in new_columns:
-        station_df[col] = 0
-
+    station_df["delayDiff"] = 0
+    station_df["delayNum"] = 0
+    station_df["pureDelayNum"] = 0
     station_names = station_df['name'].values.tolist()
 
     all_files = os.listdir(data_path + "/delay/processed")
@@ -190,49 +207,31 @@ def add_station_delay():
         columns = delay_df.columns.to_list()[1:]
 
         for incoming, outgoing in zip(columns[0::2], columns[1::2]):
-            # Getting the correct index
+            station_delay = delay_df[outgoing].sum() - delay_df[incoming].sum()
+            station_entries = delay_df[outgoing].count()
+            entries_with_delay = len(delay_df[(delay_df[outgoing] > 0) | (delay_df[incoming] > 0)])
+
             formated_station = delay_format_to_station(incoming)
-            if formated_station in station_names:
-                index = station_df.index[(station_df["name"] == formated_station)].to_list()[0]
-            else:
-                print(formated_station)
-                continue
+            index = station_df.index[(station_df["name"] == formated_station)].to_list()[0]
 
-            # Handle incoming values
-            station_df.loc[index, "sumInDelay"] += delay_df[delay_df[incoming] > -1][incoming].sum()
-            station_df.loc[index, "numTrainsIn"] += delay_df[delay_df[incoming] > -1][incoming].count()
-            station_df.loc[index, "numDelayedTrainsIn"] += delay_df[delay_df[incoming] > 0][incoming].count()
+            station_df.loc[index, "delayDiff"] += station_delay
+            station_df.loc[index, "delayNum"] += station_entries
+            station_df.loc[index, "pureDelayNum"] += entries_with_delay
 
-            # Handle outgoing values
-            station_df.loc[index, "sumOutDelay"] += delay_df[delay_df[outgoing] > -1][outgoing].sum()
-            station_df.loc[index, "numTrainsOut"] += delay_df[delay_df[outgoing] > -1][outgoing].count()
-            station_df.loc[index, "numDelayedTrainsOut"] += delay_df[delay_df[outgoing] > 0][outgoing].count()
-
-            # Calculate standard deviation | adding up variances and sqrt at the end
-            std_in = delay_df[delay_df[incoming] > -1][incoming].to_list()
-            if len(std_in) < 2:
-                std_in = [0, 0]
-
-            std_out = delay_df[delay_df[outgoing] > -1][outgoing].to_list()
-            if len(std_out) < 2:
-                std_out = [0, 0]
-
-            station_df.loc[index, "stdDevIn"] += float(variance(std_in))
-            station_df.loc[index, "stdDevOut"] += float(variance(std_out))
-
-    # Finishing up the stdDev
-    station_df["stdDevIn"] = station_df["stdDevIn"].pow(1. / 2)
-    station_df["stdDevOut"] = station_df["stdDevOut"].pow(1. / 2)
-
+    station_df["punctuality"] = round((station_df["delayNum"] - station_df["pureDelayNum"]) / station_df["delayNum"], 5)
+    station_df["pureDelay"] = round(station_df["delayDiff"] / station_df["pureDelayNum"], 5)
+    station_df["delay"] = round(station_df["delayDiff"] / station_df["delayNum"], 5)
+    station_df["handledTrains"] = station_df["delayNum"]
+    station_df.drop(["delayDiff", "delayNum"], axis=1, inplace=True)
     station_df.to_csv(data_path + "/stations/processed/stations.csv", index=False)
 
 
 if __name__ == "__main__":
     '''This only keeps the stations we need for the network and some possibly interesting attributes'''
-    process_stations()
+    #process_stations()
 
     '''Builds an edge list with some attributes for the network'''
     process_delay()
 
     '''Calculates the average delay the station causes'''
-    add_station_delay()
+    #add_station_delay()

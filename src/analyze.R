@@ -74,23 +74,22 @@ membership(cfg) # community membership for each node
 #Analysis of homophily
 #why are countries connected?
 #Is it the coin?
-assortativity_nominal(net, as.factor(V(net)$Coin), directed=T)
+assortativity_nominal(net, as.factor(V(net)$federalState), directed=T)
 #Is it the EU membership?
-assortativity_nominal(net, as.factor(V(net)$EU), directed=T)
+assortativity_nominal(net, as.factor(V(net)$stationManagement), directed=T)
 #Is it the type of language?
-assortativity_nominal(net, as.factor(V(net)$Language_group), directed=T)
+assortativity_nominal(net, as.factor(V(net)$operator), directed=T)
 
 
 #Model Analysis
 #Put all the information in one data frame
 
-
-#predicting tourists
+#predicting delay
 deg <- degree(net, mode="in")
 btw<- betweenness(net, directed=T)
 
 #create a data frame
-europe <- cbind(degree=deg,btw=btw,clusters_id=membership(cfg),nodes)
+train_network <- cbind(degree=deg,btw=btw,clusters_id=membership(cfg),nodes)
 
 #convert some variables in factors
 europe$EU <- as.factor(europe$EU)

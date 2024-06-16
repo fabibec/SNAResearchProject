@@ -18,8 +18,7 @@ nodes = pd.read_csv(data_path + "/stations/processed/stations.csv")
 edge_list = pd.read_csv(data_path + "/edges/connection_list.csv", index_col=False)
 
 
-graph = nx.from_pandas_edgelist(edge_list, 'source', 'target',
-                                edge_attr='connections', create_using=nx.DiGraph())
+graph = nx.from_pandas_edgelist(edge_list, 'source', 'target', create_using=nx.DiGraph())
 
 m = Basemap(
     projection='merc',
@@ -43,5 +42,5 @@ m.drawcountries(linewidth=3)
 m.drawstates(linewidth=0.2)
 m.drawcoastlines(linewidth=3)
 plt.tight_layout()
-plt.savefig(data_path + "/map.png", format="png", dpi=300)
+plt.savefig(data_path + "/visualizations/network.svg", format="svg", dpi=300)
 

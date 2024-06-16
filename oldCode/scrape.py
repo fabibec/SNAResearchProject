@@ -5,7 +5,6 @@ import os
 import re
 import random
 import time
-import concurrent.futures
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
@@ -20,7 +19,6 @@ import pandas as pd
 
 from ofunctions.network import set_ip_version
 from dotenv import load_dotenv
-
 
 load_dotenv()
 data_path = os.environ.get("DATA_PATH")
@@ -88,8 +86,6 @@ def get_list_of_german_train_stations():
 
     print(f"Found {len(stations.index)} stations")
 
-    if not os.path.exists(data_path + "/stations/raw/"):
-        os.mkdir(data_path + "/stations/raw/")
     stations.to_csv(data_path + "/stations/raw/stations.csv")
 
 
@@ -141,8 +137,6 @@ def append_num_of_platforms():
         station_df.at[index, "platforms"] = len(platforms)
         print("Processed " + row['name'])
 
-    if not os.path.exists(data_path + "/stations/raw/"):
-        os.mkdir(data_path + "/stations/raw/")
     station_df.to_csv(data_path + "/stations/raw/stations.csv")
 
 
@@ -257,7 +251,7 @@ def find_suitable_trains(d):
             writer.writerow([train])
 
 
-def scrape_delay_data_coordinator(start_index, go_back_days=60, threads=2):
+def scrape_delay_data(d, start_index, go_back_days=60):
     print("**Looking for delay data**")
     print(f"Start at index {start_index}.")
 
@@ -268,117 +262,97 @@ def scrape_delay_data_coordinator(start_index, go_back_days=60, threads=2):
             for col in row:
                 trains.append(col)
 
-    with concurrent.futures.ThreadPoolExecutor(threads) as executor:
-        for tnum, train in enumerate(trains[start_index:]):
-            executor.submit(scrape_train_runner, tnum, train, go_back_days)
+    for tnum, train in enumerate(trains[start_index:]):
+        # Saving station information in order to recreate the journey later
+        journey = []
 
+        # Build empty dataframe
+        delay_df = pd.DataFrame(columns=["date"])
+        delay_df.set_index("date", inplace=True)
 
-def scrape_train_runner(tnum, train, go_back_days):
-    # This is the runner function to scrape the train data with multiple threads
-    d = ZugfinderWebdriver(headless=True)
-    finished = False
+        formatted_train = train.replace(' ', '_')
+        d.driver.get(f"https://www.zugfinder.net/en/train-{formatted_train}-730")
 
-    # Date bounds
-    current_date = root_date
-    end_date = current_date - datetime.timedelta(days=go_back_days)
+        current_date = root_date
+        end_date = current_date - datetime.timedelta(days=go_back_days)
 
-    formatted_train = train.replace(' ', '_')
-    print(f"Current date of {formatted_train} is {current_date} -> {end_date}")
-    # Saving station information in order to recreate the journey later
-    journey = []
+        punctuality_table = d.driver.find_element(By.XPATH,
+            "/ html / body / div / div[1] / div[2] / div[11] / div[1] / table[1] / tbody")
 
-    # Build empty dataframe
-    delay_df = pd.DataFrame(columns=["date"])
-    delay_df.set_index("date", inplace=True)
+        while current_date > end_date:
+            try:
+                str_date = current_date.strftime('%Y-%m-%d')
 
-    while not finished:
-        try:
-            d.driver.get(f"https://www.zugfinder.net/en/train-{formatted_train}-730")
-            punctuality_table = d.driver.find_element(By.XPATH,
-                "/ html / body / div / div[1] / div[2] / div[11] / div[1] / table[1] / tbody")
+                table_el = punctuality_table.find_element(By.XPATH, f'//*[@id="{str_date}"]')
+                d.driver.execute_script("arguments[0].click();", table_el)
 
-            while current_date > end_date:
+                # In some case there are table elements with no delay data so this causes a timeout
                 try:
-                    str_date = current_date.strftime('%Y-%m-%d')
-
-                    table_el = punctuality_table.find_element(By.XPATH, f'//*[@id="{str_date}"]')
-                    d.driver.execute_script("arguments[0].click();", table_el)
-
-                    # In some case there are table elements with no delay data so this causes a timeout
-                    try:
-                        punctuality_form = WebDriverWait(d.driver, 3).until(
-                            EC.presence_of_element_located((By.XPATH, f'//*[@id="form_{str_date}"]')))
-                    except TimeoutException:
-                        current_date -= datetime.timedelta(days=1)
-                        continue
-
-                    punctuality_table = punctuality_form.find_element(By.CSS_SELECTOR, "table")
-
-                    rows = punctuality_table.find_elements(By.CSS_SELECTOR, "tr")
-
-                    # Get data
-                    for num, row in enumerate(rows):
-                        cols = row.find_elements(By.CSS_SELECTOR, "td")
-
-                        s = cols[1].text.replace(' ', '_')
-
-                        if s == "Zu_viele_Abfragen_in_zu_kurzer_Zeit._Bitte_bestätige,_dass_du_ein_Mensch_bist!":
-                            magic_method(d)
-                            time.sleep(random_wait())
-                            break
-
-                        if s not in journey:
-                            journey.insert(num, s)
-
-                        for c in cols[2:4]:
-                            # Search for delay in minutes
-                            m = re.search("^.*?\([^\d]*(\d+)[^\d]*\).*$", c.text)
-                            cancelled = re.search(r"cancelled", c.text)
-
-                            # Build column name
-                            if c == cols[2]:
-                                column_name = f"{cols[1].text.replace(' ', '_')}.in"
-                            else:
-                                column_name = f"{cols[1].text.replace(' ', '_')}.out"
-
-                            # Add new column if needed
-                            if column_name not in delay_df:
-                                delay_df[column_name] = pd.Series(dtype=int)
-
-                            # Add data if present | add "-" if this stop was cancelled
-                            if m is not None:
-                                delay_df.loc[str_date, column_name] = int(m.group(1))
-                            elif cancelled is not None or c.text == "":
-                                delay_df.loc[str_date, column_name] = -1
-                            else:
-                                delay_df.loc[str_date, column_name] = 0
-
+                    punctuality_form = WebDriverWait(d.driver, 3).until(
+                        EC.presence_of_element_located((By.XPATH, f'//*[@id="form_{str_date}"]')))
+                except TimeoutException:
                     current_date -= datetime.timedelta(days=1)
+                    continue
 
-                except NoSuchElementException:
-                    current_date -= datetime.timedelta(days=1)
-                    pass
+                punctuality_table = punctuality_form.find_element(By.CSS_SELECTOR, "table")
 
-            # Fill empty elements
-            delay_df.fillna(0, inplace=True)
+                rows = punctuality_table.find_elements(By.CSS_SELECTOR, "tr")
 
-            # Use Journey information to correctly rearrange the station order
-            rearranged_columns = []
+                # Get data
+                for num, row in enumerate(rows):
+                    cols = row.find_elements(By.CSS_SELECTOR, "td")
 
-            print(delay_df.columns.tolist())
+                    s = cols[1].text.replace(' ', '_')
 
-            for s in journey:
-                if s != "":
-                    rearranged_columns.append(s + ".in")
-                    rearranged_columns.append(s + ".out")
+                    if s == "Zu_viele_Abfragen_in_zu_kurzer_Zeit._Bitte_bestätige,_dass_du_ein_Mensch_bist!":
+                        print(f"Bot-Detection. Restart at index {tnum + start_index}.")
+                        magic_method(d)
+                        return tnum + start_index
 
-            delay_df.to_csv(data_path + f"/delay/raw/{formatted_train}.csv", columns=rearranged_columns)
-            finished = True
-            print(f"Processed {formatted_train}")
-        except StaleElementReferenceException:
-            continue
+                    if s not in journey:
+                        journey.insert(num, s)
 
-    d.driver.quit()
+                    for c in cols[2:4]:
+                        # Search for delay in minutes
+                        m = re.search("^.*?\([^\d]*(\d+)[^\d]*\).*$", c.text)
+
+                        # Build column name
+                        if c == cols[2]:
+                            column_name = f"{cols[1].text.replace(' ', '_')}.in"
+                        else:
+                            column_name = f"{cols[1].text.replace(' ', '_')}.out"
+
+                        # Add new column if needed
+                        if column_name not in delay_df:
+                            delay_df[column_name] = pd.Series(dtype=int)
+
+                        # Add data if present
+                        if m is not None:
+                            delay_df.loc[str_date, column_name] = int(m.group(1))
+                        else:
+                            delay_df.loc[str_date, column_name] = 0
+
+                current_date -= datetime.timedelta(days=1)
+
+                time.sleep(2.0)
+
+            except NoSuchElementException:
+                current_date -= datetime.timedelta(days=1)
+                pass
+
+        # Fill empty elements
+        delay_df.fillna(0, inplace=True)
+
+        # Use Journey information to correctly rearrange the station order
+        rearranged_columns = []
+        for s in journey:
+            rearranged_columns.append(s + ".in")
+            rearranged_columns.append(s + ".out")
+
+        delay_df.to_csv(data_path + f"/delay/raw/{formatted_train}.csv", columns=rearranged_columns)
+        print(f"Processed {formatted_train}")
+
+    return -1
 
 
 def magic_method(d):
@@ -387,9 +361,11 @@ def magic_method(d):
     table_el = d.driver.find_element(By.XPATH, f'//*[@id="{test_date}"]')
     d.driver.execute_script("arguments[0].click();", table_el)
     not_a_bot_link = WebDriverWait(d.driver, 10).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR,
-            "#form_2024-06-04 > table:nth-child(1) > tr:nth-child(1) > td:nth-child(2) > a:nth-child(1)")))
+        EC.presence_of_element_located((By.XPATH,
+            "/html/body/div/div[1]/div[2]/div[11]/div[1]/table[1]/tbody/tr[6]/td/form/table/tr[1]/td[2]/a")))
     d.driver.execute_script("arguments[0].click();", not_a_bot_link)
+    # Switching to popup window
+
     question = WebDriverWait(d.driver, 1000).until(
         EC.presence_of_element_located((By.XPATH,
             "/html/body/div/div[1]/div[3]/div/form/fieldset/input")))
@@ -401,7 +377,7 @@ def magic_method(d):
             break
         except StaleElementReferenceException:
             attempts += 1
-    time.sleep(1)
+    time.sleep(2)
     check = d.driver.find_element(By.XPATH, "/html/body/div/div[1]/div[3]/div/form/input")
     check.click()
     time.sleep(1)
@@ -412,15 +388,25 @@ if __name__ == "__main__":
     w = ZugfinderWebdriver(headless=True)
 
     '''Scrape the station information'''
-    get_list_of_german_train_stations()
-    append_num_of_platforms()
+    # get_list_of_german_train_stations()
+    # append_num_of_platforms()
 
     '''Scrape the departure boards for german stations 
     and exclude the trains that have non german stations in their route'''
-    scrape_trains(w)
-    find_suitable_trains(w)
+    # scrape_trains(d)
+    # find_suitable_trains(w)
+
+    '''This scrapes the delay data for every train
+    Disclaimer: This stuff is VERY slow and sometimes the website times out, so you have to restart the program'''
+    # Rerun on : 'IC_2163.csv' 'IC604.csv'
+    up_to = 0
+    while up_to != -1:
+        try:
+            up_to = scrape_delay_data(w, up_to)
+        except Exception as e:
+            # This exception clause is very broad, so you can run the script overnight, and it tries to restart
+            print(f"Exception occurred :\n{e}\nTrying to continue")
+            time.sleep(20)
+            continue
+
     w.driver.quit()
-
-    '''This scrapes the delay data for every train'''
-    scrape_delay_data_coordinator(0)
-
