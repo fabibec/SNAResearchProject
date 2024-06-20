@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1051,Düren,19:02,Berlin Ostbahnhof,13:09,1
+ICE 758,Düren,17:12,Aachen Hbf,16:53,1
+ICE 756,Düren,19:13,Aachen Hbf,18:53,1
+ICE 19,Düren,00:02,Wolfsburg Hbf,20:27,
+ICE 657,Düren,01:25,Berlin Ostbahnhof,20:27,1

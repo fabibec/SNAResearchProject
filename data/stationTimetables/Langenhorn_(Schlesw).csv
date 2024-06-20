@@ -1,0 +1,7 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+D 1409,Langenhorn(Schlesw),08:28,Bredstedt,08:21,
+D 1416,Langenhorn(Schlesw),09:55,Westerland(Sylt),08:39,
+D 1439,Langenhorn(Schlesw),15:59,Bredstedt,15:52,
+D 1446,Langenhorn(Schlesw),16:18,Niebüll,16:08,2
+D 1455,Langenhorn(Schlesw),20:14,Husum,19:51,2
+D 1464,Langenhorn(Schlesw),21:55,Westerland(Sylt),20:41,

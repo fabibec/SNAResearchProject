@@ -1,0 +1,16 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 5750.dk,Flensburg,08:14,Fredericia st,06:50,3
+EC 175,Flensburg,17:24,Praha hl.n.,08:46,
+IC 5752.dk,Flensburg,10:14,Fredericia st,08:50,
+EC 391,Flensburg-Weiche,12:06,Hamburg Hbf,10:12,15
+IC 5754.dk,Flensburg,12:00,Kolding st,10:50,
+EC 393,Flensburg-Weiche,14:06,Hamburg Hbf,12:12,5
+IC 5756.dk,Flensburg,14:14,Fredericia st,12:50,3
+EC 395,Flensburg-Weiche,16:03,Hamburg Hbf,14:12,9
+IC 5758.dk,Flensburg,16:14,Fredericia st,14:50,
+EC 397,Flensburg-Weiche,18:04,Hamburg Hbf,16:12,FALSE
+IC 5760.dk,Flensburg,18:14,Fredericia st,16:50,
+EC 399,Flensburg-Weiche,20:04,Hamburg Hbf,18:12,6
+IC 5762.dk,Flensburg,20:14,Fredericia st,18:50,
+IC 5764.dk,Flensburg,22:14,Fredericia st,20:50,
+IC 5766.dk,Flensburg,00:00,Kolding st,22:50,

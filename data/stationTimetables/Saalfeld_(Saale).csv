@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 296,Saalfeld(Saale),08:37,Rostock Hbf,02:35,5
+IC 17,Saalfeld(Saale),03:48,Lichtenfels,02:38,30
+IC 297,Saalfeld(Saale),10:47,Wien Hbf,02:49,28
+IC 2068,Saalfeld(Saale),13:52,Stuttgart Hbf,09:34,
+IC 2066,Saalfeld(Saale),16:52,Karlsruhe Hbf,11:34,
+IC 2063,Saalfeld(Saale),14:04,Leipzig Hbf,12:25,1
+IC 2064,Saalfeld(Saale),17:53,Stuttgart Hbf,13:34,
+IC 2065,Saalfeld(Saale),16:04,Leipzig Hbf,14:25,59
+IC 2062,Saalfeld(Saale),19:53,Stuttgart Hbf,15:34,2
+IC 2067,Saalfeld(Saale),18:04,Leipzig Hbf,16:25,
+IC 2060,Saalfeld(Saale),23:00,Karlsruhe Hbf,17:34,
+IC 2069,Saalfeld(Saale),20:04,Leipzig Hbf,18:25,3
+IC 2161,Saalfeld(Saale),22:04,Leipzig Hbf,20:25,23

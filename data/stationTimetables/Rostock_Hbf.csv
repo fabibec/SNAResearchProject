@@ -1,0 +1,33 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1599,Rostock Hbf,07:21,Hamburg-Altona,04:58,1
+IC 2173,Rostock Hbf,16:27,Wien Franz-Josefs-Bahnhof,06:21,
+ICE 1577,Rostock Hbf,15:03,Stuttgart Hbf,06:26,1
+IC 2235,Rostock Hbf,12:15,Leipzig Hbf,07:56,1
+IC 2175,Rostock Hbf,12:27,Dresden Hbf,08:21,21
+ICE 1179,Rostock Hbf,10:16,Hamburg Hbf,08:25,3
+ICE 1678,Rostock Hbf,11:18,Ostseebad Binz,09:38,39
+IC 2274,Rostock Hbf,10:01,Warnemünde,09:41,1
+IC 2177,Rostock Hbf,14:27,Dresden Hbf,10:21,1
+ICE 1671,Rostock Hbf,18:39,Karlsruhe Hbf,10:25,11
+ICE 1676,Rostock Hbf,12:29,Stralsund Hbf,11:38,3
+IC 2272,Rostock Hbf,12:01,Warnemünde,11:41,1
+IC 2238,Rostock Hbf,12:14,Warnemünde,11:59,FALSE
+IC 2179,Rostock Hbf,16:27,Dresden Hbf,12:21,
+ICE 203,Rostock Hbf,22:55,Basel SBB,12:44,1
+ICE 208,Rostock Hbf,15:29,Ostseebad Binz,13:38,17
+IC 2270,Rostock Hbf,14:05,Warnemünde,13:42,23
+IC 2239,Rostock Hbf,18:15,Leipzig Hbf,14:05,FALSE
+IC 2911,Rostock Hbf,18:15,Leipzig Hbf,14:05,1
+IC 2271,Rostock Hbf,19:40,Chemnitz Hbf,14:21,
+ICE 1675,Rostock Hbf,21:09,Frankfurt(Main)Hbf,14:25,1
+ICE 1672,Rostock Hbf,17:20,Ostseebad Binz,15:37,17
+IC 2178,Rostock Hbf,16:05,Warnemünde,15:42,1
+IC 2273,Rostock Hbf,21:40,Chemnitz Hbf,16:21,1
+ICE 1677,Rostock Hbf,19:58,Hannover Hbf,16:25,1
+ICE 1074,Rostock Hbf,18:50,Greifswald,17:38,22
+IC 2176,Rostock Hbf,18:05,Warnemünde,17:42,
+IC 2275,Rostock Hbf,22:27,Dresden Hbf,18:21,1
+ICE 1578,Rostock Hbf,20:14,Velgast,19:38,50
+IC 2174,Rostock Hbf,20:01,Warnemünde,19:41,3
+IC 17,Rostock Hbf,03:48,Lichtenfels,20:21,
+IC 297,Rostock Hbf,10:47,Wien Hbf,20:21,2

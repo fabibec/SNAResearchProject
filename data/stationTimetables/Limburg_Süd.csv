@@ -1,0 +1,34 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 827,Limburg (Lahn) Süd (ICE),08:06,München Hbf,04:14,
+ICE 827,Limburg Süd,08:06,München Hbf,04:14,
+ICE 521,Limburg (Lahn) Süd (ICE),09:06,München Hbf,05:07,
+ICE 521,Limburg Süd,09:06,München Hbf,05:07,
+ICE 826,Limburg Süd,07:43,Düsseldorf Hbf,06:11,5
+ICE 523,Limburg Süd,10:06,München Hbf,06:13,2
+ICE 811,Limburg Süd,07:09,Frankfurt(M) Flughafen Fernbf,06:46,12
+ICE 711,Limburg Süd,08:37,Heidelberg Hbf,06:54,
+ICE 813,Limburg Süd,08:27,Frankfurt(M) Flughafen Fernbf,08:07,
+ICE 815,Limburg Süd,09:27,Frankfurt(M) Flughafen Fernbf,09:07,
+ICE 817,Limburg Süd,11:09,Frankfurt(M) Flughafen Fernbf,10:49,6
+ICE 904,Limburg Süd,12:00,Köln Hbf,11:09,
+ICE 819,Limburg Süd,13:09,Frankfurt(M) Flughafen Fernbf,12:49,
+ICE 902,Limburg Süd,13:54,Köln Messe/Deutz Gl.11-12,13:09,
+ICE 901,Limburg Süd,15:09,Frankfurt(M) Flughafen Fernbf,14:49,
+ICE 900,Limburg Süd,15:57,Köln Hbf,15:09,6
+ICE 818,Limburg Süd,16:38,Köln Hbf,15:48,3
+ICE 816,Limburg Süd,17:43,Köln Hbf,16:48,1
+ICE 903,Limburg Süd,17:09,Frankfurt(M) Flughafen Fernbf,16:49,2
+ICE 624,Limburg Süd,19:42,Dortmund Hbf,17:40,10
+ICE 624,Limburg (Lahn) Süd (ICE),19:42,Dortmund Hbf,17:40,
+ICE 814,Limburg Süd,18:40,Köln Messe/Deutz Gl.11-12,17:48,FALSE
+ICE 713,Limburg Süd,19:28,Frankfurt(M) Flughafen Fernbf,18:20,1
+ICE 812,Limburg (Lahn) Süd (ICE),21:08,Dortmund Hbf,18:48,
+ICE 812,Limburg Süd,21:08,Dortmund Hbf,18:48,
+ICE 905,Limburg Süd,19:09,Frankfurt(M) Flughafen Fernbf,18:49,
+ICE 620,Limburg Süd,21:46,Dortmund Hbf,19:41,13
+ICE 821,Limburg (Lahn) Süd (ICE),00:41,München Hbf,20:14,
+ICE 821,Limburg Süd,00:41,München Hbf,20:14,44
+ICE 810,Limburg Süd,22:02,Köln Hbf,21:09,1
+ICE 823,Limburg Süd,21:48,Frankfurt(Main)Hbf,21:14,5
+ICE 524,Limburg Süd,00:53,Dortmund Hbf,22:41,18
+ICE 522,Limburg Süd,00:29,Köln Hbf,23:42,35

@@ -1,0 +1,23 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 1086,Tuttlingen,06:34,Rottweil,06:15,
+IC 1184,Tuttlingen,06:34,Rottweil,06:15,
+IC 2284,Tuttlingen,07:10,Rottweil,06:52,
+IC 2386,Tuttlingen,07:39,Sulz(Neckar),06:52,
+IC 181,Tuttlingen,09:26,Zürich HB,08:01,
+IC 2381,Tuttlingen,09:23,Singen(Hohentwiel),08:59,
+IC 2501,Tuttlingen,09:23,Singen(Hohentwiel),08:59,3
+IC 388,Tuttlingen,09:40,Sulz(Neckar),08:59,
+IC 380,Tuttlingen,11:40,Sulz(Neckar),10:59,
+IC 483,Tuttlingen,12:26,Zürich HB,11:00,2
+IC 488,Tuttlingen,13:40,Sulz(Neckar),12:59,1
+IC 485,Tuttlingen,14:26,Zürich HB,13:00,1
+IC 2286,Tuttlingen,15:40,Sulz(Neckar),14:59,1
+IC 486,Tuttlingen,15:40,Sulz(Neckar),14:59,2
+IC 487,Tuttlingen,16:26,Zürich HB,15:00,
+IC 484,Tuttlingen,17:40,Sulz(Neckar),16:59,1
+IC 489,Tuttlingen,18:26,Zürich HB,17:00,4
+IC 2382,Tuttlingen,20:43,Stuttgart Hbf,18:59,
+IC 2502,Tuttlingen,19:16,Rottweil,18:59,2
+IC 480,Tuttlingen,21:40,Sulz(Neckar),20:59,1
+IC 389,Tuttlingen,22:26,Zürich HB,21:00,1
+IC 2503,Tuttlingen,23:50,Konstanz,23:02,2

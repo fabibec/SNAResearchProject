@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2173,Waren(Müritz),16:27,Wien Franz-Josefs-Bahnhof,07:01,1
+IC 296,Waren(Müritz),08:37,Rostock Hbf,07:58,1
+IC 2274,Waren(Müritz),10:01,Warnemünde,08:58,1
+IC 2175,Waren(Müritz),12:27,Dresden Hbf,09:01,17
+IC 2272,Waren(Müritz),12:01,Warnemünde,10:58,5
+IC 2177,Waren(Müritz),14:27,Dresden Hbf,11:01,1
+IC 2270,Waren(Müritz),14:05,Warnemünde,12:58,32
+IC 2179,Waren(Müritz),16:27,Dresden Hbf,13:01,8
+IC 2178,Waren(Müritz),16:05,Warnemünde,14:58,3
+IC 2271,Waren(Müritz),19:40,Chemnitz Hbf,15:01,
+IC 2176,Waren(Müritz),18:05,Warnemünde,16:58,2
+IC 2273,Waren(Müritz),21:40,Chemnitz Hbf,17:01,1
+IC 2174,Waren(Müritz),20:01,Warnemünde,18:58,9
+IC 2275,Waren(Müritz),22:27,Dresden Hbf,19:01,1
+IC 2172,Waren(Müritz),21:37,Rostock Hbf,20:58,1
+IC 17,Waren(Müritz),03:48,Lichtenfels,21:01,
+IC 297,Waren(Müritz),10:47,Wien Hbf,21:01,2

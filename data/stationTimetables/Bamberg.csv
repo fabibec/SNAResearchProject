@@ -1,0 +1,43 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 17,Bamberg,03:48,Lichtenfels,01:05,
+IC 296,Bamberg,08:37,Rostock Hbf,01:05,1
+IC 297,Bamberg,10:47,Wien Hbf,04:21,10
+ICE 1604,Bamberg,11:39,Hamburg-Altona,06:22,
+ICE 501,Bamberg,09:17,München Hbf,07:27,
+ICE 804,Bamberg,13:48,Kiel Hbf,07:42,1
+ICE 1701,Bamberg,10:42,München Hbf,08:17,
+ICE 602,Bamberg,13:41,Hamburg-Altona,08:42,4
+ICE 503,Bamberg,11:03,München Hbf,09:17,2
+ICE 802,Bamberg,14:39,Hamburg-Altona,09:42,3
+ICE 701,Bamberg,12:42,München Hbf,10:17,1
+IC 2068,Bamberg,13:52,Stuttgart Hbf,10:58,1
+IC 2063,Bamberg,14:04,Leipzig Hbf,11:00,7
+ICE 505,Bamberg,13:01,München Hbf,11:17,
+ICE 800,Bamberg,16:38,Hamburg-Altona,11:42,
+ICE 703,Bamberg,14:01,München Hbf,12:17,15
+ICE 508,Bamberg,17:40,Hamburg-Altona,12:42,4
+IC 2066,Bamberg,16:52,Karlsruhe Hbf,12:57,3
+IC 2065,Bamberg,16:04,Leipzig Hbf,13:00,68
+ICE 507,Bamberg,15:04,München Hbf,13:16,18
+ICE 708,Bamberg,18:38,Hamburg-Altona,13:42,39
+ICE 705,Bamberg,16:42,München Hbf,14:17,
+ICE 506,Bamberg,19:41,Hamburg-Altona,14:42,6
+IC 2064,Bamberg,17:53,Stuttgart Hbf,14:58,1
+IC 2067,Bamberg,18:04,Leipzig Hbf,15:00,5
+ICE 509,Bamberg,17:01,München Hbf,15:17,1
+ICE 706,Bamberg,20:39,Hamburg-Altona,15:42,1
+ICE 707,Bamberg,18:03,München Hbf,16:17,1
+ICE 504,Bamberg,21:40,Hamburg-Altona,16:42,18
+IC 2062,Bamberg,19:53,Stuttgart Hbf,16:58,
+IC 2069,Bamberg,20:04,Leipzig Hbf,17:01,9
+ICE 704,Bamberg,22:22,Hamburg Hbf,17:42,3
+ICE 709,Bamberg,20:43,München Hbf,18:17,11
+ICE 502,Bamberg,23:49,Hamburg-Altona,18:42,1
+IC 2060,Bamberg,23:00,Karlsruhe Hbf,18:58,1
+IC 2161,Bamberg,22:04,Leipzig Hbf,19:00,4
+ICE 603,Bamberg,21:03,München Hbf,19:18,25
+ICE 702,Bamberg,22:33,Berlin Gesundbrunnen,19:42,2
+ICE 801,Bamberg,22:44,München Hbf,20:17,5
+ICE 500,Bamberg,23:56,Berlin Südkreuz,20:43,3
+ICE 1500,Bamberg,23:26,Leipzig Hbf,21:42,7
+ICE 803,Bamberg,23:09,Nürnberg Hbf,22:30,4

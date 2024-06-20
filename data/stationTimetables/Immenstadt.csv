@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2084,Immenstadt,19:21,Hamburg-Altona,10:27,7
+IC 2012,Immenstadt,18:04,Dortmund Hbf,10:38,11
+IC 2085,Immenstadt,16:11,Oberstdorf,15:42,17
+IC 2013,Immenstadt,18:13,Oberstdorf,17:42,FALSE

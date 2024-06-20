@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2227,Schwerte(Ruhr),12:35,Frankfurt(Main)Hbf,09:30,8
+IC 2322,Schwerte(Ruhr),16:16,Norddeich Mole,12:29,9
+IC 2321,Schwerte(Ruhr),16:35,Frankfurt(Main)Hbf,13:30,
+IC 2228,Schwerte(Ruhr),17:28,Münster(Westf)Hbf,16:29,FALSE

@@ -1,0 +1,26 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 460,Freilassing,05:22,Stuttgart Hbf,01:00,2
+IC 1296,Freilassing,11:40,Frankfurt(Main)Hbf,05:51,
+IC 1298,Freilassing,09:02,München Hbf,07:16,
+RJ 1298,Freilassing,09:02,München Hbf,07:16,2
+IC 1290,Freilassing,09:41,München Hbf,08:08,
+ICE 1290,Freilassing,13:40,Frankfurt(Main)Hbf,08:08,3
+IC 2082,Freilassing,19:21,Hamburg-Altona,09:47,1
+RJ 111,Freilassing,13:19,Klagenfurt Hbf,09:52,2
+EC 218,Freilassing,15:40,Frankfurt(Main)Hbf,10:08,3
+EC 217,Freilassing,16:14,Graz Hbf,11:52,
+ICE 114,Freilassing,21:09,Dortmund Hbf,12:08,1
+EC 113,Freilassing,17:19,Klagenfurt Hbf,13:52,
+EC 112,Freilassing,19:40,Frankfurt(Main)Hbf,14:08,5
+ICE 115,Freilassing,19:19,Klagenfurt Hbf,15:52,
+EC 216,Freilassing,19:58,Stuttgart Hbf,16:08,2
+IC 2083,Freilassing,17:04,Berchtesgaden Hbf,16:16,FALSE
+EC 219,Freilassing,22:14,Graz Hbf,17:52,20
+IC 268,Freilassing,19:38,München Hbf,18:08,
+RJ 268,Freilassing,19:38,München Hbf,18:08,33
+EC 117,Freilassing,17:57,Bohumin,19:52,
+IC 110,Freilassing,21:41,München Hbf,20:08,
+RJ 110,Freilassing,21:41,München Hbf,20:08,2
+RJ 1299,Freilassing,21:00,Salzburg Hbf,20:54,5
+IC 1291,Freilassing,22:01,Salzburg Hbf,21:55,5
+RJ 1295,Freilassing,22:59,Salzburg Hbf,22:52,

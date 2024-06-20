@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2082,Bad Reichenhall-Kirchberg,19:21,Hamburg-Altona,08:54,1
+IC 2082,Bad Reichenhall,19:21,Hamburg-Altona,08:59,
+IC 2083,Bad Reichenhall,17:04,Berchtesgaden Hbf,16:30,FALSE
+IC 2083,Bad Reichenhall-Kirchberg,17:04,Berchtesgaden Hbf,16:34,FALSE

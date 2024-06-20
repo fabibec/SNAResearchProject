@@ -1,0 +1,13 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EC 175,Schleswig,17:24,Praha hl.n.,09:14,
+EC 398,Schleswig,13:34,København H,10:26,1
+EC 391,Schleswig,12:06,Hamburg Hbf,10:30,16
+EC 396,Schleswig,15:34,København H,12:26,9
+EC 393,Schleswig,14:06,Hamburg Hbf,12:30,4
+EC 394,Schleswig,17:34,København H,14:26,FALSE
+EC 395,Schleswig,16:03,Hamburg Hbf,14:30,9
+EC 392,Schleswig,19:34,København H,16:29,10
+EC 397,Schleswig,18:04,Hamburg Hbf,16:30,FALSE
+EC 390,Schleswig,21:34,København H,18:26,5
+EC 399,Schleswig,20:04,Hamburg Hbf,18:30,5
+EC 174,Schleswig,19:15,Flensburg,18:49,12

@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+TGV 9590,Lahr(Schwarzw),09:35,Paris Est,07:04,2
+ICE 267,Lahr(Schwarzw),10:49,München Hbf,07:17,
+TGV 9591,Lahr(Schwarzw),20:26,Freiburg(Breisgau) Hbf,19:55,3
+ICE 266,Lahr(Schwarzw),21:56,Basel SBB,20:52,22

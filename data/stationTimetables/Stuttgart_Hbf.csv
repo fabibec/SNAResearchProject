@@ -1,0 +1,140 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 698,Stuttgart Hbf,07:36,Berlin Hbf,00:11,12
+ICE 618,Stuttgart Hbf,11:23,Kiel Hbf,02:22,2
+IC 2326,Stuttgart Hbf,05:30,Frankfurt(Main)West,02:26,
+IC 34,Stuttgart Hbf,03:04,Pforzheim Hbf,02:26,
+ICE 774,Stuttgart Hbf,11:36,Hamburg Hbf,05:02,
+ICE 699,Stuttgart Hbf,08:08,München Hbf,05:34,1
+ICE 616,Stuttgart Hbf,12:30,Hamburg-Altona,05:51,1
+IC 2298,Stuttgart Hbf,08:00,Frankfurt(Main)Hbf,06:02,4
+ICE 1061,Stuttgart Hbf,07:54,München Hbf,06:02,1
+IC 2061,Stuttgart Hbf,07:49,Ansbach,06:05,
+IC 2571,Stuttgart Hbf,10:17,Singen(Hohentwiel),06:20,1
+ICE 1163,Stuttgart Hbf,08:30,München Hbf,06:24,
+ICE 1118,Stuttgart Hbf,08:33,Wiesbaden Hbf,06:26,
+ICE 1014,Stuttgart Hbf,09:21,Düsseldorf Hbf,06:36,
+ICE 561,Stuttgart Hbf,08:49,München Hbf,06:50,4
+ICE 694,Stuttgart Hbf,13:00,Berlin Hbf,06:50,
+TGV 9578,Stuttgart Hbf,10:13,Paris Est,06:52,3
+ICE 1068,Stuttgart Hbf,07:52,Karlsruhe Hbf,07:10,
+ICE 557,Stuttgart Hbf,15:17,Berlin Ostbahnhof,07:13,1
+IC 2531,Stuttgart Hbf,07:47,Herrenberg,07:15,
+ICE 991,Stuttgart Hbf,09:18,München Hbf,07:15,
+ICE 772,Stuttgart Hbf,13:36,Hamburg Hbf,07:25,
+ICE 911,Stuttgart Hbf,09:28,München Hbf,07:28,
+ICE 1949,Stuttgart Hbf,18:40,Dresden Hbf,07:36,1
+IC 897,Stuttgart Hbf,10:28,Lindau-Reutin,07:44,
+RJX 897,Stuttgart Hbf,17:57,Flughafen Wien,07:44,
+ICE 614,Stuttgart Hbf,14:30,Hamburg-Altona,07:51,
+EC 217,Stuttgart Hbf,16:14,Graz Hbf,07:59,
+IC 2164,Stuttgart Hbf,23:00,Karlsruhe Hbf,07:59,
+ICE 1098,Stuttgart Hbf,09:40,Frankfurt(Main)Hbf,08:05,3
+IC 2063,Stuttgart Hbf,14:04,Leipzig Hbf,08:08,1
+ICE 511,Stuttgart Hbf,10:26,München Hbf,08:14,62
+ICE 1012,Stuttgart Hbf,12:05,Dortmund Hbf,08:39,3
+ICE 267,Stuttgart Hbf,10:49,München Hbf,08:51,1
+ICE 692,Stuttgart Hbf,15:00,Berlin Hbf,08:51,2
+IC 2374,Stuttgart Hbf,19:34,Westerland(Sylt),08:57,22
+TGV 9576,Stuttgart Hbf,12:33,Paris Est,09:10,
+ICE 591,Stuttgart Hbf,11:12,München Hbf,09:15,4
+IC 2519,Stuttgart Hbf,09:47,Herrenberg,09:16,
+ICE 770,Stuttgart Hbf,15:36,Hamburg Hbf,09:23,2
+ICE 913,Stuttgart Hbf,11:26,München Hbf,09:28,13
+IC 2047,Stuttgart Hbf,20:40,Dresden Hbf,09:37,
+ICE 612,Stuttgart Hbf,17:22,Kiel Hbf,09:51,2
+EC 113,Stuttgart Hbf,17:19,Klagenfurt Hbf,09:58,6
+IC 2162,Stuttgart Hbf,10:53,Karlsruhe Hbf,09:59,2
+IC 1296,Stuttgart Hbf,11:40,Frankfurt(Main)Hbf,10:05,1
+IC 2065,Stuttgart Hbf,16:04,Leipzig Hbf,10:09,
+ICE 513,Stuttgart Hbf,12:26,München Hbf,10:14,6
+ICE 1010,Stuttgart Hbf,14:10,Dortmund Hbf,10:37,3
+ICE 563,Stuttgart Hbf,12:49,München Hbf,10:51,
+ICE 690,Stuttgart Hbf,17:00,Berlin Hbf,10:51,1
+ICE 9574,Stuttgart Hbf,14:13,Paris Est,10:52,3
+ICE 568,Stuttgart Hbf,11:52,Karlsruhe Hbf,11:12,2
+ICE 593,Stuttgart Hbf,13:13,München Hbf,11:15,2
+ICE 578,Stuttgart Hbf,17:36,Hamburg Hbf,11:23,
+ICE 915,Stuttgart Hbf,13:26,München Hbf,11:28,3
+IC 2045,Stuttgart Hbf,22:38,Dresden Hbf,11:37,5
+ICE 610,Stuttgart Hbf,18:30,Hamburg-Altona,11:51,3
+ICE 115,Stuttgart Hbf,19:19,Klagenfurt Hbf,11:58,3
+IC 2160,Stuttgart Hbf,12:53,Karlsruhe Hbf,11:59,1
+ICE 1290,Stuttgart Hbf,13:40,Frankfurt(Main)Hbf,12:05,1
+IC 2014,Stuttgart Hbf,19:26,Emden Hbf,12:08,
+IC 2067,Stuttgart Hbf,18:04,Leipzig Hbf,12:09,3
+ICE 515,Stuttgart Hbf,14:26,München Hbf,12:14,3
+ICE 918,Stuttgart Hbf,16:10,Dortmund Hbf,12:38,
+ICE 1218,Stuttgart Hbf,18:55,Berlin Hbf,12:51,
+ICE 565,Stuttgart Hbf,14:49,München Hbf,12:51,
+ICE 119,Stuttgart Hbf,19:05,Innsbruck Hbf,12:57,
+ICE 566,Stuttgart Hbf,13:52,Karlsruhe Hbf,13:09,
+IC 2012,Stuttgart Hbf,18:04,Dortmund Hbf,13:12,43
+ICE 595,Stuttgart Hbf,15:13,München Hbf,13:15,3
+IC 2523,Stuttgart Hbf,13:47,Herrenberg,13:16,3
+ICE 576,Stuttgart Hbf,19:37,Hamburg Hbf,13:23,3
+ICE 917,Stuttgart Hbf,15:27,München Hbf,13:28,2
+ICE 518,Stuttgart Hbf,20:30,Hamburg-Altona,13:51,
+EC 219,Stuttgart Hbf,22:14,Graz Hbf,13:58,6
+EC 218,Stuttgart Hbf,15:40,Frankfurt(Main)Hbf,14:05,7
+IC 2069,Stuttgart Hbf,20:04,Leipzig Hbf,14:09,
+ICE 517,Stuttgart Hbf,16:26,München Hbf,14:14,4
+ICE 710,Stuttgart Hbf,17:07,Limburg Süd,14:35,
+ICE 567,Stuttgart Hbf,16:49,München Hbf,14:51,2
+ICE 596,Stuttgart Hbf,20:55,Berlin Hbf,14:51,8
+ICE 9572,Stuttgart Hbf,18:16,Paris Est,14:52,4
+IC 2013,Stuttgart Hbf,18:13,Oberstdorf,14:59,FALSE
+ICE 118,Stuttgart Hbf,20:35,Münster(Westf)Hbf,15:12,18
+ICE 597,Stuttgart Hbf,17:16,München Hbf,15:15,2
+IC 2527,Stuttgart Hbf,15:47,Herrenberg,15:16,1
+ICE55920,Stuttgart Hbf,21:36,Hamburg Hbf,15:23,4
+ICE 516,Stuttgart Hbf,22:30,Hamburg-Altona,15:51,2
+IC 2066,Stuttgart Hbf,16:52,Karlsruhe Hbf,15:58,22
+EC 117,Stuttgart Hbf,17:57,Bohumin,15:59,5
+ICE 1168,Stuttgart Hbf,17:40,Frankfurt(Main)Hbf,15:59,
+ICE 114,Stuttgart Hbf,21:09,Dortmund Hbf,16:07,2
+IC 2161,Stuttgart Hbf,22:04,Leipzig Hbf,16:09,1
+ICE 519,Stuttgart Hbf,18:26,München Hbf,16:14,15
+ICE 1512,Stuttgart Hbf,18:33,Wiesbaden Hbf,16:22,FALSE
+ICE 914,Stuttgart Hbf,20:18,Dortmund Hbf,16:37,1
+ICE 569,Stuttgart Hbf,18:49,München Hbf,16:51,2
+ICE 594,Stuttgart Hbf,22:54,Berlin Hbf,16:51,5
+ICE 1572,Stuttgart Hbf,21:56,Hannover Hbf,16:54,FALSE
+ICE 562,Stuttgart Hbf,19:17,Saarbrücken Hbf,17:08,2
+ICE 599,Stuttgart Hbf,19:12,München Hbf,17:14,8
+IC 2515,Stuttgart Hbf,17:47,Herrenberg,17:15,3
+ICE 572,Stuttgart Hbf,23:40,Hamburg Hbf,17:23,1
+ICE 1011,Stuttgart Hbf,19:27,München Hbf,17:28,21
+ICE 1549,Stuttgart Hbf,22:22,Dortmund Hbf,17:37,FALSE
+ICE 514,Stuttgart Hbf,00:30,Hamburg-Altona,17:51,
+IC 1291,Stuttgart Hbf,22:01,Salzburg Hbf,17:59,3
+EC 112,Stuttgart Hbf,19:40,Frankfurt(Main)Hbf,18:04,35
+IC 2163,Stuttgart Hbf,20:18,Nürnberg Hbf,18:09,1
+ICE 611,Stuttgart Hbf,20:29,München Hbf,18:14,18
+ICE 912,Stuttgart Hbf,22:09,Dortmund Hbf,18:38,2
+ICE 592,Stuttgart Hbf,23:33,Erfurt Hbf,18:51,4
+ICE 1069,Stuttgart Hbf,20:56,München Hbf,18:57,
+ICE 266,Stuttgart Hbf,21:56,Basel SBB,19:12,3
+IC 2343,Stuttgart Hbf,23:23,Köln Hbf,19:15,3
+ICE 1211,Stuttgart Hbf,23:18,Innsbruck Hbf,19:15,8
+IC 2517,Stuttgart Hbf,19:47,Herrenberg,19:16,
+ICE 570,Stuttgart Hbf,20:52,Frankfurt(Main)Hbf,19:23,FALSE
+ICE 1013,Stuttgart Hbf,21:26,München Hbf,19:28,26
+ICE 9577,Stuttgart Hbf,21:38,München Hbf,19:35,
+TGV 9577,Stuttgart Hbf,21:38,München Hbf,19:35,28
+ICE 512,Stuttgart Hbf,00:14,Münster(Westf)Hbf,19:51,12
+ICE 1099,Stuttgart Hbf,22:14,München Hbf,19:58,11
+IC 2165,Stuttgart Hbf,22:18,Nürnberg Hbf,20:09,3
+RJX 890,Stuttgart Hbf,21:52,Frankfurt(Main)Hbf,20:12,24
+ICE 613,Stuttgart Hbf,22:26,München Hbf,20:14,24
+EN 463,Stuttgart Hbf,09:27,Budapest-Keleti,20:29,
+EN 60237,Stuttgart Hbf,09:44,Pivka,20:29,1
+IC 2048,Stuttgart Hbf,21:30,Tübingen Hbf,20:32,2
+ICE 910,Stuttgart Hbf,22:51,Köln Hbf,20:38,1
+ICE 590,Stuttgart Hbf,22:08,Frankfurt(Main)Hbf,20:51,3
+ICE 560,Stuttgart Hbf,21:59,Karlsruhe Hbf,21:11,2
+ICE 693,Stuttgart Hbf,23:13,München Hbf,21:15,1
+ICE 1015,Stuttgart Hbf,23:25,München Hbf,21:28,35
+ICE 510,Stuttgart Hbf,00:07,Köln Hbf,21:51,9
+IC 2060,Stuttgart Hbf,23:00,Karlsruhe Hbf,21:59,5
+ICE 615,Stuttgart Hbf,00:28,München Hbf,22:14,79
+D 90,Stuttgart Hbf,00:17,Crailsheim,22:55,

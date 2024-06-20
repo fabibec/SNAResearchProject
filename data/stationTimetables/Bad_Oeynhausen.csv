@@ -1,0 +1,16 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2445,Bad Oeynhausen,12:58,Dresden Hbf,07:38,
+IC 2042,Bad Oeynhausen,10:46,Köln Hbf,08:23,
+IC 2443,Bad Oeynhausen,14:57,Dresden Hbf,09:38,2
+ICE 1944,Bad Oeynhausen,16:22,Stuttgart Hbf,10:23,2
+IC 2441,Bad Oeynhausen,16:47,Dresden Hbf,11:38,4
+IC 2046,Bad Oeynhausen,18:27,Stuttgart Hbf,12:23,1
+ICE 1949,Bad Oeynhausen,18:40,Dresden Hbf,13:38,16
+IC 2048,Bad Oeynhausen,21:30,Tübingen Hbf,14:23,1
+IC 2047,Bad Oeynhausen,20:40,Dresden Hbf,15:38,36
+IC 2440,Bad Oeynhausen,22:22,Stuttgart Hbf,16:23,1
+IC 2045,Bad Oeynhausen,22:38,Dresden Hbf,17:38,3
+IC 2442,Bad Oeynhausen,23:13,Frankfurt(Main)Hbf,18:23,1
+IC 2043,Bad Oeynhausen,22:58,Leipzig/Halle Flughafen,19:38,39
+IC 2444,Bad Oeynhausen,23:54,Koblenz Hbf,20:23,1
+ICE 102,Bad Oeynhausen,00:18,Hannover Hbf,23:38,FALSE

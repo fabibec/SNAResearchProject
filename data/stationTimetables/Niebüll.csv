@@ -1,0 +1,41 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+D 1400,Niebüll,05:55,Westerland(Sylt),05:02,
+D 1400,Niebüll neg,05:55,Westerland(Sylt),05:02,13
+D 1416,Niebüll,09:55,Westerland(Sylt),09:02,
+D 1416,Niebüll neg,09:55,Westerland(Sylt),09:02,
+IC 2313,Niebüll neg,17:07,Köln Hbf,09:48,FALSE
+IC 2313,Niebüll,17:07,Köln Hbf,10:09,FALSE
+IC 2393,Niebüll neg,20:57,Stuttgart Hbf,10:59,
+IC 2375,Niebüll neg,20:57,Stuttgart Hbf,11:17,15
+IC 2375,Niebüll,20:57,Stuttgart Hbf,11:17,16
+IC 2375,Niebüll neg,20:55,Amsterdam Centraal,11:17,15
+IC 2375,Niebüll,20:55,Amsterdam Centraal,11:17,16
+IC 2393,Niebüll,20:57,Stuttgart Hbf,11:17,15
+IC 2216,Niebüll,12:23,Dagebüll Mole,11:48,57
+IC 2214,Niebüll neg,12:34,Westerland(Sylt),12:00,FALSE
+IC 2214,Niebüll,12:34,Westerland(Sylt),12:00,FALSE
+IC 2216,Niebüll neg,12:23,Dagebüll Mole,12:05,57
+IC 2074,Niebüll neg,13:37,Westerland(Sylt),13:00,18
+IC 2074,Niebüll,13:37,Westerland(Sylt),13:00,18
+IC 2076,Niebüll neg,13:53,Dagebüll Mole,13:35,9
+IC 2076,Niebüll,13:53,Dagebüll Mole,13:35,10
+IC 2217,Niebüll neg,20:57,Köln Hbf,13:57,FALSE
+IC 2215,Niebüll neg,20:57,Köln Hbf,14:10,11
+IC 2215,Niebüll,20:57,Köln Hbf,14:10,11
+IC 2217,Niebüll,20:57,Köln Hbf,14:10,11
+IC 2077,Niebüll neg,20:17,Berlin Gesundbrunnen,14:57,
+IC 2075,Niebüll neg,20:17,Berlin Gesundbrunnen,15:11,12
+IC 2075,Niebüll,20:17,Berlin Gesundbrunnen,15:11,12
+IC 2077,Niebüll,20:17,Berlin Gesundbrunnen,15:11,12
+D 1439,Niebüll,15:59,Bredstedt,15:38,
+IC 2310,Niebüll,16:34,Westerland(Sylt),16:01,6
+IC 2310,Niebüll neg,16:34,Westerland(Sylt),16:01,6
+IC 2312,Niebüll,16:23,Dagebüll Mole,16:05,2
+IC 2312,Niebüll neg,16:23,Dagebüll Mole,16:05,15
+D 1448,Niebüll neg,17:55,Westerland(Sylt),17:02,22
+D 1448,Niebüll,17:55,Westerland(Sylt),17:02,
+IC 2374,Niebüll,19:34,Westerland(Sylt),19:00,5
+IC 2374,Niebüll neg,19:34,Westerland(Sylt),19:00,5
+D 1455,Niebüll,20:14,Husum,19:38,
+D 1464,Niebüll neg,21:55,Westerland(Sylt),21:02,
+D 1464,Niebüll,21:55,Westerland(Sylt),21:02,

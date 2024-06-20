@@ -1,0 +1,184 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 17,Nürnberg Hbf,03:48,Lichtenfels,00:26,
+IC 296,Nürnberg Hbf,08:37,Rostock Hbf,00:26,5
+ICE 1080,Nürnberg Hbf,08:09,Hamburg Hbf,00:47,5
+ICE 24,Nürnberg Hbf,07:05,Lüneburg,00:47,
+NJ 40490,Nürnberg Hbf,11:01,Amsterdam Centraal,01:39,
+NJ 420,Nürnberg Hbf,11:01,Amsterdam Centraal,01:39,47
+NJ 40420,Nürnberg Hbf,09:05,Hamburg-Altona,01:48,44
+NJ 490,Nürnberg Hbf,09:05,Hamburg-Altona,01:48,117
+ICE 1022,Nürnberg Hbf,11:25,Dortmund Hbf,05:28,1
+ICE 888,Nürnberg Hbf,10:21,Hamburg Hbf,05:32,
+IC 2164,Nürnberg Hbf,23:00,Karlsruhe Hbf,05:38,
+ICE 1604,Nürnberg Hbf,11:39,Hamburg-Altona,05:42,1
+IC 297,Nürnberg Hbf,10:47,Wien Hbf,06:00,
+ICE 822,Nürnberg Hbf,09:46,Düsseldorf Hbf,06:00,
+ICE 1081,Nürnberg Hbf,07:18,München Hbf,06:07,97
+ICE 684,Nürnberg Hbf,11:22,Hamburg Hbf,06:32,
+ICE 1122,Nürnberg Hbf,10:07,Düsseldorf Hbf,06:39,10
+ICE 1008,Nürnberg Hbf,12:03,Hamburg-Altona,06:59,2
+ICE 827,Nürnberg Hbf,08:06,München Hbf,07:01,
+ICE 820,Nürnberg Hbf,10:50,Düsseldorf Hbf,07:02,1
+ICE 804,Nürnberg Hbf,13:48,Kiel Hbf,07:05,
+ICE 1020,Nürnberg Hbf,16:06,Hamburg-Altona,07:30,40
+ICE 886,Nürnberg Hbf,12:21,Hamburg Hbf,07:33,
+IC 2162,Nürnberg Hbf,10:53,Karlsruhe Hbf,07:38,
+ICE 728,Nürnberg Hbf,11:47,Düsseldorf Hbf,07:57,
+ICE 521,Nürnberg Hbf,09:06,München Hbf,07:58,
+ICE 1114,Nürnberg Hbf,10:57,Berlin Hbf,08:01,
+ICE 602,Nürnberg Hbf,13:41,Hamburg-Altona,08:05,1
+ICE 501,Nürnberg Hbf,09:17,München Hbf,08:11,
+ICE 781,Nürnberg Hbf,09:42,München Hbf,08:27,21
+ICE 21,Nürnberg Hbf,12:47,Wien Hbf,08:31,18
+ICE 682,Nürnberg Hbf,13:22,Hamburg Hbf,08:32,10
+ICE 726,Nürnberg Hbf,12:48,Düsseldorf Hbf,08:58,2
+ICE 1001,Nürnberg Hbf,10:02,München Hbf,08:59,13
+ICE 1701,Nürnberg Hbf,10:42,München Hbf,09:00,FALSE
+ICE 1006,Nürnberg Hbf,14:06,Hamburg-Altona,09:02,2
+ICE 523,Nürnberg Hbf,10:06,München Hbf,09:02,2
+ICE 802,Nürnberg Hbf,14:39,Hamburg-Altona,09:05,2
+ICE 1121,Nürnberg Hbf,10:20,München Hbf,09:17,16
+ICE 928,Nürnberg Hbf,18:07,Hamburg-Altona,09:29,
+ICE 581,Nürnberg Hbf,10:45,München Hbf,09:30,1
+ICE 882,Nürnberg Hbf,14:22,Hamburg Hbf,09:33,1
+IC 2160,Nürnberg Hbf,12:53,Karlsruhe Hbf,09:42,2
+ICE 503,Nürnberg Hbf,11:03,München Hbf,09:55,1
+ICE 724,Nürnberg Hbf,13:51,Düsseldorf Hbf,09:57,
+ICE 525,Nürnberg Hbf,11:07,München Hbf,09:58,5
+ICE 1112,Nürnberg Hbf,12:57,Berlin Hbf,10:01,
+ICE 1103,Nürnberg Hbf,11:11,München Hbf,10:03,2
+ICE 1600,Nürnberg Hbf,15:39,Hamburg-Altona,10:06,FALSE
+ICE 1710,Nürnberg Hbf,17:33,Ostseebad Binz,10:06,FALSE
+ICE 2914,Nürnberg Hbf,15:39,Hamburg-Altona,10:06,15
+IC 2063,Nürnberg Hbf,14:04,Leipzig Hbf,10:24,1
+ICE 783,Nürnberg Hbf,11:42,München Hbf,10:27,18
+ICE 23,Nürnberg Hbf,14:47,Wien Hbf,10:31,
+ICE 680,Nürnberg Hbf,15:39,Hamburg Hbf,10:33,
+ICE 1694,Nürnberg Hbf,13:56,Berlin Hbf,10:35,10
+ICE 94,Nürnberg Hbf,16:20,Hamburg-Altona,10:35,10
+ICE 722,Nürnberg Hbf,14:49,Düsseldorf Hbf,10:58,
+ICE 1003,Nürnberg Hbf,12:02,München Hbf,10:59,
+ICE 701,Nürnberg Hbf,12:42,München Hbf,10:59,1
+ICE 527,Nürnberg Hbf,12:10,München Hbf,11:02,
+ICE 800,Nürnberg Hbf,16:38,Hamburg-Altona,11:05,
+ICE 533,Nürnberg Hbf,12:40,München Hbf,11:28,3
+ICE 583,Nürnberg Hbf,12:40,München Hbf,11:28,3
+ICE 228,Nürnberg Hbf,17:21,Dortmund Hbf,11:30,39
+ICE 880,Nürnberg Hbf,16:21,Hamburg Hbf,11:33,FALSE
+IC 2068,Nürnberg Hbf,13:52,Stuttgart Hbf,11:42,1
+ICE 505,Nürnberg Hbf,13:01,München Hbf,11:55,3
+ICE 720,Nürnberg Hbf,15:43,Düsseldorf Hbf,11:57,
+ICE 529,Nürnberg Hbf,13:05,München Hbf,11:58,10
+ICE 1110,Nürnberg Hbf,14:57,Berlin Hbf,12:01,1
+ICE 1105,Nürnberg Hbf,13:09,München Hbf,12:03,2
+ICE 508,Nürnberg Hbf,17:40,Hamburg-Altona,12:05,
+IC 2065,Nürnberg Hbf,16:04,Leipzig Hbf,12:24,67
+ICE 1621,Nürnberg Hbf,13:42,München Hbf,12:27,FALSE
+ICE 91,Nürnberg Hbf,16:47,Wien Hbf,12:31,33
+ICE 588,Nürnberg Hbf,17:22,Hamburg Hbf,12:33,11
+ICE 703,Nürnberg Hbf,14:01,München Hbf,12:53,14
+ICE 628,Nürnberg Hbf,16:49,Düsseldorf Hbf,12:57,1
+ICE 1004,Nürnberg Hbf,18:12,Hamburg-Altona,13:01,
+ICE 621,Nürnberg Hbf,14:06,München Hbf,13:01,25
+ICE 708,Nürnberg Hbf,18:38,Hamburg-Altona,13:05,10
+ICE 585,Nürnberg Hbf,14:41,München Hbf,13:28,3
+ICE 28,Nürnberg Hbf,19:24,Dortmund Hbf,13:30,34
+ICE 93,Nürnberg Hbf,17:47,Wien Hbf,13:32,51
+ICE 788,Nürnberg Hbf,18:21,Hamburg Hbf,13:33,10
+IC 2066,Nürnberg Hbf,16:52,Karlsruhe Hbf,13:41,17
+ICE 507,Nürnberg Hbf,15:04,München Hbf,13:55,16
+ICE 626,Nürnberg Hbf,18:41,Dortmund Hbf,13:57,1
+ICE 1107,Nürnberg Hbf,15:08,München Hbf,14:00,FALSE
+ICE 2907,Nürnberg Hbf,15:08,München Hbf,14:00,15
+ICE 1108,Nürnberg Hbf,16:57,Berlin Hbf,14:01,9
+ICE 506,Nürnberg Hbf,19:41,Hamburg-Altona,14:05,6
+ICE 1223,Nürnberg Hbf,15:12,München Hbf,14:07,37
+ICE 623,Nürnberg Hbf,15:12,München Hbf,14:07,FALSE
+IC 2067,Nürnberg Hbf,18:04,Leipzig Hbf,14:24,
+ICE 787,Nürnberg Hbf,15:44,München Hbf,14:27,2
+ICE 27,Nürnberg Hbf,18:47,Wien Hbf,14:31,2
+ICE 586,Nürnberg Hbf,19:22,Hamburg Hbf,14:34,
+ICE 92,Nürnberg Hbf,20:15,Hamburg-Altona,14:36,20
+ICE 624,Nürnberg Hbf,19:42,Dortmund Hbf,14:58,1
+ICE 1005,Nürnberg Hbf,16:01,München Hbf,14:59,
+ICE 705,Nürnberg Hbf,16:42,München Hbf,14:59,6
+ICE 625,Nürnberg Hbf,16:06,München Hbf,15:02,4
+ICE 706,Nürnberg Hbf,20:39,Hamburg-Altona,15:05,4
+ICE 587,Nürnberg Hbf,16:41,München Hbf,15:28,
+ICE 26,Nürnberg Hbf,21:19,Dortmund Hbf,15:31,92
+ICE 786,Nürnberg Hbf,20:22,Hamburg Hbf,15:34,1
+IC 2064,Nürnberg Hbf,17:53,Stuttgart Hbf,15:42,12
+ICE 509,Nürnberg Hbf,17:01,München Hbf,15:55,21
+ICE 622,Nürnberg Hbf,20:56,Dortmund Hbf,15:57,1
+ICE 627,Nürnberg Hbf,17:06,München Hbf,15:58,13
+ICE 1106,Nürnberg Hbf,18:57,Berlin Hbf,16:01,9
+ICE 1109,Nürnberg Hbf,17:10,München Hbf,16:03,15
+ICE 504,Nürnberg Hbf,21:40,Hamburg-Altona,16:05,13
+IC 2069,Nürnberg Hbf,20:04,Leipzig Hbf,16:22,10
+ICE 789,Nürnberg Hbf,17:44,München Hbf,16:27,16
+ICE 29,Nürnberg Hbf,20:47,Wien Hbf,16:31,4
+ICE 584,Nürnberg Hbf,21:20,Hamburg Hbf,16:33,34
+ICE 707,Nürnberg Hbf,18:03,München Hbf,16:55,
+ICE 620,Nürnberg Hbf,21:46,Dortmund Hbf,16:57,15
+ICE 1002,Nürnberg Hbf,20:00,Berlin Gesundbrunnen,17:01,2
+ICE 629,Nürnberg Hbf,18:07,München Hbf,17:01,4
+ICE 704,Nürnberg Hbf,22:22,Hamburg Hbf,17:05,2
+ICE 689,Nürnberg Hbf,18:40,München Hbf,17:28,92
+ICE 1695,Nürnberg Hbf,19:17,München Hbf,17:32,59
+ICE 90,Nürnberg Hbf,22:34,Hamburg-Altona,17:32,76
+ICE 95,Nürnberg Hbf,21:47,Wien Hbf,17:32,62
+ICE 1222,Nürnberg Hbf,23:21,Dortmund Hbf,17:36,FALSE
+IC 2062,Nürnberg Hbf,19:53,Stuttgart Hbf,17:41,1
+ICE 1601,Nürnberg Hbf,19:03,München Hbf,17:55,33
+ICE 1711,Nürnberg Hbf,19:03,München Hbf,17:55,33
+ICE 1128,Nürnberg Hbf,21:05,Wiesbaden Hbf,17:57,1
+ICE 528,Nürnberg Hbf,22:41,Dortmund Hbf,17:57,1
+ICE 721,Nürnberg Hbf,19:07,München Hbf,17:58,3
+ICE 1104,Nürnberg Hbf,20:57,Berlin Hbf,18:01,FALSE
+ICE 2904,Nürnberg Hbf,20:57,Berlin Hbf,18:01,9
+ICE 1111,Nürnberg Hbf,19:11,München Hbf,18:03,16
+ICE 502,Nürnberg Hbf,23:49,Hamburg-Altona,18:05,1
+IC 2161,Nürnberg Hbf,22:04,Leipzig Hbf,18:24,2
+ICE 881,Nürnberg Hbf,19:45,München Hbf,18:27,63
+ICE 229,Nürnberg Hbf,23:05,Wien Hbf,18:31,6
+ICE 532,Nürnberg Hbf,23:55,Oldenburg(Oldb)Hbf,18:33,
+ICE 582,Nürnberg Hbf,23:40,Hamburg Hbf,18:33,
+ICE 1120,Nürnberg Hbf,22:05,Düsseldorf Hbf,18:41,FALSE
+ICE 1007,Nürnberg Hbf,20:02,München Hbf,18:59,8
+ICE 709,Nürnberg Hbf,20:43,München Hbf,18:59,10
+ICE 1000,Nürnberg Hbf,22:00,Berlin Gesundbrunnen,19:00,5
+ICE 723,Nürnberg Hbf,20:06,München Hbf,19:02,15
+ICE 526,Nürnberg Hbf,23:34,Dortmund Hbf,19:03,6
+ICE 702,Nürnberg Hbf,22:33,Berlin Gesundbrunnen,19:06,1
+ICE 1123,Nürnberg Hbf,20:20,München Hbf,19:17,7
+ICE 22,Nürnberg Hbf,01:20,Dortmund Hbf,19:31,21
+ICE 681,Nürnberg Hbf,20:45,München Hbf,19:31,9
+ICE 782,Nürnberg Hbf,00:22,Hamburg Hbf,19:34,1
+IC 2060,Nürnberg Hbf,23:00,Karlsruhe Hbf,19:42,9
+ICE 603,Nürnberg Hbf,21:03,München Hbf,19:55,28
+ICE 524,Nürnberg Hbf,00:53,Dortmund Hbf,19:57,3
+ICE 725,Nürnberg Hbf,21:07,München Hbf,19:58,13
+ICE 1102,Nürnberg Hbf,22:57,Berlin Hbf,20:01,1
+ICE 1113,Nürnberg Hbf,21:12,München Hbf,20:03,13
+ICE 500,Nürnberg Hbf,23:56,Berlin Südkreuz,20:06,2
+ICE 883,Nürnberg Hbf,21:42,München Hbf,20:27,45
+ICE 580,Nürnberg Hbf,23:04,Kassel-Wilhelmshöhe,20:32,1
+ICE 522,Nürnberg Hbf,00:29,Köln Hbf,20:57,1
+ICE 1009,Nürnberg Hbf,22:01,München Hbf,20:59,1
+ICE 801,Nürnberg Hbf,22:44,München Hbf,21:00,1
+ICE 1018,Nürnberg Hbf,00:00,Berlin Gesundbrunnen,21:01,11
+ICE 727,Nürnberg Hbf,22:10,München Hbf,21:02,3
+ICE 1500,Nürnberg Hbf,23:26,Leipzig Hbf,21:04,8
+ICE 683,Nürnberg Hbf,22:40,München Hbf,21:28,12
+ICE 20,Nürnberg Hbf,23:37,Frankfurt(Main)Hbf,21:31,44
+ICE 1605,Nürnberg Hbf,23:03,München Hbf,21:55,1
+ICE 1115,Nürnberg Hbf,23:07,München Hbf,22:01,20
+ICE 520,Nürnberg Hbf,23:44,Aschaffenburg Hbf,22:01,5
+ICE 1100,Nürnberg Hbf,01:01,Berlin Gesundbrunnen,22:02,
+ICE 8,Nürnberg Hbf,01:01,Berlin Gesundbrunnen,22:02,
+ICE 729,Nürnberg Hbf,23:17,München Hbf,22:05,20
+ICE 885,Nürnberg Hbf,23:43,München Hbf,22:28,21
+ICE 929,Nürnberg Hbf,00:50,Passau Hbf,22:37,49
+ICE 1119,Nürnberg Hbf,00:01,München Hbf,22:59,3
+ICE 821,Nürnberg Hbf,00:41,München Hbf,23:18,70
+ICE 685,Nürnberg Hbf,00:45,München Hbf,23:31,14

@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2164,Crailsheim,23:00,Karlsruhe Hbf,06:31,
+IC 2061,Crailsheim,07:49,Ansbach,07:26,
+IC 2162,Crailsheim,10:53,Karlsruhe Hbf,08:35,1
+IC 2063,Crailsheim,14:04,Leipzig Hbf,09:26,6
+IC 2160,Crailsheim,12:53,Karlsruhe Hbf,10:35,2
+IC 2065,Crailsheim,16:04,Leipzig Hbf,11:26,1
+IC 2068,Crailsheim,13:52,Stuttgart Hbf,12:35,1
+IC 2067,Crailsheim,18:04,Leipzig Hbf,13:26,4
+IC 2066,Crailsheim,16:52,Karlsruhe Hbf,14:35,18
+IC 2069,Crailsheim,20:04,Leipzig Hbf,15:25,3
+IC 2064,Crailsheim,17:53,Stuttgart Hbf,16:35,11
+IC 2161,Crailsheim,22:04,Leipzig Hbf,17:26,6
+IC 2062,Crailsheim,19:53,Stuttgart Hbf,18:35,1
+IC 2163,Crailsheim,20:18,Nürnberg Hbf,19:25,1
+IC 2060,Crailsheim,23:00,Karlsruhe Hbf,20:35,7
+IC 2165,Crailsheim,22:18,Nürnberg Hbf,21:25,5

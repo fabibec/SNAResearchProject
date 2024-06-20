@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1573,Frankfurt(Main)West,10:50,Karlsruhe Hbf,09:05,6
+IC 2322,Frankfurt(Main)West,16:16,Norddeich Mole,09:31,
+IC 2225,Frankfurt(Main)West,10:35,Frankfurt(Main)Hbf,10:27,10
+ICE 1515,Frankfurt(Main)West,12:50,Karlsruhe Hbf,11:04,12
+IC 2320,Frankfurt(Main)West,14:57,Dortmund Hbf,11:31,
+IC 2227,Frankfurt(Main)West,12:35,Frankfurt(Main)Hbf,12:27,45
+IC 2228,Frankfurt(Main)West,17:28,Münster(Westf)Hbf,13:31,FALSE
+IC 2229,Frankfurt(Main)West,14:35,Frankfurt(Main)Hbf,14:27,FALSE
+ICE 1576,Frankfurt(Main)West,21:32,Rostock Hbf,14:54,1
+IC 2226,Frankfurt(Main)West,19:39,Münster(Westf)Hbf,15:31,FALSE
+IC 2321,Frankfurt(Main)West,16:35,Frankfurt(Main)Hbf,16:27,FALSE
+ICE 1514,Frankfurt(Main)West,21:49,Hamburg-Altona,16:54,10
+IC 2224,Frankfurt(Main)West,20:57,Dortmund Hbf,17:31,FALSE
+IC 2323,Frankfurt(Main)West,18:35,Frankfurt(Main)Hbf,18:27,FALSE
+ICE 1572,Frankfurt(Main)West,21:56,Hannover Hbf,18:54,FALSE
+IC 2222,Frankfurt(Main)West,21:01,Siegen,19:31,FALSE
+IC 2325,Frankfurt(Main)West,20:35,Frankfurt(Main)Hbf,20:27,FALSE

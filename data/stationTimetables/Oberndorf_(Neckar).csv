@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 181,Oberndorf(Neckar),09:26,Zürich HB,07:28,
+IC 2386,Oberndorf(Neckar),07:39,Sulz(Neckar),07:31,
+IC 2381,Oberndorf(Neckar),09:23,Singen(Hohentwiel),08:29,
+IC 2501,Oberndorf(Neckar),09:23,Singen(Hohentwiel),08:29,1
+IC 388,Oberndorf(Neckar),09:40,Sulz(Neckar),09:32,
+IC 483,Oberndorf(Neckar),12:26,Zürich HB,10:29,
+IC 380,Oberndorf(Neckar),11:40,Sulz(Neckar),11:32,1
+IC 485,Oberndorf(Neckar),14:26,Zürich HB,12:29,
+IC 488,Oberndorf(Neckar),13:40,Sulz(Neckar),13:32,
+IC 487,Oberndorf(Neckar),16:26,Zürich HB,14:29,
+IC 2286,Oberndorf(Neckar),15:40,Sulz(Neckar),15:32,1
+IC 486,Oberndorf(Neckar),15:40,Sulz(Neckar),15:32,2
+IC 489,Oberndorf(Neckar),18:26,Zürich HB,16:29,
+IC 484,Oberndorf(Neckar),17:40,Sulz(Neckar),17:32,1
+IC 389,Oberndorf(Neckar),22:26,Zürich HB,20:29,
+IC 480,Oberndorf(Neckar),21:40,Sulz(Neckar),21:32,1
+IC 2503,Oberndorf(Neckar),23:50,Konstanz,22:29,

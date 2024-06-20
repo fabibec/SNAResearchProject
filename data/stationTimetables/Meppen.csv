@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2005,Meppen,08:02,Rheine,07:30,
+IC 2208,Meppen,10:18,Norddeich Mole,08:29,
+IC 2009,Meppen,19:09,Konstanz,09:30,2
+ICE 606,Meppen,12:16,Norddeich Mole,10:30,
+IC 2321,Meppen,16:35,Frankfurt(Main)Hbf,11:31,
+IC 604,Meppen,13:25,Emden Hbf,12:29,
+ICE 604,Meppen,13:52,Emden Außenhafen,12:29,
+IC 2203,Meppen,16:18,Köln Hbf,13:30,2
+IC 2322,Meppen,16:16,Norddeich Mole,14:29,
+IC 2205,Meppen,15:42,Lingen(Ems),15:30,25
+ICE 605,Meppen,19:20,Koblenz Hbf,15:30,25
+IC 2200,Meppen,18:03,Norddeich Mole,16:29,1
+IC 2207,Meppen,18:29,Münster(Westf)Hbf,17:30,
+ICE 607,Meppen,20:20,Köln Hbf,17:30,4
+IC 2014,Meppen,19:26,Emden Hbf,18:29,51
+IC 2209,Meppen,22:19,Köln Hbf,19:30,1
+IC 2002,Meppen,21:26,Emden Hbf,20:29,

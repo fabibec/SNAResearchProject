@@ -1,0 +1,34 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2381,Weinheim(Bergstr)Hbf,09:23,Singen(Hohentwiel),06:00,
+RJX 897,Weinheim(Bergstr)Hbf,17:57,Flughafen Wien,06:36,
+IC 2298,Weinheim(Bergstr)Hbf,08:00,Frankfurt(Main)Hbf,07:14,
+ICE 1571,Weinheim(Bergstr)Hbf,08:51,Karlsruhe Hbf,07:58,
+ICE 1672,Weinheim(Bergstr)Hbf,17:20,Ostseebad Binz,08:00,
+EC 113,Weinheim(Bergstr)Hbf,17:19,Klagenfurt Hbf,08:59,5
+ICE 1098,Weinheim(Bergstr)Hbf,09:40,Frankfurt(Main)Hbf,09:00,1
+IC 2374,Weinheim(Bergstr)Hbf,19:34,Westerland(Sylt),10:00,20
+ICE 1573,Weinheim(Bergstr)Hbf,10:50,Karlsruhe Hbf,10:00,4
+ICE 999,Weinheim(Bergstr)Hbf,11:50,Stuttgart Hbf,10:56,1
+IC 1296,Weinheim(Bergstr)Hbf,11:40,Frankfurt(Main)Hbf,11:00,1
+ICE 1515,Weinheim(Bergstr)Hbf,12:50,Karlsruhe Hbf,12:00,13
+ICE 1578,Weinheim(Bergstr)Hbf,20:14,Velgast,12:00,FALSE
+EC 219,Weinheim(Bergstr)Hbf,22:14,Graz Hbf,12:59,FALSE
+ICE 1290,Weinheim(Bergstr)Hbf,13:40,Frankfurt(Main)Hbf,13:00,2
+ICE 1576,Weinheim(Bergstr)Hbf,21:32,Rostock Hbf,14:00,4
+ICE 1577,Weinheim(Bergstr)Hbf,15:03,Stuttgart Hbf,14:00,FALSE
+EC 117,Weinheim(Bergstr)Hbf,17:57,Bohumin,14:59,
+EC 218,Weinheim(Bergstr)Hbf,15:40,Frankfurt(Main)Hbf,15:00,5
+ICE 1514,Weinheim(Bergstr)Hbf,21:49,Hamburg-Altona,16:00,3
+ICE 1579,Weinheim(Bergstr)Hbf,16:50,Karlsruhe Hbf,16:00,16
+IC 1291,Weinheim(Bergstr)Hbf,22:01,Salzburg Hbf,16:59,4
+ICE 1168,Weinheim(Bergstr)Hbf,17:40,Frankfurt(Main)Hbf,17:00,1
+ICE 1671,Weinheim(Bergstr)Hbf,18:39,Karlsruhe Hbf,17:58,FALSE
+ICE 1572,Weinheim(Bergstr)Hbf,21:56,Hannover Hbf,18:00,FALSE
+ICE 1099,Weinheim(Bergstr)Hbf,22:14,München Hbf,18:59,1
+EC 112,Weinheim(Bergstr)Hbf,19:40,Frankfurt(Main)Hbf,19:00,4
+IC 2375,Weinheim(Bergstr)Hbf,20:57,Stuttgart Hbf,20:00,29
+IC 2393,Weinheim(Bergstr)Hbf,20:57,Stuttgart Hbf,20:00,30
+ICE 1570,Weinheim(Bergstr)Hbf,22:56,Kassel-Wilhelmshöhe,20:00,
+IC 2299,Weinheim(Bergstr)Hbf,21:56,Stuttgart Hbf,20:59,9
+RJX 890,Weinheim(Bergstr)Hbf,21:52,Frankfurt(Main)Hbf,21:09,
+ICE 937,Weinheim(Bergstr)Hbf,01:04,Stuttgart Hbf,23:50,4

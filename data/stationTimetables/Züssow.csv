@@ -1,0 +1,13 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1071,Züssow,10:19,Berlin Südkreuz,07:53,
+ICE 1073,Züssow,12:18,Berlin Südkreuz,09:53,
+ICE 1636,Züssow,13:00,Ostseebad Binz,11:34,
+ICE 1711,Züssow,19:03,München Hbf,11:55,
+ICE 1040,Züssow,15:59,Berlin Gesundbrunnen,13:53,
+ICE 1075,Züssow,16:13,Berlin Südkreuz,13:53,
+ICE 1076,Züssow,15:36,Ostseebad Binz,13:59,28
+ICE 1715,Züssow,16:53,Prenzlau,15:56,
+ICE 1710,Züssow,17:33,Ostseebad Binz,15:57,FALSE
+ICE 1077,Züssow,18:52,Prenzlau,17:53,
+ICE 1072,Züssow,19:29,Ostseebad Binz,17:59,3
+ICE 1070,Züssow,20:33,Stralsund Hbf,19:59,4

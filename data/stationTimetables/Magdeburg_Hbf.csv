@@ -1,0 +1,44 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 101,Magdeburg Hbf,10:47,Basel SBB,01:48,10
+ICE 100,Magdeburg Hbf,05:48,Berlin Ostbahnhof,04:04,71
+IC 2436,Magdeburg Hbf,09:38,Emden Hbf,05:00,1
+IC 2449,Magdeburg Hbf,08:38,Dresden Hbf,06:01,
+IC 2042,Magdeburg Hbf,10:46,Köln Hbf,06:03,
+IC 2434,Magdeburg Hbf,11:50,Emden Außenhafen,07:00,1
+IC 2031,Magdeburg Hbf,08:15,Leipzig Hbf,07:03,1
+IC 2231,Magdeburg Hbf,08:40,Berlin Ostbahnhof,07:03,2
+IC 2230,Magdeburg Hbf,09:47,Hamburg Hbf,07:30,
+IC 2447,Magdeburg Hbf,10:58,Dresden Hbf,08:01,1
+ICE 1944,Magdeburg Hbf,16:22,Stuttgart Hbf,08:03,2
+IC 2238,Magdeburg Hbf,12:14,Warnemünde,08:56,FALSE
+IC 2432,Magdeburg Hbf,14:19,Norddeich Mole,09:03,FALSE
+IC 2033,Magdeburg Hbf,10:15,Leipzig Hbf,09:05,
+IC 2445,Magdeburg Hbf,12:58,Dresden Hbf,10:01,5
+IC 2046,Magdeburg Hbf,18:27,Stuttgart Hbf,10:03,
+IC 2430,Magdeburg Hbf,15:38,Emden Hbf,11:00,1
+IC 2235,Magdeburg Hbf,12:15,Leipzig Hbf,11:04,
+IC 2035,Magdeburg Hbf,12:39,Berlin Ostbahnhof,11:05,22
+IC 2443,Magdeburg Hbf,14:57,Dresden Hbf,12:01,1
+IC 2048,Magdeburg Hbf,21:30,Tübingen Hbf,12:03,2
+IC 2038,Magdeburg Hbf,17:38,Emden Hbf,13:00,8
+IC 2037,Magdeburg Hbf,14:15,Leipzig Hbf,13:04,FALSE
+IC 2441,Magdeburg Hbf,16:47,Dresden Hbf,14:01,1
+IC 2440,Magdeburg Hbf,22:22,Stuttgart Hbf,14:03,4
+IC 2036,Magdeburg Hbf,20:20,Norddeich Mole,15:00,1
+IC 2039,Magdeburg Hbf,16:15,Leipzig Hbf,15:04,
+ICE 1133,Magdeburg Hbf,16:29,Bitterfeld,15:38,
+ICE 1949,Magdeburg Hbf,18:40,Dresden Hbf,16:01,45
+IC 2442,Magdeburg Hbf,23:13,Frankfurt(Main)Hbf,16:03,15
+IC 2234,Magdeburg Hbf,20:06,Rostock Hbf,16:56,FALSE
+IC 2034,Magdeburg Hbf,22:14,Norddeich,17:00,13
+IC 2239,Magdeburg Hbf,18:15,Leipzig Hbf,17:04,FALSE
+IC 2431,Magdeburg Hbf,19:59,Cottbus Hbf,17:04,1
+IC 2911,Magdeburg Hbf,18:15,Leipzig Hbf,17:04,1
+IC 2047,Magdeburg Hbf,20:40,Dresden Hbf,18:01,12
+IC 2444,Magdeburg Hbf,23:54,Koblenz Hbf,18:03,
+IC 2032,Magdeburg Hbf,23:38,Emden Hbf,19:00,1
+IC 2433,Magdeburg Hbf,20:15,Leipzig Hbf,19:04,8
+IC 2045,Magdeburg Hbf,22:38,Dresden Hbf,20:01,1
+IC 2446,Magdeburg Hbf,21:23,Hannover Hbf,20:03,1
+IC 2435,Magdeburg Hbf,22:15,Leipzig Hbf,21:04,
+IC 2043,Magdeburg Hbf,22:58,Leipzig/Halle Flughafen,22:01,20

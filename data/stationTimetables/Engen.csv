@@ -1,0 +1,21 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 1086,Engen,06:34,Rottweil,06:00,
+IC 1184,Engen,06:34,Rottweil,06:00,
+IC 2284,Engen,07:10,Rottweil,06:38,
+IC 2386,Engen,07:39,Sulz(Neckar),06:38,
+IC 388,Engen,09:40,Sulz(Neckar),08:44,1
+IC 2501,Engen,09:23,Singen(Hohentwiel),09:13,3
+IC 380,Engen,11:40,Sulz(Neckar),10:44,2
+IC 483,Engen,12:26,Zürich HB,11:14,2
+IC 488,Engen,13:40,Sulz(Neckar),12:44,
+IC 485,Engen,14:26,Zürich HB,13:14,1
+IC 2286,Engen,15:40,Sulz(Neckar),14:44,2
+IC 486,Engen,15:40,Sulz(Neckar),14:44,3
+IC 487,Engen,16:26,Zürich HB,15:14,
+IC 484,Engen,17:40,Sulz(Neckar),16:44,1
+IC 489,Engen,18:26,Zürich HB,17:14,4
+IC 2382,Engen,20:43,Stuttgart Hbf,18:44,
+IC 2502,Engen,19:16,Rottweil,18:44,1
+IC 480,Engen,21:40,Sulz(Neckar),20:44,1
+IC 389,Engen,22:26,Zürich HB,21:14,
+IC 2503,Engen,23:50,Konstanz,23:16,2

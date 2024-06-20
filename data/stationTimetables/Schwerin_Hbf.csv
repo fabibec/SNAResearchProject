@@ -1,0 +1,20 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1599,Schwerin Hbf,07:21,Hamburg-Altona,05:56,4
+ICE 1577,Schwerin Hbf,15:03,Stuttgart Hbf,07:20,3
+ICE 1678,Schwerin Hbf,11:18,Ostseebad Binz,08:37,42
+IC 2235,Schwerin Hbf,12:15,Leipzig Hbf,08:57,3
+ICE 1179,Schwerin Hbf,10:16,Hamburg Hbf,09:20,6
+ICE 1676,Schwerin Hbf,12:29,Stralsund Hbf,10:37,7
+IC 2238,Schwerin Hbf,12:14,Warnemünde,10:56,FALSE
+ICE 1671,Schwerin Hbf,18:39,Karlsruhe Hbf,11:20,2
+ICE 208,Schwerin Hbf,15:29,Ostseebad Binz,12:38,25
+ICE 203,Schwerin Hbf,22:55,Basel SBB,13:39,
+ICE 1672,Schwerin Hbf,17:20,Ostseebad Binz,14:37,22
+IC 2239,Schwerin Hbf,18:15,Leipzig Hbf,15:02,FALSE
+IC 2911,Schwerin Hbf,18:15,Leipzig Hbf,15:02,1
+ICE 1675,Schwerin Hbf,21:09,Frankfurt(Main)Hbf,15:20,1
+ICE 1074,Schwerin Hbf,18:50,Greifswald,16:37,19
+ICE 1677,Schwerin Hbf,19:58,Hannover Hbf,17:20,3
+ICE 1578,Schwerin Hbf,20:14,Velgast,18:37,58
+IC 2234,Schwerin Hbf,20:06,Rostock Hbf,19:11,FALSE
+ICE 1576,Schwerin Hbf,21:32,Rostock Hbf,20:37,85

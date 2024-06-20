@@ -1,0 +1,9 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2035,Marienhafe,12:39,Berlin Ostbahnhof,05:52,
+IC 2037,Marienhafe,14:15,Leipzig Hbf,07:59,
+IC 2438,Marienhafe,08:21,Norddeich Mole,08:00,
+IC 2039,Marienhafe,16:15,Leipzig Hbf,09:59,1
+IC 2432,Marienhafe,14:19,Norddeich Mole,13:59,25
+IC 2435,Marienhafe,22:15,Leipzig Hbf,15:59,1
+IC 2036,Marienhafe,20:20,Norddeich Mole,19:59,3
+IC 2034,Marienhafe,22:14,Norddeich,21:59,1

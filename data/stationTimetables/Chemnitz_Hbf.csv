@@ -1,0 +1,4 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 17,Chemnitz Hbf,03:48,Lichtenfels,05:50,
+IC 2272,Chemnitz Hbf,12:01,Warnemünde,05:50,
+IC 2270,Chemnitz Hbf,14:05,Warnemünde,08:21,

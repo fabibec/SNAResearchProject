@@ -1,0 +1,6 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 672,Wiesbaden Hbf,10:36,Hamburg Hbf,05:00,
+ICE 991,Wiesbaden Hbf,09:18,München Hbf,05:26,3
+ICE 1513,Wiesbaden Hbf,09:19,Stuttgart Hbf,07:31,FALSE
+ICE 711,Wiesbaden Hbf,08:37,Heidelberg Hbf,07:32,
+ICE 713,Wiesbaden Hbf,19:28,Frankfurt(M) Flughafen Fernbf,18:46,3

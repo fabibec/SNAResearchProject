@@ -1,0 +1,11 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1071,Prenzlau,10:19,Berlin Südkreuz,08:53,4
+ICE 1636,Prenzlau,13:00,Ostseebad Binz,10:38,
+ICE 1073,Prenzlau,12:18,Berlin Südkreuz,10:53,3
+ICE 1711,Prenzlau,19:03,München Hbf,12:53,7
+ICE 1076,Prenzlau,15:36,Ostseebad Binz,13:05,23
+ICE 1040,Prenzlau,15:59,Berlin Gesundbrunnen,14:53,
+ICE 1075,Prenzlau,16:13,Berlin Südkreuz,14:53,3
+ICE 1710,Prenzlau,17:33,Ostseebad Binz,15:00,FALSE
+ICE 1072,Prenzlau,19:29,Ostseebad Binz,17:05,1
+ICE 1070,Prenzlau,20:33,Stralsund Hbf,19:05,7

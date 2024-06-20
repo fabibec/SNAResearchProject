@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2156,Soest,12:40,Köln Hbf,10:37,FALSE
+IC 2155,Soest,15:55,Gera Hbf,11:22,10
+IC 2152,Soest,18:11,Düsseldorf Hbf,16:37,7
+IC 2157,Soest,21:55,Gera Hbf,17:22,19

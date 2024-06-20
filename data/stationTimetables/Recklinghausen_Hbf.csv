@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2208,Recklinghausen Hbf,10:18,Norddeich Mole,06:57,
+ICE 606,Recklinghausen Hbf,12:16,Norddeich Mole,08:59,3
+ICE 604,Recklinghausen Hbf,13:52,Emden Außenhafen,10:59,2
+IC 2009,Recklinghausen Hbf,19:09,Konstanz,11:00,2
+IC 2201,Recklinghausen Hbf,14:18,Köln Hbf,12:59,4
+IC 2202,Recklinghausen Hbf,15:53,Bremerhaven-Lehe,12:59,1
+ICE 927,Recklinghausen Hbf,20:28,Nürnberg Hbf,14:37,FALSE
+IC 2200,Recklinghausen Hbf,18:03,Norddeich Mole,14:59,4
+IC 2203,Recklinghausen Hbf,16:18,Köln Hbf,15:00,4
+IC 2014,Recklinghausen Hbf,19:26,Emden Hbf,17:03,49
+IC 2002,Recklinghausen Hbf,21:26,Emden Hbf,18:58,1
+ICE 607,Recklinghausen Hbf,20:20,Köln Hbf,18:59,3
+IC 2209,Recklinghausen Hbf,22:19,Köln Hbf,21:00,2

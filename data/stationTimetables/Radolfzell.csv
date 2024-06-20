@@ -1,0 +1,4 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2284,Radolfzell,07:10,Rottweil,06:20,
+IC 2386,Radolfzell,07:39,Sulz(Neckar),06:20,
+IC 2009,Radolfzell,19:09,Konstanz,18:54,

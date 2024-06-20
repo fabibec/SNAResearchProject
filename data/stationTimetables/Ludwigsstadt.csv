@@ -1,0 +1,11 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2068,Ludwigsstadt,13:52,Stuttgart Hbf,10:03,
+IC 2063,Ludwigsstadt,14:04,Leipzig Hbf,11:54,6
+IC 2066,Ludwigsstadt,16:52,Karlsruhe Hbf,12:03,1
+IC 2065,Ludwigsstadt,16:04,Leipzig Hbf,13:55,65
+IC 2064,Ludwigsstadt,17:53,Stuttgart Hbf,14:03,1
+IC 2067,Ludwigsstadt,18:04,Leipzig Hbf,15:54,
+IC 2062,Ludwigsstadt,19:53,Stuttgart Hbf,16:03,
+IC 2069,Ludwigsstadt,20:04,Leipzig Hbf,17:53,9
+IC 2060,Ludwigsstadt,23:00,Karlsruhe Hbf,18:03,1
+IC 2161,Ludwigsstadt,22:04,Leipzig Hbf,19:53,28

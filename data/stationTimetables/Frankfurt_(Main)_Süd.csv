@@ -1,0 +1,12 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 60471,Frankfurt(Main)Süd,10:05,Zürich HB,04:35,41
+NJ 471,Frankfurt(Main)Süd,10:05,Zürich HB,04:35,41
+ICE 994,Frankfurt(Main)Süd,12:42,Berlin Südkreuz,06:54,1
+FLX 1241,Frankfurt(Main)Süd,13:43,Stuttgart Hbf,12:18,6
+FLX 1243,Frankfurt(Main)Süd,19:15,Basel Bad,16:06,14
+ICE 927,Frankfurt(Main)Süd,20:28,Nürnberg Hbf,18:20,41
+FLX 1245,Frankfurt(Main)Süd,21:59,Stuttgart Hbf,20:17,162
+ICE 929,Frankfurt(Main)Süd,00:50,Passau Hbf,20:21,
+ICE 773,Frankfurt(Main)Süd,22:55,Stuttgart Hbf,21:01,FALSE
+ICE 22,Frankfurt(Main)Süd,01:20,Dortmund Hbf,21:43,15
+ICE 1021,Frankfurt(Main)Süd,00:42,Nürnberg Hbf,22:21,8

@@ -1,0 +1,7 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 920,Diepholz,07:06,Hamburg-Altona,05:19,FALSE
+EC 2507,Diepholz,12:49,Freiburg(Breisgau) Hbf,06:11,1
+EC 7,Diepholz,15:58,Interlaken Ost,06:11,
+ICE 1028,Diepholz,08:49,Hamburg-Altona,06:48,
+EC 6,Diepholz,23:30,Hamburg-Altona,21:47,25
+ICE 209,Diepholz,00:47,Köln Hbf,22:12,10

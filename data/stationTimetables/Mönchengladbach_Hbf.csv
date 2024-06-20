@@ -1,0 +1,15 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1545,Mönchengladbach Hbf,13:02,Berlin Ostbahnhof,07:58,
+ICE 250,Mönchengladbach Hbf,10:53,Amsterdam Centraal,08:30,7
+ICE 757,Mönchengladbach Hbf,15:02,Berlin Ostbahnhof,09:58,1
+ICE 255,Mönchengladbach Hbf,14:47,Basel SBB,10:05,118
+ICE 158,Mönchengladbach Hbf,12:53,Amsterdam Centraal,10:31,8
+ICE 153,Mönchengladbach Hbf,12:22,Köln Hbf,11:34,3
+ICE 156,Mönchengladbach Hbf,15:53,Amsterdam Centraal,13:30,9
+ICE 155,Mönchengladbach Hbf,15:21,Köln Hbf,14:34,
+ICE 154,Mönchengladbach Hbf,17:53,Amsterdam Centraal,15:30,9
+ICE 157,Mönchengladbach Hbf,17:21,Köln Hbf,16:34,101
+ICE 152,Mönchengladbach Hbf,20:44,Amsterdam Centraal,18:31,22
+ICE 159,Mönchengladbach Hbf,20:22,Köln Hbf,19:34,13
+ICE 254,Mönchengladbach Hbf,22:29,Amsterdam Centraal,20:03,33
+ICE 251,Mönchengladbach Hbf,21:54,Köln Hbf,21:04,2

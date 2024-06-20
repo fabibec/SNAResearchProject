@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2033,Bad Zwischenahn,10:15,Leipzig Hbf,05:13,1
+IC 2438,Bad Zwischenahn,08:21,Norddeich Mole,06:44,4
+IC 2035,Bad Zwischenahn,12:39,Berlin Ostbahnhof,07:13,3
+IC 2436,Bad Zwischenahn,09:38,Emden Hbf,08:44,4
+IC 2037,Bad Zwischenahn,14:15,Leipzig Hbf,09:13,7
+IC 2434,Bad Zwischenahn,11:50,Emden  Außenhafen,10:44,16
+IC 2039,Bad Zwischenahn,16:15,Leipzig Hbf,11:13,13
+IC 2432,Bad Zwischenahn,14:19,Norddeich Mole,12:44,28
+IC 2431,Bad Zwischenahn,19:59,Cottbus Hbf,13:13,2
+IC 2430,Bad Zwischenahn,15:38,Emden Hbf,14:44,2
+IC 2433,Bad Zwischenahn,20:15,Leipzig Hbf,15:13,3
+IC 2038,Bad Zwischenahn,17:38,Emden Hbf,16:44,1
+IC 2435,Bad Zwischenahn,22:15,Leipzig Hbf,17:13,1
+IC 2036,Bad Zwischenahn,20:20,Norddeich Mole,18:44,2
+IC 2034,Bad Zwischenahn,22:14,Norddeich,20:44,12
+IC 2439,Bad Zwischenahn,22:05,Bremen Hbf,21:13,9

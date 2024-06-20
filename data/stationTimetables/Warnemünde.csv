@@ -1,0 +1,9 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2175,Warnemünde,12:27,Dresden Hbf,07:56,FALSE
+IC 2177,Warnemünde,14:27,Dresden Hbf,09:56,1
+IC 2179,Warnemünde,16:27,Dresden Hbf,11:56,1
+IC 2239,Warnemünde,18:15,Leipzig Hbf,13:43,FALSE
+IC 2271,Warnemünde,19:40,Chemnitz Hbf,13:52,1
+IC 2273,Warnemünde,21:40,Chemnitz Hbf,15:52,1
+IC 17,Warnemünde,03:48,Lichtenfels,17:52,
+IC 2275,Warnemünde,22:27,Dresden Hbf,17:52,1

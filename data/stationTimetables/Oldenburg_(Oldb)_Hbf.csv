@@ -1,0 +1,21 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 841,Oldenburg(Oldb)Hbf,08:36,Berlin Ostbahnhof,04:30,
+IC 2033,Oldenburg(Oldb)Hbf,10:15,Leipzig Hbf,05:35,1
+IC 2438,Oldenburg(Oldb)Hbf,08:21,Norddeich Mole,06:33,2
+ICE 533,Oldenburg(Oldb)Hbf,12:40,München Hbf,06:40,1
+ICE55913,Oldenburg(Oldb)Hbf,08:14,Hannover Hbf,06:40,FALSE
+IC 2035,Oldenburg(Oldb)Hbf,12:39,Berlin Ostbahnhof,07:35,1
+IC 2436,Oldenburg(Oldb)Hbf,09:38,Emden Hbf,08:33,3
+IC 2037,Oldenburg(Oldb)Hbf,14:15,Leipzig Hbf,09:35,2
+IC 2434,Oldenburg(Oldb)Hbf,11:50,Emden  Außenhafen,10:33,16
+IC 2039,Oldenburg(Oldb)Hbf,16:15,Leipzig Hbf,11:35,4
+ICE 1133,Oldenburg(Oldb)Hbf,16:29,Bitterfeld,12:30,
+IC 2432,Oldenburg(Oldb)Hbf,14:19,Norddeich Mole,12:33,17
+IC 2431,Oldenburg(Oldb)Hbf,19:59,Cottbus Hbf,13:35,1
+IC 2430,Oldenburg(Oldb)Hbf,15:38,Emden Hbf,14:33,2
+IC 2433,Oldenburg(Oldb)Hbf,20:15,Leipzig Hbf,15:35,1
+IC 2038,Oldenburg(Oldb)Hbf,17:38,Emden Hbf,16:33,1
+IC 2435,Oldenburg(Oldb)Hbf,22:15,Leipzig Hbf,17:35,1
+IC 2036,Oldenburg(Oldb)Hbf,20:20,Norddeich Mole,18:33,2
+IC 2034,Oldenburg(Oldb)Hbf,22:14,Norddeich,20:33,10
+IC 2439,Oldenburg(Oldb)Hbf,22:05,Bremen Hbf,21:35,2

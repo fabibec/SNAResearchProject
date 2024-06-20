@@ -1,0 +1,26 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EN 40476,Bad Schandau,08:41,Berlin Gesundbrunnen,05:29,5
+NJ 456,Bad Schandau,08:41,Berlin Gesundbrunnen,05:29,4
+EC 459,Bad Schandau,09:24,Praha hl.n.,07:33,FALSE
+EN 40459,Bad Schandau,09:24,Praha hl.n.,07:46,
+EC 178,Bad Schandau,11:12,Berlin Gesundbrunnen,08:25,46
+RJ 257,Bad Schandau,17:33,Graz Hbf,08:35,47
+ES 453,Bad Schandau,10:45,Praha-Holesovice,08:58,
+EC 171,Bad Schandau,11:24,Praha hl.n.,09:35,21
+EC 176,Bad Schandau,15:24,Hamburg-Altona,10:25,15
+EC 173,Bad Schandau,20:28,Budapest-Nyugati,11:35,11
+EC 174,Bad Schandau,19:15,Flensburg,12:25,2
+EC 379,Bad Schandau,15:24,Praha hl.n.,13:35,13
+EC 378,Bad Schandau,20:22,Kiel Hbf,14:25,24
+EC 175,Bad Schandau,17:24,Praha hl.n.,15:35,16
+EC 172,Bad Schandau,21:35,Hamburg-Altona,16:25,1
+EC 177,Bad Schandau,19:24,Praha hl.n.,17:35,10
+EC 170,Bad Schandau,21:08,Berlin Gesundbrunnen,18:25,2
+IC 256,Bad Schandau,22:23,Berlin Hbf,19:25,
+RJ 256,Bad Schandau,22:35,Berlin-Charlottenburg,19:25,99
+EC 179,Bad Schandau,21:24,Praha hl.n.,19:35,34
+ES 452,Bad Schandau,09:27,Bruxelles Midi,19:59,FALSE
+EC 458,Bad Schandau,09:05,Zürich HB,20:21,9
+EN 12,Bad Schandau,05:28,Leipzig Hbf,20:21,2
+EN 40458,Bad Schandau,09:05,Zürich HB,20:21,9
+NJ 457,Bad Schandau,09:59,Graz Hbf,22:34,7

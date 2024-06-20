@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2033,Augustfehn,10:15,Leipzig Hbf,04:59,1
+IC 2035,Augustfehn,12:39,Berlin Ostbahnhof,06:59,2
+IC 2438,Augustfehn,08:21,Norddeich Mole,06:59,3
+IC 2037,Augustfehn,14:15,Leipzig Hbf,08:59,1
+IC 2436,Augustfehn,09:38,Emden Hbf,08:59,3
+IC 2039,Augustfehn,16:15,Leipzig Hbf,10:59,13
+IC 2434,Augustfehn,11:50,Emden Außenhafen,10:59,14
+IC 2431,Augustfehn,19:59,Cottbus Hbf,12:59,1
+IC 2432,Augustfehn,14:19,Norddeich Mole,12:59,27
+IC 2430,Augustfehn,15:38,Emden Hbf,14:59,1
+IC 2433,Augustfehn,20:15,Leipzig Hbf,14:59,2
+IC 2038,Augustfehn,17:38,Emden Hbf,16:59,1
+IC 2435,Augustfehn,22:15,Leipzig Hbf,16:59,1
+IC 2036,Augustfehn,20:20,Norddeich Mole,18:59,1
+IC 2034,Augustfehn,22:14,Norddeich,20:59,10
+IC 2439,Augustfehn,22:05,Bremen Hbf,20:59,1

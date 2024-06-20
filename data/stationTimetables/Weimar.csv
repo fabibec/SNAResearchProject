@@ -1,0 +1,8 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 698,Weimar,07:36,Berlin Hbf,05:37,
+IC 2156,Weimar,12:40,Köln Hbf,07:04,FALSE
+IC 2151,Weimar,09:55,Gera Hbf,08:59,3
+IC 2152,Weimar,18:11,Düsseldorf Hbf,13:04,3
+IC 2155,Weimar,15:55,Gera Hbf,14:59,41
+IC 2150,Weimar,21:00,Kassel-Wilhelmshöhe,19:04,
+IC 2157,Weimar,21:55,Gera Hbf,20:59,12

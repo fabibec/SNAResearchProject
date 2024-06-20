@@ -1,0 +1,91 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 100,Hamm(Westf)Hbf,05:48,Berlin Ostbahnhof,00:51,97
+ICE 921,Hamm(Westf)Hbf,07:02,Frankfurt(Main)Hbf,01:24,55
+ICE 920,Hamm(Westf)Hbf,07:06,Hamburg-Altona,03:52,11
+ICE 101,Hamm(Westf)Hbf,10:47,Basel SBB,05:04,11
+ICE 541,Hamm(Westf)Hbf,09:27,Berlin Ostbahnhof,06:02,12
+IC 2445,Hamm(Westf)Hbf,12:58,Dresden Hbf,06:45,4
+ICE 843,Hamm(Westf)Hbf,10:27,Berlin Ostbahnhof,07:11,1
+ICE 853,Hamm(Westf)Hbf,10:27,Berlin Ostbahnhof,07:11,1
+ICE 103,Hamm(Westf)Hbf,18:07,München Hbf,07:16,
+ICE 753,Hamm(Westf)Hbf,11:02,Berlin Ostbahnhof,07:33,
+ICE 646,Hamm(Westf)Hbf,09:07,Düsseldorf Hbf,07:49,2
+ICE 543,Hamm(Westf)Hbf,11:27,Berlin Ostbahnhof,08:07,
+IC 2443,Hamm(Westf)Hbf,14:57,Dresden Hbf,08:45,3
+ICE 946,Hamm(Westf)Hbf,10:02,Düsseldorf Hbf,08:51,10
+ICE 956,Hamm(Westf)Hbf,10:09,Köln Hbf,08:54,11
+IC 2227,Hamm(Westf)Hbf,12:35,Frankfurt(Main)Hbf,09:07,7
+ICE 845,Hamm(Westf)Hbf,12:27,Berlin Ostbahnhof,09:11,13
+ICE 855,Hamm(Westf)Hbf,12:27,Berlin Ostbahnhof,09:11,12
+IC 2042,Hamm(Westf)Hbf,10:46,Köln Hbf,09:17,
+ICE 1545,Hamm(Westf)Hbf,13:02,Berlin Ostbahnhof,09:34,2
+ICE 644,Hamm(Westf)Hbf,15:49,Salzburg Hbf,09:51,13
+ICE 545,Hamm(Westf)Hbf,13:27,Berlin Ostbahnhof,10:07,6
+ICE 1052,Hamm(Westf)Hbf,13:12,Aachen Hbf,10:26,1
+IC 2441,Hamm(Westf)Hbf,16:47,Dresden Hbf,10:45,1
+ICE 944,Hamm(Westf)Hbf,12:07,Düsseldorf Hbf,10:51,6
+ICE 954,Hamm(Westf)Hbf,12:09,Köln Hbf,10:54,4
+IC 2156,Hamm(Westf)Hbf,12:40,Köln Hbf,10:56,FALSE
+IC 2155,Hamm(Westf)Hbf,15:55,Gera Hbf,11:07,7
+ICE 847,Hamm(Westf)Hbf,14:27,Berlin Ostbahnhof,11:11,13
+ICE 857,Hamm(Westf)Hbf,14:27,Berlin Ostbahnhof,11:11,14
+ICE 1944,Hamm(Westf)Hbf,16:22,Stuttgart Hbf,11:17,1
+IC 2324,Hamm(Westf)Hbf,11:38,Münster(Westf)Hbf,11:19,10
+ICE 757,Hamm(Westf)Hbf,15:02,Berlin Ostbahnhof,11:34,2
+ICE 642,Hamm(Westf)Hbf,13:07,Düsseldorf Hbf,11:51,5
+ICE 547,Hamm(Westf)Hbf,15:27,Berlin Ostbahnhof,12:07,4
+ICE 1949,Hamm(Westf)Hbf,18:40,Dresden Hbf,12:45,17
+ICE 942,Hamm(Westf)Hbf,14:07,Düsseldorf Hbf,12:51,3
+ICE 952,Hamm(Westf)Hbf,14:09,Köln Hbf,12:54,2
+IC 2322,Hamm(Westf)Hbf,16:16,Norddeich Mole,13:05,2
+IC 2321,Hamm(Westf)Hbf,16:35,Frankfurt(Main)Hbf,13:07,1
+ICE 849,Hamm(Westf)Hbf,16:27,Berlin Ostbahnhof,13:11,8
+ICE 859,Hamm(Westf)Hbf,16:27,Berlin Ostbahnhof,13:11,8
+IC 2046,Hamm(Westf)Hbf,18:27,Stuttgart Hbf,13:17,1
+ICE 640,Hamm(Westf)Hbf,15:07,Düsseldorf Hbf,13:51,52
+ICE 549,Hamm(Westf)Hbf,17:27,Berlin Ostbahnhof,14:07,1
+ICE 758,Hamm(Westf)Hbf,17:12,Aachen Hbf,14:25,
+IC 2323,Hamm(Westf)Hbf,18:35,Frankfurt(Main)Hbf,14:41,FALSE
+IC 2047,Hamm(Westf)Hbf,20:40,Dresden Hbf,14:45,38
+ICE 940,Hamm(Westf)Hbf,16:07,Düsseldorf Hbf,14:51,7
+ICE 950,Hamm(Westf)Hbf,16:10,Köln Hbf,14:54,6
+ICE 941,Hamm(Westf)Hbf,18:27,Berlin Ostbahnhof,15:11,14
+ICE 951,Hamm(Westf)Hbf,18:27,Berlin Ostbahnhof,15:11,15
+IC 2048,Hamm(Westf)Hbf,21:30,Tübingen Hbf,15:17,2
+ICE 1051,Hamm(Westf)Hbf,19:02,Berlin Ostbahnhof,15:32,43
+ICE 548,Hamm(Westf)Hbf,17:07,Düsseldorf Hbf,15:51,2
+ICE 641,Hamm(Westf)Hbf,19:27,Berlin Ostbahnhof,16:07,15
+IC 2045,Hamm(Westf)Hbf,22:38,Dresden Hbf,16:45,2
+ICE 848,Hamm(Westf)Hbf,18:07,Düsseldorf Hbf,16:51,2
+ICE 858,Hamm(Westf)Hbf,18:10,Köln Hbf,16:54,3
+IC 2152,Hamm(Westf)Hbf,18:11,Düsseldorf Hbf,16:56,11
+IC 2228,Hamm(Westf)Hbf,17:28,Münster(Westf)Hbf,17:05,FALSE
+IC 2157,Hamm(Westf)Hbf,21:55,Gera Hbf,17:07,15
+ICE 2811,Hamm(Westf)Hbf,20:27,Berlin Ostbahnhof,17:11,
+ICE 943,Hamm(Westf)Hbf,20:27,Berlin Ostbahnhof,17:11,FALSE
+ICE 953,Hamm(Westf)Hbf,20:27,Berlin Ostbahnhof,17:11,72
+IC 2440,Hamm(Westf)Hbf,22:22,Stuttgart Hbf,17:17,1
+ICE 546,Hamm(Westf)Hbf,19:10,Düsseldorf Hbf,17:51,4
+ICE 643,Hamm(Westf)Hbf,21:27,Berlin Ostbahnhof,18:07,8
+ICE 1544,Hamm(Westf)Hbf,18:48,Dortmund Hbf,18:26,5
+IC 2327,Hamm(Westf)Hbf,20:55,Siegen,18:41,FALSE
+IC 2043,Hamm(Westf)Hbf,22:58,Leipzig/Halle Flughafen,18:45,34
+ICE 846,Hamm(Westf)Hbf,20:42,Mönchengladbach Hbf,18:51,15
+ICE 856,Hamm(Westf)Hbf,20:10,Köln Hbf,18:54,8
+ICE 945,Hamm(Westf)Hbf,22:34,Berlin Ostbahnhof,19:11,10
+ICE 955,Hamm(Westf)Hbf,22:34,Berlin Ostbahnhof,19:11,11
+IC 2442,Hamm(Westf)Hbf,23:13,Frankfurt(Main)Hbf,19:17,2
+IC 2226,Hamm(Westf)Hbf,19:39,Münster(Westf)Hbf,19:19,10
+ICE 544,Hamm(Westf)Hbf,21:07,Düsseldorf Hbf,19:51,6
+ICE 645,Hamm(Westf)Hbf,23:27,Berlin Ostbahnhof,20:07,3
+ICE 752,Hamm(Westf)Hbf,22:12,Köln Hbf,20:25,2
+ICE 844,Hamm(Westf)Hbf,22:07,Düsseldorf Hbf,20:51,4
+ICE 854,Hamm(Westf)Hbf,22:10,Köln Hbf,20:54,5
+ICE 947,Hamm(Westf)Hbf,00:37,Berlin Ostbahnhof,21:11,1
+ICE 957,Hamm(Westf)Hbf,00:37,Berlin Ostbahnhof,21:11,
+IC 2444,Hamm(Westf)Hbf,23:54,Koblenz Hbf,21:16,1
+ICE 542,Hamm(Westf)Hbf,23:07,Düsseldorf Hbf,21:51,1
+ICE 19,Hamm(Westf)Hbf,00:02,Wolfsburg Hbf,22:06,
+ICE 657,Hamm(Westf)Hbf,01:25,Berlin Ostbahnhof,22:06,8
+ICE 102,Hamm(Westf)Hbf,00:18,Hannover Hbf,22:45,FALSE
+ICE 872,Hamm(Westf)Hbf,00:10,Köln Hbf,22:53,

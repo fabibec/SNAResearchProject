@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1571,Wabern(Bz Kassel),08:51,Karlsruhe Hbf,05:19,5
+ICE 1573,Wabern(Bz Kassel),10:50,Karlsruhe Hbf,07:20,1
+ICE 1674,Wabern(Bz Kassel),11:45,Hamburg-Altona,08:33,1
+ICE 1672,Wabern(Bz Kassel),17:20,Ostseebad Binz,10:33,
+ICE 1577,Wabern(Bz Kassel),15:03,Stuttgart Hbf,11:23,38
+IC 2374,Wabern(Bz Kassel),19:34,Westerland(Sylt),12:34,19
+ICE 1671,Wabern(Bz Kassel),18:39,Karlsruhe Hbf,15:23,131
+ICE 1576,Wabern(Bz Kassel),21:32,Rostock Hbf,16:33,4
+IC 2375,Wabern(Bz Kassel),20:57,Stuttgart Hbf,17:22,28
+IC 2393,Wabern(Bz Kassel),20:57,Stuttgart Hbf,17:22,28
+ICE 1514,Wabern(Bz Kassel),21:49,Hamburg-Altona,18:33,5
+ICE 1675,Wabern(Bz Kassel),21:09,Frankfurt(Main)Hbf,19:23,20
+ICE 1572,Wabern(Bz Kassel),21:56,Hannover Hbf,20:33,FALSE

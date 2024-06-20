@@ -1,0 +1,234 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1081,Hannover Hbf,07:18,München Hbf,00:03,25
+IC 60471,Hannover Hbf,10:05,Zürich HB,00:30,4
+NJ 471,Hannover Hbf,10:05,Zürich HB,00:30,4
+ICE 100,Hannover Hbf,05:48,Berlin Ostbahnhof,02:33,71
+ICE 101,Hannover Hbf,10:47,Basel SBB,03:13,14
+ICE 1573,Hannover Hbf,10:50,Karlsruhe Hbf,05:19,39
+ICE 649,Hannover Hbf,08:02,Berlin Ostbahnhof,05:27,1
+IC 2031,Hannover Hbf,08:15,Leipzig Hbf,05:34,
+ICE 571,Hannover Hbf,15:27,Berlin Ostbahnhof,05:39,4
+ICE 103,Hannover Hbf,18:07,München Hbf,05:41,1
+ICE 581,Hannover Hbf,10:45,München Hbf,05:51,13
+ICE 1278,Hannover Hbf,07:16,Hamburg-Harburg,05:54,
+ICE 1678,Hannover Hbf,11:18,Ostseebad Binz,05:54,
+IC 242,Hannover Hbf,10:00,Amsterdam Centraal,05:56,1
+ICE 1080,Hannover Hbf,08:09,Hamburg Hbf,06:11,2
+ICE 24,Hannover Hbf,07:05,Lüneburg,06:11,
+ICE 841,Hannover Hbf,08:36,Berlin Ostbahnhof,06:31,29
+IC 2447,Hannover Hbf,10:58,Dresden Hbf,06:36,1
+ICE 646,Hannover Hbf,09:07,Düsseldorf Hbf,06:40,1
+ICE 656,Hannover Hbf,09:15,Köln Hbf,06:40,1
+ICE 71,Hannover Hbf,13:10,Basel SBB,06:41,8
+IC 2436,Hannover Hbf,09:38,Emden Hbf,06:45,1
+ICE 783,Hannover Hbf,11:42,München Hbf,06:55,1
+ICE 1686,Hannover Hbf,08:46,Hamburg-Altona,07:01,
+ICE55918,Hannover Hbf,08:45,Hamburg-Altona,07:01,
+ICE 751,Hannover Hbf,09:04,Berlin Ostbahnhof,07:03,2
+ICE 541,Hannover Hbf,09:27,Berlin Ostbahnhof,07:31,13
+ICE 946,Hannover Hbf,10:02,Düsseldorf Hbf,07:31,
+ICE 956,Hannover Hbf,10:09,Köln Hbf,07:31,
+IC 2033,Hannover Hbf,10:15,Leipzig Hbf,07:35,2
+ICE 1088,Hannover Hbf,08:57,Hamburg Hbf,07:36,15
+IC 2042,Hannover Hbf,10:46,Köln Hbf,07:40,2
+ICE 573,Hannover Hbf,12:38,Stuttgart Hbf,07:41,16
+ICE 636,Hannover Hbf,08:45,Bremen Hbf,07:45,
+ICE 583,Hannover Hbf,12:40,München Hbf,07:50,9
+NJ 40420,Hannover Hbf,09:05,Hamburg-Altona,07:50,105
+NJ 490,Hannover Hbf,09:05,Hamburg-Altona,07:50,105
+IC 240,Hannover Hbf,12:00,Amsterdam Centraal,07:56,3
+ICE 1676,Hannover Hbf,12:29,Stralsund Hbf,07:59,1
+ICE 1515,Hannover Hbf,12:50,Karlsruhe Hbf,08:01,1
+ICE 741,Hannover Hbf,10:01,Berlin Ostbahnhof,08:04,2
+ICE 843,Hannover Hbf,10:27,Berlin Ostbahnhof,08:31,8
+ICE 853,Hannover Hbf,10:27,Berlin Ostbahnhof,08:31,8
+IC 2083,Hannover Hbf,17:04,Berchtesgaden Hbf,08:32,1
+IC 2085,Hannover Hbf,16:11,Oberstdorf Busbahnhof,08:32,1
+IC 2445,Hannover Hbf,12:58,Dresden Hbf,08:35,8
+ICE 644,Hannover Hbf,15:49,Salzburg Hbf,08:40,1
+ICE 654,Hannover Hbf,11:43,Bonn Hbf,08:40,1
+ICE 73,Hannover Hbf,16:00,Zürich HB,08:41,1
+IC 2434,Hannover Hbf,11:50,Emden Außenhafen,08:45,1
+ICE 91,Hannover Hbf,16:47,Wien Hbf,08:50,9
+ICE 1052,Hannover Hbf,13:12,Aachen Hbf,08:56,2
+ICE 753,Hannover Hbf,11:02,Berlin Ostbahnhof,09:04,
+ICE 888,Hannover Hbf,10:21,Hamburg Hbf,09:04,4
+ICE 672,Hannover Hbf,10:36,Hamburg Hbf,09:20,
+ICE 543,Hannover Hbf,11:27,Berlin Ostbahnhof,09:31,4
+ICE 553,Hannover Hbf,11:13,Berlin Ostbahnhof,09:31,4
+ICE 944,Hannover Hbf,12:07,Düsseldorf Hbf,09:31,1
+ICE 954,Hannover Hbf,12:09,Köln Hbf,09:31,1
+IC 2035,Hannover Hbf,12:39,Berlin Ostbahnhof,09:36,2
+ICE 1944,Hannover Hbf,16:22,Stuttgart Hbf,09:40,1
+ICE 575,Hannover Hbf,14:38,Stuttgart Hbf,09:41,9
+ICE 634,Hannover Hbf,10:45,Bremen Hbf,09:45,
+ICE 585,Hannover Hbf,14:41,München Hbf,09:49,7
+IC 148,Hannover Hbf,14:00,Amsterdam Centraal,09:56,8
+ICE 1674,Hannover Hbf,11:45,Hamburg-Altona,09:59,3
+ICE 1577,Hannover Hbf,15:03,Stuttgart Hbf,10:01,36
+IC 141,Hannover Hbf,12:01,Berlin Ostbahnhof,10:04,10
+ICE 684,Hannover Hbf,11:22,Hamburg Hbf,10:04,9
+ICE 774,Hannover Hbf,11:36,Hamburg Hbf,10:20,7
+ICE 642,Hannover Hbf,13:07,Düsseldorf Hbf,10:31,4
+ICE 652,Hannover Hbf,13:37,Bonn Hbf,10:31,4
+ICE 845,Hannover Hbf,12:27,Berlin Ostbahnhof,10:31,10
+ICE 855,Hannover Hbf,12:27,Berlin Ostbahnhof,10:31,10
+IC 2443,Hannover Hbf,14:57,Dresden Hbf,10:36,3
+ICE 75,Hannover Hbf,18:00,Zürich HB,10:41,1
+IC 2432,Hannover Hbf,14:19,Norddeich Mole,10:45,FALSE
+ICE 787,Hannover Hbf,15:44,München Hbf,10:55,3
+ICE 1050,Hannover Hbf,14:13,Köln Hbf,10:56,1
+ICE 1545,Hannover Hbf,13:02,Berlin Ostbahnhof,11:04,1
+ICE 886,Hannover Hbf,12:21,Hamburg Hbf,11:04,10
+ICE 474,Hannover Hbf,12:36,Hamburg Hbf,11:20,36
+ICE 545,Hannover Hbf,13:27,Berlin Ostbahnhof,11:22,6
+ICE 555,Hannover Hbf,13:13,Berlin Ostbahnhof,11:22,6
+ICE 942,Hannover Hbf,14:07,Düsseldorf Hbf,11:31,4
+ICE 952,Hannover Hbf,14:09,Köln Hbf,11:31,4
+IC 2037,Hannover Hbf,14:15,Leipzig Hbf,11:36,FALSE
+IC 2046,Hannover Hbf,18:27,Stuttgart Hbf,11:40,1
+ICE 577,Hannover Hbf,16:38,Stuttgart Hbf,11:41,13
+ICE 632,Hannover Hbf,12:45,Bremen Hbf,11:45,
+ICE 587,Hannover Hbf,16:41,München Hbf,11:49,
+IC 146,Hannover Hbf,16:00,Amsterdam Centraal,11:56,5
+ICE 1672,Hannover Hbf,17:20,Ostseebad Binz,11:59,19
+ICE 1579,Hannover Hbf,16:50,Karlsruhe Hbf,12:01,1
+IC 143,Hannover Hbf,14:01,Berlin Ostbahnhof,12:04,5
+ICE 682,Hannover Hbf,13:22,Hamburg Hbf,12:04,19
+ICE 772,Hannover Hbf,13:36,Hamburg Hbf,12:20,12
+ICE 847,Hannover Hbf,14:27,Berlin Ostbahnhof,12:31,51
+ICE 857,Hannover Hbf,14:27,Berlin Ostbahnhof,12:31,51
+IC 2441,Hannover Hbf,16:47,Dresden Hbf,12:36,1
+ICE 640,Hannover Hbf,15:07,Düsseldorf Hbf,12:40,1
+ICE 650,Hannover Hbf,18:46,Stuttgart Hbf,12:40,1
+ICE 77,Hannover Hbf,20:00,Zürich HB,12:41,9
+IC 2430,Hannover Hbf,15:38,Emden Hbf,12:45,1
+ICE 789,Hannover Hbf,17:44,München Hbf,12:55,10
+ICE 758,Hannover Hbf,17:12,Aachen Hbf,12:56,2
+ICE 757,Hannover Hbf,15:02,Berlin Ostbahnhof,13:04,3
+ICE 882,Hannover Hbf,14:22,Hamburg Hbf,13:04,1
+ICE 78,Hannover Hbf,14:36,Hamburg Hbf,13:20,30
+ICE 547,Hannover Hbf,15:27,Berlin Ostbahnhof,13:22,19
+ICE 557,Hannover Hbf,15:17,Berlin Ostbahnhof,13:22,19
+ICE 940,Hannover Hbf,16:07,Düsseldorf Hbf,13:31,1
+ICE 950,Hannover Hbf,16:10,Köln Hbf,13:31,1
+IC 2039,Hannover Hbf,16:15,Leipzig Hbf,13:36,1
+IC 2048,Hannover Hbf,21:30,Tübingen Hbf,13:40,1
+ICE 579,Hannover Hbf,18:38,Stuttgart Hbf,13:41,116
+ICE 630,Hannover Hbf,14:45,Bremen Hbf,13:45,2
+ICE 689,Hannover Hbf,18:40,München Hbf,13:51,91
+IC 144,Hannover Hbf,18:00,Amsterdam Centraal,13:56,3
+IC 2374,Hannover Hbf,19:34,Westerland(Sylt),13:59,26
+ICE 1671,Hannover Hbf,18:39,Karlsruhe Hbf,14:01,92
+IC 145,Hannover Hbf,16:01,Berlin Ostbahnhof,14:04,FALSE
+ICE 680,Hannover Hbf,15:39,Hamburg Hbf,14:08,4
+ICE 1133,Hannover Hbf,16:29,Bitterfeld,14:11,
+ICE 770,Hannover Hbf,15:36,Hamburg Hbf,14:20,8
+ICE 849,Hannover Hbf,16:27,Berlin Ostbahnhof,14:31,7
+ICE 859,Hannover Hbf,16:27,Berlin Ostbahnhof,14:31,7
+ICE 1949,Hannover Hbf,18:40,Dresden Hbf,14:36,7
+ICE 548,Hannover Hbf,17:07,Düsseldorf Hbf,14:40,1
+ICE 558,Hannover Hbf,17:37,Bonn Hbf,14:40,1
+ICE 79,Hannover Hbf,22:00,Zürich HB,14:41,48
+IC 2038,Hannover Hbf,17:38,Emden Hbf,14:45,1
+ICE 881,Hannover Hbf,19:45,München Hbf,14:55,44
+ICE 756,Hannover Hbf,19:13,Aachen Hbf,14:56,
+ICE 759,Hannover Hbf,17:02,Berlin Ostbahnhof,15:04,12
+ICE 880,Hannover Hbf,16:21,Hamburg Hbf,15:04,5
+ICE 76,Hannover Hbf,16:36,Hamburg Hbf,15:20,30
+ICE 549,Hannover Hbf,17:27,Berlin Ostbahnhof,15:22,17
+ICE 559,Hannover Hbf,17:17,Berlin Ostbahnhof,15:22,17
+ICE 848,Hannover Hbf,18:07,Düsseldorf Hbf,15:31,1
+ICE 858,Hannover Hbf,18:10,Köln Hbf,15:31,1
+IC 2431,Hannover Hbf,19:59,Cottbus Hbf,15:36,9
+IC 2440,Hannover Hbf,22:22,Stuttgart Hbf,15:40,1
+ICE 771,Hannover Hbf,20:38,Stuttgart Hbf,15:41,84
+ICE 538,Hannover Hbf,16:45,Bremen Hbf,15:45,
+ICE 681,Hannover Hbf,20:45,München Hbf,15:53,12
+IC 142,Hannover Hbf,20:00,Amsterdam Centraal,15:56,1
+ICE 1578,Hannover Hbf,20:14,Velgast,15:59,46
+IC 2375,Hannover Hbf,20:57,Stuttgart Hbf,16:01,13
+IC 2393,Hannover Hbf,20:57,Stuttgart Hbf,16:01,13
+IC 147,Hannover Hbf,18:01,Berlin Ostbahnhof,16:04,14
+ICE 370,Hannover Hbf,18:01,Berlin Ostbahnhof,16:04,14
+ICE 588,Hannover Hbf,17:22,Hamburg Hbf,16:04,15
+ICE 578,Hannover Hbf,17:36,Hamburg Hbf,16:20,37
+ICE 941,Hannover Hbf,18:27,Berlin Ostbahnhof,16:31,12
+ICE 951,Hannover Hbf,18:27,Berlin Ostbahnhof,16:31,12
+IC 2047,Hannover Hbf,20:40,Dresden Hbf,16:36,18
+ICE 546,Hannover Hbf,19:10,Düsseldorf Hbf,16:40,1
+ICE 556,Hannover Hbf,20:16,Koblenz Hbf,16:40,1
+ICE 1171,Hannover Hbf,23:04,Basel SBB,16:41,
+IC 2036,Hannover Hbf,20:20,Norddeich Mole,16:45,1
+ICE 883,Hannover Hbf,21:42,München Hbf,16:55,42
+ICE 1544,Hannover Hbf,18:48,Dortmund Hbf,16:56,4
+ICE 788,Hannover Hbf,18:21,Hamburg Hbf,17:04,15
+ICE 1051,Hannover Hbf,19:02,Berlin Ostbahnhof,17:05,35
+ICE 74,Hannover Hbf,19:43,Kiel Hbf,17:20,16
+IC 2082,Hannover Hbf,19:21,Hamburg-Altona,17:27,20
+IC 2084,Hannover Hbf,19:21,Hamburg-Altona,17:27,20
+ICE 641,Hannover Hbf,19:27,Berlin Ostbahnhof,17:31,18
+ICE 651,Hannover Hbf,19:13,Berlin Ostbahnhof,17:31,18
+ICE 846,Hannover Hbf,20:42,Mönchengladbach Hbf,17:31,5
+ICE 856,Hannover Hbf,20:10,Köln Hbf,17:31,5
+IC 2433,Hannover Hbf,20:15,Leipzig Hbf,17:36,15
+IC 2442,Hannover Hbf,23:13,Frankfurt(Main)Hbf,17:40,1
+ICE 773,Hannover Hbf,22:55,Stuttgart Hbf,17:41,40
+ICE 536,Hannover Hbf,18:45,Bremen Hbf,17:45,
+ICE 683,Hannover Hbf,22:40,München Hbf,17:52,18
+IC 140,Hannover Hbf,22:00,Amsterdam Centraal,17:56,2
+ICE 1576,Hannover Hbf,21:32,Rostock Hbf,17:59,56
+ICE 1675,Hannover Hbf,21:09,Frankfurt(Main)Hbf,18:01,18
+IC 149,Hannover Hbf,20:01,Berlin Ostbahnhof,18:04,10
+ICE 586,Hannover Hbf,19:22,Hamburg Hbf,18:05,14
+ICE 576,Hannover Hbf,19:37,Hamburg Hbf,18:20,2
+ICE 2811,Hannover Hbf,20:27,Berlin Ostbahnhof,18:31,39
+ICE 943,Hannover Hbf,20:27,Berlin Ostbahnhof,18:31,FALSE
+ICE 953,Hannover Hbf,20:27,Berlin Ostbahnhof,18:31,72
+IC 2045,Hannover Hbf,22:38,Dresden Hbf,18:36,1
+ICE 544,Hannover Hbf,21:07,Düsseldorf Hbf,18:40,2
+ICE 554,Hannover Hbf,21:15,Köln Hbf,18:40,2
+ICE 273,Hannover Hbf,23:09,Karlsruhe Hbf,18:41,44
+IC 2034,Hannover Hbf,22:14,Norddeich,18:45,2
+ICE 885,Hannover Hbf,23:43,München Hbf,18:55,25
+ICE 752,Hannover Hbf,22:12,Köln Hbf,18:56,8
+ICE 1053,Hannover Hbf,20:51,Berlin Hbf,19:04,47
+ICE 786,Hannover Hbf,20:22,Hamburg Hbf,19:04,2
+ICE 1687,Hannover Hbf,20:10,Kassel-Wilhelmshöhe,19:09,19
+ICE 643,Hannover Hbf,21:27,Berlin Ostbahnhof,19:22,6
+ICE 653,Hannover Hbf,21:16,Berlin Hbf,19:22,6
+ICE 844,Hannover Hbf,22:07,Düsseldorf Hbf,19:31,2
+ICE 854,Hannover Hbf,22:10,Köln Hbf,19:31,2
+ICE 2872,Hannover Hbf,20:58,Hamburg Hbf,19:35,2
+ICE 72,Hannover Hbf,20:58,Hamburg Hbf,19:35,FALSE
+IC 2435,Hannover Hbf,22:15,Leipzig Hbf,19:36,3
+IC 2444,Hannover Hbf,23:54,Koblenz Hbf,19:40,1
+ICE 776,Hannover Hbf,22:31,Oldenburg(Oldb)Hbf,19:51,
+ICE 685,Hannover Hbf,00:45,München Hbf,19:53,24
+ICE 742,Hannover Hbf,21:34,Münster(Westf)Hbf,19:56,1
+ICE 1514,Hannover Hbf,21:49,Hamburg-Altona,19:59,4
+IC 241,Hannover Hbf,22:01,Berlin Ostbahnhof,20:04,29
+ICE 584,Hannover Hbf,21:20,Hamburg Hbf,20:04,44
+ICE 945,Hannover Hbf,22:34,Berlin Ostbahnhof,20:31,17
+ICE 955,Hannover Hbf,22:34,Berlin Ostbahnhof,20:31,17
+IC 2043,Hannover Hbf,22:58,Leipzig/Halle Flughafen,20:36,22
+ICE 542,Hannover Hbf,23:07,Düsseldorf Hbf,20:40,1
+ICE 552,Hannover Hbf,23:15,Köln Hbf,20:40,1
+IC 2032,Hannover Hbf,23:38,Emden Hbf,20:45,1
+ICE 90,Hannover Hbf,22:34,Hamburg-Altona,21:11,81
+ICE 645,Hannover Hbf,23:27,Berlin Ostbahnhof,21:22,7
+ICE 655,Hannover Hbf,23:27,Berlin Ostbahnhof,21:22,7
+ICE 887,Hannover Hbf,01:51,Wiesbaden Hbf,21:26,26
+ICE 872,Hannover Hbf,00:10,Köln Hbf,21:31,
+IC 2437,Hannover Hbf,23:01,Magdeburg Hbf,21:36,4
+ICE 532,Hannover Hbf,23:55,Oldenburg(Oldb)Hbf,21:45,1
+ICE55912,Hannover Hbf,23:55,Oldenburg(Oldb)Hbf,21:45,
+ICE 572,Hannover Hbf,23:40,Hamburg Hbf,22:17,32
+ICE 947,Hannover Hbf,00:37,Berlin Ostbahnhof,22:31,25
+ICE 957,Hannover Hbf,00:37,Berlin Ostbahnhof,22:31,25
+ICE 540,Hannover Hbf,01:08,Oldenburg(Oldb)Hbf,22:45,15
+ICE 2926,Hannover Hbf,00:22,Hamburg Hbf,23:04,27
+ICE 782,Hannover Hbf,00:22,Hamburg Hbf,23:04,FALSE
+ICE 376,Hannover Hbf,01:03,Hamburg-Altona,23:21,31
+ICE 19,Hannover Hbf,00:02,Wolfsburg Hbf,23:31,
+ICE 657,Hannover Hbf,01:25,Berlin Ostbahnhof,23:31,5

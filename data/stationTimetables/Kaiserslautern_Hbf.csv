@@ -1,0 +1,12 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 932,Kaiserslautern Hbf,08:56,Frankfurt(Main)Hbf,07:14,FALSE
+ICE 9558,Kaiserslautern Hbf,09:52,Paris Est,07:22,1
+ICE 563,Kaiserslautern Hbf,12:49,München Hbf,09:11,1
+ICE 9556,Kaiserslautern Hbf,12:52,Paris Est,10:22,34
+TGV 9551,Kaiserslautern Hbf,12:17,Mannheim Hbf,11:37,12
+TGV 9552,Kaiserslautern Hbf,16:52,Paris Est,14:24,18
+ICE 9553,Kaiserslautern Hbf,16:17,Mannheim Hbf,15:37,
+ICE 562,Kaiserslautern Hbf,19:17,Saarbrücken Hbf,18:35,2
+ICE 9555,Kaiserslautern Hbf,20:17,Mannheim Hbf,19:37,
+ICE 9550,Kaiserslautern Hbf,22:52,Paris Est,20:22,
+ICE 935,Kaiserslautern Hbf,23:29,Saarbrücken Hbf,22:45,

@@ -1,0 +1,64 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 60403,Bonn Hbf,08:39,Zürich HB,00:04,
+NJ 403,Bonn Hbf,08:39,Zürich HB,00:04,
+ICE 920,Bonn Hbf,07:06,Hamburg-Altona,01:38,
+ICE 921,Bonn Hbf,07:02,Frankfurt(Main)Hbf,04:13,
+ICE 1155,Bonn Hbf,10:25,Berlin Südkreuz,05:49,1
+ICE 23,Bonn Hbf,14:47,Wien Hbf,06:14,2
+ICE 553,Bonn Hbf,11:13,Berlin Ostbahnhof,06:23,1
+IC 2443,Bonn Hbf,14:57,Dresden Hbf,06:45,
+ICE 606,Bonn Hbf,12:16,Norddeich Mole,07:04,
+ICE 1548,Bonn Hbf,10:24,Stuttgart Hbf,07:14,3
+ICE 1626,Bonn Hbf,09:21,Dortmund Hbf,07:45,1
+ICE 1621,Bonn Hbf,13:42,München Hbf,08:14,23
+ICE 555,Bonn Hbf,13:13,Berlin Ostbahnhof,08:22,
+ICE 115,Bonn Hbf,19:19,Klagenfurt Hbf,08:37,6
+IC 2441,Bonn Hbf,16:47,Dresden Hbf,08:46,3
+EC 7,Bonn Hbf,15:58,Interlaken Ost,09:14,7
+IC 5107,Bonn Hbf,10:25,Düsseldorf Hbf,09:23,1
+ICE 119,Bonn Hbf,19:05,Innsbruck Hbf,09:38,4
+ICE 1022,Bonn Hbf,11:25,Dortmund Hbf,09:45,6
+ICE 27,Bonn Hbf,18:47,Wien Hbf,10:14,6
+ICE 557,Bonn Hbf,15:17,Berlin Ostbahnhof,10:23,24
+ICE 1949,Bonn Hbf,18:40,Dresden Hbf,10:46,7
+EC 9,Bonn Hbf,17:00,Zürich HB,11:14,3
+IC 2202,Bonn Hbf,15:53,Bremerhaven-Lehe,11:17,
+IC 2013,Bonn Hbf,18:13,Oberstdorf,11:38,1
+ICE 1020,Bonn Hbf,16:06,Hamburg-Altona,11:45,24
+ICE 1157,Bonn Hbf,16:14,Berlin Hbf,11:49,
+ICE 29,Bonn Hbf,20:47,Wien Hbf,12:14,20
+ICE 559,Bonn Hbf,17:17,Berlin Ostbahnhof,12:23,1
+IC 2009,Bonn Hbf,19:09,Konstanz,12:41,17
+IC 2047,Bonn Hbf,20:40,Dresden Hbf,12:46,17
+ICE 1944,Bonn Hbf,16:22,Stuttgart Hbf,13:14,6
+IC 2200,Bonn Hbf,18:03,Norddeich Mole,13:16,
+ICE 928,Bonn Hbf,18:07,Hamburg-Altona,13:45,
+ICE 229,Bonn Hbf,23:05,Wien Hbf,14:14,5
+ICE 651,Bonn Hbf,19:13,Berlin Ostbahnhof,14:23,
+IC 5106,Bonn Hbf,17:48,Luxembourg,14:38,29
+IC 2045,Bonn Hbf,22:38,Dresden Hbf,14:46,4
+IC 2046,Bonn Hbf,18:27,Stuttgart Hbf,15:14,1
+IC 2014,Bonn Hbf,19:26,Emden Hbf,15:23,
+ICE 650,Bonn Hbf,18:46,Stuttgart Hbf,15:39,21
+ICE 228,Bonn Hbf,17:21,Dortmund Hbf,15:45,17
+ICE 927,Bonn Hbf,20:28,Nürnberg Hbf,16:15,51
+IC 2012,Bonn Hbf,18:04,Dortmund Hbf,16:23,45
+EC 8,Bonn Hbf,21:30,Hamburg-Altona,16:45,14
+IC 2048,Bonn Hbf,21:30,Tübingen Hbf,17:14,2
+ICE 28,Bonn Hbf,19:24,Dortmund Hbf,17:45,5
+ICE 1159,Bonn Hbf,22:37,Berlin Ostkreuz,17:48,7
+ICE 655,Bonn Hbf,23:27,Berlin Ostbahnhof,18:14,1
+ICE 929,Bonn Hbf,00:50,Passau Hbf,18:14,1
+ICE 118,Bonn Hbf,20:35,Münster(Westf)Hbf,18:23,18
+ICE 605,Bonn Hbf,19:20,Koblenz Hbf,18:41,36
+EC 6,Bonn Hbf,23:30,Hamburg-Altona,18:45,12
+IC 2440,Bonn Hbf,22:22,Stuttgart Hbf,19:12,23
+ICE 114,Bonn Hbf,21:09,Dortmund Hbf,19:23,FALSE
+ICE 556,Bonn Hbf,20:16,Koblenz Hbf,19:40,8
+ICE 26,Bonn Hbf,21:19,Dortmund Hbf,19:45,60
+ICE 1021,Bonn Hbf,00:42,Nürnberg Hbf,20:14,17
+ICE 1549,Bonn Hbf,22:22,Dortmund Hbf,20:46,26
+ICE 1627,Bonn Hbf,00:13,Frankfurt(Main)Hbf,22:14,
+NJ 40425,Bonn Hbf,10:13,Wien Hbf,22:43,49
+NJ NJ,Bonn Hbf,22:34,Passau Hbf,22:43,
+IC 2444,Bonn Hbf,23:54,Koblenz Hbf,23:03,27

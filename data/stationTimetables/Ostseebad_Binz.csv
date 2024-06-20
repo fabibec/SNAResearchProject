@@ -1,0 +1,10 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1073,Ostseebad Binz,12:18,Berlin Südkreuz,08:19,
+ICE 1671,Ostseebad Binz,18:39,Karlsruhe Hbf,08:26,
+ICE 1711,Ostseebad Binz,19:03,München Hbf,10:21,
+ICE 203,Ostseebad Binz,22:55,Basel SBB,10:43,
+ICE 1040,Ostseebad Binz,15:59,Berlin Gesundbrunnen,12:19,
+ICE 1075,Ostseebad Binz,16:13,Berlin Südkreuz,12:19,
+ICE 1675,Ostseebad Binz,21:09,Frankfurt(Main)Hbf,12:26,
+ICE 1715,Ostseebad Binz,16:53,Prenzlau,14:21,
+ICE 1077,Ostseebad Binz,18:52,Prenzlau,16:20,

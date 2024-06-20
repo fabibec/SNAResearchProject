@@ -1,0 +1,9 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2063,Mühlacker,14:04,Leipzig Hbf,07:37,FALSE
+IC 2164,Mühlacker,23:00,Karlsruhe Hbf,08:24,
+IC 2065,Mühlacker,16:04,Leipzig Hbf,09:37,
+IC 2067,Mühlacker,18:04,Leipzig Hbf,11:37,
+IC 2069,Mühlacker,20:04,Leipzig Hbf,13:37,
+IC 2161,Mühlacker,22:04,Leipzig Hbf,15:37,
+IC 2163,Mühlacker,20:18,Nürnberg Hbf,17:37,
+IC 2060,Mühlacker,23:00,Karlsruhe Hbf,22:24,3

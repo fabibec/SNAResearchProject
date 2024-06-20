@@ -1,0 +1,22 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1020,Passau Hbf,16:06,Hamburg-Altona,05:11,25
+IC 297,Passau Hbf,10:47,Wien Hbf,08:24,
+ICE 94,Passau Hbf,16:20,Hamburg-Altona,08:36,2
+ICE 228,Passau Hbf,17:21,Dortmund Hbf,09:33,17
+ICE 21,Passau Hbf,12:47,Wien Hbf,10:26,37
+ICE 28,Passau Hbf,19:24,Dortmund Hbf,11:34,8
+ICE 23,Passau Hbf,14:47,Wien Hbf,12:29,19
+ICE 92,Passau Hbf,20:15,Hamburg-Altona,12:33,7
+ICE 26,Passau Hbf,21:19,Dortmund Hbf,13:37,68
+ICE 91,Passau Hbf,16:47,Wien Hbf,14:29,41
+ICE 93,Passau Hbf,17:47,Wien Hbf,15:29,62
+ICE 90,Passau Hbf,22:34,Hamburg-Altona,15:37,41
+ICE 27,Passau Hbf,18:47,Wien Hbf,16:29,15
+ICE 22,Passau Hbf,01:20,Dortmund Hbf,17:37,2
+ICE 29,Passau Hbf,20:47,Wien Hbf,18:29,33
+ICE 95,Passau Hbf,21:47,Wien Hbf,19:26,69
+ICE 20,Passau Hbf,23:37,Frankfurt(Main)Hbf,19:37,33
+ICE 229,Passau Hbf,23:05,Wien Hbf,20:31,27
+IC 296,Passau Hbf,08:37,Rostock Hbf,21:47,
+NJ 40490,Passau Hbf,11:01,Amsterdam Centraal,22:53,50
+NJ 490,Passau Hbf,09:05,Hamburg-Altona,22:53,50

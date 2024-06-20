@@ -1,0 +1,102 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 296,Halle(Saale)Hbf,08:37,Rostock Hbf,05:16,
+IC 2434,Halle(Saale)Hbf,11:50,Emden  Außenhafen,06:06,1
+ICE 593,Halle(Saale)Hbf,13:13,München Hbf,06:13,1
+ICE 698,Halle(Saale)Hbf,07:36,Berlin Hbf,06:19,7
+IC 60409,Halle(Saale)Hbf,08:20,Berlin Hbf,06:36,-2
+NJ 409,Halle(Saale)Hbf,08:20,Berlin Hbf,06:36,-2
+ICE 1701,Halle(Saale)Hbf,10:42,München Hbf,06:52,
+IC 2449,Halle(Saale)Hbf,08:38,Dresden Hbf,06:55,1
+ICE 1944,Halle(Saale)Hbf,16:22,Stuttgart Hbf,07:09,
+ICE 1001,Halle(Saale)Hbf,10:02,München Hbf,07:12,8
+ICE 1636,Halle(Saale)Hbf,13:00,Ostseebad Binz,07:44,7
+IC 2031,Halle(Saale)Hbf,08:15,Leipzig Hbf,07:55,
+IC 2238,Halle(Saale)Hbf,12:14,Warnemünde,08:06,FALSE
+ICE 595,Halle(Saale)Hbf,15:13,München Hbf,08:15,1
+ICE 1103,Halle(Saale)Hbf,11:11,München Hbf,08:21,
+ICE 1008,Halle(Saale)Hbf,12:03,Hamburg-Altona,08:40,6
+FLX 1241,Halle(Saale)Hbf,13:43,Stuttgart Hbf,08:44,4
+ICE 701,Halle(Saale)Hbf,12:42,München Hbf,08:52,8
+IC 2447,Halle(Saale)Hbf,10:58,Dresden Hbf,08:55,
+ICE 804,Halle(Saale)Hbf,13:48,Kiel Hbf,09:06,8
+IC 2046,Halle(Saale)Hbf,18:27,Stuttgart Hbf,09:09,
+ICE 696,Halle(Saale)Hbf,10:55,Berlin Hbf,09:42,9
+ICE 1114,Halle(Saale)Hbf,10:57,Berlin Hbf,09:47,8
+IC 2033,Halle(Saale)Hbf,10:15,Leipzig Hbf,09:55,1
+IC 2430,Halle(Saale)Hbf,15:38,Emden Hbf,10:06,
+ICE 597,Halle(Saale)Hbf,17:16,München Hbf,10:16,3
+ICE 1105,Halle(Saale)Hbf,13:09,München Hbf,10:21,2
+ICE 703,Halle(Saale)Hbf,14:01,München Hbf,10:52,28
+IC 2445,Halle(Saale)Hbf,12:58,Dresden Hbf,10:55,
+ICE 802,Halle(Saale)Hbf,14:39,Hamburg-Altona,11:06,5
+IC 2048,Halle(Saale)Hbf,21:30,Tübingen Hbf,11:09,1
+ICE 93,Halle(Saale)Hbf,17:47,Wien Hbf,11:18,52
+ICE 694,Halle(Saale)Hbf,13:00,Berlin Hbf,11:42,9
+ICE 1112,Halle(Saale)Hbf,12:57,Berlin Hbf,11:47,16
+IC 2235,Halle(Saale)Hbf,12:15,Leipzig Hbf,11:55,
+IC 2038,Halle(Saale)Hbf,17:38,Emden Hbf,12:06,
+ICE 599,Halle(Saale)Hbf,19:12,München Hbf,12:15,3
+ICE 1107,Halle(Saale)Hbf,15:08,München Hbf,12:21,FALSE
+ICE 2907,Halle(Saale)Hbf,15:08,München Hbf,12:21,3
+ICE 1694,Halle(Saale)Hbf,13:56,Berlin Hbf,12:40,33
+ICE 94,Halle(Saale)Hbf,16:20,Hamburg-Altona,12:40,33
+FLX 1243,Halle(Saale)Hbf,19:15,Basel Bad,12:44,
+ICE 705,Halle(Saale)Hbf,16:42,München Hbf,12:52,3
+IC 2443,Halle(Saale)Hbf,14:57,Dresden Hbf,12:55,1
+ICE 800,Halle(Saale)Hbf,16:38,Hamburg-Altona,13:06,12
+IC 2440,Halle(Saale)Hbf,22:22,Stuttgart Hbf,13:09,8
+ICE 1005,Halle(Saale)Hbf,16:01,München Hbf,13:18,3
+ICE 692,Halle(Saale)Hbf,15:00,Berlin Hbf,13:41,8
+ICE 1110,Halle(Saale)Hbf,14:57,Berlin Hbf,13:47,8
+IC 2037,Halle(Saale)Hbf,14:15,Leipzig Hbf,13:55,FALSE
+IC 2036,Halle(Saale)Hbf,20:20,Norddeich Mole,14:06,1
+ICE 1211,Halle(Saale)Hbf,23:18,Innsbruck Hbf,14:15,3
+ICE 1109,Halle(Saale)Hbf,17:10,München Hbf,14:21,1
+ICE 707,Halle(Saale)Hbf,18:03,München Hbf,14:52,13
+IC 2441,Halle(Saale)Hbf,16:47,Dresden Hbf,14:55,
+ICE 708,Halle(Saale)Hbf,18:38,Hamburg-Altona,15:06,37
+IC 2442,Halle(Saale)Hbf,23:13,Frankfurt(Main)Hbf,15:09,1
+ICE 1695,Halle(Saale)Hbf,19:17,München Hbf,15:18,56
+ICE 95,Halle(Saale)Hbf,21:47,Wien Hbf,15:18,56
+ICE 690,Halle(Saale)Hbf,17:00,Berlin Hbf,15:42,8
+ICE 1108,Halle(Saale)Hbf,16:57,Berlin Hbf,15:47,7
+IC 2039,Halle(Saale)Hbf,16:15,Leipzig Hbf,15:55,1
+IC 2234,Halle(Saale)Hbf,20:06,Rostock Hbf,16:06,FALSE
+ICE 693,Halle(Saale)Hbf,23:13,München Hbf,16:16,4
+ICE 1111,Halle(Saale)Hbf,19:11,München Hbf,16:21,4
+ICE 92,Halle(Saale)Hbf,20:15,Hamburg-Altona,16:40,25
+FLX 1245,Halle(Saale)Hbf,21:59,Stuttgart Hbf,16:44,161
+ICE 709,Halle(Saale)Hbf,20:43,München Hbf,16:52,
+ICE 1949,Halle(Saale)Hbf,18:40,Dresden Hbf,16:55,44
+ICE 706,Halle(Saale)Hbf,20:39,Hamburg-Altona,17:06,4
+IC 2444,Halle(Saale)Hbf,23:54,Koblenz Hbf,17:09,3
+ICE 1218,Halle(Saale)Hbf,18:55,Berlin Hbf,17:42,26
+ICE 1106,Halle(Saale)Hbf,18:57,Berlin Hbf,17:47,10
+IC 2239,Halle(Saale)Hbf,18:15,Leipzig Hbf,17:55,FALSE
+IC 2911,Halle(Saale)Hbf,18:15,Leipzig Hbf,17:55,1
+IC 2032,Halle(Saale)Hbf,23:38,Emden Hbf,18:06,1
+ICE 695,Halle(Saale)Hbf,23:08,Stuttgart Hbf,18:15,16
+ICE 1113,Halle(Saale)Hbf,21:12,München Hbf,18:21,1
+ICE 801,Halle(Saale)Hbf,22:44,München Hbf,18:52,5
+IC 2047,Halle(Saale)Hbf,20:40,Dresden Hbf,18:55,26
+ICE 704,Halle(Saale)Hbf,22:22,Hamburg Hbf,19:06,4
+IC 2446,Halle(Saale)Hbf,21:23,Hannover Hbf,19:09,1
+ICE 596,Halle(Saale)Hbf,20:55,Berlin Hbf,19:38,8
+ICE 1104,Halle(Saale)Hbf,20:57,Berlin Hbf,19:47,FALSE
+ICE 2904,Halle(Saale)Hbf,20:57,Berlin Hbf,19:47,9
+IC 2433,Halle(Saale)Hbf,20:15,Leipzig Hbf,19:55,10
+ICE 697,Halle(Saale)Hbf,23:48,Frankfurt(Main)Hbf,20:15,10
+ICE 1115,Halle(Saale)Hbf,23:07,München Hbf,20:21,9
+ICE 1000,Halle(Saale)Hbf,22:00,Berlin Gesundbrunnen,20:40,29
+ICE 803,Halle(Saale)Hbf,23:09,Nürnberg Hbf,20:52,18
+IC 2045,Halle(Saale)Hbf,22:38,Dresden Hbf,20:55,2
+ICE 702,Halle(Saale)Hbf,22:33,Berlin Gesundbrunnen,21:06,18
+ICE 1119,Halle(Saale)Hbf,00:01,München Hbf,21:18,5
+ICE 594,Halle(Saale)Hbf,22:54,Berlin Hbf,21:42,5
+ICE 1102,Halle(Saale)Hbf,22:57,Berlin Hbf,21:47,5
+IC 2435,Halle(Saale)Hbf,22:15,Leipzig Hbf,21:55,1
+IC 60408,Halle(Saale)Hbf,09:05,Zürich HB,22:29,2
+NJ 408,Halle(Saale)Hbf,09:05,Zürich HB,22:29,2
+ICE 1018,Halle(Saale)Hbf,00:00,Berlin Gesundbrunnen,22:42,25
+IC 17,Halle(Saale)Hbf,03:48,Lichtenfels,23:55,
+IC 297,Halle(Saale)Hbf,10:47,Wien Hbf,23:55,1

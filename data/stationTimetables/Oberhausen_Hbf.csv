@@ -1,0 +1,20 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2208,Oberhausen Hbf,10:18,Norddeich Mole,06:33,
+ICE 606,Oberhausen Hbf,12:16,Norddeich Mole,08:34,
+IC 604,Oberhausen Hbf,13:25,Emden Hbf,10:34,
+ICE 604,Oberhausen Hbf,13:52,Emden Außenhafen,10:34,4
+ICE 604,Oberhausen(Rheinl)Hbf,13:52,Emden Außenhafen,10:34,4
+IC 2009,Oberhausen Hbf,19:09,Konstanz,11:26,7
+IC 2202,Oberhausen(Rheinl)Hbf,15:53,Bremerhaven-Lehe,12:34,4
+IC 2202,Oberhausen Hbf,15:53,Bremerhaven-Lehe,12:34,3
+IC 2201,Oberhausen(Rheinl)Hbf,14:18,Köln Hbf,13:25,2
+IC 2201,Oberhausen Hbf,14:18,Köln Hbf,13:25,2
+IC 2200,Oberhausen Hbf,18:03,Norddeich Mole,14:34,5
+IC 2203,Oberhausen(Rheinl)Hbf,16:18,Köln Hbf,15:26,3
+IC 2203,Oberhausen Hbf,16:18,Köln Hbf,15:26,2
+IC 2014,Oberhausen Hbf,19:26,Emden Hbf,16:40,44
+ICE 605,Oberhausen(Rheinl)Hbf,19:20,Koblenz Hbf,17:26,20
+ICE 605,Oberhausen Hbf,19:20,Koblenz Hbf,17:26,20
+IC 2002,Oberhausen Hbf,21:26,Emden Hbf,18:36,1
+ICE 607,Oberhausen Hbf,20:20,Köln Hbf,19:27,3
+IC 2209,Oberhausen Hbf,22:19,Köln Hbf,21:26,3

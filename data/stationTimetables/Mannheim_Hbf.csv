@@ -1,0 +1,178 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 698,Mannheim Hbf,07:36,Berlin Hbf,01:04,1
+IC 60403,Mannheim Hbf,08:39,Zürich HB,03:32,2
+NJ 403,Mannheim Hbf,08:39,Zürich HB,03:32,2
+ICE 618,Mannheim Hbf,11:23,Kiel Hbf,04:01,5
+ICE 699,Mannheim Hbf,08:08,München Hbf,04:19,1
+IC 2326,Mannheim Hbf,05:30,Frankfurt(Main)West,04:23,
+EC 458,Mannheim Hbf,09:05,Zürich HB,04:41,
+EN 40458,Mannheim Hbf,09:05,Zürich HB,04:41,
+IC 60408,Mannheim Hbf,09:05,Zürich HB,04:41,
+NJ 408,Mannheim Hbf,09:05,Zürich HB,04:41,
+ICE 774,Mannheim Hbf,11:36,Hamburg Hbf,06:04,1
+ICE 991,Mannheim Hbf,09:18,München Hbf,06:29,1
+ICE 270,Mannheim Hbf,12:32,Berlin Hbf,06:32,1
+ICE 2521,Mannheim Hbf,08:03,Freiburg(Breisgau) Hbf,06:33,
+ICE 271,Mannheim Hbf,11:22,Chur,06:33,4
+ICE 616,Mannheim Hbf,12:30,Hamburg-Altona,06:35,1
+ICE 9558,Mannheim Hbf,09:52,Paris Est,06:40,2
+ICE 474,Mannheim Hbf,12:36,Hamburg Hbf,07:17,7
+ICE 1014,Mannheim Hbf,09:21,Düsseldorf Hbf,07:21,6
+ICE 511,Mannheim Hbf,10:26,München Hbf,07:31,40
+ICE 694,Mannheim Hbf,13:00,Berlin Hbf,07:32,1
+ICE 1118,Mannheim Hbf,08:33,Wiesbaden Hbf,07:34,3
+ICE 5,Mannheim Hbf,09:47,Basel SBB,07:34,2
+ICE 206,Mannheim Hbf,13:30,Hamburg-Altona,07:35,1
+ICE 9568,Mannheim Hbf,10:38,Paris Est,07:37,2
+IC 2011,Mannheim Hbf,13:35,Antwerpen Centraal,07:51,
+ICE 932,Mannheim Hbf,08:56,Frankfurt(Main)Hbf,08:02,FALSE
+ICE 772,Mannheim Hbf,13:36,Hamburg Hbf,08:05,3
+ICE 557,Mannheim Hbf,15:17,Berlin Ostbahnhof,08:08,2
+ICE 1178,Mannheim Hbf,09:05,Stuttgart Hbf,08:18,
+ICE 1513,Mannheim Hbf,09:19,Stuttgart Hbf,08:26,FALSE
+ICE 591,Mannheim Hbf,11:12,München Hbf,08:30,3
+ICE 374,Mannheim Hbf,14:32,Berlin Hbf,08:32,
+ICE 101,Mannheim Hbf,10:47,Basel SBB,08:35,1
+ICE 614,Mannheim Hbf,14:30,Hamburg-Altona,08:36,1
+ICE 1949,Mannheim Hbf,18:40,Dresden Hbf,08:39,2
+ICE 913,Mannheim Hbf,11:26,München Hbf,08:43,10
+EC 151,Mannheim Hbf,12:00,Zürich HB,08:47,
+ECE 151,Mannheim Hbf,12:00,Zürich HB,08:47,FALSE
+ICE 78,Mannheim Hbf,14:36,Hamburg Hbf,09:17,15
+ICE 1012,Mannheim Hbf,12:05,Dortmund Hbf,09:21,1
+ICE 1548,Mannheim Hbf,10:24,Stuttgart Hbf,09:23,6
+ICE 513,Mannheim Hbf,12:26,München Hbf,09:31,10
+ICE 692,Mannheim Hbf,15:00,Berlin Hbf,09:32,4
+ICE 275,Mannheim Hbf,13:58,Interlaken Ost,09:34,1
+ICE 202,Mannheim Hbf,15:30,Hamburg-Altona,09:35,5
+ICE 9556,Mannheim Hbf,12:52,Paris Est,09:40,
+ICE 571,Mannheim Hbf,15:27,Berlin Ostbahnhof,09:59,21
+ICE 563,Mannheim Hbf,12:49,München Hbf,10:02,1
+ICE 770,Mannheim Hbf,15:36,Hamburg Hbf,10:04,3
+TGV 9561,Mannheim Hbf,12:00,Wien Franz-Josefs-Bahnhof,10:21,
+ICE 593,Mannheim Hbf,13:13,München Hbf,10:30,5
+ICE 372,Mannheim Hbf,16:32,Berlin Hbf,10:32,9
+ICE 103,Mannheim Hbf,18:07,München Hbf,10:35,4
+ICE 612,Mannheim Hbf,17:22,Kiel Hbf,10:36,5
+IC 2047,Mannheim Hbf,20:40,Dresden Hbf,10:39,10
+ICE 915,Mannheim Hbf,13:26,München Hbf,10:43,1
+ICE 71,Mannheim Hbf,13:10,Basel SBB,10:46,2
+ICE 115,Mannheim Hbf,19:19,Klagenfurt Hbf,11:02,9
+ICE 76,Mannheim Hbf,16:36,Hamburg Hbf,11:17,6
+ICE 1010,Mannheim Hbf,14:10,Dortmund Hbf,11:21,8
+EC 2507,Mannheim Hbf,12:49,Freiburg(Breisgau) Hbf,11:23,
+EC 7,Mannheim Hbf,15:58,Interlaken Ost,11:23,1
+ICE 515,Mannheim Hbf,14:26,München Hbf,11:31,5
+ICE 690,Mannheim Hbf,17:00,Berlin Hbf,11:32,3
+ICE 277,Mannheim Hbf,13:47,Basel SBB,11:34,7
+ICE 200,Mannheim Hbf,17:30,Hamburg-Altona,11:35,10
+ICE 119,Mannheim Hbf,19:05,Innsbruck Hbf,11:54,1
+ICE 573,Mannheim Hbf,12:38,Stuttgart Hbf,11:59,3
+ICE 578,Mannheim Hbf,17:36,Hamburg Hbf,12:04,
+ICE 595,Mannheim Hbf,15:13,München Hbf,12:30,4
+ICE 370,Mannheim Hbf,18:01,Berlin Ostbahnhof,12:32,2
+ICE 255,Mannheim Hbf,14:47,Basel SBB,12:35,FALSE
+ICE 2871,Mannheim Hbf,14:47,Basel SBB,12:35,4
+ICE 610,Mannheim Hbf,18:30,Hamburg-Altona,12:36,2
+IC 2045,Mannheim Hbf,22:38,Dresden Hbf,12:39,8
+ICE 917,Mannheim Hbf,15:27,München Hbf,12:43,4
+ICE 73,Mannheim Hbf,16:00,Zürich HB,12:46,3
+IC 2014,Mannheim Hbf,19:26,Emden Hbf,12:58,6
+ICE 74,Mannheim Hbf,19:43,Kiel Hbf,13:17,9
+ICE 918,Mannheim Hbf,16:10,Dortmund Hbf,13:21,
+EC 9,Mannheim Hbf,17:00,Zürich HB,13:23,6
+ICE 1218,Mannheim Hbf,18:55,Berlin Hbf,13:31,2
+ICE 517,Mannheim Hbf,16:26,München Hbf,13:31,4
+ICE 279,Mannheim Hbf,15:47,Basel SBB,13:34,16
+ICE 108,Mannheim Hbf,19:30,Hamburg-Altona,13:35,3
+TGV 9552,Mannheim Hbf,16:52,Paris Est,13:42,20
+IC 2013,Mannheim Hbf,18:13,Oberstdorf,13:54,FALSE
+ICE 575,Mannheim Hbf,14:38,Stuttgart Hbf,13:59,6
+ICE 576,Mannheim Hbf,19:37,Hamburg Hbf,14:04,2
+IC 2012,Mannheim Hbf,18:04,Dortmund Hbf,14:08,43
+ICE 597,Mannheim Hbf,17:16,München Hbf,14:30,3
+ICE 278,Mannheim Hbf,20:32,Berlin Hbf,14:32,
+ICE 107,Mannheim Hbf,16:47,Basel SBB,14:35,16
+ICE 518,Mannheim Hbf,20:30,Hamburg-Altona,14:36,
+EC 8,Mannheim Hbf,21:30,Hamburg-Altona,14:39,2
+ICE 9580,Mannheim Hbf,15:34,Baden-Baden,14:39,
+TGV 9580,Mannheim Hbf,21:34,Aix-en-Provence TGV,14:39,5
+ICE 75,Mannheim Hbf,18:00,Zürich HB,14:46,FALSE
+IC 2009,Mannheim Hbf,19:09,Konstanz,15:09,17
+ICE 2872,Mannheim Hbf,20:58,Hamburg Hbf,15:17,11
+ICE 72,Mannheim Hbf,20:58,Hamburg Hbf,15:17,FALSE
+ICE 1944,Mannheim Hbf,16:22,Stuttgart Hbf,15:23,16
+ICE 519,Mannheim Hbf,18:26,München Hbf,15:31,15
+ICE 596,Mannheim Hbf,20:55,Berlin Hbf,15:32,7
+ICE 710,Mannheim Hbf,17:07,Limburg Süd,15:33,
+ICE 371,Mannheim Hbf,19:58,Interlaken Ost,15:34,18
+ICE 106,Mannheim Hbf,17:04,Köln Hbf,15:35,6
+ICE 577,Mannheim Hbf,16:38,Stuttgart Hbf,15:59,17
+ICE55920,Mannheim Hbf,21:36,Hamburg Hbf,16:04,
+ICE 118,Mannheim Hbf,20:35,Münster(Westf)Hbf,16:08,14
+ICE 599,Mannheim Hbf,19:12,München Hbf,16:30,10
+ICE 276,Mannheim Hbf,22:52,Berlin Hbf,16:32,2
+ICE 109,Mannheim Hbf,18:47,Basel SBB,16:35,15
+ICE 516,Mannheim Hbf,22:30,Hamburg-Altona,16:36,1
+EC 6,Mannheim Hbf,23:30,Hamburg-Altona,16:39,12
+ICE 1011,Mannheim Hbf,19:27,München Hbf,16:43,19
+ICE 77,Mannheim Hbf,20:00,Zürich HB,16:46,22
+ICE 114,Mannheim Hbf,21:09,Dortmund Hbf,16:57,
+ICE 914,Mannheim Hbf,20:18,Dortmund Hbf,17:20,7
+IC 2046,Mannheim Hbf,18:27,Stuttgart Hbf,17:23,9
+ICE 611,Mannheim Hbf,20:29,München Hbf,17:31,17
+ICE 594,Mannheim Hbf,22:54,Berlin Hbf,17:32,5
+ICE 373,Mannheim Hbf,21:59,Interlaken Ost,17:34,6
+ICE 254,Mannheim Hbf,22:29,Amsterdam Centraal,17:35,FALSE
+ICE 2870,Mannheim Hbf,19:04,Köln Hbf,17:35,5
+ICE 1512,Mannheim Hbf,18:33,Wiesbaden Hbf,17:38,FALSE
+TGV 9560,Mannheim Hbf,20:43,Paris Est,17:38,16
+ICE 562,Mannheim Hbf,19:17,Saarbrücken Hbf,17:48,2
+ICE 650,Mannheim Hbf,18:46,Stuttgart Hbf,17:54,FALSE
+ICE 579,Mannheim Hbf,18:38,Stuttgart Hbf,17:59,162
+ICE 572,Mannheim Hbf,23:40,Hamburg Hbf,18:04,
+ICE 1211,Mannheim Hbf,23:18,Innsbruck Hbf,18:30,1
+ICE 274,Mannheim Hbf,22:36,Erfurt Hbf,18:32,3
+ICE 201,Mannheim Hbf,20:47,Basel SBB,18:35,5
+ICE 514,Mannheim Hbf,00:30,Hamburg-Altona,18:36,1
+ICE 1549,Mannheim Hbf,22:22,Dortmund Hbf,18:39,2
+ICE 1013,Mannheim Hbf,21:26,München Hbf,18:43,9
+ICE 79,Mannheim Hbf,22:00,Zürich HB,18:46,71
+ICE 376,Mannheim Hbf,01:03,Hamburg-Altona,19:17,8
+ICE 912,Mannheim Hbf,22:09,Dortmund Hbf,19:21,8
+IC 2048,Mannheim Hbf,21:30,Tübingen Hbf,19:23,4
+ICE 613,Mannheim Hbf,22:26,München Hbf,19:31,19
+ICE 592,Mannheim Hbf,23:33,Erfurt Hbf,19:32,18
+ICE 375,Mannheim Hbf,21:49,Basel SBB,19:34,1
+ICE 102,Mannheim Hbf,00:18,Hannover Hbf,19:35,3
+ICE 9550,Mannheim Hbf,22:52,Paris Est,19:40,12
+ICE 771,Mannheim Hbf,20:38,Stuttgart Hbf,19:59,80
+ICE 570,Mannheim Hbf,20:52,Frankfurt(Main)Hbf,20:05,FALSE
+ICE 693,Mannheim Hbf,23:13,München Hbf,20:30,4
+ICE 272,Mannheim Hbf,21:08,Frankfurt(Main)Hbf,20:32,7
+ICE 203,Mannheim Hbf,22:55,Basel SBB,20:35,8
+ICE 512,Mannheim Hbf,00:14,Münster(Westf)Hbf,20:35,9
+IC 2343,Mannheim Hbf,23:23,Köln Hbf,20:39,8
+ICE 1015,Mannheim Hbf,23:25,München Hbf,20:43,30
+ICE 1171,Mannheim Hbf,23:04,Basel SBB,20:46,FALSE
+ICE 2873,Mannheim Hbf,23:04,Basel SBB,20:46,23
+ICE 910,Mannheim Hbf,22:51,Köln Hbf,21:21,1
+IC 2440,Mannheim Hbf,22:22,Stuttgart Hbf,21:23,18
+ICE 615,Mannheim Hbf,00:28,München Hbf,21:31,55
+ICE 590,Mannheim Hbf,22:08,Frankfurt(Main)Hbf,21:32,1
+ICE 377,Mannheim Hbf,23:59,Basel SBB,21:34,1
+ICE 100,Mannheim Hbf,05:48,Berlin Ostbahnhof,21:35,51
+ICE 935,Mannheim Hbf,23:29,Saarbrücken Hbf,21:57,
+ICE 773,Mannheim Hbf,22:55,Stuttgart Hbf,21:58,54
+ICE 695,Mannheim Hbf,23:08,Stuttgart Hbf,22:30,49
+ICE 4,Mannheim Hbf,23:08,Frankfurt(Main)Hbf,22:33,18
+ICE 205,Mannheim Hbf,00:59,Basel SBB,22:35,12
+ICE 510,Mannheim Hbf,00:07,Köln Hbf,22:36,19
+ICE 273,Mannheim Hbf,23:09,Karlsruhe Hbf,22:46,36
+ICE 9567,Mannheim Hbf,00:04,Frankfurt(Main)Hbf,22:48,
+ICE 617,Mannheim Hbf,00:25,Stuttgart Hbf,23:30,35
+EC 459,Mannheim Hbf,09:24,Praha hl.n.,23:42,9
+EN 12,Mannheim Hbf,05:28,Leipzig Hbf,23:42,
+EN 40459,Mannheim Hbf,09:24,Praha hl.n.,23:42,9
+IC 60409,Mannheim Hbf,08:20,Berlin Hbf,23:42,
+NJ 409,Mannheim Hbf,08:20,Berlin Hbf,23:42,

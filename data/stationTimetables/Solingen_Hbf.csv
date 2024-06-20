@@ -1,0 +1,108 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 209,Solingen Hbf,00:47,Köln Hbf,00:26,23
+ICE 22,Solingen Hbf,01:20,Dortmund Hbf,00:32,13
+ICE 920,Solingen Hbf,07:06,Hamburg-Altona,02:34,12
+ICE 921,Solingen Hbf,07:02,Frankfurt(Main)Hbf,02:42,46
+ICE 1028,Solingen Hbf,08:49,Hamburg-Altona,04:20,7
+IC 2214,Solingen Hbf,12:34,Westerland(Sylt),05:23,2
+IC 2216,Solingen Hbf,12:23,Dagebüll Mole,05:23,2
+ICE 23,Solingen Hbf,14:47,Wien Hbf,05:26,6
+IC 2445,Solingen Hbf,12:58,Dresden Hbf,05:29,2
+ICE 853,Solingen Hbf,10:27,Berlin Ostbahnhof,06:03,
+ICE 753,Solingen Hbf,11:02,Berlin Ostbahnhof,06:09,
+ICE 1038,Solingen Hbf,10:05,Hamburg-Altona,06:15,2
+ICE 1548,Solingen Hbf,10:24,Stuttgart Hbf,06:25,3
+ICE 618,Solingen Hbf,11:23,Kiel Hbf,06:28,9
+ICE 101,Solingen Hbf,10:47,Basel SBB,06:31,3
+ICE 813,Solingen Hbf,08:27,Frankfurt(M) Flughafen Fernbf,06:47,
+ICE 1621,Solingen Hbf,13:42,München Hbf,07:27,25
+ICE 208,Solingen Hbf,15:29,Ostseebad Binz,07:29,1
+IC 2443,Solingen Hbf,14:57,Dresden Hbf,07:30,4
+ICE 513,Solingen Hbf,12:26,München Hbf,07:33,4
+ICE 815,Solingen Hbf,09:27,Frankfurt(M) Flughafen Fernbf,07:39,4
+ICE 115,Solingen Hbf,19:19,Klagenfurt Hbf,07:52,5
+EC 7,Solingen Hbf,15:58,Interlaken Ost,08:20,3
+ICE 103,Solingen Hbf,18:07,München Hbf,08:26,5
+ICE 1626,Solingen Hbf,09:21,Dortmund Hbf,08:28,
+ICE 616,Solingen Hbf,12:30,Hamburg-Altona,08:35,-2
+ICE 119,Solingen Hbf,19:05,Innsbruck Hbf,08:48,2
+IC 2310,Solingen Hbf,16:34,Westerland(Sylt),08:59,4
+IC 2312,Solingen Hbf,16:23,Dagebüll Mole,08:59,6
+ICE 27,Solingen Hbf,18:47,Wien Hbf,09:02,4
+ICE 515,Solingen Hbf,14:26,München Hbf,09:27,3
+ICE 206,Solingen Hbf,13:30,Hamburg-Altona,09:28,11
+ICE 1031,Solingen Hbf,09:53,Köln Hbf,09:33,19
+IC 2441,Solingen Hbf,16:47,Dresden Hbf,09:34,
+IC 2155,Solingen Hbf,15:55,Gera Hbf,09:41,5
+EC 9,Solingen Hbf,17:00,Zürich HB,10:21,9
+IC 2042,Solingen Hbf,10:46,Köln Hbf,10:26,FALSE
+ICE 614,Solingen Hbf,14:30,Hamburg-Altona,10:29,11
+ICE 1022,Solingen Hbf,11:25,Dortmund Hbf,10:36,
+IC 2013,Solingen Hbf,18:13,Oberstdorf,10:42,16
+ICE 517,Solingen Hbf,16:26,München Hbf,11:25,11
+ICE 1949,Solingen Hbf,18:40,Dresden Hbf,11:27,11
+ICE 202,Solingen Hbf,15:30,Hamburg-Altona,11:30,
+ICE 29,Solingen Hbf,20:47,Wien Hbf,11:32,13
+ICE 731,Solingen Hbf,11:58,Köln Hbf,11:37,31
+ICE 1052,Solingen Hbf,13:12,Aachen Hbf,11:43,19
+ICE 759,Solingen Hbf,17:02,Berlin Ostbahnhof,12:02,3
+IC 2156,Solingen Hbf,12:40,Köln Hbf,12:20,FALSE
+ICE 1944,Solingen Hbf,16:22,Stuttgart Hbf,12:26,11
+ICE 1020,Solingen Hbf,16:06,Hamburg-Altona,12:28,27
+ICE 107,Solingen Hbf,16:47,Basel SBB,12:28,20
+ICE 612,Solingen Hbf,17:22,Kiel Hbf,12:29,8
+IC 2047,Solingen Hbf,20:40,Dresden Hbf,13:27,28
+ICE 229,Solingen Hbf,23:05,Wien Hbf,13:27,8
+ICE 519,Solingen Hbf,18:26,München Hbf,13:27,20
+ICE 200,Solingen Hbf,17:30,Hamburg-Altona,13:30,7
+ICE 1051,Solingen Hbf,19:02,Berlin Ostbahnhof,13:54,47
+ICE 1050,Solingen Hbf,14:13,Köln Hbf,13:55,7
+IC 2046,Solingen Hbf,18:27,Stuttgart Hbf,14:26,7
+ICE 109,Solingen Hbf,18:47,Basel SBB,14:28,20
+ICE 610,Solingen Hbf,18:30,Hamburg-Altona,14:29,3
+ICE 928,Solingen Hbf,18:07,Hamburg-Altona,14:29,8
+IC 2045,Solingen Hbf,22:38,Dresden Hbf,15:27,2
+ICE 611,Solingen Hbf,20:29,München Hbf,15:27,15
+ICE 108,Solingen Hbf,19:30,Hamburg-Altona,15:29,5
+ICE 927,Solingen Hbf,20:28,Nürnberg Hbf,15:33,44
+IC 2157,Solingen Hbf,21:55,Gera Hbf,15:39,23
+ICE 758,Solingen Hbf,17:12,Aachen Hbf,15:43,10
+ICE 1053,Solingen Hbf,20:51,Berlin Hbf,16:00,34
+ICE 1030,Solingen Hbf,20:05,Hamburg-Altona,16:15,14
+ICE 201,Solingen Hbf,20:47,Basel SBB,16:20,16
+IC 2048,Solingen Hbf,21:30,Tübingen Hbf,16:26,5
+ICE 228,Solingen Hbf,17:21,Dortmund Hbf,16:28,35
+ICE 518,Solingen Hbf,20:30,Hamburg-Altona,16:34,14
+IC 2313,Solingen Hbf,17:07,Köln Hbf,16:44,2
+IC 2012,Solingen Hbf,18:04,Dortmund Hbf,17:10,48
+ICE 613,Solingen Hbf,22:26,München Hbf,17:27,10
+EC 8,Solingen Hbf,21:30,Hamburg-Altona,17:28,24
+IC 2043,Solingen Hbf,22:58,Leipzig/Halle Flughafen,17:30,1
+ICE 929,Solingen Hbf,00:50,Passau Hbf,17:31,
+ICE 756,Solingen Hbf,19:13,Aachen Hbf,17:57,10
+IC 2440,Solingen Hbf,22:22,Stuttgart Hbf,18:26,12
+ICE 516,Solingen Hbf,22:30,Hamburg-Altona,18:29,13
+ICE 203,Solingen Hbf,22:55,Basel SBB,18:32,
+ICE 28,Solingen Hbf,19:24,Dortmund Hbf,18:41,6
+ICE 118,Solingen Hbf,20:35,Münster(Westf)Hbf,19:04,6
+ICE 1021,Solingen Hbf,00:42,Nürnberg Hbf,19:25,18
+ICE 615,Solingen Hbf,00:28,München Hbf,19:27,27
+EC 6,Solingen Hbf,23:30,Hamburg-Altona,19:36,11
+ICE 730,Solingen Hbf,23:54,Hamburg Dammtor,19:43,24
+ICE 114,Solingen Hbf,21:09,Dortmund Hbf,20:12,35
+IC 2442,Solingen Hbf,23:13,Frankfurt(Main)Hbf,20:20,4
+ICE 205,Solingen Hbf,00:59,Basel SBB,20:26,10
+ICE 26,Solingen Hbf,21:19,Dortmund Hbf,20:28,53
+ICE 514,Solingen Hbf,00:30,Hamburg-Altona,20:28,3
+IC 2215,Solingen Hbf,20:57,Köln Hbf,20:32,16
+IC 2217,Solingen Hbf,20:57,Köln Hbf,20:32,16
+ICE 1549,Solingen Hbf,22:22,Dortmund Hbf,21:27,35
+ICE 1627,Solingen Hbf,00:13,Frankfurt(Main)Hbf,21:27,8
+ICE 102,Solingen Hbf,00:18,Hannover Hbf,21:30,5
+ICE 617,Solingen Hbf,00:25,Stuttgart Hbf,21:33,8
+ICE 752,Solingen Hbf,22:12,Köln Hbf,21:47,3
+IC 2444,Solingen Hbf,23:54,Koblenz Hbf,22:26,12
+ICE 1222,Solingen Hbf,23:21,Dortmund Hbf,22:30,FALSE
+ICE 207,Solingen Hbf,22:49,Köln Hbf,22:32,1
+ICE 512,Solingen Hbf,00:14,Münster(Westf)Hbf,22:37,45
+ICE 100,Solingen Hbf,05:48,Berlin Ostbahnhof,23:32,102

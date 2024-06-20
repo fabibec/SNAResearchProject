@@ -1,0 +1,79 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 540,Bremen Hbf,01:08,Oldenburg(Oldb)Hbf,00:34,24
+ICE 841,Bremen Hbf,08:36,Berlin Ostbahnhof,05:02,1
+EC 2507,Bremen Hbf,12:49,Freiburg(Breisgau) Hbf,05:40,2
+EC 7,Bremen Hbf,15:58,Interlaken Ost,05:40,2
+IC 2438,Bremen Hbf,08:21,Norddeich Mole,05:52,
+ICE 920,Bremen Hbf,07:06,Hamburg-Altona,05:53,3
+IC 2033,Bremen Hbf,10:15,Leipzig Hbf,06:09,
+ICE 515,Bremen Hbf,14:26,München Hbf,06:44,1
+ICE 533,Bremen Hbf,12:40,München Hbf,07:15,
+ICE55913,Bremen Hbf,08:14,Hannover Hbf,07:15,FALSE
+ICE 922,Bremen Hbf,08:29,Hamburg-Altona,07:18,1
+ICE 1028,Bremen Hbf,08:49,Hamburg-Altona,07:27,7
+EC 9,Bremen Hbf,17:00,Zürich HB,07:44,5
+IC 2436,Bremen Hbf,09:38,Emden Hbf,07:53,8
+IC 2035,Bremen Hbf,12:39,Berlin Ostbahnhof,08:09,2
+IC 2214,Bremen Hbf,12:34,Westerland(Sylt),08:17,
+IC 2216,Bremen Hbf,12:23,Dagebüll Mole,08:17,
+ICE 517,Bremen Hbf,16:26,München Hbf,08:44,2
+ICE 731,Bremen Hbf,11:58,Köln Hbf,08:52,
+ICE 535,Bremen Hbf,10:15,Hannover Hbf,09:15,1
+ICE 618,Bremen Hbf,11:23,Kiel Hbf,09:17,9
+ICE 107,Bremen Hbf,16:47,Basel SBB,09:44,1
+FLX 1341,Bremen Hbf,13:08,Köln Hbf,09:49,5
+IC 2434,Bremen Hbf,11:50,Emden  Außenhafen,09:53,17
+IC 2037,Bremen Hbf,14:15,Leipzig Hbf,10:09,FALSE
+ICE 208,Bremen Hbf,15:29,Ostseebad Binz,10:17,1
+ICE 519,Bremen Hbf,18:26,München Hbf,10:44,16
+IC 2201,Bremen Hbf,14:18,Köln Hbf,10:54,7
+ICE 537,Bremen Hbf,12:14,Hannover Hbf,11:15,4
+ICE 616,Bremen Hbf,12:30,Hamburg-Altona,11:17,11
+ICE 109,Bremen Hbf,18:47,Basel SBB,11:44,18
+IC 2432,Bremen Hbf,14:19,Norddeich Mole,11:53,1
+IC 2039,Bremen Hbf,16:15,Leipzig Hbf,12:09,2
+FLX 1342,Bremen Hbf,13:07,Hamburg Hbf,12:12,7
+ICE 206,Bremen Hbf,13:30,Hamburg-Altona,12:18,36
+ICE 611,Bremen Hbf,20:29,München Hbf,12:44,7
+ICE 927,Bremen Hbf,20:28,Nürnberg Hbf,12:52,10
+ICE 1133,Bremen Hbf,16:29,Bitterfeld,13:05,
+ICE 639,Bremen Hbf,14:14,Hannover Hbf,13:15,1
+ICE 614,Bremen Hbf,14:30,Hamburg-Altona,13:17,29
+ICE 201,Bremen Hbf,20:47,Basel SBB,13:44,3
+IC 2313,Bremen Hbf,17:07,Köln Hbf,13:49,8
+IC 2430,Bremen Hbf,15:38,Emden Hbf,13:53,4
+IC 2431,Bremen Hbf,19:59,Cottbus Hbf,14:09,
+ICE 202,Bremen Hbf,15:30,Hamburg-Altona,14:17,
+ICE 613,Bremen Hbf,22:26,München Hbf,14:44,5
+IC 2202,Bremen Hbf,15:53,Bremerhaven-Lehe,15:07,3
+ICE 631,Bremen Hbf,16:14,Hannover Hbf,15:15,
+ICE 612,Bremen Hbf,17:22,Kiel Hbf,15:17,30
+ICE 203,Bremen Hbf,22:55,Basel SBB,15:45,1
+FLX 1343,Bremen Hbf,19:08,Köln Hbf,15:49,7
+IC 2038,Bremen Hbf,17:38,Emden Hbf,15:55,3
+IC 2433,Bremen Hbf,20:15,Leipzig Hbf,16:09,
+ICE 200,Bremen Hbf,17:30,Hamburg-Altona,16:17,2
+ICE 615,Bremen Hbf,00:28,München Hbf,16:44,3
+ICE 633,Bremen Hbf,18:15,Hannover Hbf,17:15,2
+ICE 610,Bremen Hbf,18:30,Hamburg-Altona,17:17,39
+ICE 205,Bremen Hbf,00:59,Basel SBB,17:44,5
+IC 2215,Bremen Hbf,20:57,Köln Hbf,17:49,6
+IC 2217,Bremen Hbf,20:57,Köln Hbf,17:49,6
+IC 2036,Bremen Hbf,20:20,Norddeich Mole,17:53,3
+IC 2435,Bremen Hbf,22:15,Leipzig Hbf,18:09,1
+ICE 108,Bremen Hbf,19:30,Hamburg-Altona,18:17,8
+ICE 617,Bremen Hbf,00:25,Stuttgart Hbf,18:44,5
+ICE 635,Bremen Hbf,20:14,Hannover Hbf,19:15,
+ICE 518,Bremen Hbf,20:30,Hamburg-Altona,19:17,21
+ICE 207,Bremen Hbf,22:49,Köln Hbf,19:44,2
+IC 2034,Bremen Hbf,22:14,Norddeich,19:54,12
+EC 8,Bremen Hbf,21:30,Hamburg-Altona,20:17,38
+ICE 516,Bremen Hbf,22:30,Hamburg-Altona,21:17,30
+ICE 209,Bremen Hbf,00:47,Köln Hbf,21:44,7
+ICE 776,Bremen Hbf,22:31,Oldenburg(Oldb)Hbf,21:53,FALSE
+EC 6,Bremen Hbf,23:30,Hamburg-Altona,22:19,28
+ICE 730,Bremen Hbf,23:54,Hamburg Dammtor,22:51,20
+ICE 514,Bremen Hbf,00:30,Hamburg-Altona,23:17,26
+ICE 532,Bremen Hbf,23:55,Oldenburg(Oldb)Hbf,23:28,29
+ICE55912,Bremen Hbf,23:55,Oldenburg(Oldb)Hbf,23:28,
+ICE 921,Bremen Hbf,07:02,Frankfurt(Main)Hbf,23:44,52

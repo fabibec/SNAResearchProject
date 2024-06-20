@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2061,Aalen Hbf,07:49,Ansbach,06:59,
+IC 2164,Aalen Hbf,23:00,Karlsruhe Hbf,07:00,
+IC 2063,Aalen Hbf,14:04,Leipzig Hbf,08:59,2
+IC 2162,Aalen Hbf,10:53,Karlsruhe Hbf,09:02,2
+IC 2065,Aalen Hbf,16:04,Leipzig Hbf,10:58,1
+IC 2160,Aalen Hbf,12:53,Karlsruhe Hbf,11:02,2
+IC 2067,Aalen Hbf,18:04,Leipzig Hbf,12:58,4
+IC 2068,Aalen Hbf,13:52,Stuttgart Hbf,13:02,1
+IC 2069,Aalen Hbf,20:04,Leipzig Hbf,14:58,
+IC 2066,Aalen Hbf,16:52,Karlsruhe Hbf,15:02,21
+IC 2161,Aalen Hbf,22:04,Leipzig Hbf,16:58,2
+IC 2064,Aalen Hbf,17:53,Stuttgart Hbf,17:02,10
+IC 2163,Aalen Hbf,20:18,Nürnberg Hbf,18:58,
+IC 2062,Aalen Hbf,19:53,Stuttgart Hbf,19:02,2
+IC 2165,Aalen Hbf,22:18,Nürnberg Hbf,20:58,5
+IC 2060,Aalen Hbf,23:00,Karlsruhe Hbf,21:02,7

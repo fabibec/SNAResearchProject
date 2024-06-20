@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2156,Warburg(Westf),12:40,Köln Hbf,09:34,FALSE
+IC 2155,Warburg(Westf),15:55,Gera Hbf,12:24,30
+IC 2152,Warburg(Westf),18:11,Düsseldorf Hbf,15:34,8
+IC 2157,Warburg(Westf),21:55,Gera Hbf,18:24,18

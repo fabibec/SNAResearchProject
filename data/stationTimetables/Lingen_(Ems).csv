@@ -1,0 +1,17 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2005,Lingen(Ems),08:02,Rheine,07:44,
+IC 2208,Lingen(Ems),10:18,Norddeich Mole,08:15,
+IC 2009,Lingen(Ems),19:09,Konstanz,09:44,1
+ICE 606,Lingen(Ems),12:16,Norddeich Mole,10:15,3
+IC 2321,Lingen(Ems),16:35,Frankfurt(Main)Hbf,11:44,1
+IC 604,Lingen(Ems),13:25,Emden Hbf,12:15,
+ICE 604,Lingen(Ems),13:52,Emden Außenhafen,12:15,
+IC 2203,Lingen(Ems),16:18,Köln Hbf,13:43,1
+IC 2322,Lingen(Ems),16:16,Norddeich Mole,14:15,
+ICE 605,Lingen(Ems),19:20,Koblenz Hbf,15:44,24
+IC 2200,Lingen(Ems),18:03,Norddeich Mole,16:15,3
+IC 2207,Lingen(Ems),18:29,Münster(Westf)Hbf,17:44,
+ICE 607,Lingen(Ems),20:20,Köln Hbf,17:44,4
+IC 2014,Lingen(Ems),19:26,Emden Hbf,18:15,53
+IC 2209,Lingen(Ems),22:19,Köln Hbf,19:44,1
+IC 2002,Lingen(Ems),21:26,Emden Hbf,20:15,1

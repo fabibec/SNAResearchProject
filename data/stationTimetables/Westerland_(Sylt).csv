@@ -1,0 +1,8 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+D 1409,Westerland(Sylt),08:28,Bredstedt,06:58,10
+D 1419,Westerland(Sylt),10:58,Bredstedt,09:28,4
+IC 2375,Westerland(Sylt),20:57,Stuttgart Hbf,10:23,
+IC 2215,Westerland(Sylt),20:57,Köln Hbf,13:23,FALSE
+IC 2075,Westerland(Sylt),20:17,Berlin Gesundbrunnen,14:23,1
+D 1439,Westerland(Sylt),15:59,Bredstedt,14:28,20
+D 1455,Westerland(Sylt),20:14,Husum,18:28,6

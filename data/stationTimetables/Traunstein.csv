@@ -1,0 +1,29 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 460,Traunstein,05:22,Stuttgart Hbf,01:19,1
+IC 1296,Traunstein,11:40,Frankfurt(Main)Hbf,06:09,1
+IC 1298,Traunstein,09:02,München Hbf,07:36,
+RJ 1298,Traunstein,09:02,München Hbf,07:36,1
+IC 1290,Traunstein,09:41,München Hbf,08:25,6
+ICE 1290,Traunstein,13:40,Frankfurt(Main)Hbf,08:25,6
+IC 111,Traunstein,09:50,Freilassing,09:32,
+RJ 111,Traunstein,13:19,Klagenfurt Hbf,09:32,2
+IC 2082,Traunstein,19:21,Hamburg-Altona,10:06,3
+EC 218,Traunstein,15:40,Frankfurt(Main)Hbf,10:25,3
+EC 217,Traunstein,16:14,Graz Hbf,11:31,
+ICE 114,Traunstein,21:09,Dortmund Hbf,12:25,2
+EC 113,Traunstein,17:19,Klagenfurt Hbf,13:31,
+EC 112,Traunstein,19:40,Frankfurt(Main)Hbf,14:25,10
+IC 2083,Traunstein,17:04,Berchtesgaden Hbf,15:25,29
+ICE 115,Traunstein,19:19,Klagenfurt Hbf,15:32,
+EC 216,Traunstein,19:58,Stuttgart Hbf,16:25,6
+EC 219,Traunstein,22:14,Graz Hbf,17:31,22
+IC 268,Traunstein,19:38,München Hbf,18:25,
+RJ 268,Traunstein,19:38,München Hbf,18:25,35
+EC 117,Traunstein,17:57,Bohumin,19:32,
+IC 110,Traunstein,21:41,München Hbf,20:25,
+RJ 110,Traunstein,21:41,München Hbf,20:25,3
+IC 1299,Traunstein,20:52,Freilassing,20:35,
+RJ 1299,Traunstein,21:00,Salzburg Hbf,20:35,3
+IC 1291,Traunstein,22:01,Salzburg Hbf,21:36,5
+IC 1295,Traunstein,22:50,Freilassing,22:31,
+RJ 1295,Traunstein,22:59,Salzburg Hbf,22:31,

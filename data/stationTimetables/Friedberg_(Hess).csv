@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1571,Friedberg(Hess),08:51,Karlsruhe Hbf,06:42,
+ICE 1674,Friedberg(Hess),11:45,Hamburg-Altona,07:16,
+ICE 1573,Friedberg(Hess),10:50,Karlsruhe Hbf,08:42,10
+ICE 1672,Friedberg(Hess),17:20,Ostseebad Binz,09:16,
+ICE 1515,Friedberg(Hess),12:50,Karlsruhe Hbf,10:42,12
+IC 2374,Friedberg(Hess),19:34,Westerland(Sylt),11:16,20
+ICE 1577,Friedberg(Hess),15:03,Stuttgart Hbf,12:42,177
+ICE 1578,Friedberg(Hess),20:14,Velgast,13:16,FALSE
+ICE 1579,Friedberg(Hess),16:50,Karlsruhe Hbf,14:42,FALSE
+ICE 1576,Friedberg(Hess),21:32,Rostock Hbf,15:16,3
+ICE 1671,Friedberg(Hess),18:39,Karlsruhe Hbf,16:42,132
+ICE 1514,Friedberg(Hess),21:49,Hamburg-Altona,17:16,8
+IC 2375,Friedberg(Hess),20:57,Stuttgart Hbf,18:42,37
+IC 2393,Friedberg(Hess),20:57,Stuttgart Hbf,18:42,37
+ICE 1572,Friedberg(Hess),21:56,Hannover Hbf,19:16,FALSE
+ICE 1675,Friedberg(Hess),21:09,Frankfurt(Main)Hbf,20:42,26
+ICE 1570,Friedberg(Hess),22:56,Kassel-Wilhelmshöhe,21:16,2

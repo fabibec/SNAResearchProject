@@ -1,0 +1,11 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2068,Kronach,13:52,Stuttgart Hbf,10:26,
+IC 2063,Kronach,14:04,Leipzig Hbf,11:31,7
+IC 2066,Kronach,16:52,Karlsruhe Hbf,12:26,
+IC 2065,Kronach,16:04,Leipzig Hbf,13:31,68
+IC 2064,Kronach,17:53,Stuttgart Hbf,14:26,
+IC 2067,Kronach,18:04,Leipzig Hbf,15:31,1
+IC 2062,Kronach,19:53,Stuttgart Hbf,16:26,
+IC 2069,Kronach,20:04,Leipzig Hbf,17:31,9
+IC 2060,Kronach,23:00,Karlsruhe Hbf,18:26,
+IC 2161,Kronach,22:04,Leipzig Hbf,19:31,28

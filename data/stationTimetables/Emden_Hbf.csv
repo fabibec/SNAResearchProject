@@ -1,0 +1,29 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2033,Emden Hbf,10:15,Leipzig Hbf,04:16,
+IC 2035,Emden Hbf,12:39,Berlin Ostbahnhof,06:09,1
+IC 2005,Emden Hbf,08:02,Rheine,06:34,
+IC 2438,Emden Hbf,08:21,Norddeich Mole,07:43,
+IC 2037,Emden Hbf,14:15,Leipzig Hbf,08:16,1
+IC 2009,Emden Hbf,19:09,Konstanz,08:33,
+IC 2208,Emden Hbf,10:18,Norddeich Mole,09:44,
+IC 2039,Emden Hbf,16:15,Leipzig Hbf,10:16,2
+IC 2321,Emden Hbf,16:35,Frankfurt(Main)Hbf,10:33,1
+ICE 606,Emden Hbf,12:16,Norddeich Mole,11:42,1
+IC 2434,Emden Hbf,11:50,Emden  Außenhafen,11:44,14
+IC 2431,Emden Hbf,19:59,Cottbus Hbf,12:17,1
+IC 2203,Emden Hbf,16:18,Köln Hbf,12:34,1
+IC 2432,Emden Hbf,14:19,Norddeich Mole,13:42,25
+ICE 604,Emden Hbf,13:52,Emden Außenhafen,13:45,2
+IC 2433,Emden Hbf,20:15,Leipzig Hbf,14:17,1
+IC 2205,Emden Hbf,15:42,Lingen(Ems),14:34,
+ICE 605,Emden Hbf,19:20,Koblenz Hbf,14:34,11
+IC 2322,Emden Hbf,16:16,Norddeich Mole,15:42,3
+IC 2435,Emden Hbf,22:15,Leipzig Hbf,16:16,2
+IC 2207,Emden Hbf,18:29,Münster(Westf)Hbf,16:33,
+ICE 607,Emden Hbf,20:20,Köln Hbf,16:33,1
+IC 2200,Emden Hbf,18:03,Norddeich Mole,17:27,1
+IC 2437,Emden Hbf,23:01,Magdeburg Hbf,18:16,
+IC 2209,Emden Hbf,22:19,Köln Hbf,18:34,1
+IC 2036,Emden Hbf,20:20,Norddeich Mole,19:42,4
+IC 2439,Emden Hbf,22:05,Bremen Hbf,20:16,3
+IC 2034,Emden Hbf,22:14,Norddeich,21:42,2

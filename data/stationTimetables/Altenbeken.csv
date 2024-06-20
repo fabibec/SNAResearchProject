@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2156,Altenbeken,12:40,Köln Hbf,09:56,FALSE
+IC 2155,Altenbeken,15:55,Gera Hbf,12:02,28
+IC 2152,Altenbeken,18:11,Düsseldorf Hbf,15:56,8
+IC 2157,Altenbeken,21:55,Gera Hbf,18:02,18

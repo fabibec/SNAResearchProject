@@ -1,0 +1,76 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 657,Wolfsburg Hbf,01:25,Berlin Ostbahnhof,00:03,
+ICE 646,Wolfsburg Hbf,09:07,Düsseldorf Hbf,05:47,
+ICE 656,Wolfsburg Hbf,09:15,Köln Hbf,05:47,
+ICE 649,Wolfsburg Hbf,08:02,Berlin Ostbahnhof,06:19,
+ICE 946,Wolfsburg Hbf,10:02,Düsseldorf Hbf,06:53,1
+ICE 956,Wolfsburg Hbf,10:09,Köln Hbf,06:53,1
+ICE 841,Wolfsburg Hbf,08:36,Berlin Ostbahnhof,07:04,28
+ICE 751,Wolfsburg Hbf,09:04,Berlin Ostbahnhof,07:37,
+ICE 644,Wolfsburg Hbf,15:49,Salzburg Hbf,07:53,2
+ICE 654,Wolfsburg Hbf,11:43,Bonn Hbf,07:53,2
+ICE 541,Wolfsburg Hbf,09:27,Berlin Ostbahnhof,08:03,11
+ICE 876,Wolfsburg Hbf,09:42,Berlin Ostbahnhof,08:19,1
+ICE 791,Wolfsburg Hbf,09:50,Göttingen,08:39,2
+ICE 944,Wolfsburg Hbf,12:07,Düsseldorf Hbf,08:53,1
+ICE 954,Wolfsburg Hbf,12:09,Köln Hbf,08:53,1
+ICE 843,Wolfsburg Hbf,10:27,Berlin Ostbahnhof,09:04,6
+ICE 853,Wolfsburg Hbf,10:27,Berlin Ostbahnhof,09:04,6
+ICE 2546,Wolfsburg Hbf,10:43,Berlin Südkreuz,09:26,5
+ICE 642,Wolfsburg Hbf,13:07,Düsseldorf Hbf,09:53,7
+ICE 543,Wolfsburg Hbf,11:27,Berlin Ostbahnhof,10:03,2
+ICE 793,Wolfsburg Hbf,11:50,Göttingen,10:39,25
+ICE 942,Wolfsburg Hbf,14:07,Düsseldorf Hbf,10:53,2
+ICE 952,Wolfsburg Hbf,14:09,Köln Hbf,10:53,2
+ICE 845,Wolfsburg Hbf,12:27,Berlin Ostbahnhof,11:04,9
+ICE 855,Wolfsburg Hbf,12:27,Berlin Ostbahnhof,11:04,9
+ICE 994,Wolfsburg Hbf,12:42,Berlin Südkreuz,11:20,
+ICE 640,Wolfsburg Hbf,15:07,Düsseldorf Hbf,11:53,34
+ICE 650,Wolfsburg Hbf,18:46,Stuttgart Hbf,11:53,34
+ICE 545,Wolfsburg Hbf,13:27,Berlin Ostbahnhof,12:03,15
+ICE 795,Wolfsburg Hbf,13:50,Göttingen,12:36,5
+ICE 940,Wolfsburg Hbf,16:07,Düsseldorf Hbf,12:53,
+ICE 950,Wolfsburg Hbf,16:10,Köln Hbf,12:53,
+ICE 847,Wolfsburg Hbf,14:27,Berlin Ostbahnhof,13:05,49
+ICE 857,Wolfsburg Hbf,14:27,Berlin Ostbahnhof,13:05,49
+ICE 992,Wolfsburg Hbf,14:46,Berlin Südkreuz,13:20,
+ICE 548,Wolfsburg Hbf,17:07,Düsseldorf Hbf,13:53,
+ICE 558,Wolfsburg Hbf,17:37,Bonn Hbf,13:53,
+ICE 547,Wolfsburg Hbf,15:27,Berlin Ostbahnhof,14:03,12
+ICE 797,Wolfsburg Hbf,15:50,Göttingen,14:39,1
+ICE 848,Wolfsburg Hbf,18:07,Düsseldorf Hbf,14:53,
+ICE 858,Wolfsburg Hbf,18:10,Köln Hbf,14:53,
+ICE 849,Wolfsburg Hbf,16:27,Berlin Ostbahnhof,15:04,3
+ICE 859,Wolfsburg Hbf,16:27,Berlin Ostbahnhof,15:04,3
+ICE 798,Wolfsburg Hbf,16:42,Berlin Südkreuz,15:20,1
+ICE 546,Wolfsburg Hbf,19:10,Düsseldorf Hbf,15:53,
+ICE 549,Wolfsburg Hbf,17:27,Berlin Ostbahnhof,16:03,7
+ICE 1544,Wolfsburg Hbf,18:48,Dortmund Hbf,16:20,5
+ICE 799,Wolfsburg Hbf,17:50,Göttingen,16:39,2
+ICE 846,Wolfsburg Hbf,20:42,Mönchengladbach Hbf,16:53,6
+ICE 856,Wolfsburg Hbf,20:10,Köln Hbf,16:53,6
+ICE 941,Wolfsburg Hbf,18:27,Berlin Ostbahnhof,17:04,8
+ICE 951,Wolfsburg Hbf,18:27,Berlin Ostbahnhof,17:04,8
+ICE 796,Wolfsburg Hbf,18:46,Berlin Südkreuz,17:20,2
+ICE 544,Wolfsburg Hbf,21:07,Düsseldorf Hbf,17:53,6
+ICE 641,Wolfsburg Hbf,19:27,Berlin Ostbahnhof,18:03,14
+ICE 995,Wolfsburg Hbf,19:50,Göttingen,18:36,3
+ICE 844,Wolfsburg Hbf,22:07,Düsseldorf Hbf,18:53,4
+ICE 854,Wolfsburg Hbf,22:10,Köln Hbf,18:53,4
+ICE 2811,Wolfsburg Hbf,20:27,Berlin Ostbahnhof,19:04,38
+ICE 943,Wolfsburg Hbf,20:27,Berlin Ostbahnhof,19:04,FALSE
+ICE 953,Wolfsburg Hbf,20:27,Berlin Ostbahnhof,19:04,70
+ICE 794,Wolfsburg Hbf,20:42,Berlin Südkreuz,19:20,
+ICE 542,Wolfsburg Hbf,23:07,Düsseldorf Hbf,19:53,1
+ICE 643,Wolfsburg Hbf,21:27,Berlin Ostbahnhof,20:03,2
+ICE 872,Wolfsburg Hbf,00:10,Köln Hbf,20:53,
+ICE 945,Wolfsburg Hbf,22:34,Berlin Ostbahnhof,21:04,14
+ICE 955,Wolfsburg Hbf,22:34,Berlin Ostbahnhof,21:04,14
+ICE 792,Wolfsburg Hbf,22:42,Berlin Ostbahnhof,21:20,3
+ICE 879,Wolfsburg Hbf,23:12,Kassel-Wilhelmshöhe,21:39,
+ICE 645,Wolfsburg Hbf,23:27,Berlin Ostbahnhof,22:03,3
+ICE 540,Wolfsburg Hbf,01:08,Oldenburg(Oldb)Hbf,22:08,6
+ICE 840,Wolfsburg Hbf,23:22,Hannover Hbf,22:48,
+ICE 947,Wolfsburg Hbf,00:37,Berlin Ostbahnhof,23:04,25
+ICE 957,Wolfsburg Hbf,00:37,Berlin Ostbahnhof,23:04,25
+ICE 790,Wolfsburg Hbf,00:54,Berlin Ostbahnhof,23:23,

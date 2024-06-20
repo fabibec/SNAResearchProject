@@ -1,0 +1,134 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 100,Dortmund Hbf,05:48,Berlin Ostbahnhof,00:33,104
+ICE 921,Dortmund Hbf,07:02,Frankfurt(Main)Hbf,01:51,46
+ICE 920,Dortmund Hbf,07:06,Hamburg-Altona,03:32,13
+ICE 523,Dortmund Hbf,10:06,München Hbf,03:57,
+ICE 23,Dortmund Hbf,14:47,Wien Hbf,04:34,3
+EST 9414,Dortmund Hbf,10:06,Paris Nord,05:03,2
+IC 2223,Dortmund Hbf,08:26,Frankfurt(Main)West,05:03,
+THA 9414,Dortmund Hbf,07:18,Aachen Hbf,05:03,
+ICE 525,Dortmund Hbf,11:07,München Hbf,05:10,1
+ICE 1028,Dortmund Hbf,08:49,Hamburg-Altona,05:24,1
+ICE 913,Dortmund Hbf,11:26,München Hbf,05:25,1
+ICE 101,Dortmund Hbf,10:47,Basel SBB,05:36,2
+ICE 1548,Dortmund Hbf,10:24,Stuttgart Hbf,05:36,1
+ICE 541,Dortmund Hbf,09:27,Berlin Ostbahnhof,05:44,8
+ICE 813,Dortmund Hbf,08:27,Frankfurt(M) Flughafen Fernbf,05:56,1
+ICE 527,Dortmund Hbf,12:10,München Hbf,06:12,1
+IC 2214,Dortmund Hbf,12:34,Westerland(Sylt),06:25,2
+IC 2216,Dortmund Hbf,12:23,Dagebüll Mole,06:25,1
+IC 2445,Dortmund Hbf,12:58,Dresden Hbf,06:28,5
+ICE 1621,Dortmund Hbf,13:42,München Hbf,06:36,17
+ICE 513,Dortmund Hbf,12:26,München Hbf,06:37,5
+ICE 815,Dortmund Hbf,09:27,Frankfurt(M) Flughafen Fernbf,06:41,8
+EST 9426,Dortmund Hbf,12:06,Paris Nord,06:47,
+ICE 843,Dortmund Hbf,10:27,Berlin Ostbahnhof,06:48,1
+ICE 115,Dortmund Hbf,19:19,Klagenfurt Hbf,06:51,5
+ICE 753,Dortmund Hbf,11:02,Berlin Ostbahnhof,07:10,1
+ICE 529,Dortmund Hbf,13:05,München Hbf,07:13,1
+ICE 618,Dortmund Hbf,11:23,Kiel Hbf,07:26,15
+EC 2507,Dortmund Hbf,12:49,Freiburg(Breisgau) Hbf,07:33,
+EC 7,Dortmund Hbf,15:58,Interlaken Ost,07:33,1
+ICE 103,Dortmund Hbf,18:07,München Hbf,07:37,1
+ICE 915,Dortmund Hbf,13:26,München Hbf,07:37,2
+ICE 543,Dortmund Hbf,11:27,Berlin Ostbahnhof,07:48,1
+ICE 119,Dortmund Hbf,19:05,Innsbruck Hbf,07:53,1
+ICE 27,Dortmund Hbf,18:47,Wien Hbf,08:03,5
+ICE 646,Dortmund Hbf,09:07,Düsseldorf Hbf,08:12,6
+ICE 208,Dortmund Hbf,15:29,Ostseebad Binz,08:24,5
+IC 2443,Dortmund Hbf,14:57,Dresden Hbf,08:28,4
+ICE 515,Dortmund Hbf,14:26,München Hbf,08:36,1
+ICE 845,Dortmund Hbf,12:27,Berlin Ostbahnhof,08:48,
+ICE 1545,Dortmund Hbf,13:02,Berlin Ostbahnhof,09:11,
+ICE 946,Dortmund Hbf,10:02,Düsseldorf Hbf,09:13,19
+ICE 616,Dortmund Hbf,12:30,Hamburg-Altona,09:27,13
+EC 9,Dortmund Hbf,17:00,Zürich HB,09:35,4
+IC 2042,Dortmund Hbf,10:46,Köln Hbf,09:37,8
+ICE 545,Dortmund Hbf,13:27,Berlin Ostbahnhof,09:48,2
+IC 2013,Dortmund Hbf,18:13,Oberstdorf,09:49,10
+FLX 1342,Dortmund Hbf,13:07,Hamburg Hbf,10:05,11
+ICE 644,Dortmund Hbf,15:49,Salzburg Hbf,10:13,13
+ICE 206,Dortmund Hbf,13:30,Hamburg-Altona,10:25,29
+IC 2441,Dortmund Hbf,16:47,Dresden Hbf,10:28,2
+ICE 517,Dortmund Hbf,16:26,München Hbf,10:36,1
+ICE 29,Dortmund Hbf,20:47,Wien Hbf,10:40,5
+IC 2155,Dortmund Hbf,15:55,Gera Hbf,10:43,10
+ICE 731,Dortmund Hbf,11:58,Köln Hbf,10:43,31
+ICE 847,Dortmund Hbf,14:27,Berlin Ostbahnhof,10:48,10
+ICE 1052,Dortmund Hbf,13:12,Aachen Hbf,10:51,16
+IC 2324,Dortmund Hbf,11:38,Münster(Westf)Hbf,11:00,7
+IC 2229,Dortmund Hbf,14:35,Frankfurt(Main)Hbf,11:02,5
+ICE 757,Dortmund Hbf,15:02,Berlin Ostbahnhof,11:11,4
+ICE 944,Dortmund Hbf,12:07,Düsseldorf Hbf,11:13,10
+IC 2156,Dortmund Hbf,12:40,Köln Hbf,11:16,FALSE
+ICE 614,Dortmund Hbf,14:30,Hamburg-Altona,11:25,28
+ICE 107,Dortmund Hbf,16:47,Basel SBB,11:36,12
+ICE 1944,Dortmund Hbf,16:22,Stuttgart Hbf,11:36,3
+ICE 547,Dortmund Hbf,15:27,Berlin Ostbahnhof,11:48,2
+ICE 642,Dortmund Hbf,13:07,Düsseldorf Hbf,12:13,1
+ICE 202,Dortmund Hbf,15:30,Hamburg-Altona,12:25,9
+ICE 1949,Dortmund Hbf,18:40,Dresden Hbf,12:28,16
+ICE 229,Dortmund Hbf,23:05,Wien Hbf,12:36,1
+ICE 519,Dortmund Hbf,18:26,München Hbf,12:36,8
+ICE 849,Dortmund Hbf,16:27,Berlin Ostbahnhof,12:48,1
+ICE 942,Dortmund Hbf,14:07,Düsseldorf Hbf,13:13,4
+ICE 612,Dortmund Hbf,17:22,Kiel Hbf,13:25,19
+ICE 109,Dortmund Hbf,18:47,Basel SBB,13:36,11
+IC 2046,Dortmund Hbf,18:27,Stuttgart Hbf,13:37,5
+ICE 549,Dortmund Hbf,17:27,Berlin Ostbahnhof,13:48,1
+ICE 1011,Dortmund Hbf,19:27,München Hbf,13:49,7
+ICE 640,Dortmund Hbf,15:07,Düsseldorf Hbf,14:13,52
+ICE 200,Dortmund Hbf,17:30,Hamburg-Altona,14:25,11
+IC 2047,Dortmund Hbf,20:40,Dresden Hbf,14:28,36
+ICE 611,Dortmund Hbf,20:29,München Hbf,14:36,2
+ICE 941,Dortmund Hbf,18:27,Berlin Ostbahnhof,14:47,1
+ICE 758,Dortmund Hbf,17:12,Aachen Hbf,14:51,2
+IC 2323,Dortmund Hbf,18:35,Frankfurt(Main)Hbf,15:03,FALSE
+ICE 1051,Dortmund Hbf,19:02,Berlin Ostbahnhof,15:10,45
+ICE 940,Dortmund Hbf,16:07,Düsseldorf Hbf,15:13,5
+ICE 610,Dortmund Hbf,18:30,Hamburg-Altona,15:25,23
+ICE 201,Dortmund Hbf,20:47,Basel SBB,15:36,7
+IC 2048,Dortmund Hbf,21:30,Tübingen Hbf,15:37,2
+ICE 641,Dortmund Hbf,19:27,Berlin Ostbahnhof,15:48,11
+ICE 1013,Dortmund Hbf,21:26,München Hbf,15:50,8
+ICE 548,Dortmund Hbf,17:07,Düsseldorf Hbf,16:13,5
+ICE 108,Dortmund Hbf,19:30,Hamburg-Altona,16:25,15
+IC 2045,Dortmund Hbf,22:38,Dresden Hbf,16:28,2
+ICE 613,Dortmund Hbf,22:26,München Hbf,16:36,6
+ICE 929,Dortmund Hbf,00:50,Passau Hbf,16:36,
+IC 2157,Dortmund Hbf,21:55,Gera Hbf,16:43,18
+ICE 943,Dortmund Hbf,20:27,Berlin Ostbahnhof,16:48,
+IC 2325,Dortmund Hbf,20:35,Frankfurt(Main)Hbf,17:02,FALSE
+ICE 848,Dortmund Hbf,18:07,Düsseldorf Hbf,17:13,1
+IC 2152,Dortmund Hbf,18:11,Düsseldorf Hbf,17:16,11
+ICE 518,Dortmund Hbf,20:30,Hamburg-Altona,17:25,28
+ICE 203,Dortmund Hbf,22:55,Basel SBB,17:36,1
+IC 2440,Dortmund Hbf,22:22,Stuttgart Hbf,17:37,1
+ICE 643,Dortmund Hbf,21:27,Berlin Ostbahnhof,17:48,3
+ICE 1015,Dortmund Hbf,23:25,München Hbf,17:50,
+ICE 546,Dortmund Hbf,19:10,Düsseldorf Hbf,18:13,8
+EC 8,Dortmund Hbf,21:30,Hamburg-Altona,18:25,40
+IC 2043,Dortmund Hbf,22:58,Leipzig/Halle Flughafen,18:28,33
+ICE 615,Dortmund Hbf,00:28,München Hbf,18:36,25
+ICE 945,Dortmund Hbf,22:34,Berlin Ostbahnhof,18:48,1
+IC 2226,Dortmund Hbf,19:39,Münster(Westf)Hbf,18:59,14
+IC 2327,Dortmund Hbf,20:55,Siegen,19:03,FALSE
+ICE 846,Dortmund Hbf,20:42,Mönchengladbach Hbf,19:13,10
+ICE 516,Dortmund Hbf,22:30,Hamburg-Altona,19:25,30
+IC 2442,Dortmund Hbf,23:13,Frankfurt(Main)Hbf,19:34,2
+ICE 205,Dortmund Hbf,00:59,Basel SBB,19:36,7
+ICE 645,Dortmund Hbf,23:27,Berlin Ostbahnhof,19:48,
+ICE 118,Dortmund Hbf,20:35,Münster(Westf)Hbf,19:57,29
+ICE 544,Dortmund Hbf,21:07,Düsseldorf Hbf,20:13,1
+EC 6,Dortmund Hbf,23:30,Hamburg-Altona,20:26,17
+ICE 1627,Dortmund Hbf,00:13,Frankfurt(Main)Hbf,20:36,7
+ICE 617,Dortmund Hbf,00:25,Stuttgart Hbf,20:40,4
+ICE 947,Dortmund Hbf,00:37,Berlin Ostbahnhof,20:48,3
+ICE 752,Dortmund Hbf,22:12,Köln Hbf,20:51,3
+ICE 844,Dortmund Hbf,22:07,Düsseldorf Hbf,21:13,3
+ICE 514,Dortmund Hbf,00:30,Hamburg-Altona,21:25,24
+IC 2444,Dortmund Hbf,23:54,Koblenz Hbf,21:37,
+ICE 207,Dortmund Hbf,22:49,Köln Hbf,21:38,2
+ICE 542,Dortmund Hbf,23:07,Düsseldorf Hbf,22:13,2
+ICE 102,Dortmund Hbf,00:18,Hannover Hbf,22:28,FALSE
+ICE 209,Dortmund Hbf,00:47,Köln Hbf,23:36,8

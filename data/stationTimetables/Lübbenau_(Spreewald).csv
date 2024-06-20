@@ -1,0 +1,3 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2432,Lübbenau(Spreewald),14:19,Norddeich Mole,06:11,FALSE
+IC 2431,Lübbenau(Spreewald),19:59,Cottbus Hbf,19:42,11

@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2156,Lippstadt,12:40,Köln Hbf,10:26,FALSE
+IC 2155,Lippstadt,15:55,Gera Hbf,11:32,11
+IC 2152,Lippstadt,18:11,Düsseldorf Hbf,16:26,9
+IC 2157,Lippstadt,21:55,Gera Hbf,17:32,20

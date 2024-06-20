@@ -1,0 +1,36 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2381,Bensheim,09:23,Singen(Hohentwiel),05:50,
+IC 897,Bensheim,10:28,Lindau-Reutin,06:25,
+RJX 897,Bensheim,17:57,Flughafen Wien,06:25,
+IC 2298,Bensheim,08:00,Frankfurt(Main)Hbf,07:28,1
+ICE 1571,Bensheim,08:51,Karlsruhe Hbf,07:46,
+ICE 1672,Bensheim,17:20,Ostseebad Binz,08:09,1
+ICE 932,Bensheim,08:56,Frankfurt(Main)Hbf,08:27,FALSE
+EC 113,Bensheim,17:19,Klagenfurt Hbf,08:49,3
+ICE 1098,Bensheim,09:40,Frankfurt(Main)Hbf,09:09,3
+ICE 1573,Bensheim,10:50,Karlsruhe Hbf,09:50,4
+IC 2374,Bensheim,19:34,Westerland(Sylt),10:09,20
+IC 1296,Bensheim,11:40,Frankfurt(Main)Hbf,11:09,2
+ICE 1515,Bensheim,12:50,Karlsruhe Hbf,11:50,13
+ICE 1578,Bensheim,20:14,Velgast,12:09,FALSE
+EC 219,Bensheim,22:14,Graz Hbf,12:49,FALSE
+ICE 1290,Bensheim,13:40,Frankfurt(Main)Hbf,13:09,2
+ICE 1577,Bensheim,15:03,Stuttgart Hbf,13:50,FALSE
+ICE 1576,Bensheim,21:32,Rostock Hbf,14:09,5
+EC 117,Bensheim,17:57,Bohumin,14:49,
+EC 218,Bensheim,15:40,Frankfurt(Main)Hbf,15:09,5
+ICE 1579,Bensheim,16:50,Karlsruhe Hbf,15:50,15
+ICE 1514,Bensheim,21:49,Hamburg-Altona,16:09,3
+IC 1291,Bensheim,22:01,Salzburg Hbf,16:49,4
+ICE 1168,Bensheim,17:40,Frankfurt(Main)Hbf,17:09,1
+ICE 1671,Bensheim,18:39,Karlsruhe Hbf,17:50,FALSE
+ICE 1572,Bensheim,21:56,Hannover Hbf,18:09,FALSE
+ICE 1099,Bensheim,22:14,München Hbf,18:49,
+EC 112,Bensheim,19:40,Frankfurt(Main)Hbf,19:09,4
+IC 2375,Bensheim,20:57,Stuttgart Hbf,19:50,28
+IC 2393,Bensheim,20:57,Stuttgart Hbf,19:50,28
+ICE 1570,Bensheim,22:56,Kassel-Wilhelmshöhe,20:09,2
+IC 2299,Bensheim,21:56,Stuttgart Hbf,20:49,6
+RJX 890,Bensheim,21:52,Frankfurt(Main)Hbf,21:19,
+ICE 935,Bensheim,23:29,Saarbrücken Hbf,21:32,
+ICE 937,Bensheim,01:04,Stuttgart Hbf,23:39,

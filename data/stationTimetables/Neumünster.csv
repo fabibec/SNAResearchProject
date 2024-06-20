@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 573,Neumünster,12:38,Stuttgart Hbf,05:30,FALSE
+ICE 73,Neumünster,16:00,Zürich HB,06:32,1
+EC 379,Neumünster,15:24,Praha hl.n.,07:59,3
+EC 175,Neumünster,17:24,Praha hl.n.,09:53,2
+ICE 77,Neumünster,20:00,Zürich HB,10:31,
+ICE 618,Neumünster,11:23,Kiel Hbf,11:06,6
+ICE 613,Neumünster,22:26,München Hbf,12:56,1
+ICE 804,Neumünster,13:48,Kiel Hbf,13:27,11
+ICE 801,Neumünster,22:44,München Hbf,14:32,2
+ICE 612,Neumünster,17:22,Kiel Hbf,17:05,27
+EC 174,Neumünster,19:15,Flensburg,18:08,14
+ICE 74,Neumünster,19:43,Kiel Hbf,19:27,39
+EC 378,Neumünster,20:22,Kiel Hbf,20:04,7

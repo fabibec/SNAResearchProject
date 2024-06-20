@@ -1,0 +1,132 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EC 458,Erfurt Hbf,09:05,Zürich HB,01:24,
+EN 40458,Erfurt Hbf,09:05,Zürich HB,01:24,
+IC 60408,Erfurt Hbf,09:05,Zürich HB,01:24,
+NJ 408,Erfurt Hbf,09:05,Zürich HB,01:24,
+EC 459,Erfurt Hbf,09:24,Praha hl.n.,03:16,9
+EN 40459,Erfurt Hbf,09:24,Praha hl.n.,03:16,9
+IC 60409,Erfurt Hbf,08:20,Berlin Hbf,03:16,
+NJ 409,Erfurt Hbf,08:20,Berlin Hbf,03:16,
+ICE 698,Erfurt Hbf,07:36,Berlin Hbf,05:22,1
+ICE 1606,Erfurt Hbf,09:39,Hamburg-Altona,05:28,1
+ICE 1656,Erfurt Hbf,09:10,Frankfurt(Main)Hbf,06:18,1
+ICE 806,Erfurt Hbf,10:38,Hamburg-Altona,06:28,1
+ICE 501,Erfurt Hbf,09:17,München Hbf,06:31,
+ICE 593,Erfurt Hbf,13:13,München Hbf,06:48,2
+ICE 1636,Erfurt Hbf,13:00,Ostseebad Binz,07:10,3
+IC 2156,Erfurt Hbf,12:40,Köln Hbf,07:18,FALSE
+ICE 1604,Erfurt Hbf,11:39,Hamburg-Altona,07:27,1
+ICE 277,Erfurt Hbf,13:47,Basel SBB,07:30,1
+ICE 1701,Erfurt Hbf,10:42,München Hbf,07:32,1
+ICE 1001,Erfurt Hbf,10:02,München Hbf,07:45,5
+ICE 1008,Erfurt Hbf,12:03,Hamburg-Altona,08:11,2
+ICE 1654,Erfurt Hbf,11:10,Frankfurt(Main)Hbf,08:18,2
+ICE 2550,Erfurt Hbf,10:32,Berlin Hbf,08:28,FALSE
+ICE 503,Erfurt Hbf,11:03,München Hbf,08:31,
+ICE 804,Erfurt Hbf,13:48,Kiel Hbf,08:32,
+IC 2151,Erfurt Hbf,09:55,Gera Hbf,08:44,4
+ICE 595,Erfurt Hbf,15:13,München Hbf,08:48,4
+ICE 1103,Erfurt Hbf,11:11,München Hbf,08:50,3
+ICE 696,Erfurt Hbf,10:55,Berlin Hbf,09:10,5
+ICE 1114,Erfurt Hbf,10:57,Berlin Hbf,09:13,2
+FLX 1241,Erfurt Hbf,13:43,Stuttgart Hbf,09:20,
+ICE 602,Erfurt Hbf,13:41,Hamburg-Altona,09:28,1
+ICE 279,Erfurt Hbf,15:47,Basel SBB,09:30,4
+ICE 701,Erfurt Hbf,12:42,München Hbf,09:32,3
+ICE 1555,Erfurt Hbf,11:40,Dresden Hbf,09:40,20
+ICE 1652,Erfurt Hbf,13:10,Frankfurt(Main)Hbf,10:18,
+ICE 270,Erfurt Hbf,12:32,Berlin Hbf,10:28,10
+ICE 505,Erfurt Hbf,13:01,München Hbf,10:31,1
+ICE 802,Erfurt Hbf,14:39,Hamburg-Altona,10:32,4
+ICE 597,Erfurt Hbf,17:16,München Hbf,10:48,2
+ICE 1105,Erfurt Hbf,13:09,München Hbf,10:50,3
+ICE 694,Erfurt Hbf,13:00,Berlin Hbf,11:10,6
+ICE 1112,Erfurt Hbf,12:57,Berlin Hbf,11:13,2
+ICE 1600,Erfurt Hbf,15:39,Hamburg-Altona,11:28,FALSE
+ICE 1710,Erfurt Hbf,17:33,Ostseebad Binz,11:28,FALSE
+ICE 2914,Erfurt Hbf,15:39,Hamburg-Altona,11:28,21
+ICE 371,Erfurt Hbf,19:58,Interlaken Ost,11:30,30
+ICE 703,Erfurt Hbf,14:01,München Hbf,11:32,22
+ICE 1557,Erfurt Hbf,13:40,Dresden Hbf,11:40,1
+ICE 93,Erfurt Hbf,17:47,Wien Hbf,11:54,49
+ICE 1694,Erfurt Hbf,13:56,Berlin Hbf,12:05,16
+ICE 94,Erfurt Hbf,16:20,Hamburg-Altona,12:05,17
+ICE 1650,Erfurt Hbf,15:13,Frankfurt(Main)Hbf,12:18,3
+ICE 374,Erfurt Hbf,14:32,Berlin Hbf,12:28,4
+ICE 507,Erfurt Hbf,15:04,München Hbf,12:31,24
+ICE 800,Erfurt Hbf,16:38,Hamburg-Altona,12:32,
+ICE 599,Erfurt Hbf,19:12,München Hbf,12:48,2
+ICE 1107,Erfurt Hbf,15:08,München Hbf,12:50,FALSE
+ICE 2907,Erfurt Hbf,15:08,München Hbf,12:50,9
+ICE 692,Erfurt Hbf,15:00,Berlin Hbf,13:10,2
+ICE 1110,Erfurt Hbf,14:57,Berlin Hbf,13:13,2
+IC 2152,Erfurt Hbf,18:11,Düsseldorf Hbf,13:18,5
+FLX 1243,Erfurt Hbf,19:15,Basel Bad,13:21,16
+ICE 508,Erfurt Hbf,17:40,Hamburg-Altona,13:28,3
+ICE 373,Erfurt Hbf,21:59,Interlaken Ost,13:29,2
+ICE 705,Erfurt Hbf,16:42,München Hbf,13:32,1
+ICE 1559,Erfurt Hbf,15:40,Dresden Hbf,13:40,41
+ICE 1005,Erfurt Hbf,16:01,München Hbf,13:47,2
+ICE 1558,Erfurt Hbf,17:08,Frankfurt(Main)Hbf,14:18,4
+ICE 372,Erfurt Hbf,16:32,Berlin Hbf,14:28,1
+ICE 509,Erfurt Hbf,17:01,München Hbf,14:31,3
+ICE 708,Erfurt Hbf,18:38,Hamburg-Altona,14:32,35
+IC 2155,Erfurt Hbf,15:55,Gera Hbf,14:44,39
+ICE 1211,Erfurt Hbf,23:18,Innsbruck Hbf,14:48,2
+ICE 1109,Erfurt Hbf,17:10,München Hbf,14:50,9
+ICE 690,Erfurt Hbf,17:00,Berlin Hbf,15:10,7
+ICE 1108,Erfurt Hbf,16:57,Berlin Hbf,15:13,5
+ICE 506,Erfurt Hbf,19:41,Hamburg-Altona,15:28,1
+ICE 375,Erfurt Hbf,21:49,Basel SBB,15:30,10
+ICE 707,Erfurt Hbf,18:03,München Hbf,15:32,5
+ICE 1651,Erfurt Hbf,17:39,Dresden Hbf,15:40,5
+ICE 1695,Erfurt Hbf,19:17,München Hbf,15:54,56
+ICE 95,Erfurt Hbf,21:47,Wien Hbf,15:54,57
+ICE 92,Erfurt Hbf,20:15,Hamburg-Altona,16:05,24
+ICE 1556,Erfurt Hbf,19:10,Frankfurt(Main)Hbf,16:18,
+ICE 370,Erfurt Hbf,18:01,Berlin Ostbahnhof,16:28,16
+ICE 1601,Erfurt Hbf,19:03,München Hbf,16:31,35
+ICE 1711,Erfurt Hbf,19:03,München Hbf,16:31,35
+ICE 706,Erfurt Hbf,20:39,Hamburg-Altona,16:32,3
+ICE 693,Erfurt Hbf,23:13,München Hbf,16:48,6
+ICE 1111,Erfurt Hbf,19:11,München Hbf,16:50,6
+ICE 1218,Erfurt Hbf,18:55,Berlin Hbf,17:10,25
+ICE 1106,Erfurt Hbf,18:57,Berlin Hbf,17:13,9
+FLX 1245,Erfurt Hbf,21:59,Stuttgart Hbf,17:20,166
+ICE 504,Erfurt Hbf,21:40,Hamburg-Altona,17:28,13
+ICE 377,Erfurt Hbf,23:59,Basel SBB,17:30,1
+ICE 709,Erfurt Hbf,20:43,München Hbf,17:32,2
+ICE 1653,Erfurt Hbf,19:39,Dresden Hbf,17:40,17
+ICE 1554,Erfurt Hbf,21:12,Frankfurt(Main)Hbf,18:18,1
+ICE 278,Erfurt Hbf,20:32,Berlin Hbf,18:30,3
+ICE 603,Erfurt Hbf,21:03,München Hbf,18:31,26
+ICE 704,Erfurt Hbf,22:22,Hamburg Hbf,18:32,1
+ICE 695,Erfurt Hbf,23:08,Stuttgart Hbf,18:48,12
+ICE 1113,Erfurt Hbf,21:12,München Hbf,18:50,3
+ICE 596,Erfurt Hbf,20:55,Berlin Hbf,19:07,3
+ICE 1104,Erfurt Hbf,20:57,Berlin Hbf,19:13,FALSE
+ICE 2904,Erfurt Hbf,20:57,Berlin Hbf,19:13,14
+IC 2150,Erfurt Hbf,21:00,Kassel-Wilhelmshöhe,19:18,3
+ICE 502,Erfurt Hbf,23:49,Hamburg-Altona,19:28,3
+ICE 877,Erfurt Hbf,22:44,Frankfurt(Main)Hbf,19:30,27
+ICE 801,Erfurt Hbf,22:44,München Hbf,19:32,3
+ICE 1655,Erfurt Hbf,21:39,Dresden Hbf,19:40,1
+ICE 1000,Erfurt Hbf,22:00,Berlin Gesundbrunnen,20:11,4
+ICE 1552,Erfurt Hbf,23:25,Frankfurt(Main)Hbf,20:18,2
+ICE 276,Erfurt Hbf,22:52,Berlin Hbf,20:28,2
+ICE 1605,Erfurt Hbf,23:03,München Hbf,20:31,3
+ICE 702,Erfurt Hbf,22:33,Berlin Gesundbrunnen,20:32,2
+IC 2157,Erfurt Hbf,21:55,Gera Hbf,20:44,13
+ICE 697,Erfurt Hbf,23:48,Frankfurt(Main)Hbf,20:48,10
+ICE 1115,Erfurt Hbf,23:07,München Hbf,20:50,19
+ICE 594,Erfurt Hbf,22:54,Berlin Hbf,21:10,3
+ICE 1102,Erfurt Hbf,22:57,Berlin Hbf,21:13,1
+ICE 500,Erfurt Hbf,23:56,Berlin Südkreuz,21:28,5
+ICE 803,Erfurt Hbf,23:09,Nürnberg Hbf,21:32,9
+ICE 1657,Erfurt Hbf,23:39,Dresden Hbf,21:40,1
+ICE 1119,Erfurt Hbf,00:01,München Hbf,21:47,6
+ICE 1018,Erfurt Hbf,00:00,Berlin Gesundbrunnen,22:11,24
+ICE 1500,Erfurt Hbf,23:26,Leipzig Hbf,22:43,3
+ICE 1100,Erfurt Hbf,01:01,Berlin Gesundbrunnen,23:11,
+ICE 8,Erfurt Hbf,01:01,Berlin Gesundbrunnen,23:11,
+ICE 699,Erfurt Hbf,08:08,München Hbf,23:41,15

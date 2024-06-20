@@ -1,0 +1,20 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IR 2106,Konstanz,06:25,Zürich HB,05:09,1
+IC 2284,Konstanz,07:10,Rottweil,06:04,
+IC 2386,Konstanz,07:39,Sulz(Neckar),06:04,
+IR 2108,Konstanz,07:25,Zürich HB,06:09,1
+IR 2110,Konstanz,08:25,Zürich HB,07:09,1
+IR 2112,Konstanz,09:25,Zürich HB,08:09,1
+IC 2004,Konstanz,09:27,Singen(Hohentwiel),09:07,
+IR 2114,Konstanz,10:25,Zürich HB,09:09,1
+IR 2116,Konstanz,11:25,Zürich HB,10:09,1
+IR 2118,Konstanz,12:25,Zürich HB,11:09,1
+IR 2120,Konstanz,13:25,Zürich HB,12:09,1
+IR 2122,Konstanz,14:25,Zürich HB,13:09,
+IR 2124,Konstanz,15:25,Zürich HB,14:09,
+IR 2126,Konstanz,16:25,Zürich HB,15:09,
+IR 2128,Konstanz,17:25,Zürich HB,16:09,1
+IR 2130,Konstanz,18:25,Zürich HB,17:09,
+IR 2132,Konstanz,19:25,Zürich HB,18:09,1
+IR 2134,Konstanz,20:25,Zürich HB,19:09,1
+IR 2136,Konstanz,21:25,Zürich HB,20:09,1

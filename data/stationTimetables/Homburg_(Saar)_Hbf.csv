@@ -1,0 +1,5 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 932,Homburg(Saar)Hbf,08:56,Frankfurt(Main)Hbf,06:50,FALSE
+ICE 563,Homburg(Saar)Hbf,12:49,München Hbf,08:49,
+ICE 562,Homburg(Saar)Hbf,19:17,Saarbrücken Hbf,18:56,3
+ICE 935,Homburg(Saar)Hbf,23:29,Saarbrücken Hbf,23:05,

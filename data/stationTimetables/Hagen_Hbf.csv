@@ -1,0 +1,74 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1548,Hagen Hbf,10:24,Stuttgart Hbf,05:57,1
+IC 2445,Hagen Hbf,12:58,Dresden Hbf,06:01,
+ICE 813,Hagen Hbf,08:27,Frankfurt(M) Flughafen Fernbf,06:19,
+ICE 853,Hagen Hbf,10:27,Berlin Ostbahnhof,06:33,1
+ICE 1621,Hagen Hbf,13:42,München Hbf,06:57,22
+ICE 553,Hagen Hbf,11:13,Berlin Ostbahnhof,07:33,1
+ICE 103,Hagen Hbf,18:07,München Hbf,07:58,4
+IC 2443,Hagen Hbf,14:57,Dresden Hbf,08:02,5
+ICE 119,Hagen Hbf,19:05,Innsbruck Hbf,08:16,-2
+ICE 119,Hagen Hbf Hbf,19:05,Innsbruck Hbf,08:16,
+ICE 656,Hagen Hbf,09:15,Köln Hbf,08:29,7
+ICE 855,Hagen Hbf,12:27,Berlin Ostbahnhof,08:33,1
+ICE 515,Hagen Hbf,14:26,München Hbf,08:57,4
+ICE 1626,Hagen Hbf,09:21,Dortmund Hbf,09:01,
+ICE 956,Hagen Hbf,10:09,Köln Hbf,09:23,19
+ICE 555,Hagen Hbf,13:13,Berlin Ostbahnhof,09:33,8
+IC 2042,Hagen Hbf,10:46,Köln Hbf,09:58,12
+ICE 206,Hagen Hbf,13:30,Hamburg-Altona,10:01,9
+ICE 654,Hagen Hbf,11:43,Bonn Hbf,10:29,6
+ICE 857,Hagen Hbf,14:27,Berlin Ostbahnhof,10:33,6
+ICE 517,Hagen Hbf,16:26,München Hbf,10:57,8
+ICE 614,Hagen Hbf,14:30,Hamburg-Altona,11:01,16
+ICE 954,Hagen Hbf,12:09,Köln Hbf,11:23,5
+ICE 557,Hagen Hbf,15:17,Berlin Ostbahnhof,11:33,22
+ICE 1944,Hagen Hbf,16:22,Stuttgart Hbf,11:57,11
+ICE 1949,Hagen Hbf,18:40,Dresden Hbf,12:01,12
+ICE 652,Hagen Hbf,13:37,Bonn Hbf,12:29,7
+ICE 859,Hagen Hbf,16:27,Berlin Ostbahnhof,12:33,6
+ICE 229,Hagen Hbf Hbf,23:05,Wien Hbf,12:56,
+ICE 229,Hagen Hbf,23:05,Wien Hbf,12:56,8
+ICE 612,Hagen Hbf,17:22,Kiel Hbf,13:01,8
+ICE 952,Hagen Hbf,14:09,Köln Hbf,13:23,7
+ICE 559,Hagen Hbf,17:17,Berlin Ostbahnhof,13:33,21
+IC 2046,Hagen Hbf,18:27,Stuttgart Hbf,13:58,9
+IC 2047,Hagen Hbf,20:40,Dresden Hbf,14:01,28
+ICE 650,Hagen Hbf,18:46,Stuttgart Hbf,14:29,2
+ICE 951,Hagen Hbf,18:27,Berlin Ostbahnhof,14:33,13
+ICE 611,Hagen Hbf,20:29,München Hbf,14:57,4
+ICE 610,Hagen Hbf,18:30,Hamburg-Altona,15:01,12
+ICE 950,Hagen Hbf,16:10,Köln Hbf,15:23,9
+ICE 651,Hagen Hbf,19:13,Berlin Ostbahnhof,15:33,6
+IC 2048,Hagen Hbf,21:30,Tübingen Hbf,15:58,2
+IC 2045,Hagen Hbf,22:38,Dresden Hbf,16:02,2
+ICE 558,Hagen Hbf,17:37,Bonn Hbf,16:29,
+ICE 953,Hagen Hbf,20:27,Berlin Ostbahnhof,16:33,81
+ICE 613,Hagen Hbf,22:26,München Hbf,16:57,8
+ICE 228,Hagen Hbf,17:21,Dortmund Hbf,17:01,34
+ICE 228,Hagen Hbf Hbf,17:21,Dortmund Hbf,17:01,33
+ICE 858,Hagen Hbf,18:10,Köln Hbf,17:23,6
+ICE 653,Hagen Hbf,21:16,Berlin Hbf,17:33,9
+IC 2440,Hagen Hbf,22:22,Stuttgart Hbf,17:58,5
+IC 2043,Hagen Hbf,22:58,Leipzig/Halle Flughafen,18:02,24
+ICE 556,Hagen Hbf,20:16,Koblenz Hbf,18:29,3
+ICE 955,Hagen Hbf,22:34,Berlin Ostbahnhof,18:33,10
+ICE 615,Hagen Hbf,00:28,München Hbf,18:57,26
+ICE 516,Hagen Hbf,22:30,Hamburg-Altona,19:01,19
+ICE 856,Hagen Hbf,20:10,Köln Hbf,19:23,17
+ICE 655,Hagen Hbf,23:27,Berlin Ostbahnhof,19:33,7
+ICE 205,Hagen Hbf,00:59,Basel SBB,19:57,10
+ICE 554,Hagen Hbf,21:15,Köln Hbf,20:29,6
+ICE 957,Hagen Hbf,00:37,Berlin Ostbahnhof,20:33,
+ICE 812,Hagen Hbf,21:08,Dortmund Hbf,20:36,2
+ICE 1627,Hagen Hbf,00:13,Frankfurt(Main)Hbf,20:58,9
+ICE 514,Hagen Hbf,00:30,Hamburg-Altona,21:01,4
+ICE 854,Hagen Hbf,22:10,Köln Hbf,21:23,7
+ICE 19,Hagen Hbf,00:02,Wolfsburg Hbf,21:36,
+ICE 657,Hagen Hbf,01:25,Berlin Ostbahnhof,21:36,9
+IC 2444,Hagen Hbf,23:54,Koblenz Hbf,21:58,7
+ICE 1549,Hagen Hbf,22:22,Dortmund Hbf,22:02,37
+ICE 552,Hagen Hbf,23:15,Köln Hbf,22:29,2
+ICE 1222,Hagen Hbf,23:21,Dortmund Hbf,23:01,FALSE
+ICE 872,Hagen Hbf,00:10,Köln Hbf,23:22,
+ICE 209,Hagen Hbf,00:47,Köln Hbf,23:57,14

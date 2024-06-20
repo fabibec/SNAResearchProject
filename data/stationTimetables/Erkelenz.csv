@@ -1,0 +1,3 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1545,Erkelenz,13:02,Berlin Ostbahnhof,07:43,2
+ICE 757,Erkelenz,15:02,Berlin Ostbahnhof,09:43,1

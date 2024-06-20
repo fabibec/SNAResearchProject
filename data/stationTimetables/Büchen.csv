@@ -1,0 +1,18 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+ICE 1599,Büchen,07:21,Hamburg-Altona,06:34,1
+EC 173,Büchen,20:28,Budapest-Nyugati,07:15,10
+IC 2070,Büchen,09:24,Hamburg-Altona,08:49,4
+EC 379,Büchen,15:24,Praha hl.n.,09:15,10
+ICE 870,Büchen,11:28,Hamburg-Altona,10:49,3
+EC 175,Büchen,17:24,Praha hl.n.,11:15,2
+ICE 934,Büchen,13:25,Hamburg-Altona,12:49,
+EC 177,Büchen,19:24,Praha hl.n.,13:15,9
+EC 176,Büchen,15:24,Hamburg-Altona,14:49,12
+ICE 939,Büchen,17:06,Berlin Südkreuz,15:14,31
+EC 174,Büchen,19:15,Flensburg,16:49,14
+ICE 871,Büchen,21:07,Dresden Hbf,17:15,10
+EC 378,Büchen,20:22,Kiel Hbf,18:49,6
+IC 2073,Büchen,21:00,Berlin Gesundbrunnen,19:15,5
+EC 172,Büchen,21:35,Hamburg-Altona,20:49,44
+ICE 805,Büchen,00:10,Berlin Ostbahnhof,22:15,19
+ICE 907,Büchen,01:11,Berlin Ostbahnhof,23:15,

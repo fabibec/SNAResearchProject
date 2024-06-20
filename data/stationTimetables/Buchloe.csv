@@ -1,0 +1,25 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+EC 198,Buchloe,10:27,Zürich HB,07:36,
+ECE 198,Buchloe,10:27,Zürich HB,07:36,1
+EC 196,Buchloe,12:27,Zürich HB,09:36,
+ECE 196,Buchloe,12:27,Zürich HB,09:36,1
+ECE 97,Buchloe,11:04,München Hbf,10:25,15
+IC 2084,Buchloe,19:21,Hamburg-Altona,11:34,1
+EC 194,Buchloe,14:27,Zürich HB,11:35,
+ECE 194,Buchloe,14:27,Zürich HB,11:35,8
+ECE 99,Buchloe,13:04,München Hbf,12:25,42
+EC 192,Buchloe,16:27,Zürich HB,13:36,
+ECE 192,Buchloe,16:27,Zürich HB,13:36,4
+IC 2083,Buchloe,17:04,Berchtesgaden Hbf,14:24,
+IC 2085,Buchloe,16:11,Oberstdorf Busbahnhof,14:24,21
+ECE 191,Buchloe,15:04,München Hbf,14:25,30
+EC 190,Buchloe,18:27,Zürich HB,15:36,
+ECE 190,Buchloe,18:27,Zürich HB,15:36,1
+ECE 193,Buchloe,17:04,München Hbf,16:25,14
+EC 98,Buchloe,20:27,Zürich HB,17:36,
+ECE 98,Buchloe,20:27,Zürich HB,17:36,2
+ECE 195,Buchloe,19:04,München Hbf,18:25,53
+EC 96,Buchloe,22:27,Zürich HB,19:36,
+ECE 96,Buchloe,22:27,Zürich HB,19:36,8
+ECE 197,Buchloe,21:04,München Hbf,20:25,9
+ECE 199,Buchloe,23:04,München Hbf,22:25,28

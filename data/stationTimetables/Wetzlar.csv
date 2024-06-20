@@ -1,0 +1,14 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2221,Wetzlar,06:57,Frankfurt(Main)West,06:07,
+IC 2223,Wetzlar,08:26,Frankfurt(Main)West,07:42,
+IC 2225,Wetzlar,10:35,Frankfurt(Main)Hbf,09:42,7
+IC 2322,Wetzlar,16:16,Norddeich Mole,10:18,
+IC 2227,Wetzlar,12:35,Frankfurt(Main)Hbf,11:42,7
+IC 2320,Wetzlar,14:57,Dortmund Hbf,12:18,FALSE
+IC 2229,Wetzlar,14:35,Frankfurt(Main)Hbf,13:42,FALSE
+IC 2228,Wetzlar,17:28,Münster(Westf)Hbf,14:18,FALSE
+IC 2321,Wetzlar,16:35,Frankfurt(Main)Hbf,15:42,FALSE
+IC 2226,Wetzlar,19:39,Münster(Westf)Hbf,16:18,FALSE
+IC 2323,Wetzlar,18:35,Frankfurt(Main)Hbf,17:42,FALSE
+IC 2224,Wetzlar,20:57,Dortmund Hbf,18:18,FALSE
+IC 2325,Wetzlar,20:35,Frankfurt(Main)Hbf,19:42,FALSE

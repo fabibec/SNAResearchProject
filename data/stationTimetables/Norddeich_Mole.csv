@@ -1,0 +1,9 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2037,Norddeich Mole,14:15,Leipzig Hbf,07:36,1
+IC 2039,Norddeich Mole,16:15,Leipzig Hbf,09:36,
+IC 2321,Norddeich Mole,16:35,Frankfurt(Main)Hbf,09:51,
+IC 2203,Norddeich Mole,16:18,Köln Hbf,11:36,6
+IC 2205,Norddeich Mole,15:42,Lingen(Ems),13:51,
+ICE 605,Norddeich Mole,19:20,Koblenz Hbf,13:51,
+IC 2435,Norddeich Mole,22:15,Leipzig Hbf,15:36,1
+IC 2209,Norddeich Mole,22:19,Köln Hbf,17:58,1

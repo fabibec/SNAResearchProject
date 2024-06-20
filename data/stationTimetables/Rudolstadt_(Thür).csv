@@ -1,0 +1,11 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 2068,Rudolstadt(Thür),13:52,Stuttgart Hbf,09:23,1
+IC 2066,Rudolstadt(Thür),16:52,Karlsruhe Hbf,11:23,
+IC 2063,Rudolstadt(Thür),14:04,Leipzig Hbf,12:34,
+IC 2064,Rudolstadt(Thür),17:53,Stuttgart Hbf,13:23,1
+IC 2065,Rudolstadt(Thür),16:04,Leipzig Hbf,14:34,58
+IC 2062,Rudolstadt(Thür),19:53,Stuttgart Hbf,15:23,6
+IC 2067,Rudolstadt(Thür),18:04,Leipzig Hbf,16:34,
+IC 2060,Rudolstadt(Thür),23:00,Karlsruhe Hbf,17:23,2
+IC 2069,Rudolstadt(Thür),20:04,Leipzig Hbf,18:34,3
+IC 2161,Rudolstadt(Thür),22:04,Leipzig Hbf,20:34,24

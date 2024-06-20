@@ -1,0 +1,8 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 897,Ravensburg,10:28,Lindau-Reutin,09:52,
+RJX 897,Ravensburg,17:57,Flughafen Wien,09:52,
+ICE 118,Ravensburg,20:35,Münster(Westf)Hbf,12:49,4
+ICE 119,Ravensburg,19:05,Innsbruck Hbf,15:05,
+IC 890,Ravensburg,20:43,Wiesloch-Walldorf,18:16,
+RJ 860,Ravensburg,20:43,Wiesloch-Walldorf,18:16,73
+RJX 890,Ravensburg,21:52,Frankfurt(Main)Hbf,18:16,43

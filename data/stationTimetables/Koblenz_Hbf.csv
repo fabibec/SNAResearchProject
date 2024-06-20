@@ -1,0 +1,59 @@
+﻿train_number,from_station,from_time,from_delay,to_station,to_time,to_delay
+IC 60403,Koblenz Hbf,08:39,Zürich HB,00:48,22
+NJ 403,Koblenz Hbf,08:39,Zürich HB,00:48,22
+ICE 920,Koblenz Hbf,07:06,Hamburg-Altona,00:58,7
+ICE 921,Koblenz Hbf,07:02,Frankfurt(Main)Hbf,05:31,3
+ICE 553,Koblenz Hbf,11:13,Berlin Ostbahnhof,05:41,
+IC 2443,Koblenz Hbf,14:57,Dresden Hbf,06:05,
+ICE 606,Koblenz Hbf,12:16,Norddeich Mole,06:21,
+ICE 23,Koblenz Hbf,14:47,Wien Hbf,06:48,
+ICE 1626,Koblenz Hbf,09:21,Dortmund Hbf,07:13,
+ICE 1548,Koblenz Hbf,10:24,Stuttgart Hbf,07:48,1
+IC 2441,Koblenz Hbf,16:47,Dresden Hbf,08:13,2
+IC 5107,Koblenz Hbf,10:25,Düsseldorf Hbf,08:41,
+ICE 1621,Koblenz Hbf,13:42,München Hbf,08:48,20
+ICE 1022,Koblenz Hbf,11:25,Dortmund Hbf,09:13,
+ICE 115,Koblenz Hbf,19:19,Klagenfurt Hbf,09:18,3
+ICE 557,Koblenz Hbf,15:17,Berlin Ostbahnhof,09:44,28
+EC 2507,Koblenz Hbf,12:49,Freiburg(Breisgau) Hbf,09:48,
+EC 7,Koblenz Hbf,15:58,Interlaken Ost,09:48,4
+ICE 1949,Koblenz Hbf,18:40,Dresden Hbf,10:13,7
+ICE 119,Koblenz Hbf,19:05,Innsbruck Hbf,10:18,2
+IC 2202,Koblenz Hbf,15:53,Bremerhaven-Lehe,10:25,3
+ICE 27,Koblenz Hbf,18:47,Wien Hbf,10:48,3
+ICE 1020,Koblenz Hbf,16:06,Hamburg-Altona,11:13,23
+EC 9,Koblenz Hbf,17:00,Zürich HB,11:48,3
+IC 2047,Koblenz Hbf,20:40,Dresden Hbf,12:13,19
+IC 2013,Koblenz Hbf,18:13,Oberstdorf,12:18,26
+IC 2200,Koblenz Hbf,18:03,Norddeich Mole,12:26,
+ICE 29,Koblenz Hbf,20:47,Wien Hbf,12:48,19
+ICE 928,Koblenz Hbf,18:07,Hamburg-Altona,13:13,
+IC 2009,Koblenz Hbf,19:09,Konstanz,13:22,13
+ICE 1944,Koblenz Hbf,16:22,Stuttgart Hbf,13:48,5
+IC 2045,Koblenz Hbf,22:38,Dresden Hbf,14:13,6
+IC 2014,Koblenz Hbf,19:26,Emden Hbf,14:44,2
+ICE 229,Koblenz Hbf,23:05,Wien Hbf,14:48,2
+ICE 228,Koblenz Hbf,17:21,Dortmund Hbf,15:13,16
+IC 5106,Koblenz Hbf,17:48,Luxembourg,15:20,25
+IC 2012,Koblenz Hbf,18:04,Dortmund Hbf,15:44,48
+IC 2046,Koblenz Hbf,18:27,Stuttgart Hbf,15:48,
+EC 8,Koblenz Hbf,21:30,Hamburg-Altona,16:13,10
+ICE 650,Koblenz Hbf,18:46,Stuttgart Hbf,16:18,21
+ICE 927,Koblenz Hbf,20:28,Nürnberg Hbf,16:48,51
+ICE 28,Koblenz Hbf,19:24,Dortmund Hbf,17:13,2
+ICE 118,Koblenz Hbf,20:35,Münster(Westf)Hbf,17:44,19
+IC 2048,Koblenz Hbf,21:30,Tübingen Hbf,17:48,
+EC 6,Koblenz Hbf,23:30,Hamburg-Altona,18:13,11
+ICE 114,Koblenz Hbf,21:09,Dortmund Hbf,18:44,
+ICE 929,Koblenz Hbf,00:50,Passau Hbf,18:48,36
+ICE 26,Koblenz Hbf,21:19,Dortmund Hbf,19:13,64
+IC 2440,Koblenz Hbf,22:22,Stuttgart Hbf,19:48,19
+ICE 1549,Koblenz Hbf,22:22,Dortmund Hbf,20:13,19
+ICE 1021,Koblenz Hbf,00:42,Nürnberg Hbf,20:48,14
+ICE 1222,Koblenz Hbf,23:21,Dortmund Hbf,21:13,FALSE
+IC 2442,Koblenz Hbf,23:13,Frankfurt(Main)Hbf,21:48,1
+IC 2343,Koblenz Hbf,23:23,Köln Hbf,22:13,11
+ICE 1627,Koblenz Hbf,00:13,Frankfurt(Main)Hbf,22:48,12
+ICE 22,Koblenz Hbf,01:20,Dortmund Hbf,23:13,3
+NJ 40425,Koblenz Hbf,10:13,Wien Hbf,23:25,49
+NJ NJ,Koblenz Hbf,22:34,Passau Hbf,23:25,
