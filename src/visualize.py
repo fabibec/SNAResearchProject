@@ -32,13 +32,6 @@ m = Basemap(
     suppress_ticks=True)
 
 
-def gini(x):
-    total = 0
-    for i, xi in enumerate(x[:-1], 1):
-        total += np.sum(np.abs(xi - x[i:]))
-    return total / (len(x)**2 * np.mean(x))
-
-
 def degree_distribution():
     plt.clf()
     graph = nx.from_pandas_edgelist(edge_list, 'source', 'target', create_using=nx.DiGraph())
@@ -53,8 +46,7 @@ def degree_distribution():
     plt.ylabel("Count")
     plt.xlabel("Degree")
 
-    labels = ['degree={0:.4g}'.format(sum(degree_sequence) / len(degree_sequence)),
-              'Gini={0:.4g}'.format(gini(np.array(degree_sequence)))]
+    labels = ['degree={0:.4g}'.format(sum(degree_sequence) / len(degree_sequence))]
 
     handles = [mpl_patches.Rectangle((0, 0), 1, 1, fc="white", ec="white",
                                      lw=0, alpha=0)] * 2
@@ -130,7 +122,7 @@ def power_law_fit():
     print(R, p)
 
     # Visualizing
-    fig = results.plot_ccdf(linewidth=3, label='Station Data')
+    fig = results.plot_ccdf(linewidth=3, label='Station Data', color=blue)
     plt.title("Power-Law Fit")
     results.power_law.plot_ccdf(ax=fig, color=red, linestyle='--', label='Power law fit')
     fig.set_ylabel("Count")
