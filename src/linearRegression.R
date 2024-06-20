@@ -108,7 +108,6 @@ ols_plot_resid_fit(modelTypeDel)
 
 # check if you can combine the models
 modelWholeMeta <- lm(avgDelayIn ~ controlCenter + federalState +  platforms + type + numTrainsIn, data = trains)
-car::vif(modelWholeMeta)
 summary(modelWholeMeta )
 ols_step_all_possible(modelWholeMeta )
 
