@@ -1,1389 +1,1389 @@
-source,target,sumDelay,numTrains,numDelayedTrains
-Dresden Hbf,Dresden-Neustadt,-207.0,807,558
-Dresden-Neustadt,Riesa,499.0,536,438
-Riesa,Leipzig Hbf,-1098.0,579,473
-Leipzig Hbf,Halle (Saale) Hbf,3189.0,1174,725
-Halle (Saale) Hbf,Köthen,18.0,502,374
-Köthen,Magdeburg Hbf,319.0,500,426
-Magdeburg Hbf,Braunschweig Hbf,33.0,205,186
-Braunschweig Hbf,Hannover Hbf,228.0,298,225
-Köln Hbf,Düsseldorf Hbf,-150.0,1452,1086
-Düsseldorf Hbf,Wuppertal Hbf,7202.0,639,575
-Wuppertal Hbf,Hagen Hbf,2660.0,1662,1307
-Hagen Hbf,Hamm (Westf) Hbf,-779.0,514,493
-Hamm (Westf) Hbf,Bielefeld Hbf,3364.0,1143,1131
-Bielefeld Hbf,Hannover Hbf,1563.0,1074,1056
-Hannover Hbf,Wolfsburg Hbf,-662.0,1119,1073
-Wolfsburg Hbf,Berlin-Spandau,-1760.0,1342,1011
-Berlin-Spandau,Berlin Hbf,2806.0,3320,2708
-Berlin Hbf,Berlin Ostbahnhof,809.0,1957,1411
-Frankfurt (Main) Hbf,Frankfurt am Main Flughafen Fernbahnhof,1356.0,1749,1549
-Frankfurt am Main Flughafen Fernbahnhof,Limburg Süd,-4777.0,940,819
-Limburg Süd,Montabaur,-678.0,1049,547
-Montabaur,Siegburg/Bonn,1272.0,1058,644
-Siegburg/Bonn,Köln Hbf,1192.0,625,539
-Karlsruhe Hbf,Pforzheim Hbf,-123.0,183,116
-Pforzheim Hbf,Mühlacker,-66.0,229,70
-Mühlacker,Vaihingen (Enz),108.0,147,62
-Vaihingen (Enz),Stuttgart Hbf,152.0,335,271
-Stuttgart Hbf,Schwäbisch Gmünd,207.0,189,184
-Schwäbisch Gmünd,Aalen Hbf,-93.0,302,261
-Aalen Hbf,Ellwangen,81.0,302,258
-Ellwangen,Crailsheim,328.0,243,242
-Crailsheim,Ansbach,1.0,299,286
-Ansbach,Nürnberg Hbf,-581.0,292,285
-Düsseldorf Hbf,Düsseldorf Flughafen,-385.0,722,548
-Düsseldorf Flughafen,Duisburg Hbf,709.0,876,645
-Duisburg Hbf,Oberhausen Hbf,-1148.0,346,273
-Oberhausen Hbf,Gelsenkirchen Hbf,574.0,343,169
-Gelsenkirchen Hbf,Wanne-Eickel Hbf,-7.0,306,148
-Wanne-Eickel Hbf,Recklinghausen Hbf,213.0,239,124
-Recklinghausen Hbf,Münster (Westf) Hbf,1643.0,275,241
-Münster (Westf) Hbf,Rheine,194.0,363,321
-Rheine,Lingen (Ems),306.0,362,320
-Lingen (Ems),Meppen,-419.0,362,300
-Meppen,Papenburg (Ems),-166.0,360,278
-Papenburg (Ems),Leer (Ostfriesl),-243.0,354,295
-Leer (Ostfriesl),Emden Hbf,279.0,698,613
-Emden Hbf,Norden,45.0,190,169
-Norden,Norddeich,-317.0,268,206
-Norddeich,Norddeich Mole,88.0,227,169
-Warnemünde,Rostock Hbf,-159.0,368,295
-Rostock Hbf,Berlin Hbf,-170.0,53,45
-Berlin Hbf,Bützow,75.0,109,87
-Bützow,Bad Kleinen,-32.0,150,82
-Bad Kleinen,Schwerin Hbf,89.0,151,95
-Schwerin Hbf,Ludwigslust,88.0,157,108
-Ludwigslust,Wittenberge,-408.0,706,407
-Wittenberge,Stendal Hbf,133.0,169,117
-Stendal Hbf,Magdeburg Hbf,446.0,168,152
-Magdeburg Hbf,Köthen,954.0,552,496
-Köthen,Halle (Saale) Hbf,-11.0,575,441
-Halle (Saale) Hbf,Leipzig Hbf,513.0,681,540
-Karlsruhe Hbf,Esslingen (Neckar),-68.0,54,26
-Esslingen (Neckar),Bruchsal,102.0,54,36
-Bruchsal,Stuttgart Hbf,268.0,156,151
-Stuttgart Hbf,Ulm Hbf,-1.0,1169,1074
-Ulm Hbf,Augsburg Hbf,413.0,1272,1187
-Augsburg Hbf,München-Pasing,-2781.0,1587,1414
-München-Pasing,München Hbf,2686.0,1437,1210
-Berlin Südkreuz,Berlin Hbf,2239.0,2587,2314
-Berlin Hbf,Berlin-Spandau,-3639.0,3230,3021
-Berlin-Spandau,Stendal Hbf,-258.0,751,492
-Stendal Hbf,Wolfsburg Hbf,18.0,671,417
-Wolfsburg Hbf,Braunschweig Hbf,-175.0,691,345
-Braunschweig Hbf,Hildesheim Hbf,695.0,710,370
-Hildesheim Hbf,Göttingen,-361.0,653,346
-Göttingen,Kassel-Wilhelmshöhe,2417.0,1803,1108
-Kassel-Wilhelmshöhe,Fulda,-921.0,1301,898
-München Hbf,Nürnberg Hbf,3455.0,1523,1337
-Nürnberg Hbf,Erfurt Hbf,802.0,650,612
-Erfurt Hbf,Halle (Saale) Hbf,-817.0,1097,783
-Halle (Saale) Hbf,Berlin Südkreuz,1622.0,912,769
-Berlin Hbf,Berlin Gesundbrunnen,-698.0,617,467
-München Hbf,München-Pasing,-652.0,1344,974
-München-Pasing,Augsburg Hbf,1428.0,1763,1553
-Augsburg Hbf,Günzburg,-18.0,157,132
-Günzburg,Ulm Hbf,134.0,151,132
-Ulm Hbf,Esslingen (Neckar),-3318.0,750,593
-Esslingen (Neckar),Stuttgart Hbf,5826.0,903,722
-Stuttgart Hbf,Mannheim Hbf,255.0,1573,1438
-Mannheim Hbf,Heidelberg Hbf,-614.0,694,456
-Heidelberg Hbf,Bensheim,289.0,195,82
-Bensheim,Darmstadt Hbf,190.0,353,123
-Darmstadt Hbf,Frankfurt (Main) Hbf,403.0,331,131
-Köln Hbf,Köln/Bonn Flughafen,162.0,81,55
-Köln/Bonn Flughafen,Siegburg/Bonn,-27.0,160,128
-Siegburg/Bonn,Montabaur,-764.0,851,551
-Montabaur,Limburg Süd,-728.0,959,525
-Limburg Süd,Frankfurt am Main Flughafen Fernbahnhof,2014.0,906,556
-Frankfurt am Main Flughafen Fernbahnhof,Frankfurt (Main) Hbf,39.0,1756,1468
-Frankfurt (Main) Hbf,Hanau Hbf,706.0,376,302
-Hanau Hbf,Aschaffenburg Hbf,90.0,239,227
-Aschaffenburg Hbf,Würzburg Hbf,-377.0,742,728
-Würzburg Hbf,Nürnberg Hbf,-375.0,1741,1593
-Nürnberg Hbf,Ingolstadt Hbf,-506.0,1108,935
-Ingolstadt Hbf,München Hbf,775.0,1089,919
-Kassel-Wilhelmshöhe,Göttingen,1811.0,1824,1308
-Göttingen,Hildesheim Hbf,33.0,667,390
-Hildesheim Hbf,Braunschweig Hbf,-121.0,723,417
-Braunschweig Hbf,Wolfsburg Hbf,35.0,913,526
-Oberstdorf,Fischen,51.0,56,56
-Fischen,Sonthofen,199.0,56,56
-Sonthofen,Immenstadt,-28.0,56,56
-Immenstadt,Kempten (Allgäu) Hbf,-39.0,56,54
-Kempten (Allgäu) Hbf,Kaufbeuren,-62.0,55,52
-Kaufbeuren,Buchloe,-64.0,55,49
-Buchloe,Augsburg Hbf,91.0,56,48
-Augsburg Hbf,Donauwörth,491.0,470,434
-Donauwörth,Treuchtlingen,83.0,260,231
-Treuchtlingen,Ansbach,-455.0,96,96
-Ansbach,Würzburg Hbf,250.0,96,96
-Würzburg Hbf,Fulda,13.0,863,774
-Fulda,Kassel-Wilhelmshöhe,105.0,1551,1118
-Göttingen,Hannover Hbf,-703.0,1157,859
-Hannover Hbf,Celle,120.0,682,373
-Celle,Uelzen,-706.0,655,368
-Uelzen,Lüneburg,-18.0,790,470
-Lüneburg,Hamburg-Harburg,1274.0,930,589
-Hamburg-Harburg,Hamburg Hbf,9701.0,2099,1776
-Hamburg Hbf,Hamburg Dammtor,1482.0,1618,1468
-Hamburg Dammtor,Hamburg-Altona,-890.0,1365,1186
-München Hbf,Ingolstadt Hbf,772.0,1299,1084
-Ingolstadt Hbf,Nürnberg Hbf,1337.0,1409,1149
-Nürnberg Hbf,Würzburg Hbf,758.0,1799,1616
-Würzburg Hbf,Kassel-Wilhelmshöhe,21.0,51,39
-Göttingen,Celle,53.0,46,44
-Celle,Hannover Hbf,-24.0,611,303
-Hannover Hbf,Uelzen,-350.0,102,93
-Kassel-Wilhelmshöhe,Düsseldorf Hbf,0.0,22,0
-Duisburg Hbf,Essen Hbf,-155.0,2476,1959
-Essen Hbf,Eisenach,0.0,40,0
-Eisenach,Gotha,-129.0,659,448
-Gotha,Bochum Hbf,-1.0,56,20
-Bochum Hbf,Erfurt Hbf,0.0,40,0
-Erfurt Hbf,Köln Hbf,0.0,6,0
-Köln Hbf,Dortmund Hbf,278.0,57,26
-Dortmund Hbf,Gera Hbf,0.0,5,0
-Gera Hbf,Hermsdorf-Klosterlausnitz,-23.0,98,46
-Hermsdorf-Klosterlausnitz,Stadtroda,-1.0,97,52
-Stadtroda,Jena-Göschwitz,8.0,134,40
-Jena-Göschwitz,Weimar,10.0,57,16
-Berlin Ostbahnhof,Berlin Hbf,708.0,842,698
-Wolfsburg Hbf,Hannover Hbf,1153.0,1717,1318
-Hannover Hbf,Nienburg (Weser),404.0,302,276
-Nienburg (Weser),Verden (Aller),-64.0,297,230
-Verden (Aller),Hamburg-Harburg,-461.0,57,38
-Hamburg-Harburg,Bremen Hbf,2794.0,700,629
-Bremen Hbf,Delmenhorst,47.0,378,341
-Delmenhorst,Oldenburg (Oldb) Hbf,233.0,60,49
-Hamburg Hbf,Hamburg-Harburg,-7914.0,2011,1481
-Hamburg-Harburg,Hannover Hbf,6094.0,659,502
-Hannover Hbf,Göttingen,269.0,1498,1168
-Fulda,Würzburg Hbf,-77.0,947,853
-Treuchtlingen,Nürnberg Hbf,-16.0,155,130
-Nürnberg Hbf,Erlangen,553.0,459,421
-Erlangen,Bamberg,592.0,423,366
-Bamberg,Coburg,44.0,105,93
-Coburg,Erfurt Hbf,-92.0,154,144
-Erfurt Hbf,Leipzig Hbf,-1555.0,1147,928
-Köln Hbf,Siegburg/Bonn,1055.0,624,450
-Frankfurt (Main) Hbf,Friedberg (Hess),-53.0,90,39
-Friedberg (Hess),Gießen,64.0,148,33
-Gießen,Marburg (Lahn),5.0,153,33
-Marburg (Lahn),Treysa,33.0,154,33
-Treysa,Wabern (Bz Kassel),-57.0,105,32
-Wabern (Bz Kassel),Kassel-Wilhelmshöhe,58.0,91,20
-Hamburg-Altona,Hamburg Dammtor,169.0,1123,675
-Hamburg Dammtor,Hamburg Hbf,-3.0,1097,688
-Hamburg Hbf,Ludwigslust,-455.0,488,379
-Ludwigslust,Berlin-Spandau,-61.0,205,172
-Berlin Hbf,Berlin Südkreuz,67.0,2328,2006
-Hannover Hbf,Braunschweig Hbf,211.0,441,390
-Wolfsburg Hbf,Stendal Hbf,65.0,613,486
-Stendal Hbf,Berlin-Spandau,-1133.0,600,491
-Hannover Hbf,Hamburg-Harburg,-2083.0,681,444
-Ostseebad Binz,Bergen auf Rügen,50.0,434,142
-Bergen auf Rügen,Stralsund Hbf,54.0,393,165
-Stralsund Hbf,Greifswald,39.0,276,135
-Greifswald,Ribnitz-Damgarten West,-118.0,110,52
-Ribnitz-Damgarten West,Züssow,67.0,110,14
-Züssow,Anklam,-46.0,330,100
-Anklam,Pasewalk,328.0,332,160
-Pasewalk,Neustrelitz Hbf,-177.0,57,56
-Neustrelitz Hbf,Prenzlau,186.0,57,56
-Prenzlau,Angermünde,-103.0,315,164
-Angermünde,Eberswalde Hbf,-201.0,274,208
-Eberswalde Hbf,Berlin Gesundbrunnen,51.0,268,164
-Berlin Gesundbrunnen,Berlin Hbf,1040.0,760,574
-Hamburg-Harburg,Lüneburg,2043.0,865,533
-Lüneburg,Uelzen,157.0,675,394
-Uelzen,Celle,-553.0,659,317
-Magdeburg Hbf,Helmstedt,78.0,289,253
-Helmstedt,Braunschweig Hbf,-88.0,343,236
-Nienburg (Weser),Minden (Westf),-244.0,49,34
-Minden (Westf),Verden (Aller),982.0,186,154
-Verden (Aller),Bremen Hbf,725.0,288,253
-Delmenhorst,Hude,32.0,321,260
-Hude,Oldenburg (Oldb) Hbf,-67.0,332,274
-Oldenburg (Oldb) Hbf,Bad Zwischenahn,71.0,274,251
-Bad Zwischenahn,Westerstede-Ocholt,-173.0,335,293
-Westerstede-Ocholt,Augustfehn,-141.0,336,271
-Augustfehn,Leer (Ostfriesl),50.0,290,251
-Hamburg Hbf,Berlin-Spandau,841.0,529,397
-Berlin Südkreuz,Leipzig Hbf,35.0,522,456
-Leipzig Hbf,Erfurt Hbf,399.0,845,668
-Erfurt Hbf,Würzburg Hbf,-169.0,20,11
-Würzburg Hbf,Bamberg,103.0,50,4
-Bamberg,Augsburg Hbf,-105.0,50,6
-Augsburg Hbf,Erlangen,120.0,50,5
-Erlangen,Nürnberg Hbf,1539.0,573,477
-Berlin Hbf,Berlin Zoologischer Garten,-734.0,298,259
-Berlin Zoologischer Garten,Berlin-Spandau,475.0,287,148
-Berlin-Spandau,Wolfsburg Hbf,-444.0,1638,1241
-Hannover Hbf,Minden (Westf),30.0,840,772
-Minden (Westf),Bielefeld Hbf,1886.0,535,527
-Bielefeld Hbf,Hagen Hbf,1591.0,363,360
-Hagen Hbf,Wuppertal Hbf,3487.0,1354,1048
-Wuppertal Hbf,Köln Hbf,998.0,552,542
-Köln Hbf,Bonn Hbf,1171.0,664,555
-München Hbf,Augsburg Hbf,93.0,111,94
-Augsburg Hbf,Esslingen (Neckar),-672.0,164,122
-Esslingen (Neckar),Ulm Hbf,2430.0,373,303
-Ulm Hbf,Stuttgart Hbf,653.0,717,670
-Mannheim Hbf,Limburg Süd,-243.0,57,52
-Frankfurt am Main Flughafen Fernbahnhof,Siegburg/Bonn,-1958.0,593,585
-Siegburg/Bonn,Köln Messe/Deutz,1362.0,844,761
-Köln Messe/Deutz,Düsseldorf Hbf,848.0,999,901
-Düsseldorf Hbf,Duisburg Hbf,2419.0,1866,1580
-Essen Hbf,Bochum Hbf,-345.0,1879,1490
-Bochum Hbf,Dortmund Hbf,624.0,1764,1511
-Augsburg Hbf,Ulm Hbf,253.0,1195,999
-Mannheim Hbf,Frankfurt am Main Flughafen Fernbahnhof,4991.0,1007,993
-Kassel-Wilhelmshöhe,Wabern (Bz Kassel),145.0,247,54
-Wabern (Bz Kassel),Treysa,24.0,254,57
-Treysa,Marburg (Lahn),-79.0,273,66
-Marburg (Lahn),Gießen,33.0,268,66
-Gießen,Friedberg (Hess),-20.0,272,66
-Friedberg (Hess),Frankfurt (Main) Hbf,-37.0,221,49
-Frankfurt (Main) Hbf,Darmstadt Hbf,-229.0,403,170
-Darmstadt Hbf,Bensheim,53.0,368,85
-Bensheim,Heidelberg Hbf,54.0,230,72
-Heidelberg Hbf,Wiesloch-Walldorf,128.0,309,98
-Wiesloch-Walldorf,Bruchsal,17.0,135,28
-Bruchsal,Karlsruhe Hbf,-4.0,301,223
-Hamburg Hbf,Büchen,-178.0,457,358
-Büchen,Ludwigslust,62.0,465,230
-Wittenberge,Berlin-Spandau,1156.0,476,363
-Berlin Südkreuz,Berlin Ostbahnhof,-889.0,102,80
-Stuttgart Hbf,Heidelberg Hbf,23.0,106,56
-Heidelberg Hbf,Mannheim Hbf,596.0,450,328
-Mannheim Hbf,Mainz Hbf,1124.0,350,289
-Mainz Hbf,Bingen (Rhein) Hbf,231.0,217,114
-Bingen (Rhein) Hbf,Koblenz Hbf,-109.0,168,101
-Koblenz Hbf,Köln Messe/Deutz,-816.0,258,121
-Köln Messe/Deutz,Andernach,695.0,202,93
-Andernach,Remagen,37.0,334,139
-Remagen,Bonn Hbf,94.0,311,125
-Bonn Hbf,Köln Hbf,1944.0,657,504
-Köln Hbf,Wuppertal Hbf,1088.0,489,459
-Hagen Hbf,Berlin Zoologischer Garten,-989.0,52,52
-Berlin Zoologischer Garten,Bielefeld Hbf,830.0,50,45
-Hannover Hbf,Berlin-Spandau,-263.0,374,362
-Dortmund Hbf,Hamm (Westf) Hbf,2548.0,1280,1119
-Bielefeld Hbf,Minden (Westf),-510.0,397,392
-Minden (Westf),Hannover Hbf,1386.0,554,545
-Frankfurt (Main) Hbf,Mannheim Hbf,2167.0,421,381
-Mannheim Hbf,Karlsruhe Hbf,2319.0,183,131
-Karlsruhe Hbf,Baden-Baden,220.0,94,48
-Baden-Baden,Offenburg,-32.0,92,43
-Offenburg,Freiburg (Breisgau) Hbf,2.0,17,10
-Emden Hbf,Marienhafe,-9.0,91,71
-Marienhafe,Norden,-23.0,90,69
-Halle (Saale) Hbf,Köln Messe/Deutz,-4.0,56,4
-Köln Messe/Deutz,Bonn-Beuel,20.0,202,3
-Bonn-Beuel,Köthen,6.0,56,4
-Köthen,Bonn Hbf,-5.0,56,4
-Bonn Hbf,Koblenz Hbf,1700.0,512,368
-Koblenz Hbf,Mainz Hbf,-390.0,411,277
-Mainz Hbf,Frankfurt am Main Flughafen Fernbahnhof,193.0,359,232
-Frankfurt (Main) Hbf,Magdeburg Hbf,1.0,17,1
-Minden (Westf),Bad Oeynhausen,-97.0,198,160
-Bad Oeynhausen,Herford,37.0,182,154
-Herford,Bielefeld Hbf,333.0,484,401
-Bielefeld Hbf,Gütersloh Hbf,-463.0,295,238
-Gütersloh Hbf,Hamm (Westf) Hbf,1024.0,390,294
-Hamm (Westf) Hbf,Dortmund Hbf,-1057.0,1402,1314
-Dortmund Hbf,Hagen Hbf,1264.0,903,789
-Wuppertal Hbf,Solingen Hbf,-63.0,459,363
-Solingen Hbf,Köln Hbf,9005.0,912,777
-Stuttgart Hbf,Chemnitz Hbf,-47.0,34,19
-Chemnitz Hbf,Schorndorf,83.0,40,24
-Schorndorf,Schwäbisch Gmünd,-26.0,111,88
-Ellwangen,Dresden Hbf,-126.0,57,36
-Dresden Hbf,Crailsheim,80.0,33,23
-Schwerin Hbf,Hamburg Dammtor,-97.0,52,12
-Hamburg-Altona,Hamburg-Harburg,-86.0,53,16
-Hamburg-Harburg,Recklinghausen Hbf,504.0,50,31
-Recklinghausen Hbf,Essen Hbf,54.0,259,156
-Essen Hbf,Köln Messe/Deutz,-1121.0,101,65
-Köln Messe/Deutz,Duisburg Hbf,1772.0,208,169
-Duisburg Hbf,Düsseldorf Hbf,3323.0,1950,1537
-Düsseldorf Hbf,Hamburg Hbf,-590.0,47,37
-Hamburg Hbf,Bonn-Beuel,-348.0,52,31
-Bonn-Beuel,Solingen Hbf,114.0,53,6
-Koblenz Hbf,Bingen (Rhein) Hbf,263.0,218,178
-Bingen (Rhein) Hbf,Mainz Hbf,0.0,266,183
-Aschaffenburg Hbf,Ostseebad Binz,-1044.0,32,32
-Stralsund Hbf,Velgast,-24.0,362,110
-Velgast,Ribnitz-Damgarten West,-30.0,369,95
-Ribnitz-Damgarten West,Rostock Hbf,48.0,369,120
-Rostock Hbf,Bützow,-24.0,407,146
-Bützow,Fürth (Bay) Hbf,121.0,55,12
-Fürth (Bay) Hbf,Würzburg Hbf,1490.0,46,44
-Dortmund Hbf,Köln Hbf,537.0,68,54
-Essen Hbf,Solingen Hbf,-615.0,150,105
-Solingen Hbf,Münster (Westf) Hbf,2486.0,175,163
-Münster (Westf) Hbf,Hamburg-Harburg,-234.0,102,100
-Hamburg Dammtor,Itzehoe,192.0,256,180
-Itzehoe,Heide (Holst),866.0,310,227
-Heide (Holst),Husum,224.0,312,227
-Husum,Niebüll,209.0,313,226
-Stuttgart Hbf,Vaihingen (Enz),-85.0,518,436
-Vaihingen (Enz),Bruchsal,205.0,53,40
-Frankfurt (Main) Hbf,Fulda,-2991.0,695,555
-Fulda,Bad Hersfeld,-165.0,419,300
-Bad Hersfeld,Eisenach,840.0,406,295
-Gotha,Erfurt Hbf,109.0,550,425
-Leipzig Hbf,Riesa,-104.0,543,456
-Riesa,Dresden-Neustadt,508.0,530,499
-Dresden-Neustadt,Dresden Hbf,-15.0,952,812
-Köln Hbf,Köln Messe/Deutz,-131.0,361,325
-Köln Messe/Deutz,Solingen Hbf,1220.0,298,142
-Solingen Hbf,Düsseldorf Hbf,-6410.0,804,654
-Duisburg Hbf,Wuppertal Hbf,-75.0,40,23
-Wuppertal Hbf,Mülheim (Ruhr) Hbf,73.0,40,17
-Mülheim (Ruhr) Hbf,Essen Hbf,-108.0,146,92
-Essen Hbf,Hagen Hbf,-65.0,40,18
-Hagen Hbf,Bochum Hbf,98.0,95,46
-Dortmund Hbf,Münster (Westf) Hbf,2135.0,610,578
-Münster (Westf) Hbf,Osnabrück Hbf,-10.0,776,671
-Osnabrück Hbf,Diepholz,-68.0,94,41
-Diepholz,Bremen Hbf,-28.0,84,21
-Bremen Hbf,Hamburg-Harburg,304.0,650,540
-Hamburg Hbf,Hamburg-Altona,134.0,412,325
-Koblenz Hbf,Radolfzell,-110.0,39,29
-Radolfzell,Köln Messe/Deutz,50.0,48,12
-Andernach,Donaueschingen,-108.0,44,23
-Donaueschingen,Villingen (Schwarzw),-3.0,49,5
-Villingen (Schwarzw),Triberg,14.0,49,8
-Triberg,Hausach,14.0,49,8
-Hausach,Offenburg,74.0,49,14
-Offenburg,Baden-Baden,141.0,161,37
-Baden-Baden,Karlsruhe Hbf,8.0,73,15
-Karlsruhe Hbf,Mannheim Hbf,3.0,209,72
-Mannheim Hbf,Worms Hbf,-3.0,58,13
-Worms Hbf,Mainz Hbf,-8.0,58,11
-Bingen (Rhein) Hbf,Remagen,133.0,44,22
-Remagen,Bonn-Beuel,-189.0,97,42
-Bonn-Beuel,Bonn Hbf,434.0,201,141
-Emden Hbf,Konstanz,0.0,0,0
-Konstanz,Singen (Hohentwiel),3.0,49,8
-Berlin Gesundbrunnen,Berlin Ostbahnhof,-424.0,171,68
-Berlin Hbf,Berlin-Wannsee,217.0,66,51
-Berlin-Wannsee,Potsdam Hbf,16.0,76,56
-Potsdam Hbf,Brandenburg Hbf,102.0,77,58
-Brandenburg Hbf,Magdeburg Hbf,86.0,77,71
-Stuttgart Hbf,Bruchsal,-242.0,239,203
-Dortmund Hbf,Witten Hbf,189.0,234,217
-Witten Hbf,Altena (Westf),510.0,242,208
-Altena (Westf),Werdohl,82.0,241,200
-Werdohl,Plettenberg,81.0,242,201
-Plettenberg,Finnentrop,62.0,242,205
-Finnentrop,Lennestadt-Grevenbrück,-10.0,243,214
-Lennestadt-Grevenbrück,Lennestadt-Altenhundem,-224.0,243,208
-Lennestadt-Altenhundem,Kreuztal,115.0,236,195
-Kreuztal,Siegen-Weidenau,168.0,234,204
-Siegen-Weidenau,Dillenburg,349.0,167,158
-Dillenburg,Wetzlar,114.0,172,160
-Wetzlar,Bad Nauheim,280.0,221,187
-Bad Nauheim,Frankfurt (Main) West,117.0,219,185
-Frankfurt (Main) West,Frankfurt (Main) Hbf,-466.0,210,188
-Berlin Ostbahnhof,Wolfsburg Hbf,-27.0,46,15
-Wolfsburg Hbf,Berlin Hbf,17.0,29,7
-Berlin-Spandau,Hannover Hbf,47.0,538,466
-Hannover Hbf,Herford,215.0,147,115
-Bielefeld Hbf,Wuppertal Hbf,-632.0,94,81
-Wuppertal Hbf,Gütersloh Hbf,370.0,93,79
-Dortmund Hbf,Bochum Hbf,-242.0,1303,1064
-Bochum Hbf,Essen Hbf,163.0,1612,1169
-Essen Hbf,Mülheim (Ruhr) Hbf,-8.0,146,93
-Mülheim (Ruhr) Hbf,Duisburg Hbf,32.0,93,61
-Düsseldorf Hbf,Solingen Hbf,-172.0,968,824
-Köln Hbf,Aachen Hbf,-135.0,41,33
-Stuttgart Hbf,Böblingen,142.0,110,53
-Böblingen,Herrenberg,86.0,124,77
-Herrenberg,Gäufelden,-102.0,130,68
-Gäufelden,Bondorf (b Herrenberg),33.0,80,45
-Bondorf (b Herrenberg),Horb,126.0,97,68
-Horb,Berlin-Spandau,-99.0,51,35
-Berlin-Spandau,Oberndorf (Neckar),78.0,48,16
-Oberndorf (Neckar),Sulz (Neckar),42.0,148,74
-Sulz (Neckar),Rottweil,50.0,51,38
-Würzburg Hbf,Aschaffenburg Hbf,770.0,1023,854
-Aschaffenburg Hbf,Frankfurt (Main) Hbf,2066.0,903,794
-Frankfurt am Main Flughafen Fernbahnhof,Köln Hbf,-1727.0,215,214
-Essen Hbf,Düsseldorf Hbf,494.0,85,41
-Bremen Hbf,Osnabrück Hbf,-893.0,486,469
-Osnabrück Hbf,Münster (Westf) Hbf,7.0,833,750
-Münster (Westf) Hbf,Dortmund Hbf,1488.0,404,383
-Wuppertal Hbf,Gelsenkirchen Hbf,-15.0,50,8
-Gelsenkirchen Hbf,Bochum Hbf,2336.0,153,141
-Essen Hbf,Duisburg Hbf,-140.0,2285,1726
-Düsseldorf Hbf,Köln Messe/Deutz,-431.0,1130,961
-Siegburg/Bonn,Frankfurt am Main Flughafen Fernbahnhof,3.0,387,367
-Frankfurt am Main Flughafen Fernbahnhof,Mannheim Hbf,4311.0,981,966
-Mannheim Hbf,Stuttgart Hbf,512.0,1353,1319
-Frankfurt am Main Flughafen Fernbahnhof,Köln Messe/Deutz,-1032.0,353,346
-Dresden-Neustadt,Berlin Südkreuz,55.0,57,56
-Berlin Hbf,Berlin-Lichtenberg,-66.0,57,53
-Berlin-Lichtenberg,Berlin Gesundbrunnen,-14.0,112,26
-Berlin Gesundbrunnen,Berlin-Spandau,1580.0,320,146
-Berlin-Spandau,Wittenberge,-1723.0,429,364
-Wittenberge,Ludwigslust,-181.0,545,306
-Ludwigslust,Büchen,-132.0,285,107
-Büchen,Hamburg-Bergedorf,41.0,87,48
-Hamburg-Bergedorf,Hamburg Hbf,27.0,81,57
-München Hbf,München Ost,0.0,10,0
-München Ost,Rosenheim,0.0,112,0
-Karlsruhe Hbf,Bruchsal,33.0,339,173
-Stuttgart Hbf,Esslingen (Neckar),-1550.0,208,198
-Köln Messe/Deutz,Bonn Hbf,1392.0,201,184
-Mainz Hbf,Mannheim Hbf,1134.0,426,296
-Heidelberg Hbf,Vaihingen (Enz),655.0,174,133
-Jena-Göschwitz,Jena West,-17.0,85,31
-Jena West,Weimar,-1.0,93,54
-Weimar,Erfurt Hbf,96.0,141,81
-Erfurt Hbf,Gotha,-640.0,603,474
-Gotha,Eisenach,-107.0,564,385
-Eisenach,Kassel-Wilhelmshöhe,231.0,94,76
-Kassel-Wilhelmshöhe,Warburg (Westf),53.0,55,52
-Warburg (Westf),Altenbeken,130.0,55,54
-Altenbeken,Paderborn Hbf,-10.0,55,53
-Paderborn Hbf,Lippstadt,28.0,55,55
-Lippstadt,Soest,26.0,55,52
-Soest,Hamm (Westf) Hbf,97.0,55,55
-Duisburg Hbf,Düsseldorf Flughafen,905.0,671,583
-Düsseldorf Flughafen,Düsseldorf Hbf,-103.0,671,573
-Stuttgart Hbf,Wiesloch-Walldorf,-11.0,87,71
-Wiesloch-Walldorf,Heidelberg Hbf,55.0,257,107
-Niebüll,Westerland (Sylt),1178.0,351,198
-Mühlacker,Stuttgart Hbf,100.0,82,35
-Bamberg,Lichtenfels,183.0,133,133
-Lichtenfels,Kronach,-86.0,133,128
-Kronach,Ludwigsstadt,-58.0,133,123
-Ludwigsstadt,Saalfeld (Saale),-230.0,133,116
-Saalfeld (Saale),Rudolstadt (Thür),-148.0,133,97
-Rudolstadt (Thür),Jena-Göschwitz,-4.0,133,104
-Jena-Göschwitz,Jena Paradies,26.0,165,114
-Jena Paradies,Naumburg (Saale) Hbf,15.0,178,110
-Naumburg (Saale) Hbf,Weißenfels,12.0,181,104
-Weißenfels,Leipzig Hbf,88.0,182,117
-Mannheim Hbf,Frankfurt (Main) Hbf,2514.0,446,436
-Frankfurt (Main) Hbf,Kassel-Wilhelmshöhe,-1837.0,391,387
-Berlin-Spandau,Fulda,259.0,55,34
-Fulda,Berlin Ostbahnhof,-286.0,55,42
-Berlin Ostbahnhof,Erfurt Hbf,822.0,100,76
-Berlin Hbf,Hamburg Hbf,-318.0,100,92
-Köln Hbf,Berlin-Spandau,813.0,155,141
-Vaihingen (Enz),Wiesloch-Walldorf,-31.0,69,20
-Mainz Hbf,Wiesbaden Hbf,773.0,237,152
-Dresden-Neustadt,Elsterwerda,10.0,407,241
-Elsterwerda,Doberlug-Kirchhain,-96.0,268,165
-Doberlug-Kirchhain,Berlin Südkreuz,936.0,303,257
-Berlin Gesundbrunnen,Oranienburg,382.0,279,225
-Oranienburg,Neustrelitz Hbf,-509.0,281,217
-Neustrelitz Hbf,Waren (Müritz),-70.0,279,183
-Waren (Müritz),Schwerin Hbf,-704.0,181,128
-Schwerin Hbf,Rostock Hbf,1246.0,245,129
-Rostock Hbf,Warnemünde,-289.0,294,191
-Donauwörth,Nürnberg Hbf,164.0,209,178
-Nürnberg Hbf,Bamberg,570.0,386,355
-Bamberg,Erfurt Hbf,-753.0,513,469
-Halle (Saale) Hbf,Bitterfeld,142.0,439,370
-Bitterfeld,Berlin Südkreuz,344.0,488,455
-Berlin-Spandau,Hamburg Hbf,3810.0,677,620
-Köln Messe/Deutz,Siegburg/Bonn,-509.0,372,264
-Limburg Süd,Köln Hbf,1035.0,95,42
-Köln Hbf,Frankfurt am Main Flughafen Fernbahnhof,1195.0,249,219
-Hannover Hbf,Bielefeld Hbf,2754.0,933,920
-Bielefeld Hbf,Hamm (Westf) Hbf,1738.0,1193,1177
-Münster (Westf) Hbf,Gelsenkirchen Hbf,-1206.0,143,138
-Gelsenkirchen Hbf,Essen Hbf,392.0,221,147
-Düsseldorf Hbf,Köln Hbf,10841.0,1227,1019
-Frankfurt (Main) Hbf,Erfurt Hbf,320.0,115,50
-Büchen,Hamburg Hbf,2523.0,218,202
-Duisburg Hbf,Mülheim (Ruhr) Hbf,365.0,106,70
-Münster (Westf) Hbf,Bremen Hbf,-15.0,48,40
-Bremen Hbf,Hamburg Hbf,-66.0,49,43
-Hannover Hbf,Bremen Hbf,220.0,57,41
-Berlin Hbf,Esslingen (Neckar),4.0,40,2
-Esslingen (Neckar),Karlsruhe Hbf,0.0,1,0
-Bruchsal,Wolfsburg Hbf,-18.0,40,14
-Braunschweig Hbf,Stuttgart Hbf,65.0,40,27
-Stuttgart Hbf,Hanau Hbf,-87.0,40,34
-Hanau Hbf,Würzburg Hbf,0.0,40,0
-Ingolstadt Hbf,Hildesheim Hbf,1.0,40,1
-Göttingen,Ulm Hbf,111.0,40,28
-München-Pasing,Frankfurt (Main) Hbf,-228.0,38,31
-Mannheim Hbf,München Hbf,264.0,39,29
-Wiesloch-Walldorf,Stuttgart Hbf,19.0,77,55
-Hamm (Westf) Hbf,Bochum Hbf,-165.0,44,40
-Duisburg Hbf,Krefeld Hbf,-4.0,45,14
-Krefeld Hbf,Viersen,-13.0,46,15
-Viersen,Mönchengladbach Hbf,-58.0,46,14
-Mönchengladbach Hbf,Rheydt Hbf,-150.0,64,22
-Rheydt Hbf,Erkelenz,76.0,103,19
-Erkelenz,Herzogenrath,-63.0,45,12
-Herzogenrath,Geilenkirchen,37.0,46,14
-Geilenkirchen,Aachen Hbf,31.0,104,18
-Aachen Hbf,Dortmund Hbf,223.0,30,19
-Norddeich Mole,Norden,-5.0,51,3
-Norden,Emden Hbf,93.0,149,83
-Emden Hbf,Leer (Ostfriesl),-82.0,598,371
-Leer (Ostfriesl),Papenburg (Ems),-37.0,360,169
-Papenburg (Ems),Meppen,165.0,359,204
-Meppen,Lingen (Ems),-153.0,417,205
-Limburg Süd,Köln Messe/Deutz,43.0,109,9
-Köln Messe/Deutz,Köln Hbf,2415.0,590,485
-Solingen Hbf,Wuppertal Hbf,-100.0,353,299
-Hagen Hbf,Dortmund Hbf,915.0,598,538
-Osnabrück Hbf,Bremen Hbf,-1095.0,551,517
-Göttingen,Hannover-Messe / Laatzen,-1228.0,205,144
-Hannover-Messe / Laatzen,Hannover Hbf,2513.0,309,193
-Norddeich,Norden,23.0,211,102
-Norden,Marienhafe,-31.0,109,62
-Marienhafe,Brandenburg Hbf,7.0,12,3
-Brandenburg Hbf,Potsdam Hbf,-7.0,96,53
-Potsdam Hbf,Augustfehn,-7.0,12,5
-Augustfehn,Westerstede-Ocholt,60.0,279,222
-Westerstede-Ocholt,Bad Zwischenahn,-98.0,280,216
-Bad Zwischenahn,Oldenburg (Oldb) Hbf,92.0,285,236
-Oldenburg (Oldb) Hbf,Hude,124.0,284,257
-Hude,Delmenhorst,101.0,187,156
-Delmenhorst,Berlin-Wannsee,15.0,12,5
-Berlin-Wannsee,Verden (Aller),-17.0,12,5
-Verden (Aller),Nienburg (Weser),143.0,323,217
-Nienburg (Weser),Berlin Gesundbrunnen,41.0,12,6
-Berlin Gesundbrunnen,Emden Hbf,-7.0,9,2
-Leer (Ostfriesl),Bremen Hbf,12.0,12,4
-Bremen Hbf,Braunschweig Hbf,1.0,12,5
-Braunschweig Hbf,Helmstedt,145.0,283,210
-Helmstedt,Rostock Hbf,-21.0,10,5
-Rostock Hbf,Riesa,3.0,12,2
-Riesa,Hannover Hbf,29.0,12,6
-Hannover Hbf,Bützow,-15.0,12,5
-Karlsruhe Hbf,Offenburg,7.0,13,10
-Offenburg,Hausach,18.0,62,17
-Hausach,Triberg,24.0,62,18
-Triberg,Villingen (Schwarzw),-36.0,62,18
-Villingen (Schwarzw),Donaueschingen,13.0,62,16
-Donaueschingen,Singen (Hohentwiel),-8.0,13,10
-Singen (Hohentwiel),Radolfzell,-2.0,97,17
-Leer (Ostfriesl),Augustfehn,71.0,268,233
-Delmenhorst,Bremen Hbf,-73.0,289,241
-Bremen Hbf,Verden (Aller),145.0,78,54
-Nienburg (Weser),Osnabrück Hbf,-134.0,35,30
-Osnabrück Hbf,Hannover Hbf,436.0,141,137
-Hannover Hbf,Peine,93.0,72,50
-Peine,Braunschweig Hbf,-17.0,82,46
-Helmstedt,Magdeburg Hbf,70.0,261,207
-Düsseldorf Hbf,Neuss Hbf,-8.0,48,41
-Neuss Hbf,Mönchengladbach Hbf,2.0,47,40
-Erkelenz,Geilenkirchen,-8.0,57,6
-Köln Messe/Deutz,Wuppertal Hbf,2430.0,322,239
-Hagen Hbf,Montabaur,-167.0,106,14
-Montabaur,Düsseldorf Hbf,2353.0,104,85
-Essen Hbf,Gelsenkirchen Hbf,-654.0,53,36
-Gelsenkirchen Hbf,Recklinghausen Hbf,50.0,95,41
-Recklinghausen Hbf,Bochum Hbf,64.0,53,36
-Bochum Hbf,Siegburg/Bonn,543.0,54,47
-Siegburg/Bonn,Dortmund Hbf,-521.0,54,54
-Köln Hbf,Solingen Hbf,-1567.0,856,647
-Husum,Bredstedt,17.0,18,12
-Bredstedt,Langenhorn (Schlesw),171.0,122,91
-Langenhorn (Schlesw),Niebüll,40.0,140,65
-Westerland (Sylt),Niebüll,-1098.0,252,147
-Niebüll,Husum,293.0,285,186
-Husum,Heide (Holst),246.0,287,187
-Heide (Holst),Itzehoe,151.0,184,115
-Itzehoe,Hamburg Dammtor,142.0,129,67
-Friedberg (Hess),Stuttgart Hbf,-144.0,35,4
-Stuttgart Hbf,Frankfurt (Main) Hbf,139.0,35,4
-Bützow,Ludwigslust,-243.0,85,52
-Ludwigslust,Schwerin Hbf,835.0,359,193
-Schwerin Hbf,Hamburg Hbf,138.0,206,96
-Bruchsal,Karlsruhe-Durlach,-84.0,155,46
-Karlsruhe-Durlach,Neu-Edingen/Friedrichsfeld,-63.0,54,3
-Neu-Edingen/Friedrichsfeld,Karlsruhe Hbf,739.0,80,25
-Leipzig Hbf,Berlin Südkreuz,1244.0,637,487
-Schwerin Hbf,Bützow,-239.0,168,86
-Bützow,Rostock Hbf,432.0,366,224
-Rostock Hbf,Ribnitz-Damgarten West,35.0,271,152
-Ribnitz-Damgarten West,Velgast,-104.0,307,125
-Velgast,Stralsund Hbf,-28.0,309,115
-Stralsund Hbf,Bergen auf Rügen,-75.0,345,163
-Bergen auf Rügen,Ostseebad Binz,-43.0,352,121
-Lüneburg,Hannover Hbf,-238.0,273,185
-Göttingen,Frankfurt (Main) Hbf,298.0,56,46
-Kassel-Wilhelmshöhe,Frankfurt am Main Flughafen Fernbahnhof,469.0,102,102
-Kassel-Wilhelmshöhe,Eisenach,677.0,205,129
-Erfurt Hbf,Weimar,-474.0,150,86
-Weimar,Jena West,-8.0,98,66
-Jena West,Jena-Göschwitz,13.0,98,73
-Jena-Göschwitz,Stadtroda,-37.0,88,68
-Stadtroda,Hermsdorf-Klosterlausnitz,53.0,93,64
-Hermsdorf-Klosterlausnitz,Gera Hbf,-23.0,96,55
-Köln Hbf,Frankfurt (Main) Hbf,1075.0,97,95
-Hanau Hbf,Kassel-Wilhelmshöhe,694.0,148,132
-Kassel-Wilhelmshöhe,Celle,-582.0,98,44
-Celle,Göttingen,637.0,108,46
-Hamburg-Harburg,Heidelberg Hbf,-928.0,48,32
-Heidelberg Hbf,Mainz Hbf,0.0,51,0
-Mainz Hbf,Koblenz Hbf,224.0,367,249
-Koblenz Hbf,Bielefeld Hbf,0.0,51,0
-Bielefeld Hbf,Berlin-Spandau,122.0,53,2
-Berlin Ostbahnhof,Hamburg Hbf,1031.0,52,43
-Frankfurt am Main Flughafen Fernbahnhof,Hanau Hbf,77.0,352,128
-Hanau Hbf,Fulda,-557.0,414,95
-Freiberg (Sachs),Dresden Hbf,36.0,86,51
-Elsterwerda,Riesa,-717.0,139,114
-Riesa,Doberlug-Kirchhain,138.0,39,21
-Warnemünde,Chemnitz Hbf,0.0,0,0
-Ludwigslust,Hamburg Hbf,1205.0,460,373
-Berlin Südkreuz,Halle (Saale) Hbf,-753.0,950,736
-Halle (Saale) Hbf,Erfurt Hbf,1361.0,1331,1011
-Erfurt Hbf,Nürnberg Hbf,2622.0,514,480
-Nürnberg Hbf,München Hbf,1676.0,1673,1545
-Berlin Südkreuz,Bitterfeld,173.0,214,159
-Bitterfeld,Leipzig Hbf,-1209.0,159,151
-Erfurt Hbf,Bamberg,-941.0,368,315
-Bamberg,Nürnberg Hbf,340.0,147,128
-Nürnberg Hbf,Donauwörth,54.0,154,152
-Donauwörth,Augsburg Hbf,119.0,194,182
-Koblenz Hbf,Andernach,54.0,168,118
-Bonn Hbf,Köln Messe/Deutz,-1187.0,269,145
-Hamm (Westf) Hbf,Gütersloh Hbf,205.0,316,307
-Gütersloh Hbf,Bielefeld Hbf,65.0,314,288
-Bielefeld Hbf,Herford,-196.0,313,283
-Herford,Bad Oeynhausen,3.0,209,183
-Bad Oeynhausen,Minden (Westf),14.0,211,194
-Braunschweig Hbf,Magdeburg Hbf,441.0,222,203
-Leipzig Hbf,München Hbf,-237.0,51,33
-München-Pasing,Stuttgart Hbf,0.0,54,0
-Stuttgart Hbf,Saarbrücken Hbf,14.0,56,2
-Saarbrücken Hbf,Riesa,312.0,51,39
-Köln Messe/Deutz,Esslingen (Neckar),-438.0,112,104
-Esslingen (Neckar),Siegburg/Bonn,453.0,112,84
-Frankfurt am Main Flughafen Fernbahnhof,Heidelberg Hbf,-209.0,55,37
-Konstanz,Radolfzell,7.0,89,28
-Radolfzell,Singen (Hohentwiel),8.0,126,36
-Singen (Hohentwiel),Engen,39.0,159,64
-Engen,Tuttlingen,70.0,155,87
-Tuttlingen,Spaichingen,26.0,107,70
-Spaichingen,Rottweil,71.0,129,76
-Rottweil,Oberndorf (Neckar),-56.0,106,70
-Sulz (Neckar),Horb,151.0,100,68
-Horb,Bondorf (b Herrenberg),-74.0,101,69
-Bondorf (b Herrenberg),Gäufelden,-120.0,108,57
-Gäufelden,Herrenberg,95.0,107,57
-Herrenberg,Böblingen,-30.0,106,60
-Böblingen,Stuttgart Hbf,171.0,155,81
-Schwerin Hbf,Büchen,-51.0,31,19
-Kassel-Wilhelmshöhe,Berlin Südkreuz,1399.0,239,184
-Erfurt Hbf,Fulda,300.0,278,248
-Fulda,Frankfurt (Main) Hbf,1676.0,908,724
-Berlin-Spandau,Berlin Gesundbrunnen,-825.0,104,84
-Bamberg,Erlangen,50.0,376,257
-Kassel-Wilhelmshöhe,Würzburg Hbf,1177.0,57,55
-Würzburg Hbf,Ingolstadt Hbf,35.0,57,56
-Freiburg (Breisgau) Hbf,Berlin Hbf,-97.0,56,26
-Berlin Hbf,Offenburg,3.0,58,1
-Baden-Baden,Fulda,-237.0,58,36
-Fulda,Karlsruhe Hbf,280.0,58,43
-Limburg Süd,Wiesbaden Hbf,-44.0,94,76
-Wiesbaden Hbf,Mainz Hbf,116.0,260,142
-Eisenach,Bad Hersfeld,41.0,416,248
-Bad Hersfeld,Fulda,343.0,449,309
-Bremen Hbf,Hannover Hbf,105.0,34,29
-Berlin Hbf,Schwerin Hbf,-333.0,53,53
-Schwerin Hbf,Berlin Gesundbrunnen,222.0,49,40
-Waren (Müritz),Rostock Hbf,-122.0,101,62
-Leipzig Hbf,Bitterfeld,564.0,57,52
-Lüneburg,Göttingen,-35.0,35,5
-Frankfurt (Main) Hbf,Uelzen,24.0,28,4
-Berlin-Spandau,Ludwigslust,-317.0,211,168
-Itzehoe,Hamburg-Altona,7.0,10,8
-Heidelberg Hbf,Stuttgart Hbf,1036.0,473,346
-Hagen Hbf,Düsseldorf Hbf,-1303.0,265,208
-Berlin Gesundbrunnen,Bernau (b Berlin),133.0,113,109
-Bernau (b Berlin),Eberswalde Hbf,-255.0,159,149
-Eberswalde Hbf,Neustrelitz Hbf,-113.0,56,48
-Neustrelitz Hbf,Angermünde,191.0,109,66
-Angermünde,Prenzlau,29.0,276,144
-Prenzlau,Pasewalk,-59.0,270,141
-Pasewalk,Ribnitz-Damgarten West,-76.0,56,43
-Ribnitz-Damgarten West,Anklam,94.0,56,38
-Anklam,Züssow,95.0,276,162
-Züssow,Greifswald,-146.0,276,167
-Greifswald,Stralsund Hbf,-16.0,320,171
-Stralsund Hbf,Ribnitz-Damgarten West,-128.0,96,46
-Ribnitz-Damgarten West,Neustrelitz Hbf,-4.0,43,1
-Neustrelitz Hbf,Greifswald,88.0,35,14
-Greifswald,Züssow,-28.0,215,56
-Pasewalk,Prenzlau,30.0,329,162
-Oldenburg (Oldb) Hbf,Delmenhorst,15.0,45,30
-Nienburg (Weser),Hannover Hbf,378.0,220,153
-Hamburg-Altona,Berlin Ostbahnhof,0.0,1,0
-Berlin-Spandau,Berlin Ostbahnhof,110.0,51,43
-Hamburg Hbf,Uelzen,81.0,51,43
-Uelzen,Hamburg-Harburg,-83.0,48,44
-Hamburg-Harburg,Celle,-76.0,52,43
-Celle,Lüneburg,97.0,51,38
-Göttingen,Fulda,-557.0,106,83
-Kassel-Wilhelmshöhe,Frankfurt (Main) Hbf,928.0,220,194
-Stuttgart Hbf,Berlin-Spandau,0.0,4,0
-Norddeich Mole,Norddeich,-15.0,124,69
-Marienhafe,Emden Hbf,49.0,103,86
-Bremen Hbf,Minden (Westf),-317.0,138,111
-Berlin-Spandau,Erfurt Hbf,706.0,96,62
-Erfurt Hbf,Berlin Ostbahnhof,-752.0,96,75
-Berlin Ostbahnhof,Halle (Saale) Hbf,812.0,84,66
-Siegburg/Bonn,Wuppertal Hbf,-165.0,57,9
-Hagen Hbf,Limburg Süd,234.0,57,9
-Montabaur,Köln Messe/Deutz,708.0,57,52
-Frankfurt (Main) Hbf,Aschaffenburg Hbf,2022.0,584,582
-Frankfurt (Main) Hbf,Berlin Südkreuz,0.0,0,0
-Koblenz Hbf,Bonn-Beuel,-1086.0,102,89
-Bonn-Beuel,Köln Messe/Deutz,109.0,49,14
-Horb,Sulz (Neckar),2.0,86,59
-Sulz (Neckar),Oberndorf (Neckar),-21.0,100,58
-Oberndorf (Neckar),Hamburg Hbf,-279.0,38,21
-Hamburg Hbf,Spaichingen,127.0,47,10
-Spaichingen,Tuttlingen,25.0,104,46
-Tuttlingen,Engen,13.0,104,46
-Engen,Singen (Hohentwiel),-44.0,104,45
-Radolfzell,Konstanz,19.0,96,12
-Konstanz,Rottweil,206.0,33,24
-Rottweil,Hamburg-Harburg,-164.0,13,13
-Hannover Hbf,Kassel-Wilhelmshöhe,0.0,42,3
-Kassel-Wilhelmshöhe,Nürnberg Hbf,121.0,47,4
-Lingen (Ems),Rheine,247.0,353,175
-Rheine,Münster (Westf) Hbf,179.0,305,166
-Hamm (Westf) Hbf,Hagen Hbf,2190.0,341,334
-Berlin Südkreuz,Berlin Gesundbrunnen,103.0,13,9
-Bamberg,Ingolstadt Hbf,356.0,58,5
-Köln Messe/Deutz,Frankfurt am Main Flughafen Fernbahnhof,86.0,465,460
-Bremerhaven-Lehe,Bremerhaven Hbf,-18.0,46,23
-Bremerhaven Hbf,Osterholz-Scharmbeck,7.0,47,35
-Osterholz-Scharmbeck,Bremen Hbf,5.0,47,39
-Münster (Westf) Hbf,Recklinghausen Hbf,-971.0,460,404
-Recklinghausen Hbf,Gelsenkirchen Hbf,-89.0,183,144
-Gelsenkirchen Hbf,Oberhausen Hbf,494.0,246,160
-Oberhausen Hbf,Duisburg Hbf,471.0,244,196
-Hannover Hbf,Osnabrück Hbf,670.0,148,144
-Köln Hbf,Düren,-698.0,117,76
-Düren,Aachen Hbf,233.0,121,68
-Hude,Minden (Westf),-315.0,47,40
-Minden (Westf),Delmenhorst,438.0,48,46
-Bremen Hbf,Wolfsburg Hbf,-250.0,46,36
-Berlin-Spandau,Verden (Aller),524.0,47,40
-Magdeburg Hbf,Brandenburg Hbf,-10.0,120,92
-Potsdam Hbf,Berlin-Wannsee,94.0,83,62
-Berlin-Wannsee,Berlin Hbf,-51.0,94,79
-Berlin Ostbahnhof,Berlin Gesundbrunnen,-176.0,64,53
-Berlin Gesundbrunnen,Königs Wusterhausen,258.0,47,37
-Königs Wusterhausen,Lübben (Spreewald),49.0,47,33
-Lübben (Spreewald),Lübbenau (Spreewald),-14.0,47,31
-Lübbenau (Spreewald),Cottbus Hbf,35.0,47,34
-Erfurt Hbf,Eisenach,-795.0,145,76
-Eisenach,Fulda,1052.0,144,78
-Fulda,Mannheim Hbf,-525.0,73,45
-Mannheim Hbf,Bensheim,-347.0,74,16
-Darmstadt Hbf,Heidelberg Hbf,461.0,114,59
-Hildesheim Hbf,Hannover Hbf,-378.0,43,43
-Magdeburg Hbf,Stendal Hbf,75.0,102,93
-Stendal Hbf,Wittenberge,-26.0,164,115
-Angermünde,Berlin Gesundbrunnen,0.0,55,0
-Halle (Saale) Hbf,Kassel-Wilhelmshöhe,18.0,55,8
-Eisenach,Mainz Hbf,-536.0,55,50
-Mainz Hbf,Fulda,599.0,55,43
-Fulda,Hanau Hbf,119.0,118,67
-Hanau Hbf,Frankfurt (Main) Hbf,279.0,273,236
-Rostock Hbf,Schwerin Hbf,-328.0,275,136
-Schwerin Hbf,Waren (Müritz),235.0,253,106
-Waren (Müritz),Neustrelitz Hbf,-52.0,303,154
-Neustrelitz Hbf,Oranienburg,-73.0,304,168
-Oranienburg,Berlin Gesundbrunnen,289.0,302,174
-Berlin Südkreuz,Doberlug-Kirchhain,1007.0,328,304
-Doberlug-Kirchhain,Elsterwerda,-109.0,328,299
-Elsterwerda,Dresden-Neustadt,472.0,324,280
-Göttingen,Hamburg Hbf,-28.0,52,7
-Hamburg Hbf,Hildesheim Hbf,25.0,51,6
-Würzburg Hbf,Ansbach,2.0,37,35
-Ansbach,Treuchtlingen,-16.0,37,36
-Treuchtlingen,Donauwörth,-68.0,38,38
-Augsburg Hbf,Buchloe,-23.0,39,31
-Buchloe,Kaufbeuren,-47.0,39,32
-Kaufbeuren,Kempten (Allgäu) Hbf,-75.0,39,33
-Kempten (Allgäu) Hbf,Immenstadt,-19.0,91,77
-Immenstadt,Sonthofen,25.0,91,89
-Sonthofen,Fischen,216.0,91,89
-Fischen,Oberstdorf,-60.0,91,89
-Hamburg Hbf,Berlin Hbf,-44.0,17,14
-München Hbf,Rosenheim,0.0,52,0
-Ulm Hbf,Karlsruhe Hbf,0.0,58,0
-Düsseldorf Hbf,Oberhausen Hbf,-228.0,105,46
-Oberhausen Hbf,Düsseldorf Flughafen,0.0,50,0
-Düsseldorf Flughafen,Köln Hbf,0.0,1,0
-Köln Hbf,Duisburg Hbf,-53.0,49,25
-Duisburg Hbf,Solingen Hbf,9.0,104,54
-Solingen Hbf,Essen Hbf,-94.0,102,19
-Essen Hbf,Wuppertal Hbf,68.0,109,49
-Wuppertal Hbf,Bochum Hbf,177.0,139,82
-Kiel Hbf,Neumünster,49.0,106,32
-Neumünster,Hamburg Hbf,271.0,38,38
-Solingen Hbf,Köln Messe/Deutz,-1843.0,199,166
-Köln Hbf,Limburg Süd,-846.0,148,88
-Wuppertal Hbf,Duisburg Hbf,574.0,162,114
-Hamburg-Altona,Itzehoe,1595.0,108,80
-Wolfsburg Hbf,Eisenach,65.0,111,16
-Eisenach,Braunschweig Hbf,16.0,57,3
-Hildesheim Hbf,Esslingen (Neckar),-48.0,57,7
-Esslingen (Neckar),Göttingen,55.0,57,7
-Wittenberge,Berlin Hbf,87.0,108,95
-Berlin Gesundbrunnen,Ludwigslust,-59.0,54,41
-Schwerin Hbf,Bad Kleinen,-71.0,171,108
-Bad Kleinen,Bützow,-110.0,152,79
-Würzburg Hbf,Hanau Hbf,255.0,53,52
-Frankfurt am Main Flughafen Fernbahnhof,Mainz Hbf,-281.0,304,156
-Koblenz Hbf,Bonn Hbf,-218.0,163,97
-München Hbf,Würzburg Hbf,355.0,48,48
-Frankfurt (Main) Hbf,Köln Messe/Deutz,-30.0,50,50
-Köln Messe/Deutz,Limburg Süd,-1159.0,106,49
-Limburg Süd,Wuppertal Hbf,21.0,50,5
-Duisburg Hbf,Frankfurt am Main Flughafen Fernbahnhof,-9.0,49,49
-Frankfurt am Main Flughafen Fernbahnhof,Essen Hbf,-183.0,48,48
-Hamburg-Altona,Hamburg Hbf,686.0,339,236
-Nürnberg Hbf,Limburg Süd,-382.0,47,47
-Limburg Süd,Berlin Gesundbrunnen,-112.0,48,3
-Bitterfeld,Halle (Saale) Hbf,-30.0,66,18
-Leipzig Hbf,Weimar,0.0,48,0
-Bad Hersfeld,Hünfeld,0.0,48,0
-Hünfeld,Fulda,0.0,48,0
-Frankfurt (Main) Hbf,Montabaur,109.0,48,3
-Montabaur,Frankfurt am Main Flughafen Fernbahnhof,2499.0,102,101
-Frankfurt (Main) Hbf,Köln Hbf,-582.0,70,59
-Celle,Stralsund Hbf,-81.0,44,3
-Bützow,Hannover Hbf,79.0,46,4
-Magdeburg Hbf,Dessau Hbf,16.0,18,9
-Dessau Hbf,Bitterfeld,6.0,18,9
-Riesa,Elsterwerda,-1.0,65,50
-Wuppertal Hbf,Düsseldorf Hbf,-6071.0,415,350
-Aschaffenburg Hbf,Hanau Hbf,48.0,30,29
-Berlin Ostbahnhof,Berlin Zoologischer Garten,-212.0,53,44
-Berlin Zoologischer Garten,Berlin Hbf,2087.0,179,149
-Hagen Hbf,Köln Süd,-727.0,55,53
-Köln Süd,Bonn Hbf,429.0,52,21
-Bonn Hbf,Remagen,361.0,275,165
-Remagen,Andernach,83.0,420,216
-Andernach,Koblenz Hbf,244.0,366,212
-Koblenz Hbf,Wuppertal Hbf,804.0,44,44
-Köln Messe/Deutz,Montabaur,-165.0,149,96
-Bruchsal,Wiesloch-Walldorf,28.0,132,18
-Frankfurt (Main) Hbf,Frankfurt (Main) West,17.0,225,155
-Frankfurt (Main) West,Friedberg (Hess),-182.0,136,75
-Bad Kleinen,Ribnitz-Damgarten West,-158.0,34,22
-Stralsund Hbf,Bützow,138.0,27,10
-Braunschweig Hbf,Nienburg (Weser),88.0,43,42
-Augustfehn,Hannover Hbf,-23.0,43,41
-Osnabrück Hbf,Leer (Ostfriesl),401.0,45,36
-Friedberg (Hess),Frankfurt (Main) West,12.0,53,26
-Frankfurt (Main) West,Bad Nauheim,89.0,134,106
-Bad Nauheim,Wetzlar,272.0,271,206
-Wetzlar,Dillenburg,25.0,271,211
-Dillenburg,Siegen-Weidenau,320.0,177,174
-Siegen-Weidenau,Kreuztal,-199.0,184,170
-Kreuztal,Lennestadt-Altenhundem,-15.0,183,157
-Lennestadt-Altenhundem,Lennestadt-Grevenbrück,74.0,182,157
-Lennestadt-Grevenbrück,Finnentrop,280.0,182,175
-Finnentrop,Plettenberg,59.0,183,176
-Plettenberg,Werdohl,44.0,183,174
-Werdohl,Altena (Westf),-10.0,139,133
-Altena (Westf),Witten Hbf,165.0,182,174
-Witten Hbf,Dortmund Hbf,316.0,182,173
-Karlsruhe-Durlach,Karlsruhe Hbf,41.0,124,42
-Erfurt Hbf,Erlangen,114.0,195,157
-Köln Messe/Deutz,Darmstadt Hbf,-283.0,55,21
-Darmstadt Hbf,Köln Hbf,364.0,50,27
-Frankfurt am Main Flughafen Fernbahnhof,Bonn Hbf,305.0,51,28
-Mainz Hbf,Frankfurt (Main) Hbf,850.0,53,42
-Bützow,Schwerin Hbf,29.0,194,61
-Kassel-Wilhelmshöhe,Treysa,10.0,19,8
-Kiel Hbf,Hamburg-Harburg,125.0,54,23
-Hamburg-Harburg,Fulda,-137.0,56,36
-Fulda,Lüneburg,241.0,56,29
-Celle,Neumünster,-148.0,54,26
-Neumünster,Hannover-Messe / Laatzen,0.0,55,0
-Hannover-Messe / Laatzen,Hamburg Dammtor,5.0,54,2
-Hamburg Hbf,Hannover Hbf,17.0,55,43
-Berlin Gesundbrunnen,Eberswalde Hbf,-30.0,87,14
-Eberswalde Hbf,Angermünde,-125.0,220,105
-Pasewalk,Anklam,-21.0,220,94
-Bensheim,Esslingen (Neckar),0.0,53,0
-Esslingen (Neckar),Heidelberg Hbf,0.0,6,0
-Ulm Hbf,Biberach (Riß),0.0,57,0
-Biberach (Riß),Aulendorf,0.0,0,0
-Aulendorf,Ravensburg,0.0,57,0
-Ravensburg,Friedrichshafen Stadt,0.0,57,0
-Köln Messe/Deutz,Köln/Bonn Flughafen,110.0,105,85
-Haiger,Dillenburg,53.0,28,12
-Dillenburg,Herborn (Dillkr),23.0,32,16
-Herborn (Dillkr),Wetzlar,20.0,32,22
-Wanne-Eickel Hbf,Dortmund Hbf,-157.0,53,30
-Freiburg (Breisgau) Hbf,Offenburg,-1.0,44,1
-Frankfurt (Main) Hbf,Halle (Saale) Hbf,-375.0,58,58
-Halle (Saale) Hbf,Hanau Hbf,539.0,58,56
-Fulda,Eisenach,106.0,83,70
-Eisenach,Erfurt Hbf,1310.0,257,157
-Essen Hbf,Hamburg-Harburg,-523.0,55,42
-Hamburg-Harburg,Münster (Westf) Hbf,-34.0,57,2
-Münster (Westf) Hbf,Solingen Hbf,102.0,57,7
-Solingen Hbf,Hamburg Hbf,1341.0,102,93
-Duisburg Hbf,Köln Messe/Deutz,352.0,39,39
-Montabaur,Köln Hbf,-331.0,38,36
-München Hbf,Düsseldorf Hbf,0.0,0,0
-Berlin-Spandau,Eisenach,41.0,56,3
-Eisenach,Berlin Ostbahnhof,-37.0,56,4
-Berlin Südkreuz,Berlin-Spandau,188.0,119,92
-Berlin Gesundbrunnen,Berlin-Lichtenberg,-48.0,56,9
-Berlin-Lichtenberg,Dresden-Neustadt,368.0,56,38
-Dortmund Hbf,Gelsenkirchen Hbf,-1765.0,103,101
-Darmstadt Hbf,Frankfurt am Main Flughafen Fernbahnhof,52.0,39,17
-Solingen Hbf,Oberhausen Hbf,47.0,90,10
-Oberhausen Hbf,Wuppertal Hbf,-13.0,108,12
-Essen Hbf,Unna,-169.0,56,32
-Unna,Bochum Hbf,199.0,55,36
-Hamm (Westf) Hbf,Soest,172.0,106,99
-Soest,Lippstadt,94.0,107,100
-Lippstadt,Paderborn Hbf,90.0,107,102
-Paderborn Hbf,Altenbeken,-150.0,107,102
-Altenbeken,Warburg (Westf),65.0,99,91
-Warburg (Westf),Kassel-Wilhelmshöhe,109.0,107,91
-Leipzig Hbf,Weißenfels,-161.0,180,140
-Weißenfels,Naumburg (Saale) Hbf,129.0,185,94
-Naumburg (Saale) Hbf,Jena Paradies,47.0,182,123
-Jena Paradies,Jena-Göschwitz,-17.0,185,129
-Jena-Göschwitz,Rudolstadt (Thür),59.0,149,115
-Rudolstadt (Thür),Saalfeld (Saale),-156.0,149,122
-Saalfeld (Saale),Ludwigsstadt,-105.0,149,90
-Ludwigsstadt,Kronach,-9.0,148,82
-Kronach,Lichtenfels,-11.0,148,88
-Lichtenfels,Bamberg,242.0,148,135
-Nürnberg Hbf,Ansbach,-81.0,261,244
-Ansbach,Crailsheim,57.0,263,250
-Crailsheim,Ellwangen,152.0,262,245
-Ellwangen,Aalen Hbf,-2.0,263,249
-Aalen Hbf,Schwäbisch Gmünd,113.0,263,247
-Schwäbisch Gmünd,Stuttgart Hbf,407.0,210,208
-Vaihingen (Enz),Mühlacker,-1533.0,262,230
-Mühlacker,Pforzheim Hbf,2.0,266,93
-Pforzheim Hbf,Karlsruhe Hbf,896.0,211,155
-Dillenburg,Lennestadt-Altenhundem,97.0,48,41
-Lennestadt-Altenhundem,Schwerte (Ruhr),227.0,50,45
-Schwerte (Ruhr),Unna,27.0,52,35
-Unna,Dortmund Hbf,-332.0,51,45
-Hamm (Westf) Hbf,Münster (Westf) Hbf,542.0,197,144
-Osnabrück Hbf,Bünde (Westf),187.0,55,50
-Bünde (Westf),Hannover Hbf,-43.0,55,55
-Hannover Hbf,Berlin-Lichtenberg,-203.0,53,41
-Berlin-Lichtenberg,Wolfsburg Hbf,3.0,37,2
-Bonn Hbf,Düsseldorf Hbf,19.0,55,1
-Braunschweig Hbf,Magdeburg-Buckau,-483.0,51,38
-Magdeburg-Buckau,Magdeburg Hbf,565.0,51,42
-Halle (Saale) Hbf,Frankfurt (Main) Hbf,-125.0,54,16
-Mainz Hbf,Leipzig Hbf,143.0,55,16
-Anklam,Neustrelitz Hbf,-97.0,53,35
-Neustrelitz Hbf,Pasewalk,218.0,53,48
-Solingen Hbf,Duisburg Hbf,479.0,46,38
-Bochum Hbf,Düsseldorf Hbf,-68.0,46,32
-Düsseldorf Hbf,Dortmund Hbf,28.0,96,80
-Köln Hbf,Oberhausen Hbf,64.0,56,14
-Düsseldorf Hbf,Hagen Hbf,1251.0,106,84
-Hagen Hbf,Düsseldorf Flughafen,54.0,55,16
-Berlin Gesundbrunnen,Neustrelitz Hbf,-566.0,51,45
-Neustrelitz Hbf,Ribnitz-Damgarten West,0.0,52,0
-Ribnitz-Damgarten West,Bernau (b Berlin),557.0,45,44
-Uelzen,Hannover Hbf,-40.0,102,100
-Aachen Hbf,Düsseldorf Hbf,-52.0,50,31
-Düsseldorf Hbf,Essen Hbf,132.0,53,30
-Essen Hbf,Köln Hbf,-156.0,64,31
-Köln Hbf,Berlin Ostbahnhof,-80.0,53,27
-Berlin Ostbahnhof,Solingen Hbf,54.0,52,6
-Hannover Hbf,Berlin Gesundbrunnen,-1761.0,203,184
-Essen Hbf,Bremen Hbf,-499.0,57,34
-Bremen Hbf,Münster (Westf) Hbf,675.0,153,142
-Berlin-Spandau,Berlin Südkreuz,224.0,46,22
-Berlin Südkreuz,Wolfsburg Hbf,-210.0,51,31
-Hildesheim Hbf,Leipzig Hbf,-16.0,54,6
-Leipzig Hbf,Göttingen,11.0,54,4
-Kassel-Wilhelmshöhe,Halle (Saale) Hbf,150.0,52,25
-Niebüll,Langenhorn (Schlesw),243.0,148,38
-Langenhorn (Schlesw),Bredstedt,-2.0,176,62
-Erlangen,Erfurt Hbf,-14.0,69,57
-Bergen auf Rügen,Berlin Hbf,0.0,0,0
-Berlin Hbf,Stralsund Hbf,-111.0,52,51
-Hamburg Hbf,Berlin Südkreuz,103.0,48,28
-Mainz Hbf,Worms Hbf,24.0,94,40
-Worms Hbf,Mannheim Hbf,79.0,91,42
-Ulm Hbf,Günzburg,-93.0,159,120
-Günzburg,Augsburg Hbf,173.0,203,122
-Riesa,Döbeln Hbf,6.0,57,2
-Döbeln Hbf,Dresden-Neustadt,687.0,57,53
-Dresden Hbf,Freiberg (Sachs),-10.0,106,96
-Freiberg (Sachs),Chemnitz Hbf,-46.0,105,94
-Bremen Hbf,Oldenburg (Oldb) Hbf,0.0,21,18
-Vaihingen (Enz),Heidelberg Hbf,130.0,184,132
-Heidelberg Hbf,Heppenheim (Bergstr),117.0,43,28
-Heppenheim (Bergstr),Bensheim,11.0,43,26
-Hamburg Hbf,Lüneburg,118.0,70,61
-Berlin-Spandau,Berlin Zoologischer Garten,-1711.0,161,122
-Münster (Westf) Hbf,Hamm (Westf) Hbf,190.0,93,84
-Münster (Westf) Hbf,Wanne-Eickel Hbf,-68.0,53,50
-Wanne-Eickel Hbf,Köln Messe/Deutz,-397.0,53,30
-Köln Messe/Deutz,Gelsenkirchen Hbf,357.0,53,30
-Hamburg Hbf,Bremen Hbf,118.0,99,94
-Dortmund Hbf,Solingen Hbf,28.0,50,6
-Eisenach,Berlin Südkreuz,-156.0,58,36
-Berlin Hbf,Bad Hersfeld,138.0,57,26
-Darmstadt Hbf,Karlsruhe Hbf,-30.0,39,6
-Karlsruhe Hbf,Bensheim,76.0,43,5
-Bensheim,Mannheim Hbf,317.0,122,58
-Gäufelden,München-Pasing,-97.0,44,21
-München-Pasing,Bondorf (b Herrenberg),127.0,39,19
-Bondorf (b Herrenberg),München Hbf,-148.0,44,24
-München Hbf,Horb,158.0,43,23
-Oberndorf (Neckar),Rottweil,10.0,55,26
-Rottweil,Spaichingen,22.0,56,34
-Angermünde,Berlin Hbf,0.0,6,0
-Berlin Südkreuz,Eberswalde Hbf,-617.0,46,45
-Berlin Gesundbrunnen,Halle (Saale) Hbf,563.0,46,43
-Erfurt Hbf,Coburg,31.0,64,63
-Coburg,Nürnberg Hbf,170.0,46,46
-Augsburg Hbf,München Hbf,-34.0,45,43
-Engen,Sulz (Neckar),0.0,38,0
-Sulz (Neckar),Tuttlingen,4.0,46,2
-Tuttlingen,Herrenberg,-4.0,38,2
-Herrenberg,Spaichingen,0.0,29,0
-Oberndorf (Neckar),Horb,39.0,46,11
-Horb,Böblingen,0.0,9,0
-Göttingen,Esslingen (Neckar),-46.0,55,6
-Esslingen (Neckar),Kassel-Wilhelmshöhe,60.0,55,6
-Fulda,Friedberg (Hess),95.0,54,4
-Friedberg (Hess),Marburg (Lahn),-85.0,54,3
-Marburg (Lahn),Hanau Hbf,662.0,48,40
-Karlsruhe Hbf,Wolfsburg Hbf,-74.0,16,3
-Wolfsburg Hbf,Mannheim Hbf,80.0,15,4
-Mannheim Hbf,Kassel-Wilhelmshöhe,-160.0,16,4
-Kassel-Wilhelmshöhe,Berlin Ostbahnhof,-31.0,16,1
-Berlin Ostbahnhof,Göttingen,26.0,15,1
-Hamburg-Harburg,Bamberg,116.0,16,4
-Bamberg,Fulda,-53.0,16,5
-Fulda,München Hbf,-78.0,11,2
-München Hbf,Frankfurt (Main) Hbf,115.0,14,7
-Düsseldorf Hbf,Halle (Saale) Hbf,35.0,15,4
-Halle (Saale) Hbf,Duisburg Hbf,-28.0,15,4
-Duisburg Hbf,Münster (Westf) Hbf,-8.0,16,1
-Emden Hbf,Nürnberg Hbf,5.0,12,3
-Heide (Holst),Dortmund Hbf,-494.0,50,41
-Dortmund Hbf,Itzehoe,540.0,43,36
-Itzehoe,Hamburg Hbf,85.0,75,72
-Gotha,Frankfurt (Main) Hbf,0.0,2,0
-Wiesbaden Hbf,Limburg Süd,-29.0,99,32
-Siegburg/Bonn,Köln/Bonn Flughafen,-203.0,145,109
-Köln/Bonn Flughafen,Köln Hbf,147.0,42,31
-Bremen Hbf,Oberhausen Hbf,-395.0,42,40
-Oberhausen Hbf,Münster (Westf) Hbf,289.0,42,39
-Solingen Hbf,Düsseldorf Flughafen,73.0,50,42
-Friedberg (Hess),Bad Nauheim,313.0,87,62
-Hannover Hbf,Köln Hbf,1585.0,113,109
-Halle (Saale) Hbf,Berlin Gesundbrunnen,-175.0,35,34
-Berlin Gesundbrunnen,Berlin Südkreuz,0.0,1,0
-Frankfurt am Main Flughafen Fernbahnhof,Nürnberg Hbf,731.0,87,87
-Hamburg Hbf,Essen Hbf,86.0,21,18
-Bredstedt,Husum,41.0,51,10
-Göttingen,Lüneburg,-519.0,54,44
-Celle,Hamburg Hbf,1001.0,58,53
-Hamburg-Harburg,Uelzen,14.0,55,7
-Köln/Bonn Flughafen,Köln Messe/Deutz,211.0,152,124
-Duisburg Hbf,Hagen Hbf,-940.0,104,92
-Hagen Hbf,Essen Hbf,595.0,55,43
-Koblenz Hbf,Remagen,-122.0,54,10
-Bochum Hbf,Köln Messe/Deutz,103.0,54,8
-Solingen Hbf,Dortmund Hbf,905.0,151,98
-Hamburg Dammtor,Frankfurt am Main Flughafen Fernbahnhof,-81.0,53,10
-Frankfurt am Main Flughafen Fernbahnhof,Hamburg-Altona,80.0,54,8
-Hamburg-Altona,Frankfurt (Main) Hbf,0.0,54,0
-Ribnitz-Damgarten West,Greifswald,48.0,53,15
-Prenzlau,Neustrelitz Hbf,-183.0,53,49
-Eberswalde Hbf,Bernau (b Berlin),-11.0,53,41
-Bernau (b Berlin),Berlin Gesundbrunnen,1.0,30,23
-Frankfurt am Main Flughafen Fernbahnhof,Hannover Hbf,52.0,57,1
-Hannover Hbf,Hanau Hbf,-62.0,57,1
-Wolfsburg Hbf,Bonn Hbf,342.0,53,24
-Dortmund Hbf,Frankfurt am Main Flughafen Fernbahnhof,-448.0,45,34
-Frankfurt (Main) Hbf,Hagen Hbf,647.0,48,41
-München Hbf,Berchtesgaden Hbf,-15.0,4,1
-Berchtesgaden Hbf,Bischofswiesen,14.0,41,32
-Bischofswiesen,Bayerisch Gmain,22.0,42,33
-Bayerisch Gmain,Bad Reichenhall-Kirchberg,0.0,42,25
-Bad Reichenhall-Kirchberg,Bad Reichenhall,-10.0,42,34
-Bad Reichenhall,Piding,31.0,42,33
-Piding,Hammerau,32.0,42,35
-Hammerau,Ainring,-22.0,42,30
-Ainring,Freilassing,-20.0,42,35
-Freilassing,Traunstein,91.0,43,37
-Traunstein,Übersee,18.0,43,37
-Übersee,Prien am Chiemsee,-25.0,43,36
-Prien am Chiemsee,Rosenheim,-19.0,43,30
-Rosenheim,München Ost,27.0,43,30
-München Ost,München-Pasing,84.0,40,36
-Wolfsburg Hbf,Leipzig Hbf,-20.0,55,3
-Leipzig Hbf,Braunschweig Hbf,78.0,57,5
-Braunschweig Hbf,Eisenach,-76.0,57,5
-Eisenach,Hildesheim Hbf,95.0,57,6
-Magdeburg Hbf,Magdeburg-Buckau,-42.0,55,18
-Magdeburg-Buckau,Helmstedt,88.0,47,18
-Braunschweig Hbf,Peine,-24.0,55,27
-Peine,Hannover Hbf,41.0,47,30
-Oldenburg (Oldb) Hbf,Osnabrück Hbf,-257.0,54,50
-Osnabrück Hbf,Bad Zwischenahn,302.0,54,45
-Heidelberg Hbf,Frankfurt am Main Flughafen Fernbahnhof,348.0,54,47
-Frankfurt (Main) Hbf,Eisenach,-572.0,55,49
-Weimar,Naumburg (Saale) Hbf,177.0,52,7
-Naumburg (Saale) Hbf,Halle (Saale) Hbf,671.0,50,38
-Berlin Ostbahnhof,Berlin Südkreuz,62.0,51,23
-Kassel-Wilhelmshöhe,Leipzig Hbf,-39.0,57,7
-Halle (Saale) Hbf,Eisenach,-91.0,57,27
-Magdeburg Hbf,Berlin Hbf,-231.0,51,46
-Berlin Gesundbrunnen,Stendal Hbf,110.0,51,45
-Chemnitz Hbf,Freiberg (Sachs),1.0,48,10
-Hude,Osnabrück Hbf,-101.0,50,40
-Osnabrück Hbf,Delmenhorst,129.0,50,45
-Nienburg (Weser),Wolfsburg Hbf,-243.0,49,43
-Hannover Hbf,Stendal Hbf,-213.0,51,44
-Stendal Hbf,Braunschweig Hbf,204.0,51,35
-Brandenburg Hbf,Berlin-Spandau,-131.0,50,29
-Berlin-Spandau,Potsdam Hbf,159.0,48,26
-Potsdam Hbf,Berlin Gesundbrunnen,-62.0,49,30
-Berlin Gesundbrunnen,Berlin-Wannsee,175.0,33,25
-Bonn-Beuel,Koblenz Hbf,1197.0,84,43
-Delmenhorst,Osnabrück Hbf,-41.0,34,20
-Saarbrücken Hbf,Homburg (Saar) Hbf,-13.0,50,26
-Homburg (Saar) Hbf,Kaiserslautern Hbf,-5.0,50,31
-Kaiserslautern Hbf,Neustadt (Weinstr) Hbf,-30.0,50,28
-Neustadt (Weinstr) Hbf,Mannheim Hbf,84.0,50,37
-Erfurt Hbf,Berlin Gesundbrunnen,-944.0,56,47
-Berlin Ostbahnhof,Leipzig Hbf,-40.0,53,4
-Leipzig Hbf,Berlin-Spandau,88.0,96,7
-Berlin-Spandau,Halle (Saale) Hbf,862.0,53,51
-Ulm Hbf,Neu-Ulm,-28.0,41,28
-Neu-Ulm,Günzburg,25.0,44,34
-Frankfurt am Main Flughafen Fernbahnhof,Wiesbaden Hbf,-649.0,55,55
-Hamburg Dammtor,Neumünster,114.0,53,39
-Neumünster,Kiel Hbf,22.0,107,38
-Erfurt Hbf,Frankfurt (Main) Hbf,1349.0,45,37
-Mannheim Hbf,Neustadt (Weinstr) Hbf,-11.0,98,80
-Neustadt (Weinstr) Hbf,Kaiserslautern Hbf,3.0,98,78
-Kaiserslautern Hbf,Homburg (Saar) Hbf,103.0,98,85
-Homburg (Saar) Hbf,Saarbrücken Hbf,-207.0,99,83
-Bamberg,Leipzig Hbf,-265.0,57,40
-Hamburg-Altona,Neumünster,-94.0,47,9
-Wuppertal Hbf,Köln Messe/Deutz,-1908.0,94,86
-Bonn-Beuel,Düsseldorf Hbf,88.0,46,4
-Hagen Hbf,Köln Messe/Deutz,-2093.0,113,111
-Bonn Hbf,Bonn-Beuel,-1105.0,51,41
-Nürnberg Hbf,Coburg,374.0,49,49
-Berlin Südkreuz,Erfurt Hbf,-650.0,107,96
-Halle (Saale) Hbf,Nürnberg Hbf,1161.0,58,57
-Schwäbisch Gmünd,Schorndorf,-46.0,51,48
-Schorndorf,Stuttgart Hbf,138.0,51,51
-Pforzheim Hbf,Karlsruhe-Durlach,187.0,51,42
-Karlsruhe Hbf,Frankfurt am Main Flughafen Fernbahnhof,21.0,22,5
-Frankfurt am Main Flughafen Fernbahnhof,Fulda,-20.0,22,5
-Fulda,Duisburg Hbf,2.0,23,4
-Duisburg Hbf,Erlangen,1.0,23,3
-Erfurt Hbf,Dortmund Hbf,-10.0,23,2
-Dortmund Hbf,Leipzig Hbf,17.0,23,2
-Berlin Südkreuz,Limburg Süd,-28.0,22,4
-Siegburg/Bonn,Hamburg Dammtor,1.0,22,4
-Hamburg-Altona,Bruchsal,0.0,21,0
-Bruchsal,Berlin Ostbahnhof,-1.0,21,1
-Berlin Ostbahnhof,Vaihingen (Enz),-9.0,22,2
-Wiesloch-Walldorf,Frankfurt (Main) Hbf,5.0,17,2
-Frankfurt (Main) Hbf,Heidelberg Hbf,-68.0,21,4
-Wiesbaden Hbf,Berlin Hbf,42.0,20,3
-Berlin-Spandau,Stuttgart Hbf,-15.0,20,2
-Stuttgart Hbf,Osnabrück Hbf,6.0,23,4
-Aachen Hbf,Ulm Hbf,28.0,21,1
-Nürnberg Hbf,Kassel-Wilhelmshöhe,16.0,19,5
-Berlin-Spandau,Hannover-Messe / Laatzen,60.0,27,2
-Hannover-Messe / Laatzen,Göttingen,248.0,84,27
-Göttingen,Halle (Saale) Hbf,22.0,27,5
-Erfurt Hbf,Mannheim Hbf,-305.0,27,22
-Mannheim Hbf,Bad Hersfeld,221.0,27,19
-Fulda,Heidelberg Hbf,-508.0,27,26
-Wiesloch-Walldorf,Darmstadt Hbf,-157.0,27,12
-Darmstadt Hbf,Neu-Edingen/Friedrichsfeld,2.0,27,7
-Offenburg,Müllheim (Baden),-123.0,27,26
-Recklinghausen Hbf,Wanne-Eickel Hbf,46.0,148,66
-Wanne-Eickel Hbf,Gelsenkirchen Hbf,-143.0,200,84
-Oberhausen Hbf,Köln Messe/Deutz,-106.0,49,16
-Bonn-Beuel,Oberhausen Hbf,124.0,48,19
-Bonn Hbf,Bingen (Rhein) Hbf,-415.0,44,32
-Donaueschingen,Immendingen,0.0,49,6
-Immendingen,Singen (Hohentwiel),-20.0,49,6
-Konstanz,Remagen,452.0,33,25
-Stendal Hbf,Hannover Hbf,160.0,55,53
-Hannover Hbf,Bünde (Westf),106.0,56,56
-Bünde (Westf),Osnabrück Hbf,70.0,56,54
-Karlsruhe Hbf,Karlsruhe-Durlach,-1.0,32,2
-Karlsruhe-Durlach,Bruchsal,2.0,47,3
-Heidelberg Hbf,Neu-Edingen/Friedrichsfeld,-1.0,47,1
-Neu-Edingen/Friedrichsfeld,Bensheim,8.0,47,3
-Lüneburg,Ludwigslust,-12.0,42,4
-Ludwigslust,Hamburg-Harburg,16.0,42,6
-Hamburg Hbf,Schwerin Hbf,210.0,101,60
-Frankfurt (Main) Hbf,Greifswald,51.0,46,5
-Greifswald,Friedberg (Hess),1.0,37,1
-Treysa,Göttingen,-8.0,47,1
-Uelzen,Bad Bevensen,0.0,47,0
-Bad Bevensen,Lüneburg,0.0,47,0
-Hannover Hbf,Hamburg Hbf,0.0,25,0
-Hagen Hbf,Bielefeld Hbf,353.0,266,265
-Minden (Westf),Berlin Zoologischer Garten,-516.0,57,43
-Berlin Zoologischer Garten,Hannover Hbf,835.0,55,48
-Nürnberg Hbf,Frankfurt am Main Flughafen Fernbahnhof,231.0,39,39
-Lüneburg,Kassel-Wilhelmshöhe,86.0,14,8
-Wiesbaden Hbf,Hannover Hbf,192.0,9,6
-Köln Messe/Deutz,Hagen Hbf,-637.0,54,54
-Hagen Hbf,Köln Hbf,-77.0,56,5
-Rosenheim,Prien am Chiemsee,0.0,44,0
-Prien am Chiemsee,Traunstein,0.0,45,0
-Traunstein,Freilassing,0.0,12,0
-Aachen Hbf,Düren,-83.0,86,66
-Düren,Köln Hbf,15.0,44,33
-Bochum Hbf,Solingen Hbf,-493.0,96,79
-Herford,Hannover Hbf,-12.0,104,89
-Münster (Westf) Hbf,Köln Messe/Deutz,-151.0,50,31
-Bonn-Beuel,Recklinghausen Hbf,145.0,50,25
-Oberhausen Hbf,Bonn Hbf,-260.0,50,27
-Koblenz Hbf,Duisburg Hbf,248.0,38,24
-Berlin Hbf,Leipzig Hbf,-112.0,48,38
-Halle (Saale) Hbf,Bamberg,-38.0,48,4
-Erlangen,Berlin Südkreuz,75.0,45,19
-Nürnberg Hbf,Weilheim (Oberbay),-214.0,47,40
-Weilheim (Oberbay),Murnau,0.0,47,5
-Murnau,Garmisch-Partenkirchen,-13.0,46,5
-Garmisch-Partenkirchen,München Hbf,140.0,29,26
-Nürnberg Hbf,Regensburg Hbf,-61.0,47,46
-Regensburg Hbf,Plattling,-71.0,93,75
-Plattling,Passau Hbf,-185.0,93,72
-Rostock Hbf,Waren (Müritz),-22.0,52,30
-Stuttgart Hbf,Herrenberg,71.0,20,20
-Hannover Hbf,Lüneburg,-812.0,105,90
-Coburg,Bamberg,-4.0,18,18
-Minden (Westf),Herford,-201.0,97,74
-Dortmund Hbf,Essen Hbf,10.0,51,4
-Duisburg Hbf,Limburg Süd,-19.0,55,7
-Limburg Süd,Esslingen (Neckar),-20.0,55,3
-Esslingen (Neckar),Düsseldorf Hbf,21.0,8,5
-Mannheim Hbf,Köln Messe/Deutz,-39.0,57,14
-Köln Messe/Deutz,Mainz Hbf,138.0,54,13
-Frankfurt am Main Flughafen Fernbahnhof,Montabaur,-969.0,100,94
-Gelsenkirchen Hbf,Hagen Hbf,127.0,57,10
-Wuppertal Hbf,Dortmund Hbf,831.0,57,56
-Berlin-Wannsee,Berlin Gesundbrunnen,-35.0,34,24
-Heide (Holst),Hamburg-Altona,-642.0,53,40
-Itzehoe,Hamburg-Harburg,-670.0,53,41
-Bremen Hbf,Dortmund Hbf,-988.0,51,49
-Dortmund Hbf,Osnabrück Hbf,812.0,46,40
-Tuttlingen,Rottweil,7.0,48,23
-Mülheim (Ruhr) Hbf,Köln Messe/Deutz,-269.0,56,34
-Solingen Hbf,Bonn-Beuel,-42.0,55,14
-Bonn-Beuel,Köln Hbf,404.0,55,51
-Stuttgart Hbf,Plochingen,-71.0,50,49
-Plochingen,Göppingen,-28.0,52,50
-Göppingen,Ulm Hbf,-100.0,52,47
-Ulm Hbf,Memmingen,479.0,51,49
-Memmingen,Kempten (Allgäu) Hbf,196.0,51,49
-Nürnberg Hbf,Hannover Hbf,-52.0,7,6
-Neumünster,Uelzen,131.0,53,26
-Uelzen,Hamburg Dammtor,-118.0,53,25
-Hamburg Dammtor,Celle,93.0,53,17
-Kassel-Wilhelmshöhe,Heidelberg Hbf,-424.0,58,30
-Heidelberg Hbf,Frankfurt (Main) Hbf,421.0,58,35
-Frankfurt (Main) Hbf,Esslingen (Neckar),-44.0,40,10
-Recklinghausen Hbf,Oberhausen Hbf,216.0,46,37
-Oberhausen Hbf,Wanne-Eickel Hbf,-170.0,45,35
-Frankfurt (Main) Hbf,Bonn Hbf,-316.0,40,40
-Aschaffenburg Hbf,Regensburg Hbf,-606.0,42,42
-Passau Hbf,Würzburg Hbf,512.0,11,11
-Lüneburg,Bad Bevensen,-479.0,58,51
-Bad Bevensen,Uelzen,313.0,58,35
-Mannheim Hbf,Esslingen (Neckar),-697.0,55,55
-Bremen Hbf,Diepholz,72.0,114,91
-Diepholz,Osnabrück Hbf,-54.0,114,97
-Bochum Hbf,Duisburg Hbf,0.0,14,0
-Karlsruhe Hbf,Freiburg (Breisgau) Hbf,155.0,59,57
-Hamburg-Harburg,Hannover-Messe / Laatzen,-68.0,105,15
-Papenburg (Ems),Esslingen (Neckar),30.0,57,6
-Esslingen (Neckar),Meppen,-40.0,57,7
-Münster (Westf) Hbf,Oberhausen Hbf,-7.0,57,6
-Oberhausen Hbf,Recklinghausen Hbf,1.0,57,4
-Gelsenkirchen Hbf,Dortmund Hbf,-13.0,12,3
-Westerland (Sylt),Keitum,-31.0,48,29
-Keitum,Klanxbüll,51.0,47,31
-Klanxbüll,Niebüll,-88.0,48,33
-Ludwigslust,Berlin Hbf,-187.0,48,45
-Bruchsal,Esslingen (Neckar),-94.0,57,47
-Berlin Hbf,Ludwigslust,-166.0,56,56
-Berlin Hbf,Halle (Saale) Hbf,-172.0,40,40
-Gotha,Fulda,217.0,40,38
-Berlin Ostbahnhof,Köln Hbf,0.0,0,0
-Frankfurt (Main) Hbf,Bad Nauheim,37.0,43,14
-Dillenburg,Frankfurt (Main) West,-62.0,39,23
-Köln Hbf,Remagen,39.0,53,20
-Andernach,Bonn-Beuel,352.0,52,45
-Hannover Hbf,Hannover-Messe / Laatzen,-334.0,57,36
-Werdohl,Hagen Hbf,-504.0,44,38
-Hagen Hbf,Altena (Westf),508.0,44,40
-Wabern (Bz Kassel),Celle,-82.0,12,8
-Hamburg Hbf,Kassel-Wilhelmshöhe,102.0,10,7
-Lüneburg,Hamburg Hbf,0.0,9,0
-Stralsund Hbf,Hamburg-Harburg,0.0,9,0
-Elsterwerda,Berlin Hbf,11.0,24,8
-Berlin Hbf,Neustrelitz Hbf,-527.0,57,57
-Neustrelitz Hbf,Berlin Gesundbrunnen,511.0,57,56
-Düren,Düsseldorf Hbf,-90.0,51,34
-Bruchsal,Pforzheim Hbf,33.0,45,20
-Stuttgart Hbf,Schorndorf,79.0,54,53
-Oberhausen Hbf,Düsseldorf Hbf,23.0,56,13
-Wiesloch-Walldorf,Vaihingen (Enz),-4.0,1,1
-Limburg Süd,Düsseldorf Hbf,62.0,47,3
-Solingen Hbf,Hamm (Westf) Hbf,-615.0,45,44
-Hamm (Westf) Hbf,Wuppertal Hbf,587.0,46,44
-Hagen Hbf,Oberhausen Hbf,-58.0,49,7
-Oberhausen Hbf,Essen Hbf,404.0,48,35
-Hamburg-Harburg,Emden Hbf,-1014.0,47,41
-Rheine,Hamburg Hbf,1123.0,49,45
-Garmisch-Partenkirchen,Murnau,4.0,56,4
-Murnau,Weilheim (Oberbay),1.0,56,6
-Weilheim (Oberbay),Halle (Saale) Hbf,83.0,56,8
-Halle (Saale) Hbf,München Hbf,23.0,8,6
-Erfurt Hbf,Berlin Südkreuz,1001.0,57,56
-Bochum Hbf,Wuppertal Hbf,-195.0,56,48
-Wuppertal Hbf,Essen Hbf,195.0,57,35
-Würzburg Hbf,Frankfurt (Main) Hbf,396.0,58,35
-Dortmund Hbf,Düsseldorf Hbf,-181.0,57,9
-Berlin Südkreuz,Naumburg (Saale) Hbf,-502.0,51,47
-Naumburg (Saale) Hbf,Kassel-Wilhelmshöhe,-29.0,54,7
-Eisenach,Jena Paradies,-155.0,52,6
-Jena Paradies,Bitterfeld,873.0,51,36
-Bitterfeld,Esslingen (Neckar),-932.0,51,38
-Esslingen (Neckar),Leipzig Hbf,872.0,50,34
-Stuttgart Hbf,Neu-Ulm,-627.0,37,31
-Neu-Ulm,Ulm Hbf,587.0,38,34
-Rostock Hbf,Berlin Gesundbrunnen,-123.0,56,41
-Wolfsburg Hbf,Köthen,-15.0,44,3
-Köthen,Berlin Ostbahnhof,0.0,20,0
+source,target,sumDelay,numTrains,numDelayedTrains,avgDelay,punctuality
+Dresden Hbf,Dresden-Neustadt,-207.0,807,558,-0.2565,0.6914
+Dresden-Neustadt,Riesa,499.0,536,438,0.931,0.8172
+Riesa,Leipzig Hbf,-1098.0,579,473,-1.8964,0.8169
+Leipzig Hbf,Halle (Saale) Hbf,3189.0,1174,725,2.7164,0.6175
+Halle (Saale) Hbf,Köthen,18.0,502,374,0.0359,0.745
+Köthen,Magdeburg Hbf,319.0,500,426,0.638,0.852
+Magdeburg Hbf,Braunschweig Hbf,33.0,205,186,0.161,0.9073
+Braunschweig Hbf,Hannover Hbf,228.0,298,225,0.7651,0.755
+Köln Hbf,Düsseldorf Hbf,-150.0,1452,1086,-0.1033,0.7479
+Düsseldorf Hbf,Wuppertal Hbf,7202.0,639,575,11.2707,0.8998
+Wuppertal Hbf,Hagen Hbf,2660.0,1662,1307,1.6005,0.7864
+Hagen Hbf,Hamm (Westf) Hbf,-779.0,514,493,-1.5156,0.9591
+Hamm (Westf) Hbf,Bielefeld Hbf,3364.0,1143,1131,2.9431,0.9895
+Bielefeld Hbf,Hannover Hbf,1563.0,1074,1056,1.4553,0.9832
+Hannover Hbf,Wolfsburg Hbf,-662.0,1119,1073,-0.5916,0.9589
+Wolfsburg Hbf,Berlin-Spandau,-1760.0,1342,1011,-1.3115,0.7534
+Berlin-Spandau,Berlin Hbf,2806.0,3320,2708,0.8452,0.8157
+Berlin Hbf,Berlin Ostbahnhof,809.0,1957,1411,0.4134,0.721
+Frankfurt (Main) Hbf,Frankfurt am Main Flughafen Fernbahnhof,1356.0,1749,1549,0.7753,0.8856
+Frankfurt am Main Flughafen Fernbahnhof,Limburg Süd,-4777.0,940,819,-5.0819,0.8713
+Limburg Süd,Montabaur,-678.0,1049,547,-0.6463,0.5214
+Montabaur,Siegburg/Bonn,1272.0,1058,644,1.2023,0.6087
+Siegburg/Bonn,Köln Hbf,1192.0,625,539,1.9072,0.8624
+Karlsruhe Hbf,Pforzheim Hbf,-123.0,183,116,-0.6721,0.6339
+Pforzheim Hbf,Mühlacker,-66.0,229,70,-0.2882,0.3057
+Mühlacker,Vaihingen (Enz),108.0,147,62,0.7347,0.4218
+Vaihingen (Enz),Stuttgart Hbf,152.0,335,271,0.4537,0.809
+Stuttgart Hbf,Schwäbisch Gmünd,207.0,189,184,1.0952,0.9735
+Schwäbisch Gmünd,Aalen Hbf,-93.0,302,261,-0.3079,0.8642
+Aalen Hbf,Ellwangen,81.0,302,258,0.2682,0.8543
+Ellwangen,Crailsheim,328.0,243,242,1.3498,0.9959
+Crailsheim,Ansbach,1.0,299,286,0.0033,0.9565
+Ansbach,Nürnberg Hbf,-581.0,292,285,-1.9897,0.976
+Düsseldorf Hbf,Düsseldorf Flughafen,-385.0,722,548,-0.5332,0.759
+Düsseldorf Flughafen,Duisburg Hbf,709.0,876,645,0.8094,0.7363
+Duisburg Hbf,Oberhausen Hbf,-1148.0,346,273,-3.3179,0.789
+Oberhausen Hbf,Gelsenkirchen Hbf,574.0,343,169,1.6735,0.4927
+Gelsenkirchen Hbf,Wanne-Eickel Hbf,-7.0,306,148,-0.0229,0.4837
+Wanne-Eickel Hbf,Recklinghausen Hbf,213.0,239,124,0.8912,0.5188
+Recklinghausen Hbf,Münster (Westf) Hbf,1643.0,275,241,5.9745,0.8764
+Münster (Westf) Hbf,Rheine,194.0,363,321,0.5344,0.8843
+Rheine,Lingen (Ems),306.0,362,320,0.8453,0.884
+Lingen (Ems),Meppen,-419.0,362,300,-1.1575,0.8287
+Meppen,Papenburg (Ems),-166.0,360,278,-0.4611,0.7722
+Papenburg (Ems),Leer (Ostfriesl),-243.0,354,295,-0.6864,0.8333
+Leer (Ostfriesl),Emden Hbf,279.0,698,613,0.3997,0.8782
+Emden Hbf,Norden,45.0,190,169,0.2368,0.8895
+Norden,Norddeich,-317.0,268,206,-1.1828,0.7687
+Norddeich,Norddeich Mole,88.0,227,169,0.3877,0.7445
+Warnemünde,Rostock Hbf,-159.0,368,295,-0.4321,0.8016
+Rostock Hbf,Berlin Hbf,-170.0,53,45,-3.2075,0.8491
+Berlin Hbf,Bützow,75.0,109,87,0.6881,0.7982
+Bützow,Bad Kleinen,-32.0,150,82,-0.2133,0.5467
+Bad Kleinen,Schwerin Hbf,89.0,151,95,0.5894,0.6291
+Schwerin Hbf,Ludwigslust,88.0,157,108,0.5605,0.6879
+Ludwigslust,Wittenberge,-408.0,706,407,-0.5779,0.5765
+Wittenberge,Stendal Hbf,133.0,169,117,0.787,0.6923
+Stendal Hbf,Magdeburg Hbf,446.0,168,152,2.6548,0.9048
+Magdeburg Hbf,Köthen,954.0,552,496,1.7283,0.8986
+Köthen,Halle (Saale) Hbf,-11.0,575,441,-0.0191,0.767
+Halle (Saale) Hbf,Leipzig Hbf,513.0,681,540,0.7533,0.793
+Karlsruhe Hbf,Esslingen (Neckar),-68.0,54,26,-1.2593,0.4815
+Esslingen (Neckar),Bruchsal,102.0,54,36,1.8889,0.6667
+Bruchsal,Stuttgart Hbf,268.0,156,151,1.7179,0.9679
+Stuttgart Hbf,Ulm Hbf,-1.0,1169,1074,-0.0009,0.9187
+Ulm Hbf,Augsburg Hbf,413.0,1272,1187,0.3247,0.9332
+Augsburg Hbf,München-Pasing,-2781.0,1587,1414,-1.7524,0.891
+München-Pasing,München Hbf,2686.0,1437,1210,1.8692,0.842
+Berlin Südkreuz,Berlin Hbf,2239.0,2587,2314,0.8655,0.8945
+Berlin Hbf,Berlin-Spandau,-3639.0,3230,3021,-1.1266,0.9353
+Berlin-Spandau,Stendal Hbf,-258.0,751,492,-0.3435,0.6551
+Stendal Hbf,Wolfsburg Hbf,18.0,671,417,0.0268,0.6215
+Wolfsburg Hbf,Braunschweig Hbf,-175.0,691,345,-0.2533,0.4993
+Braunschweig Hbf,Hildesheim Hbf,695.0,710,370,0.9789,0.5211
+Hildesheim Hbf,Göttingen,-361.0,653,346,-0.5528,0.5299
+Göttingen,Kassel-Wilhelmshöhe,2417.0,1803,1108,1.3405,0.6145
+Kassel-Wilhelmshöhe,Fulda,-921.0,1301,898,-0.7079,0.6902
+München Hbf,Nürnberg Hbf,3455.0,1523,1337,2.2685,0.8779
+Nürnberg Hbf,Erfurt Hbf,802.0,650,612,1.2338,0.9415
+Erfurt Hbf,Halle (Saale) Hbf,-817.0,1097,783,-0.7448,0.7138
+Halle (Saale) Hbf,Berlin Südkreuz,1622.0,912,769,1.7785,0.8432
+Berlin Hbf,Berlin Gesundbrunnen,-698.0,617,467,-1.1313,0.7569
+München Hbf,München-Pasing,-652.0,1344,974,-0.4851,0.7247
+München-Pasing,Augsburg Hbf,1428.0,1763,1553,0.81,0.8809
+Augsburg Hbf,Günzburg,-18.0,157,132,-0.1146,0.8408
+Günzburg,Ulm Hbf,134.0,151,132,0.8874,0.8742
+Ulm Hbf,Esslingen (Neckar),-3318.0,750,593,-4.424,0.7907
+Esslingen (Neckar),Stuttgart Hbf,5826.0,903,722,6.4518,0.7996
+Stuttgart Hbf,Mannheim Hbf,255.0,1573,1438,0.1621,0.9142
+Mannheim Hbf,Heidelberg Hbf,-614.0,694,456,-0.8847,0.6571
+Heidelberg Hbf,Bensheim,289.0,195,82,1.4821,0.4205
+Bensheim,Darmstadt Hbf,190.0,353,123,0.5382,0.3484
+Darmstadt Hbf,Frankfurt (Main) Hbf,403.0,331,131,1.2175,0.3958
+Köln Hbf,Köln/Bonn Flughafen,162.0,81,55,2.0,0.679
+Köln/Bonn Flughafen,Siegburg/Bonn,-27.0,160,128,-0.1688,0.8
+Siegburg/Bonn,Montabaur,-764.0,851,551,-0.8978,0.6475
+Montabaur,Limburg Süd,-728.0,959,525,-0.7591,0.5474
+Limburg Süd,Frankfurt am Main Flughafen Fernbahnhof,2014.0,906,556,2.223,0.6137
+Frankfurt am Main Flughafen Fernbahnhof,Frankfurt (Main) Hbf,39.0,1756,1468,0.0222,0.836
+Frankfurt (Main) Hbf,Hanau Hbf,706.0,376,302,1.8777,0.8032
+Hanau Hbf,Aschaffenburg Hbf,90.0,239,227,0.3766,0.9498
+Aschaffenburg Hbf,Würzburg Hbf,-377.0,742,728,-0.5081,0.9811
+Würzburg Hbf,Nürnberg Hbf,-375.0,1741,1593,-0.2154,0.915
+Nürnberg Hbf,Ingolstadt Hbf,-506.0,1108,935,-0.4567,0.8439
+Ingolstadt Hbf,München Hbf,775.0,1089,919,0.7117,0.8439
+Kassel-Wilhelmshöhe,Göttingen,1811.0,1824,1308,0.9929,0.7171
+Göttingen,Hildesheim Hbf,33.0,667,390,0.0495,0.5847
+Hildesheim Hbf,Braunschweig Hbf,-121.0,723,417,-0.1674,0.5768
+Braunschweig Hbf,Wolfsburg Hbf,35.0,913,526,0.0383,0.5761
+Oberstdorf,Fischen,51.0,56,56,0.9107,1.0
+Fischen,Sonthofen,199.0,56,56,3.5536,1.0
+Sonthofen,Immenstadt,-28.0,56,56,-0.5,1.0
+Immenstadt,Kempten (Allgäu) Hbf,-39.0,56,54,-0.6964,0.9643
+Kempten (Allgäu) Hbf,Kaufbeuren,-62.0,55,52,-1.1273,0.9455
+Kaufbeuren,Buchloe,-64.0,55,49,-1.1636,0.8909
+Buchloe,Augsburg Hbf,91.0,56,48,1.625,0.8571
+Augsburg Hbf,Donauwörth,491.0,470,434,1.0447,0.9234
+Donauwörth,Treuchtlingen,83.0,260,231,0.3192,0.8885
+Treuchtlingen,Ansbach,-455.0,96,96,-4.7396,1.0
+Ansbach,Würzburg Hbf,250.0,96,96,2.6042,1.0
+Würzburg Hbf,Fulda,13.0,863,774,0.0151,0.8969
+Fulda,Kassel-Wilhelmshöhe,105.0,1551,1118,0.0677,0.7208
+Göttingen,Hannover Hbf,-703.0,1157,859,-0.6076,0.7424
+Hannover Hbf,Celle,120.0,682,373,0.176,0.5469
+Celle,Uelzen,-706.0,655,368,-1.0779,0.5618
+Uelzen,Lüneburg,-18.0,790,470,-0.0228,0.5949
+Lüneburg,Hamburg-Harburg,1274.0,930,589,1.3699,0.6333
+Hamburg-Harburg,Hamburg Hbf,9701.0,2099,1776,4.6217,0.8461
+Hamburg Hbf,Hamburg Dammtor,1482.0,1618,1468,0.9159,0.9073
+Hamburg Dammtor,Hamburg-Altona,-890.0,1365,1186,-0.652,0.8689
+München Hbf,Ingolstadt Hbf,772.0,1299,1084,0.5943,0.8345
+Ingolstadt Hbf,Nürnberg Hbf,1337.0,1409,1149,0.9489,0.8155
+Nürnberg Hbf,Würzburg Hbf,758.0,1799,1616,0.4213,0.8983
+Würzburg Hbf,Kassel-Wilhelmshöhe,21.0,51,39,0.4118,0.7647
+Göttingen,Celle,53.0,46,44,1.1522,0.9565
+Celle,Hannover Hbf,-24.0,611,303,-0.0393,0.4959
+Hannover Hbf,Uelzen,-350.0,102,93,-3.4314,0.9118
+Kassel-Wilhelmshöhe,Düsseldorf Hbf,0.0,22,0,0.0,0.0
+Duisburg Hbf,Essen Hbf,-155.0,2476,1959,-0.0626,0.7912
+Essen Hbf,Eisenach,0.0,40,0,0.0,0.0
+Eisenach,Gotha,-129.0,659,448,-0.1958,0.6798
+Gotha,Bochum Hbf,-1.0,56,20,-0.0179,0.3571
+Bochum Hbf,Erfurt Hbf,0.0,40,0,0.0,0.0
+Erfurt Hbf,Köln Hbf,0.0,6,0,0.0,0.0
+Köln Hbf,Dortmund Hbf,278.0,57,26,4.8772,0.4561
+Dortmund Hbf,Gera Hbf,0.0,5,0,0.0,0.0
+Gera Hbf,Hermsdorf-Klosterlausnitz,-23.0,98,46,-0.2347,0.4694
+Hermsdorf-Klosterlausnitz,Stadtroda,-1.0,97,52,-0.0103,0.5361
+Stadtroda,Jena-Göschwitz,8.0,134,40,0.0597,0.2985
+Jena-Göschwitz,Weimar,10.0,57,16,0.1754,0.2807
+Berlin Ostbahnhof,Berlin Hbf,708.0,842,698,0.8409,0.829
+Wolfsburg Hbf,Hannover Hbf,1153.0,1717,1318,0.6715,0.7676
+Hannover Hbf,Nienburg (Weser),404.0,302,276,1.3377,0.9139
+Nienburg (Weser),Verden (Aller),-64.0,297,230,-0.2155,0.7744
+Verden (Aller),Hamburg-Harburg,-461.0,57,38,-8.0877,0.6667
+Hamburg-Harburg,Bremen Hbf,2794.0,700,629,3.9914,0.8986
+Bremen Hbf,Delmenhorst,47.0,378,341,0.1243,0.9021
+Delmenhorst,Oldenburg (Oldb) Hbf,233.0,60,49,3.8833,0.8167
+Hamburg Hbf,Hamburg-Harburg,-7914.0,2011,1481,-3.9354,0.7364
+Hamburg-Harburg,Hannover Hbf,6094.0,659,502,9.2473,0.7618
+Hannover Hbf,Göttingen,269.0,1498,1168,0.1796,0.7797
+Fulda,Würzburg Hbf,-77.0,947,853,-0.0813,0.9007
+Treuchtlingen,Nürnberg Hbf,-16.0,155,130,-0.1032,0.8387
+Nürnberg Hbf,Erlangen,553.0,459,421,1.2048,0.9172
+Erlangen,Bamberg,592.0,423,366,1.3995,0.8652
+Bamberg,Coburg,44.0,105,93,0.419,0.8857
+Coburg,Erfurt Hbf,-92.0,154,144,-0.5974,0.9351
+Erfurt Hbf,Leipzig Hbf,-1555.0,1147,928,-1.3557,0.8091
+Köln Hbf,Siegburg/Bonn,1055.0,624,450,1.6907,0.7212
+Frankfurt (Main) Hbf,Friedberg (Hess),-53.0,90,39,-0.5889,0.4333
+Friedberg (Hess),Gießen,64.0,148,33,0.4324,0.223
+Gießen,Marburg (Lahn),5.0,153,33,0.0327,0.2157
+Marburg (Lahn),Treysa,33.0,154,33,0.2143,0.2143
+Treysa,Wabern (Bz Kassel),-57.0,105,32,-0.5429,0.3048
+Wabern (Bz Kassel),Kassel-Wilhelmshöhe,58.0,91,20,0.6374,0.2198
+Hamburg-Altona,Hamburg Dammtor,169.0,1123,675,0.1505,0.6011
+Hamburg Dammtor,Hamburg Hbf,-3.0,1097,688,-0.0027,0.6272
+Hamburg Hbf,Ludwigslust,-455.0,488,379,-0.9324,0.7766
+Ludwigslust,Berlin-Spandau,-61.0,205,172,-0.2976,0.839
+Berlin Hbf,Berlin Südkreuz,67.0,2328,2006,0.0288,0.8617
+Hannover Hbf,Braunschweig Hbf,211.0,441,390,0.4785,0.8844
+Wolfsburg Hbf,Stendal Hbf,65.0,613,486,0.106,0.7928
+Stendal Hbf,Berlin-Spandau,-1133.0,600,491,-1.8883,0.8183
+Hannover Hbf,Hamburg-Harburg,-2083.0,681,444,-3.0587,0.652
+Ostseebad Binz,Bergen auf Rügen,50.0,434,142,0.1152,0.3272
+Bergen auf Rügen,Stralsund Hbf,54.0,393,165,0.1374,0.4198
+Stralsund Hbf,Greifswald,39.0,276,135,0.1413,0.4891
+Greifswald,Ribnitz-Damgarten West,-118.0,110,52,-1.0727,0.4727
+Ribnitz-Damgarten West,Züssow,67.0,110,14,0.6091,0.1273
+Züssow,Anklam,-46.0,330,100,-0.1394,0.303
+Anklam,Pasewalk,328.0,332,160,0.988,0.4819
+Pasewalk,Neustrelitz Hbf,-177.0,57,56,-3.1053,0.9825
+Neustrelitz Hbf,Prenzlau,186.0,57,56,3.2632,0.9825
+Prenzlau,Angermünde,-103.0,315,164,-0.327,0.5206
+Angermünde,Eberswalde Hbf,-201.0,274,208,-0.7336,0.7591
+Eberswalde Hbf,Berlin Gesundbrunnen,51.0,268,164,0.1903,0.6119
+Berlin Gesundbrunnen,Berlin Hbf,1040.0,760,574,1.3684,0.7553
+Hamburg-Harburg,Lüneburg,2043.0,865,533,2.3618,0.6162
+Lüneburg,Uelzen,157.0,675,394,0.2326,0.5837
+Uelzen,Celle,-553.0,659,317,-0.8392,0.481
+Magdeburg Hbf,Helmstedt,78.0,289,253,0.2699,0.8754
+Helmstedt,Braunschweig Hbf,-88.0,343,236,-0.2566,0.688
+Nienburg (Weser),Minden (Westf),-244.0,49,34,-4.9796,0.6939
+Minden (Westf),Verden (Aller),982.0,186,154,5.2796,0.828
+Verden (Aller),Bremen Hbf,725.0,288,253,2.5174,0.8785
+Delmenhorst,Hude,32.0,321,260,0.0997,0.81
+Hude,Oldenburg (Oldb) Hbf,-67.0,332,274,-0.2018,0.8253
+Oldenburg (Oldb) Hbf,Bad Zwischenahn,71.0,274,251,0.2591,0.9161
+Bad Zwischenahn,Westerstede-Ocholt,-173.0,335,293,-0.5164,0.8746
+Westerstede-Ocholt,Augustfehn,-141.0,336,271,-0.4196,0.8065
+Augustfehn,Leer (Ostfriesl),50.0,290,251,0.1724,0.8655
+Hamburg Hbf,Berlin-Spandau,841.0,529,397,1.5898,0.7505
+Berlin Südkreuz,Leipzig Hbf,35.0,522,456,0.067,0.8736
+Leipzig Hbf,Erfurt Hbf,399.0,845,668,0.4722,0.7905
+Erfurt Hbf,Würzburg Hbf,-169.0,20,11,-8.45,0.55
+Würzburg Hbf,Bamberg,103.0,50,4,2.06,0.08
+Bamberg,Augsburg Hbf,-105.0,50,6,-2.1,0.12
+Augsburg Hbf,Erlangen,120.0,50,5,2.4,0.1
+Erlangen,Nürnberg Hbf,1539.0,573,477,2.6859,0.8325
+Berlin Hbf,Berlin Zoologischer Garten,-734.0,298,259,-2.4631,0.8691
+Berlin Zoologischer Garten,Berlin-Spandau,475.0,287,148,1.6551,0.5157
+Berlin-Spandau,Wolfsburg Hbf,-444.0,1638,1241,-0.2711,0.7576
+Hannover Hbf,Minden (Westf),30.0,840,772,0.0357,0.919
+Minden (Westf),Bielefeld Hbf,1886.0,535,527,3.5252,0.985
+Bielefeld Hbf,Hagen Hbf,1591.0,363,360,4.3829,0.9917
+Hagen Hbf,Wuppertal Hbf,3487.0,1354,1048,2.5753,0.774
+Wuppertal Hbf,Köln Hbf,998.0,552,542,1.808,0.9819
+Köln Hbf,Bonn Hbf,1171.0,664,555,1.7636,0.8358
+München Hbf,Augsburg Hbf,93.0,111,94,0.8378,0.8468
+Augsburg Hbf,Esslingen (Neckar),-672.0,164,122,-4.0976,0.7439
+Esslingen (Neckar),Ulm Hbf,2430.0,373,303,6.5147,0.8123
+Ulm Hbf,Stuttgart Hbf,653.0,717,670,0.9107,0.9344
+Mannheim Hbf,Limburg Süd,-243.0,57,52,-4.2632,0.9123
+Frankfurt am Main Flughafen Fernbahnhof,Siegburg/Bonn,-1958.0,593,585,-3.3019,0.9865
+Siegburg/Bonn,Köln Messe/Deutz,1362.0,844,761,1.6137,0.9017
+Köln Messe/Deutz,Düsseldorf Hbf,848.0,999,901,0.8488,0.9019
+Düsseldorf Hbf,Duisburg Hbf,2419.0,1866,1580,1.2964,0.8467
+Essen Hbf,Bochum Hbf,-345.0,1879,1490,-0.1836,0.793
+Bochum Hbf,Dortmund Hbf,624.0,1764,1511,0.3537,0.8566
+Augsburg Hbf,Ulm Hbf,253.0,1195,999,0.2117,0.836
+Mannheim Hbf,Frankfurt am Main Flughafen Fernbahnhof,4991.0,1007,993,4.9563,0.9861
+Kassel-Wilhelmshöhe,Wabern (Bz Kassel),145.0,247,54,0.587,0.2186
+Wabern (Bz Kassel),Treysa,24.0,254,57,0.0945,0.2244
+Treysa,Marburg (Lahn),-79.0,273,66,-0.2894,0.2418
+Marburg (Lahn),Gießen,33.0,268,66,0.1231,0.2463
+Gießen,Friedberg (Hess),-20.0,272,66,-0.0735,0.2426
+Friedberg (Hess),Frankfurt (Main) Hbf,-37.0,221,49,-0.1674,0.2217
+Frankfurt (Main) Hbf,Darmstadt Hbf,-229.0,403,170,-0.5682,0.4218
+Darmstadt Hbf,Bensheim,53.0,368,85,0.144,0.231
+Bensheim,Heidelberg Hbf,54.0,230,72,0.2348,0.313
+Heidelberg Hbf,Wiesloch-Walldorf,128.0,309,98,0.4142,0.3172
+Wiesloch-Walldorf,Bruchsal,17.0,135,28,0.1259,0.2074
+Bruchsal,Karlsruhe Hbf,-4.0,301,223,-0.0133,0.7409
+Hamburg Hbf,Büchen,-178.0,457,358,-0.3895,0.7834
+Büchen,Ludwigslust,62.0,465,230,0.1333,0.4946
+Wittenberge,Berlin-Spandau,1156.0,476,363,2.4286,0.7626
+Berlin Südkreuz,Berlin Ostbahnhof,-889.0,102,80,-8.7157,0.7843
+Stuttgart Hbf,Heidelberg Hbf,23.0,106,56,0.217,0.5283
+Heidelberg Hbf,Mannheim Hbf,596.0,450,328,1.3244,0.7289
+Mannheim Hbf,Mainz Hbf,1124.0,350,289,3.2114,0.8257
+Mainz Hbf,Bingen (Rhein) Hbf,231.0,217,114,1.0645,0.5253
+Bingen (Rhein) Hbf,Koblenz Hbf,-109.0,168,101,-0.6488,0.6012
+Koblenz Hbf,Köln Messe/Deutz,-816.0,258,121,-3.1628,0.469
+Köln Messe/Deutz,Andernach,695.0,202,93,3.4406,0.4604
+Andernach,Remagen,37.0,334,139,0.1108,0.4162
+Remagen,Bonn Hbf,94.0,311,125,0.3023,0.4019
+Bonn Hbf,Köln Hbf,1944.0,657,504,2.9589,0.7671
+Köln Hbf,Wuppertal Hbf,1088.0,489,459,2.2249,0.9387
+Hagen Hbf,Berlin Zoologischer Garten,-989.0,52,52,-19.0192,1.0
+Berlin Zoologischer Garten,Bielefeld Hbf,830.0,50,45,16.6,0.9
+Hannover Hbf,Berlin-Spandau,-263.0,374,362,-0.7032,0.9679
+Dortmund Hbf,Hamm (Westf) Hbf,2548.0,1280,1119,1.9906,0.8742
+Bielefeld Hbf,Minden (Westf),-510.0,397,392,-1.2846,0.9874
+Minden (Westf),Hannover Hbf,1386.0,554,545,2.5018,0.9838
+Frankfurt (Main) Hbf,Mannheim Hbf,2167.0,421,381,5.1473,0.905
+Mannheim Hbf,Karlsruhe Hbf,2319.0,183,131,12.6721,0.7158
+Karlsruhe Hbf,Baden-Baden,220.0,94,48,2.3404,0.5106
+Baden-Baden,Offenburg,-32.0,92,43,-0.3478,0.4674
+Offenburg,Freiburg (Breisgau) Hbf,2.0,17,10,0.1176,0.5882
+Emden Hbf,Marienhafe,-9.0,91,71,-0.0989,0.7802
+Marienhafe,Norden,-23.0,90,69,-0.2556,0.7667
+Halle (Saale) Hbf,Köln Messe/Deutz,-4.0,56,4,-0.0714,0.0714
+Köln Messe/Deutz,Bonn-Beuel,20.0,202,3,0.099,0.0149
+Bonn-Beuel,Köthen,6.0,56,4,0.1071,0.0714
+Köthen,Bonn Hbf,-5.0,56,4,-0.0893,0.0714
+Bonn Hbf,Koblenz Hbf,1700.0,512,368,3.3203,0.7188
+Koblenz Hbf,Mainz Hbf,-390.0,411,277,-0.9489,0.674
+Mainz Hbf,Frankfurt am Main Flughafen Fernbahnhof,193.0,359,232,0.5376,0.6462
+Frankfurt (Main) Hbf,Magdeburg Hbf,1.0,17,1,0.0588,0.0588
+Minden (Westf),Bad Oeynhausen,-97.0,198,160,-0.4899,0.8081
+Bad Oeynhausen,Herford,37.0,182,154,0.2033,0.8462
+Herford,Bielefeld Hbf,333.0,484,401,0.688,0.8285
+Bielefeld Hbf,Gütersloh Hbf,-463.0,295,238,-1.5695,0.8068
+Gütersloh Hbf,Hamm (Westf) Hbf,1024.0,390,294,2.6256,0.7538
+Hamm (Westf) Hbf,Dortmund Hbf,-1057.0,1402,1314,-0.7539,0.9372
+Dortmund Hbf,Hagen Hbf,1264.0,903,789,1.3998,0.8738
+Wuppertal Hbf,Solingen Hbf,-63.0,459,363,-0.1373,0.7908
+Solingen Hbf,Köln Hbf,9005.0,912,777,9.8739,0.852
+Stuttgart Hbf,Chemnitz Hbf,-47.0,34,19,-1.3824,0.5588
+Chemnitz Hbf,Schorndorf,83.0,40,24,2.075,0.6
+Schorndorf,Schwäbisch Gmünd,-26.0,111,88,-0.2342,0.7928
+Ellwangen,Dresden Hbf,-126.0,57,36,-2.2105,0.6316
+Dresden Hbf,Crailsheim,80.0,33,23,2.4242,0.697
+Schwerin Hbf,Hamburg Dammtor,-97.0,52,12,-1.8654,0.2308
+Hamburg-Altona,Hamburg-Harburg,-86.0,53,16,-1.6226,0.3019
+Hamburg-Harburg,Recklinghausen Hbf,504.0,50,31,10.08,0.62
+Recklinghausen Hbf,Essen Hbf,54.0,259,156,0.2085,0.6023
+Essen Hbf,Köln Messe/Deutz,-1121.0,101,65,-11.099,0.6436
+Köln Messe/Deutz,Duisburg Hbf,1772.0,208,169,8.5192,0.8125
+Duisburg Hbf,Düsseldorf Hbf,3323.0,1950,1537,1.7041,0.7882
+Düsseldorf Hbf,Hamburg Hbf,-590.0,47,37,-12.5532,0.7872
+Hamburg Hbf,Bonn-Beuel,-348.0,52,31,-6.6923,0.5962
+Bonn-Beuel,Solingen Hbf,114.0,53,6,2.1509,0.1132
+Koblenz Hbf,Bingen (Rhein) Hbf,263.0,218,178,1.2064,0.8165
+Bingen (Rhein) Hbf,Mainz Hbf,0.0,266,183,0.0,0.688
+Aschaffenburg Hbf,Ostseebad Binz,-1044.0,32,32,-32.625,1.0
+Stralsund Hbf,Velgast,-24.0,362,110,-0.0663,0.3039
+Velgast,Ribnitz-Damgarten West,-30.0,369,95,-0.0813,0.2575
+Ribnitz-Damgarten West,Rostock Hbf,48.0,369,120,0.1301,0.3252
+Rostock Hbf,Bützow,-24.0,407,146,-0.059,0.3587
+Bützow,Fürth (Bay) Hbf,121.0,55,12,2.2,0.2182
+Fürth (Bay) Hbf,Würzburg Hbf,1490.0,46,44,32.3913,0.9565
+Dortmund Hbf,Köln Hbf,537.0,68,54,7.8971,0.7941
+Essen Hbf,Solingen Hbf,-615.0,150,105,-4.1,0.7
+Solingen Hbf,Münster (Westf) Hbf,2486.0,175,163,14.2057,0.9314
+Münster (Westf) Hbf,Hamburg-Harburg,-234.0,102,100,-2.2941,0.9804
+Hamburg Dammtor,Itzehoe,192.0,256,180,0.75,0.7031
+Itzehoe,Heide (Holst),866.0,310,227,2.7935,0.7323
+Heide (Holst),Husum,224.0,312,227,0.7179,0.7276
+Husum,Niebüll,209.0,313,226,0.6677,0.722
+Stuttgart Hbf,Vaihingen (Enz),-85.0,518,436,-0.1641,0.8417
+Vaihingen (Enz),Bruchsal,205.0,53,40,3.8679,0.7547
+Frankfurt (Main) Hbf,Fulda,-2991.0,695,555,-4.3036,0.7986
+Fulda,Bad Hersfeld,-165.0,419,300,-0.3938,0.716
+Bad Hersfeld,Eisenach,840.0,406,295,2.069,0.7266
+Gotha,Erfurt Hbf,109.0,550,425,0.1982,0.7727
+Leipzig Hbf,Riesa,-104.0,543,456,-0.1915,0.8398
+Riesa,Dresden-Neustadt,508.0,530,499,0.9585,0.9415
+Dresden-Neustadt,Dresden Hbf,-15.0,952,812,-0.0158,0.8529
+Köln Hbf,Köln Messe/Deutz,-131.0,361,325,-0.3629,0.9003
+Köln Messe/Deutz,Solingen Hbf,1220.0,298,142,4.094,0.4765
+Solingen Hbf,Düsseldorf Hbf,-6410.0,804,654,-7.9726,0.8134
+Duisburg Hbf,Wuppertal Hbf,-75.0,40,23,-1.875,0.575
+Wuppertal Hbf,Mülheim (Ruhr) Hbf,73.0,40,17,1.825,0.425
+Mülheim (Ruhr) Hbf,Essen Hbf,-108.0,146,92,-0.7397,0.6301
+Essen Hbf,Hagen Hbf,-65.0,40,18,-1.625,0.45
+Hagen Hbf,Bochum Hbf,98.0,95,46,1.0316,0.4842
+Dortmund Hbf,Münster (Westf) Hbf,2135.0,610,578,3.5,0.9475
+Münster (Westf) Hbf,Osnabrück Hbf,-10.0,776,671,-0.0129,0.8647
+Osnabrück Hbf,Diepholz,-68.0,94,41,-0.7234,0.4362
+Diepholz,Bremen Hbf,-28.0,84,21,-0.3333,0.25
+Bremen Hbf,Hamburg-Harburg,304.0,650,540,0.4677,0.8308
+Hamburg Hbf,Hamburg-Altona,134.0,412,325,0.3252,0.7888
+Koblenz Hbf,Radolfzell,-110.0,39,29,-2.8205,0.7436
+Radolfzell,Köln Messe/Deutz,50.0,48,12,1.0417,0.25
+Andernach,Donaueschingen,-108.0,44,23,-2.4545,0.5227
+Donaueschingen,Villingen (Schwarzw),-3.0,49,5,-0.0612,0.102
+Villingen (Schwarzw),Triberg,14.0,49,8,0.2857,0.1633
+Triberg,Hausach,14.0,49,8,0.2857,0.1633
+Hausach,Offenburg,74.0,49,14,1.5102,0.2857
+Offenburg,Baden-Baden,141.0,161,37,0.8758,0.2298
+Baden-Baden,Karlsruhe Hbf,8.0,73,15,0.1096,0.2055
+Karlsruhe Hbf,Mannheim Hbf,3.0,209,72,0.0144,0.3445
+Mannheim Hbf,Worms Hbf,-3.0,58,13,-0.0517,0.2241
+Worms Hbf,Mainz Hbf,-8.0,58,11,-0.1379,0.1897
+Bingen (Rhein) Hbf,Remagen,133.0,44,22,3.0227,0.5
+Remagen,Bonn-Beuel,-189.0,97,42,-1.9485,0.433
+Bonn-Beuel,Bonn Hbf,434.0,201,141,2.1592,0.7015
+Emden Hbf,Konstanz,0.0,0,0,,
+Konstanz,Singen (Hohentwiel),3.0,49,8,0.0612,0.1633
+Berlin Gesundbrunnen,Berlin Ostbahnhof,-424.0,171,68,-2.4795,0.3977
+Berlin Hbf,Berlin-Wannsee,217.0,66,51,3.2879,0.7727
+Berlin-Wannsee,Potsdam Hbf,16.0,76,56,0.2105,0.7368
+Potsdam Hbf,Brandenburg Hbf,102.0,77,58,1.3247,0.7532
+Brandenburg Hbf,Magdeburg Hbf,86.0,77,71,1.1169,0.9221
+Stuttgart Hbf,Bruchsal,-242.0,239,203,-1.0126,0.8494
+Dortmund Hbf,Witten Hbf,189.0,234,217,0.8077,0.9274
+Witten Hbf,Altena (Westf),510.0,242,208,2.1074,0.8595
+Altena (Westf),Werdohl,82.0,241,200,0.3402,0.8299
+Werdohl,Plettenberg,81.0,242,201,0.3347,0.8306
+Plettenberg,Finnentrop,62.0,242,205,0.2562,0.8471
+Finnentrop,Lennestadt-Grevenbrück,-10.0,243,214,-0.0412,0.8807
+Lennestadt-Grevenbrück,Lennestadt-Altenhundem,-224.0,243,208,-0.9218,0.856
+Lennestadt-Altenhundem,Kreuztal,115.0,236,195,0.4873,0.8263
+Kreuztal,Siegen-Weidenau,168.0,234,204,0.7179,0.8718
+Siegen-Weidenau,Dillenburg,349.0,167,158,2.0898,0.9461
+Dillenburg,Wetzlar,114.0,172,160,0.6628,0.9302
+Wetzlar,Bad Nauheim,280.0,221,187,1.267,0.8462
+Bad Nauheim,Frankfurt (Main) West,117.0,219,185,0.5342,0.8447
+Frankfurt (Main) West,Frankfurt (Main) Hbf,-466.0,210,188,-2.219,0.8952
+Berlin Ostbahnhof,Wolfsburg Hbf,-27.0,46,15,-0.587,0.3261
+Wolfsburg Hbf,Berlin Hbf,17.0,29,7,0.5862,0.2414
+Berlin-Spandau,Hannover Hbf,47.0,538,466,0.0874,0.8662
+Hannover Hbf,Herford,215.0,147,115,1.4626,0.7823
+Bielefeld Hbf,Wuppertal Hbf,-632.0,94,81,-6.7234,0.8617
+Wuppertal Hbf,Gütersloh Hbf,370.0,93,79,3.9785,0.8495
+Dortmund Hbf,Bochum Hbf,-242.0,1303,1064,-0.1857,0.8166
+Bochum Hbf,Essen Hbf,163.0,1612,1169,0.1011,0.7252
+Essen Hbf,Mülheim (Ruhr) Hbf,-8.0,146,93,-0.0548,0.637
+Mülheim (Ruhr) Hbf,Duisburg Hbf,32.0,93,61,0.3441,0.6559
+Düsseldorf Hbf,Solingen Hbf,-172.0,968,824,-0.1777,0.8512
+Köln Hbf,Aachen Hbf,-135.0,41,33,-3.2927,0.8049
+Stuttgart Hbf,Böblingen,142.0,110,53,1.2909,0.4818
+Böblingen,Herrenberg,86.0,124,77,0.6935,0.621
+Herrenberg,Gäufelden,-102.0,130,68,-0.7846,0.5231
+Gäufelden,Bondorf (b Herrenberg),33.0,80,45,0.4125,0.5625
+Bondorf (b Herrenberg),Horb,126.0,97,68,1.299,0.701
+Horb,Berlin-Spandau,-99.0,51,35,-1.9412,0.6863
+Berlin-Spandau,Oberndorf (Neckar),78.0,48,16,1.625,0.3333
+Oberndorf (Neckar),Sulz (Neckar),42.0,148,74,0.2838,0.5
+Sulz (Neckar),Rottweil,50.0,51,38,0.9804,0.7451
+Würzburg Hbf,Aschaffenburg Hbf,770.0,1023,854,0.7527,0.8348
+Aschaffenburg Hbf,Frankfurt (Main) Hbf,2066.0,903,794,2.2879,0.8793
+Frankfurt am Main Flughafen Fernbahnhof,Köln Hbf,-1727.0,215,214,-8.0326,0.9953
+Essen Hbf,Düsseldorf Hbf,494.0,85,41,5.8118,0.4824
+Bremen Hbf,Osnabrück Hbf,-893.0,486,469,-1.8374,0.965
+Osnabrück Hbf,Münster (Westf) Hbf,7.0,833,750,0.0084,0.9004
+Münster (Westf) Hbf,Dortmund Hbf,1488.0,404,383,3.6832,0.948
+Wuppertal Hbf,Gelsenkirchen Hbf,-15.0,50,8,-0.3,0.16
+Gelsenkirchen Hbf,Bochum Hbf,2336.0,153,141,15.268,0.9216
+Essen Hbf,Duisburg Hbf,-140.0,2285,1726,-0.0613,0.7554
+Düsseldorf Hbf,Köln Messe/Deutz,-431.0,1130,961,-0.3814,0.8504
+Siegburg/Bonn,Frankfurt am Main Flughafen Fernbahnhof,3.0,387,367,0.0078,0.9483
+Frankfurt am Main Flughafen Fernbahnhof,Mannheim Hbf,4311.0,981,966,4.3945,0.9847
+Mannheim Hbf,Stuttgart Hbf,512.0,1353,1319,0.3784,0.9749
+Frankfurt am Main Flughafen Fernbahnhof,Köln Messe/Deutz,-1032.0,353,346,-2.9235,0.9802
+Dresden-Neustadt,Berlin Südkreuz,55.0,57,56,0.9649,0.9825
+Berlin Hbf,Berlin-Lichtenberg,-66.0,57,53,-1.1579,0.9298
+Berlin-Lichtenberg,Berlin Gesundbrunnen,-14.0,112,26,-0.125,0.2321
+Berlin Gesundbrunnen,Berlin-Spandau,1580.0,320,146,4.9375,0.4562
+Berlin-Spandau,Wittenberge,-1723.0,429,364,-4.0163,0.8485
+Wittenberge,Ludwigslust,-181.0,545,306,-0.3321,0.5615
+Ludwigslust,Büchen,-132.0,285,107,-0.4632,0.3754
+Büchen,Hamburg-Bergedorf,41.0,87,48,0.4713,0.5517
+Hamburg-Bergedorf,Hamburg Hbf,27.0,81,57,0.3333,0.7037
+München Hbf,München Ost,0.0,10,0,0.0,0.0
+München Ost,Rosenheim,0.0,112,0,0.0,0.0
+Karlsruhe Hbf,Bruchsal,33.0,339,173,0.0973,0.5103
+Stuttgart Hbf,Esslingen (Neckar),-1550.0,208,198,-7.4519,0.9519
+Köln Messe/Deutz,Bonn Hbf,1392.0,201,184,6.9254,0.9154
+Mainz Hbf,Mannheim Hbf,1134.0,426,296,2.662,0.6948
+Heidelberg Hbf,Vaihingen (Enz),655.0,174,133,3.7644,0.7644
+Jena-Göschwitz,Jena West,-17.0,85,31,-0.2,0.3647
+Jena West,Weimar,-1.0,93,54,-0.0108,0.5806
+Weimar,Erfurt Hbf,96.0,141,81,0.6809,0.5745
+Erfurt Hbf,Gotha,-640.0,603,474,-1.0614,0.7861
+Gotha,Eisenach,-107.0,564,385,-0.1897,0.6826
+Eisenach,Kassel-Wilhelmshöhe,231.0,94,76,2.4574,0.8085
+Kassel-Wilhelmshöhe,Warburg (Westf),53.0,55,52,0.9636,0.9455
+Warburg (Westf),Altenbeken,130.0,55,54,2.3636,0.9818
+Altenbeken,Paderborn Hbf,-10.0,55,53,-0.1818,0.9636
+Paderborn Hbf,Lippstadt,28.0,55,55,0.5091,1.0
+Lippstadt,Soest,26.0,55,52,0.4727,0.9455
+Soest,Hamm (Westf) Hbf,97.0,55,55,1.7636,1.0
+Duisburg Hbf,Düsseldorf Flughafen,905.0,671,583,1.3487,0.8689
+Düsseldorf Flughafen,Düsseldorf Hbf,-103.0,671,573,-0.1535,0.8539
+Stuttgart Hbf,Wiesloch-Walldorf,-11.0,87,71,-0.1264,0.8161
+Wiesloch-Walldorf,Heidelberg Hbf,55.0,257,107,0.214,0.4163
+Niebüll,Westerland (Sylt),1178.0,351,198,3.3561,0.5641
+Mühlacker,Stuttgart Hbf,100.0,82,35,1.2195,0.4268
+Bamberg,Lichtenfels,183.0,133,133,1.3759,1.0
+Lichtenfels,Kronach,-86.0,133,128,-0.6466,0.9624
+Kronach,Ludwigsstadt,-58.0,133,123,-0.4361,0.9248
+Ludwigsstadt,Saalfeld (Saale),-230.0,133,116,-1.7293,0.8722
+Saalfeld (Saale),Rudolstadt (Thür),-148.0,133,97,-1.1128,0.7293
+Rudolstadt (Thür),Jena-Göschwitz,-4.0,133,104,-0.0301,0.782
+Jena-Göschwitz,Jena Paradies,26.0,165,114,0.1576,0.6909
+Jena Paradies,Naumburg (Saale) Hbf,15.0,178,110,0.0843,0.618
+Naumburg (Saale) Hbf,Weißenfels,12.0,181,104,0.0663,0.5746
+Weißenfels,Leipzig Hbf,88.0,182,117,0.4835,0.6429
+Mannheim Hbf,Frankfurt (Main) Hbf,2514.0,446,436,5.6368,0.9776
+Frankfurt (Main) Hbf,Kassel-Wilhelmshöhe,-1837.0,391,387,-4.6982,0.9898
+Berlin-Spandau,Fulda,259.0,55,34,4.7091,0.6182
+Fulda,Berlin Ostbahnhof,-286.0,55,42,-5.2,0.7636
+Berlin Ostbahnhof,Erfurt Hbf,822.0,100,76,8.22,0.76
+Berlin Hbf,Hamburg Hbf,-318.0,100,92,-3.18,0.92
+Köln Hbf,Berlin-Spandau,813.0,155,141,5.2452,0.9097
+Vaihingen (Enz),Wiesloch-Walldorf,-31.0,69,20,-0.4493,0.2899
+Mainz Hbf,Wiesbaden Hbf,773.0,237,152,3.2616,0.6414
+Dresden-Neustadt,Elsterwerda,10.0,407,241,0.0246,0.5921
+Elsterwerda,Doberlug-Kirchhain,-96.0,268,165,-0.3582,0.6157
+Doberlug-Kirchhain,Berlin Südkreuz,936.0,303,257,3.0891,0.8482
+Berlin Gesundbrunnen,Oranienburg,382.0,279,225,1.3692,0.8065
+Oranienburg,Neustrelitz Hbf,-509.0,281,217,-1.8114,0.7722
+Neustrelitz Hbf,Waren (Müritz),-70.0,279,183,-0.2509,0.6559
+Waren (Müritz),Schwerin Hbf,-704.0,181,128,-3.8895,0.7072
+Schwerin Hbf,Rostock Hbf,1246.0,245,129,5.0857,0.5265
+Rostock Hbf,Warnemünde,-289.0,294,191,-0.983,0.6497
+Donauwörth,Nürnberg Hbf,164.0,209,178,0.7847,0.8517
+Nürnberg Hbf,Bamberg,570.0,386,355,1.4767,0.9197
+Bamberg,Erfurt Hbf,-753.0,513,469,-1.4678,0.9142
+Halle (Saale) Hbf,Bitterfeld,142.0,439,370,0.3235,0.8428
+Bitterfeld,Berlin Südkreuz,344.0,488,455,0.7049,0.9324
+Berlin-Spandau,Hamburg Hbf,3810.0,677,620,5.6278,0.9158
+Köln Messe/Deutz,Siegburg/Bonn,-509.0,372,264,-1.3683,0.7097
+Limburg Süd,Köln Hbf,1035.0,95,42,10.8947,0.4421
+Köln Hbf,Frankfurt am Main Flughafen Fernbahnhof,1195.0,249,219,4.7992,0.8795
+Hannover Hbf,Bielefeld Hbf,2754.0,933,920,2.9518,0.9861
+Bielefeld Hbf,Hamm (Westf) Hbf,1738.0,1193,1177,1.4568,0.9866
+Münster (Westf) Hbf,Gelsenkirchen Hbf,-1206.0,143,138,-8.4336,0.965
+Gelsenkirchen Hbf,Essen Hbf,392.0,221,147,1.7738,0.6652
+Düsseldorf Hbf,Köln Hbf,10841.0,1227,1019,8.8354,0.8305
+Frankfurt (Main) Hbf,Erfurt Hbf,320.0,115,50,2.7826,0.4348
+Büchen,Hamburg Hbf,2523.0,218,202,11.5734,0.9266
+Duisburg Hbf,Mülheim (Ruhr) Hbf,365.0,106,70,3.4434,0.6604
+Münster (Westf) Hbf,Bremen Hbf,-15.0,48,40,-0.3125,0.8333
+Bremen Hbf,Hamburg Hbf,-66.0,49,43,-1.3469,0.8776
+Hannover Hbf,Bremen Hbf,220.0,57,41,3.8596,0.7193
+Berlin Hbf,Esslingen (Neckar),4.0,40,2,0.1,0.05
+Esslingen (Neckar),Karlsruhe Hbf,0.0,1,0,0.0,0.0
+Bruchsal,Wolfsburg Hbf,-18.0,40,14,-0.45,0.35
+Braunschweig Hbf,Stuttgart Hbf,65.0,40,27,1.625,0.675
+Stuttgart Hbf,Hanau Hbf,-87.0,40,34,-2.175,0.85
+Hanau Hbf,Würzburg Hbf,0.0,40,0,0.0,0.0
+Ingolstadt Hbf,Hildesheim Hbf,1.0,40,1,0.025,0.025
+Göttingen,Ulm Hbf,111.0,40,28,2.775,0.7
+München-Pasing,Frankfurt (Main) Hbf,-228.0,38,31,-6.0,0.8158
+Mannheim Hbf,München Hbf,264.0,39,29,6.7692,0.7436
+Wiesloch-Walldorf,Stuttgart Hbf,19.0,77,55,0.2468,0.7143
+Hamm (Westf) Hbf,Bochum Hbf,-165.0,44,40,-3.75,0.9091
+Duisburg Hbf,Krefeld Hbf,-4.0,45,14,-0.0889,0.3111
+Krefeld Hbf,Viersen,-13.0,46,15,-0.2826,0.3261
+Viersen,Mönchengladbach Hbf,-58.0,46,14,-1.2609,0.3043
+Mönchengladbach Hbf,Rheydt Hbf,-150.0,64,22,-2.3438,0.3438
+Rheydt Hbf,Erkelenz,76.0,103,19,0.7379,0.1845
+Erkelenz,Herzogenrath,-63.0,45,12,-1.4,0.2667
+Herzogenrath,Geilenkirchen,37.0,46,14,0.8043,0.3043
+Geilenkirchen,Aachen Hbf,31.0,104,18,0.2981,0.1731
+Aachen Hbf,Dortmund Hbf,223.0,30,19,7.4333,0.6333
+Norddeich Mole,Norden,-5.0,51,3,-0.098,0.0588
+Norden,Emden Hbf,93.0,149,83,0.6242,0.557
+Emden Hbf,Leer (Ostfriesl),-82.0,598,371,-0.1371,0.6204
+Leer (Ostfriesl),Papenburg (Ems),-37.0,360,169,-0.1028,0.4694
+Papenburg (Ems),Meppen,165.0,359,204,0.4596,0.5682
+Meppen,Lingen (Ems),-153.0,417,205,-0.3669,0.4916
+Limburg Süd,Köln Messe/Deutz,43.0,109,9,0.3945,0.0826
+Köln Messe/Deutz,Köln Hbf,2415.0,590,485,4.0932,0.822
+Solingen Hbf,Wuppertal Hbf,-100.0,353,299,-0.2833,0.847
+Hagen Hbf,Dortmund Hbf,915.0,598,538,1.5301,0.8997
+Osnabrück Hbf,Bremen Hbf,-1095.0,551,517,-1.9873,0.9383
+Göttingen,Hannover-Messe / Laatzen,-1228.0,205,144,-5.9902,0.7024
+Hannover-Messe / Laatzen,Hannover Hbf,2513.0,309,193,8.1327,0.6246
+Norddeich,Norden,23.0,211,102,0.109,0.4834
+Norden,Marienhafe,-31.0,109,62,-0.2844,0.5688
+Marienhafe,Brandenburg Hbf,7.0,12,3,0.5833,0.25
+Brandenburg Hbf,Potsdam Hbf,-7.0,96,53,-0.0729,0.5521
+Potsdam Hbf,Augustfehn,-7.0,12,5,-0.5833,0.4167
+Augustfehn,Westerstede-Ocholt,60.0,279,222,0.2151,0.7957
+Westerstede-Ocholt,Bad Zwischenahn,-98.0,280,216,-0.35,0.7714
+Bad Zwischenahn,Oldenburg (Oldb) Hbf,92.0,285,236,0.3228,0.8281
+Oldenburg (Oldb) Hbf,Hude,124.0,284,257,0.4366,0.9049
+Hude,Delmenhorst,101.0,187,156,0.5401,0.8342
+Delmenhorst,Berlin-Wannsee,15.0,12,5,1.25,0.4167
+Berlin-Wannsee,Verden (Aller),-17.0,12,5,-1.4167,0.4167
+Verden (Aller),Nienburg (Weser),143.0,323,217,0.4427,0.6718
+Nienburg (Weser),Berlin Gesundbrunnen,41.0,12,6,3.4167,0.5
+Berlin Gesundbrunnen,Emden Hbf,-7.0,9,2,-0.7778,0.2222
+Leer (Ostfriesl),Bremen Hbf,12.0,12,4,1.0,0.3333
+Bremen Hbf,Braunschweig Hbf,1.0,12,5,0.0833,0.4167
+Braunschweig Hbf,Helmstedt,145.0,283,210,0.5124,0.742
+Helmstedt,Rostock Hbf,-21.0,10,5,-2.1,0.5
+Rostock Hbf,Riesa,3.0,12,2,0.25,0.1667
+Riesa,Hannover Hbf,29.0,12,6,2.4167,0.5
+Hannover Hbf,Bützow,-15.0,12,5,-1.25,0.4167
+Karlsruhe Hbf,Offenburg,7.0,13,10,0.5385,0.7692
+Offenburg,Hausach,18.0,62,17,0.2903,0.2742
+Hausach,Triberg,24.0,62,18,0.3871,0.2903
+Triberg,Villingen (Schwarzw),-36.0,62,18,-0.5806,0.2903
+Villingen (Schwarzw),Donaueschingen,13.0,62,16,0.2097,0.2581
+Donaueschingen,Singen (Hohentwiel),-8.0,13,10,-0.6154,0.7692
+Singen (Hohentwiel),Radolfzell,-2.0,97,17,-0.0206,0.1753
+Leer (Ostfriesl),Augustfehn,71.0,268,233,0.2649,0.8694
+Delmenhorst,Bremen Hbf,-73.0,289,241,-0.2526,0.8339
+Bremen Hbf,Verden (Aller),145.0,78,54,1.859,0.6923
+Nienburg (Weser),Osnabrück Hbf,-134.0,35,30,-3.8286,0.8571
+Osnabrück Hbf,Hannover Hbf,436.0,141,137,3.0922,0.9716
+Hannover Hbf,Peine,93.0,72,50,1.2917,0.6944
+Peine,Braunschweig Hbf,-17.0,82,46,-0.2073,0.561
+Helmstedt,Magdeburg Hbf,70.0,261,207,0.2682,0.7931
+Düsseldorf Hbf,Neuss Hbf,-8.0,48,41,-0.1667,0.8542
+Neuss Hbf,Mönchengladbach Hbf,2.0,47,40,0.0426,0.8511
+Erkelenz,Geilenkirchen,-8.0,57,6,-0.1404,0.1053
+Köln Messe/Deutz,Wuppertal Hbf,2430.0,322,239,7.5466,0.7422
+Hagen Hbf,Montabaur,-167.0,106,14,-1.5755,0.1321
+Montabaur,Düsseldorf Hbf,2353.0,104,85,22.625,0.8173
+Essen Hbf,Gelsenkirchen Hbf,-654.0,53,36,-12.3396,0.6792
+Gelsenkirchen Hbf,Recklinghausen Hbf,50.0,95,41,0.5263,0.4316
+Recklinghausen Hbf,Bochum Hbf,64.0,53,36,1.2075,0.6792
+Bochum Hbf,Siegburg/Bonn,543.0,54,47,10.0556,0.8704
+Siegburg/Bonn,Dortmund Hbf,-521.0,54,54,-9.6481,1.0
+Köln Hbf,Solingen Hbf,-1567.0,856,647,-1.8306,0.7558
+Husum,Bredstedt,17.0,18,12,0.9444,0.6667
+Bredstedt,Langenhorn (Schlesw),171.0,122,91,1.4016,0.7459
+Langenhorn (Schlesw),Niebüll,40.0,140,65,0.2857,0.4643
+Westerland (Sylt),Niebüll,-1098.0,252,147,-4.3571,0.5833
+Niebüll,Husum,293.0,285,186,1.0281,0.6526
+Husum,Heide (Holst),246.0,287,187,0.8571,0.6516
+Heide (Holst),Itzehoe,151.0,184,115,0.8207,0.625
+Itzehoe,Hamburg Dammtor,142.0,129,67,1.1008,0.5194
+Friedberg (Hess),Stuttgart Hbf,-144.0,35,4,-4.1143,0.1143
+Stuttgart Hbf,Frankfurt (Main) Hbf,139.0,35,4,3.9714,0.1143
+Bützow,Ludwigslust,-243.0,85,52,-2.8588,0.6118
+Ludwigslust,Schwerin Hbf,835.0,359,193,2.3259,0.5376
+Schwerin Hbf,Hamburg Hbf,138.0,206,96,0.6699,0.466
+Bruchsal,Karlsruhe-Durlach,-84.0,155,46,-0.5419,0.2968
+Karlsruhe-Durlach,Neu-Edingen/Friedrichsfeld,-63.0,54,3,-1.1667,0.0556
+Neu-Edingen/Friedrichsfeld,Karlsruhe Hbf,739.0,80,25,9.2375,0.3125
+Leipzig Hbf,Berlin Südkreuz,1244.0,637,487,1.9529,0.7645
+Schwerin Hbf,Bützow,-239.0,168,86,-1.4226,0.5119
+Bützow,Rostock Hbf,432.0,366,224,1.1803,0.612
+Rostock Hbf,Ribnitz-Damgarten West,35.0,271,152,0.1292,0.5609
+Ribnitz-Damgarten West,Velgast,-104.0,307,125,-0.3388,0.4072
+Velgast,Stralsund Hbf,-28.0,309,115,-0.0906,0.3722
+Stralsund Hbf,Bergen auf Rügen,-75.0,345,163,-0.2174,0.4725
+Bergen auf Rügen,Ostseebad Binz,-43.0,352,121,-0.1222,0.3438
+Lüneburg,Hannover Hbf,-238.0,273,185,-0.8718,0.6777
+Göttingen,Frankfurt (Main) Hbf,298.0,56,46,5.3214,0.8214
+Kassel-Wilhelmshöhe,Frankfurt am Main Flughafen Fernbahnhof,469.0,102,102,4.598,1.0
+Kassel-Wilhelmshöhe,Eisenach,677.0,205,129,3.3024,0.6293
+Erfurt Hbf,Weimar,-474.0,150,86,-3.16,0.5733
+Weimar,Jena West,-8.0,98,66,-0.0816,0.6735
+Jena West,Jena-Göschwitz,13.0,98,73,0.1327,0.7449
+Jena-Göschwitz,Stadtroda,-37.0,88,68,-0.4205,0.7727
+Stadtroda,Hermsdorf-Klosterlausnitz,53.0,93,64,0.5699,0.6882
+Hermsdorf-Klosterlausnitz,Gera Hbf,-23.0,96,55,-0.2396,0.5729
+Köln Hbf,Frankfurt (Main) Hbf,1075.0,97,95,11.0825,0.9794
+Hanau Hbf,Kassel-Wilhelmshöhe,694.0,148,132,4.6892,0.8919
+Kassel-Wilhelmshöhe,Celle,-582.0,98,44,-5.9388,0.449
+Celle,Göttingen,637.0,108,46,5.8981,0.4259
+Hamburg-Harburg,Heidelberg Hbf,-928.0,48,32,-19.3333,0.6667
+Heidelberg Hbf,Mainz Hbf,0.0,51,0,0.0,0.0
+Mainz Hbf,Koblenz Hbf,224.0,367,249,0.6104,0.6785
+Koblenz Hbf,Bielefeld Hbf,0.0,51,0,0.0,0.0
+Bielefeld Hbf,Berlin-Spandau,122.0,53,2,2.3019,0.0377
+Berlin Ostbahnhof,Hamburg Hbf,1031.0,52,43,19.8269,0.8269
+Frankfurt am Main Flughafen Fernbahnhof,Hanau Hbf,77.0,352,128,0.2188,0.3636
+Hanau Hbf,Fulda,-557.0,414,95,-1.3454,0.2295
+Freiberg (Sachs),Dresden Hbf,36.0,86,51,0.4186,0.593
+Elsterwerda,Riesa,-717.0,139,114,-5.1583,0.8201
+Riesa,Doberlug-Kirchhain,138.0,39,21,3.5385,0.5385
+Warnemünde,Chemnitz Hbf,0.0,0,0,,
+Ludwigslust,Hamburg Hbf,1205.0,460,373,2.6196,0.8109
+Berlin Südkreuz,Halle (Saale) Hbf,-753.0,950,736,-0.7926,0.7747
+Halle (Saale) Hbf,Erfurt Hbf,1361.0,1331,1011,1.0225,0.7596
+Erfurt Hbf,Nürnberg Hbf,2622.0,514,480,5.1012,0.9339
+Nürnberg Hbf,München Hbf,1676.0,1673,1545,1.0018,0.9235
+Berlin Südkreuz,Bitterfeld,173.0,214,159,0.8084,0.743
+Bitterfeld,Leipzig Hbf,-1209.0,159,151,-7.6038,0.9497
+Erfurt Hbf,Bamberg,-941.0,368,315,-2.5571,0.856
+Bamberg,Nürnberg Hbf,340.0,147,128,2.3129,0.8707
+Nürnberg Hbf,Donauwörth,54.0,154,152,0.3506,0.987
+Donauwörth,Augsburg Hbf,119.0,194,182,0.6134,0.9381
+Koblenz Hbf,Andernach,54.0,168,118,0.3214,0.7024
+Bonn Hbf,Köln Messe/Deutz,-1187.0,269,145,-4.4126,0.539
+Hamm (Westf) Hbf,Gütersloh Hbf,205.0,316,307,0.6487,0.9715
+Gütersloh Hbf,Bielefeld Hbf,65.0,314,288,0.207,0.9172
+Bielefeld Hbf,Herford,-196.0,313,283,-0.6262,0.9042
+Herford,Bad Oeynhausen,3.0,209,183,0.0144,0.8756
+Bad Oeynhausen,Minden (Westf),14.0,211,194,0.0664,0.9194
+Braunschweig Hbf,Magdeburg Hbf,441.0,222,203,1.9865,0.9144
+Leipzig Hbf,München Hbf,-237.0,51,33,-4.6471,0.6471
+München-Pasing,Stuttgart Hbf,0.0,54,0,0.0,0.0
+Stuttgart Hbf,Saarbrücken Hbf,14.0,56,2,0.25,0.0357
+Saarbrücken Hbf,Riesa,312.0,51,39,6.1176,0.7647
+Köln Messe/Deutz,Esslingen (Neckar),-438.0,112,104,-3.9107,0.9286
+Esslingen (Neckar),Siegburg/Bonn,453.0,112,84,4.0446,0.75
+Frankfurt am Main Flughafen Fernbahnhof,Heidelberg Hbf,-209.0,55,37,-3.8,0.6727
+Konstanz,Radolfzell,7.0,89,28,0.0787,0.3146
+Radolfzell,Singen (Hohentwiel),8.0,126,36,0.0635,0.2857
+Singen (Hohentwiel),Engen,39.0,159,64,0.2453,0.4025
+Engen,Tuttlingen,70.0,155,87,0.4516,0.5613
+Tuttlingen,Spaichingen,26.0,107,70,0.243,0.6542
+Spaichingen,Rottweil,71.0,129,76,0.5504,0.5891
+Rottweil,Oberndorf (Neckar),-56.0,106,70,-0.5283,0.6604
+Sulz (Neckar),Horb,151.0,100,68,1.51,0.68
+Horb,Bondorf (b Herrenberg),-74.0,101,69,-0.7327,0.6832
+Bondorf (b Herrenberg),Gäufelden,-120.0,108,57,-1.1111,0.5278
+Gäufelden,Herrenberg,95.0,107,57,0.8879,0.5327
+Herrenberg,Böblingen,-30.0,106,60,-0.283,0.566
+Böblingen,Stuttgart Hbf,171.0,155,81,1.1032,0.5226
+Schwerin Hbf,Büchen,-51.0,31,19,-1.6452,0.6129
+Kassel-Wilhelmshöhe,Berlin Südkreuz,1399.0,239,184,5.8536,0.7699
+Erfurt Hbf,Fulda,300.0,278,248,1.0791,0.8921
+Fulda,Frankfurt (Main) Hbf,1676.0,908,724,1.8458,0.7974
+Berlin-Spandau,Berlin Gesundbrunnen,-825.0,104,84,-7.9327,0.8077
+Bamberg,Erlangen,50.0,376,257,0.133,0.6835
+Kassel-Wilhelmshöhe,Würzburg Hbf,1177.0,57,55,20.6491,0.9649
+Würzburg Hbf,Ingolstadt Hbf,35.0,57,56,0.614,0.9825
+Freiburg (Breisgau) Hbf,Berlin Hbf,-97.0,56,26,-1.7321,0.4643
+Berlin Hbf,Offenburg,3.0,58,1,0.0517,0.0172
+Baden-Baden,Fulda,-237.0,58,36,-4.0862,0.6207
+Fulda,Karlsruhe Hbf,280.0,58,43,4.8276,0.7414
+Limburg Süd,Wiesbaden Hbf,-44.0,94,76,-0.4681,0.8085
+Wiesbaden Hbf,Mainz Hbf,116.0,260,142,0.4462,0.5462
+Eisenach,Bad Hersfeld,41.0,416,248,0.0986,0.5962
+Bad Hersfeld,Fulda,343.0,449,309,0.7639,0.6882
+Bremen Hbf,Hannover Hbf,105.0,34,29,3.0882,0.8529
+Berlin Hbf,Schwerin Hbf,-333.0,53,53,-6.283,1.0
+Schwerin Hbf,Berlin Gesundbrunnen,222.0,49,40,4.5306,0.8163
+Waren (Müritz),Rostock Hbf,-122.0,101,62,-1.2079,0.6139
+Leipzig Hbf,Bitterfeld,564.0,57,52,9.8947,0.9123
+Lüneburg,Göttingen,-35.0,35,5,-1.0,0.1429
+Frankfurt (Main) Hbf,Uelzen,24.0,28,4,0.8571,0.1429
+Berlin-Spandau,Ludwigslust,-317.0,211,168,-1.5024,0.7962
+Itzehoe,Hamburg-Altona,7.0,10,8,0.7,0.8
+Heidelberg Hbf,Stuttgart Hbf,1036.0,473,346,2.1903,0.7315
+Hagen Hbf,Düsseldorf Hbf,-1303.0,265,208,-4.917,0.7849
+Berlin Gesundbrunnen,Bernau (b Berlin),133.0,113,109,1.177,0.9646
+Bernau (b Berlin),Eberswalde Hbf,-255.0,159,149,-1.6038,0.9371
+Eberswalde Hbf,Neustrelitz Hbf,-113.0,56,48,-2.0179,0.8571
+Neustrelitz Hbf,Angermünde,191.0,109,66,1.7523,0.6055
+Angermünde,Prenzlau,29.0,276,144,0.1051,0.5217
+Prenzlau,Pasewalk,-59.0,270,141,-0.2185,0.5222
+Pasewalk,Ribnitz-Damgarten West,-76.0,56,43,-1.3571,0.7679
+Ribnitz-Damgarten West,Anklam,94.0,56,38,1.6786,0.6786
+Anklam,Züssow,95.0,276,162,0.3442,0.587
+Züssow,Greifswald,-146.0,276,167,-0.529,0.6051
+Greifswald,Stralsund Hbf,-16.0,320,171,-0.05,0.5344
+Stralsund Hbf,Ribnitz-Damgarten West,-128.0,96,46,-1.3333,0.4792
+Ribnitz-Damgarten West,Neustrelitz Hbf,-4.0,43,1,-0.093,0.0233
+Neustrelitz Hbf,Greifswald,88.0,35,14,2.5143,0.4
+Greifswald,Züssow,-28.0,215,56,-0.1302,0.2605
+Pasewalk,Prenzlau,30.0,329,162,0.0912,0.4924
+Oldenburg (Oldb) Hbf,Delmenhorst,15.0,45,30,0.3333,0.6667
+Nienburg (Weser),Hannover Hbf,378.0,220,153,1.7182,0.6955
+Hamburg-Altona,Berlin Ostbahnhof,0.0,1,0,0.0,0.0
+Berlin-Spandau,Berlin Ostbahnhof,110.0,51,43,2.1569,0.8431
+Hamburg Hbf,Uelzen,81.0,51,43,1.5882,0.8431
+Uelzen,Hamburg-Harburg,-83.0,48,44,-1.7292,0.9167
+Hamburg-Harburg,Celle,-76.0,52,43,-1.4615,0.8269
+Celle,Lüneburg,97.0,51,38,1.902,0.7451
+Göttingen,Fulda,-557.0,106,83,-5.2547,0.783
+Kassel-Wilhelmshöhe,Frankfurt (Main) Hbf,928.0,220,194,4.2182,0.8818
+Stuttgart Hbf,Berlin-Spandau,0.0,4,0,0.0,0.0
+Norddeich Mole,Norddeich,-15.0,124,69,-0.121,0.5565
+Marienhafe,Emden Hbf,49.0,103,86,0.4757,0.835
+Bremen Hbf,Minden (Westf),-317.0,138,111,-2.2971,0.8043
+Berlin-Spandau,Erfurt Hbf,706.0,96,62,7.3542,0.6458
+Erfurt Hbf,Berlin Ostbahnhof,-752.0,96,75,-7.8333,0.7812
+Berlin Ostbahnhof,Halle (Saale) Hbf,812.0,84,66,9.6667,0.7857
+Siegburg/Bonn,Wuppertal Hbf,-165.0,57,9,-2.8947,0.1579
+Hagen Hbf,Limburg Süd,234.0,57,9,4.1053,0.1579
+Montabaur,Köln Messe/Deutz,708.0,57,52,12.4211,0.9123
+Frankfurt (Main) Hbf,Aschaffenburg Hbf,2022.0,584,582,3.4623,0.9966
+Frankfurt (Main) Hbf,Berlin Südkreuz,0.0,0,0,,
+Koblenz Hbf,Bonn-Beuel,-1086.0,102,89,-10.6471,0.8725
+Bonn-Beuel,Köln Messe/Deutz,109.0,49,14,2.2245,0.2857
+Horb,Sulz (Neckar),2.0,86,59,0.0233,0.686
+Sulz (Neckar),Oberndorf (Neckar),-21.0,100,58,-0.21,0.58
+Oberndorf (Neckar),Hamburg Hbf,-279.0,38,21,-7.3421,0.5526
+Hamburg Hbf,Spaichingen,127.0,47,10,2.7021,0.2128
+Spaichingen,Tuttlingen,25.0,104,46,0.2404,0.4423
+Tuttlingen,Engen,13.0,104,46,0.125,0.4423
+Engen,Singen (Hohentwiel),-44.0,104,45,-0.4231,0.4327
+Radolfzell,Konstanz,19.0,96,12,0.1979,0.125
+Konstanz,Rottweil,206.0,33,24,6.2424,0.7273
+Rottweil,Hamburg-Harburg,-164.0,13,13,-12.6154,1.0
+Hannover Hbf,Kassel-Wilhelmshöhe,0.0,42,3,0.0,0.0714
+Kassel-Wilhelmshöhe,Nürnberg Hbf,121.0,47,4,2.5745,0.0851
+Lingen (Ems),Rheine,247.0,353,175,0.6997,0.4958
+Rheine,Münster (Westf) Hbf,179.0,305,166,0.5869,0.5443
+Hamm (Westf) Hbf,Hagen Hbf,2190.0,341,334,6.4223,0.9795
+Berlin Südkreuz,Berlin Gesundbrunnen,103.0,13,9,7.9231,0.6923
+Bamberg,Ingolstadt Hbf,356.0,58,5,6.1379,0.0862
+Köln Messe/Deutz,Frankfurt am Main Flughafen Fernbahnhof,86.0,465,460,0.1849,0.9892
+Bremerhaven-Lehe,Bremerhaven Hbf,-18.0,46,23,-0.3913,0.5
+Bremerhaven Hbf,Osterholz-Scharmbeck,7.0,47,35,0.1489,0.7447
+Osterholz-Scharmbeck,Bremen Hbf,5.0,47,39,0.1064,0.8298
+Münster (Westf) Hbf,Recklinghausen Hbf,-971.0,460,404,-2.1109,0.8783
+Recklinghausen Hbf,Gelsenkirchen Hbf,-89.0,183,144,-0.4863,0.7869
+Gelsenkirchen Hbf,Oberhausen Hbf,494.0,246,160,2.0081,0.6504
+Oberhausen Hbf,Duisburg Hbf,471.0,244,196,1.9303,0.8033
+Hannover Hbf,Osnabrück Hbf,670.0,148,144,4.527,0.973
+Köln Hbf,Düren,-698.0,117,76,-5.9658,0.6496
+Düren,Aachen Hbf,233.0,121,68,1.9256,0.562
+Hude,Minden (Westf),-315.0,47,40,-6.7021,0.8511
+Minden (Westf),Delmenhorst,438.0,48,46,9.125,0.9583
+Bremen Hbf,Wolfsburg Hbf,-250.0,46,36,-5.4348,0.7826
+Berlin-Spandau,Verden (Aller),524.0,47,40,11.1489,0.8511
+Magdeburg Hbf,Brandenburg Hbf,-10.0,120,92,-0.0833,0.7667
+Potsdam Hbf,Berlin-Wannsee,94.0,83,62,1.1325,0.747
+Berlin-Wannsee,Berlin Hbf,-51.0,94,79,-0.5426,0.8404
+Berlin Ostbahnhof,Berlin Gesundbrunnen,-176.0,64,53,-2.75,0.8281
+Berlin Gesundbrunnen,Königs Wusterhausen,258.0,47,37,5.4894,0.7872
+Königs Wusterhausen,Lübben (Spreewald),49.0,47,33,1.0426,0.7021
+Lübben (Spreewald),Lübbenau (Spreewald),-14.0,47,31,-0.2979,0.6596
+Lübbenau (Spreewald),Cottbus Hbf,35.0,47,34,0.7447,0.7234
+Erfurt Hbf,Eisenach,-795.0,145,76,-5.4828,0.5241
+Eisenach,Fulda,1052.0,144,78,7.3056,0.5417
+Fulda,Mannheim Hbf,-525.0,73,45,-7.1918,0.6164
+Mannheim Hbf,Bensheim,-347.0,74,16,-4.6892,0.2162
+Darmstadt Hbf,Heidelberg Hbf,461.0,114,59,4.0439,0.5175
+Hildesheim Hbf,Hannover Hbf,-378.0,43,43,-8.7907,1.0
+Magdeburg Hbf,Stendal Hbf,75.0,102,93,0.7353,0.9118
+Stendal Hbf,Wittenberge,-26.0,164,115,-0.1585,0.7012
+Angermünde,Berlin Gesundbrunnen,0.0,55,0,0.0,0.0
+Halle (Saale) Hbf,Kassel-Wilhelmshöhe,18.0,55,8,0.3273,0.1455
+Eisenach,Mainz Hbf,-536.0,55,50,-9.7455,0.9091
+Mainz Hbf,Fulda,599.0,55,43,10.8909,0.7818
+Fulda,Hanau Hbf,119.0,118,67,1.0085,0.5678
+Hanau Hbf,Frankfurt (Main) Hbf,279.0,273,236,1.022,0.8645
+Rostock Hbf,Schwerin Hbf,-328.0,275,136,-1.1927,0.4945
+Schwerin Hbf,Waren (Müritz),235.0,253,106,0.9289,0.419
+Waren (Müritz),Neustrelitz Hbf,-52.0,303,154,-0.1716,0.5083
+Neustrelitz Hbf,Oranienburg,-73.0,304,168,-0.2401,0.5526
+Oranienburg,Berlin Gesundbrunnen,289.0,302,174,0.957,0.5762
+Berlin Südkreuz,Doberlug-Kirchhain,1007.0,328,304,3.0701,0.9268
+Doberlug-Kirchhain,Elsterwerda,-109.0,328,299,-0.3323,0.9116
+Elsterwerda,Dresden-Neustadt,472.0,324,280,1.4568,0.8642
+Göttingen,Hamburg Hbf,-28.0,52,7,-0.5385,0.1346
+Hamburg Hbf,Hildesheim Hbf,25.0,51,6,0.4902,0.1176
+Würzburg Hbf,Ansbach,2.0,37,35,0.0541,0.9459
+Ansbach,Treuchtlingen,-16.0,37,36,-0.4324,0.973
+Treuchtlingen,Donauwörth,-68.0,38,38,-1.7895,1.0
+Augsburg Hbf,Buchloe,-23.0,39,31,-0.5897,0.7949
+Buchloe,Kaufbeuren,-47.0,39,32,-1.2051,0.8205
+Kaufbeuren,Kempten (Allgäu) Hbf,-75.0,39,33,-1.9231,0.8462
+Kempten (Allgäu) Hbf,Immenstadt,-19.0,91,77,-0.2088,0.8462
+Immenstadt,Sonthofen,25.0,91,89,0.2747,0.978
+Sonthofen,Fischen,216.0,91,89,2.3736,0.978
+Fischen,Oberstdorf,-60.0,91,89,-0.6593,0.978
+Hamburg Hbf,Berlin Hbf,-44.0,17,14,-2.5882,0.8235
+München Hbf,Rosenheim,0.0,52,0,0.0,0.0
+Ulm Hbf,Karlsruhe Hbf,0.0,58,0,0.0,0.0
+Düsseldorf Hbf,Oberhausen Hbf,-228.0,105,46,-2.1714,0.4381
+Oberhausen Hbf,Düsseldorf Flughafen,0.0,50,0,0.0,0.0
+Düsseldorf Flughafen,Köln Hbf,0.0,1,0,0.0,0.0
+Köln Hbf,Duisburg Hbf,-53.0,49,25,-1.0816,0.5102
+Duisburg Hbf,Solingen Hbf,9.0,104,54,0.0865,0.5192
+Solingen Hbf,Essen Hbf,-94.0,102,19,-0.9216,0.1863
+Essen Hbf,Wuppertal Hbf,68.0,109,49,0.6239,0.4495
+Wuppertal Hbf,Bochum Hbf,177.0,139,82,1.2734,0.5899
+Kiel Hbf,Neumünster,49.0,106,32,0.4623,0.3019
+Neumünster,Hamburg Hbf,271.0,38,38,7.1316,1.0
+Solingen Hbf,Köln Messe/Deutz,-1843.0,199,166,-9.2613,0.8342
+Köln Hbf,Limburg Süd,-846.0,148,88,-5.7162,0.5946
+Wuppertal Hbf,Duisburg Hbf,574.0,162,114,3.5432,0.7037
+Hamburg-Altona,Itzehoe,1595.0,108,80,14.7685,0.7407
+Wolfsburg Hbf,Eisenach,65.0,111,16,0.5856,0.1441
+Eisenach,Braunschweig Hbf,16.0,57,3,0.2807,0.0526
+Hildesheim Hbf,Esslingen (Neckar),-48.0,57,7,-0.8421,0.1228
+Esslingen (Neckar),Göttingen,55.0,57,7,0.9649,0.1228
+Wittenberge,Berlin Hbf,87.0,108,95,0.8056,0.8796
+Berlin Gesundbrunnen,Ludwigslust,-59.0,54,41,-1.0926,0.7593
+Schwerin Hbf,Bad Kleinen,-71.0,171,108,-0.4152,0.6316
+Bad Kleinen,Bützow,-110.0,152,79,-0.7237,0.5197
+Würzburg Hbf,Hanau Hbf,255.0,53,52,4.8113,0.9811
+Frankfurt am Main Flughafen Fernbahnhof,Mainz Hbf,-281.0,304,156,-0.9243,0.5132
+Koblenz Hbf,Bonn Hbf,-218.0,163,97,-1.3374,0.5951
+München Hbf,Würzburg Hbf,355.0,48,48,7.3958,1.0
+Frankfurt (Main) Hbf,Köln Messe/Deutz,-30.0,50,50,-0.6,1.0
+Köln Messe/Deutz,Limburg Süd,-1159.0,106,49,-10.934,0.4623
+Limburg Süd,Wuppertal Hbf,21.0,50,5,0.42,0.1
+Duisburg Hbf,Frankfurt am Main Flughafen Fernbahnhof,-9.0,49,49,-0.1837,1.0
+Frankfurt am Main Flughafen Fernbahnhof,Essen Hbf,-183.0,48,48,-3.8125,1.0
+Hamburg-Altona,Hamburg Hbf,686.0,339,236,2.0236,0.6962
+Nürnberg Hbf,Limburg Süd,-382.0,47,47,-8.1277,1.0
+Limburg Süd,Berlin Gesundbrunnen,-112.0,48,3,-2.3333,0.0625
+Bitterfeld,Halle (Saale) Hbf,-30.0,66,18,-0.4545,0.2727
+Leipzig Hbf,Weimar,0.0,48,0,0.0,0.0
+Bad Hersfeld,Hünfeld,0.0,48,0,0.0,0.0
+Hünfeld,Fulda,0.0,48,0,0.0,0.0
+Frankfurt (Main) Hbf,Montabaur,109.0,48,3,2.2708,0.0625
+Montabaur,Frankfurt am Main Flughafen Fernbahnhof,2499.0,102,101,24.5,0.9902
+Frankfurt (Main) Hbf,Köln Hbf,-582.0,70,59,-8.3143,0.8429
+Celle,Stralsund Hbf,-81.0,44,3,-1.8409,0.0682
+Bützow,Hannover Hbf,79.0,46,4,1.7174,0.087
+Magdeburg Hbf,Dessau Hbf,16.0,18,9,0.8889,0.5
+Dessau Hbf,Bitterfeld,6.0,18,9,0.3333,0.5
+Riesa,Elsterwerda,-1.0,65,50,-0.0154,0.7692
+Wuppertal Hbf,Düsseldorf Hbf,-6071.0,415,350,-14.6289,0.8434
+Aschaffenburg Hbf,Hanau Hbf,48.0,30,29,1.6,0.9667
+Berlin Ostbahnhof,Berlin Zoologischer Garten,-212.0,53,44,-4.0,0.8302
+Berlin Zoologischer Garten,Berlin Hbf,2087.0,179,149,11.6592,0.8324
+Hagen Hbf,Köln Süd,-727.0,55,53,-13.2182,0.9636
+Köln Süd,Bonn Hbf,429.0,52,21,8.25,0.4038
+Bonn Hbf,Remagen,361.0,275,165,1.3127,0.6
+Remagen,Andernach,83.0,420,216,0.1976,0.5143
+Andernach,Koblenz Hbf,244.0,366,212,0.6667,0.5792
+Koblenz Hbf,Wuppertal Hbf,804.0,44,44,18.2727,1.0
+Köln Messe/Deutz,Montabaur,-165.0,149,96,-1.1074,0.6443
+Bruchsal,Wiesloch-Walldorf,28.0,132,18,0.2121,0.1364
+Frankfurt (Main) Hbf,Frankfurt (Main) West,17.0,225,155,0.0756,0.6889
+Frankfurt (Main) West,Friedberg (Hess),-182.0,136,75,-1.3382,0.5515
+Bad Kleinen,Ribnitz-Damgarten West,-158.0,34,22,-4.6471,0.6471
+Stralsund Hbf,Bützow,138.0,27,10,5.1111,0.3704
+Braunschweig Hbf,Nienburg (Weser),88.0,43,42,2.0465,0.9767
+Augustfehn,Hannover Hbf,-23.0,43,41,-0.5349,0.9535
+Osnabrück Hbf,Leer (Ostfriesl),401.0,45,36,8.9111,0.8
+Friedberg (Hess),Frankfurt (Main) West,12.0,53,26,0.2264,0.4906
+Frankfurt (Main) West,Bad Nauheim,89.0,134,106,0.6642,0.791
+Bad Nauheim,Wetzlar,272.0,271,206,1.0037,0.7601
+Wetzlar,Dillenburg,25.0,271,211,0.0923,0.7786
+Dillenburg,Siegen-Weidenau,320.0,177,174,1.8079,0.9831
+Siegen-Weidenau,Kreuztal,-199.0,184,170,-1.0815,0.9239
+Kreuztal,Lennestadt-Altenhundem,-15.0,183,157,-0.082,0.8579
+Lennestadt-Altenhundem,Lennestadt-Grevenbrück,74.0,182,157,0.4066,0.8626
+Lennestadt-Grevenbrück,Finnentrop,280.0,182,175,1.5385,0.9615
+Finnentrop,Plettenberg,59.0,183,176,0.3224,0.9617
+Plettenberg,Werdohl,44.0,183,174,0.2404,0.9508
+Werdohl,Altena (Westf),-10.0,139,133,-0.0719,0.9568
+Altena (Westf),Witten Hbf,165.0,182,174,0.9066,0.956
+Witten Hbf,Dortmund Hbf,316.0,182,173,1.7363,0.9505
+Karlsruhe-Durlach,Karlsruhe Hbf,41.0,124,42,0.3306,0.3387
+Erfurt Hbf,Erlangen,114.0,195,157,0.5846,0.8051
+Köln Messe/Deutz,Darmstadt Hbf,-283.0,55,21,-5.1455,0.3818
+Darmstadt Hbf,Köln Hbf,364.0,50,27,7.28,0.54
+Frankfurt am Main Flughafen Fernbahnhof,Bonn Hbf,305.0,51,28,5.9804,0.549
+Mainz Hbf,Frankfurt (Main) Hbf,850.0,53,42,16.0377,0.7925
+Bützow,Schwerin Hbf,29.0,194,61,0.1495,0.3144
+Kassel-Wilhelmshöhe,Treysa,10.0,19,8,0.5263,0.4211
+Kiel Hbf,Hamburg-Harburg,125.0,54,23,2.3148,0.4259
+Hamburg-Harburg,Fulda,-137.0,56,36,-2.4464,0.6429
+Fulda,Lüneburg,241.0,56,29,4.3036,0.5179
+Celle,Neumünster,-148.0,54,26,-2.7407,0.4815
+Neumünster,Hannover-Messe / Laatzen,0.0,55,0,0.0,0.0
+Hannover-Messe / Laatzen,Hamburg Dammtor,5.0,54,2,0.0926,0.037
+Hamburg Hbf,Hannover Hbf,17.0,55,43,0.3091,0.7818
+Berlin Gesundbrunnen,Eberswalde Hbf,-30.0,87,14,-0.3448,0.1609
+Eberswalde Hbf,Angermünde,-125.0,220,105,-0.5682,0.4773
+Pasewalk,Anklam,-21.0,220,94,-0.0955,0.4273
+Bensheim,Esslingen (Neckar),0.0,53,0,0.0,0.0
+Esslingen (Neckar),Heidelberg Hbf,0.0,6,0,0.0,0.0
+Ulm Hbf,Biberach (Riß),0.0,57,0,0.0,0.0
+Biberach (Riß),Aulendorf,0.0,0,0,,
+Aulendorf,Ravensburg,0.0,57,0,0.0,0.0
+Ravensburg,Friedrichshafen Stadt,0.0,57,0,0.0,0.0
+Köln Messe/Deutz,Köln/Bonn Flughafen,110.0,105,85,1.0476,0.8095
+Haiger,Dillenburg,53.0,28,12,1.8929,0.4286
+Dillenburg,Herborn (Dillkr),23.0,32,16,0.7188,0.5
+Herborn (Dillkr),Wetzlar,20.0,32,22,0.625,0.6875
+Wanne-Eickel Hbf,Dortmund Hbf,-157.0,53,30,-2.9623,0.566
+Freiburg (Breisgau) Hbf,Offenburg,-1.0,44,1,-0.0227,0.0227
+Frankfurt (Main) Hbf,Halle (Saale) Hbf,-375.0,58,58,-6.4655,1.0
+Halle (Saale) Hbf,Hanau Hbf,539.0,58,56,9.2931,0.9655
+Fulda,Eisenach,106.0,83,70,1.2771,0.8434
+Eisenach,Erfurt Hbf,1310.0,257,157,5.0973,0.6109
+Essen Hbf,Hamburg-Harburg,-523.0,55,42,-9.5091,0.7636
+Hamburg-Harburg,Münster (Westf) Hbf,-34.0,57,2,-0.5965,0.0351
+Münster (Westf) Hbf,Solingen Hbf,102.0,57,7,1.7895,0.1228
+Solingen Hbf,Hamburg Hbf,1341.0,102,93,13.1471,0.9118
+Duisburg Hbf,Köln Messe/Deutz,352.0,39,39,9.0256,1.0
+Montabaur,Köln Hbf,-331.0,38,36,-8.7105,0.9474
+München Hbf,Düsseldorf Hbf,0.0,0,0,,
+Berlin-Spandau,Eisenach,41.0,56,3,0.7321,0.0536
+Eisenach,Berlin Ostbahnhof,-37.0,56,4,-0.6607,0.0714
+Berlin Südkreuz,Berlin-Spandau,188.0,119,92,1.5798,0.7731
+Berlin Gesundbrunnen,Berlin-Lichtenberg,-48.0,56,9,-0.8571,0.1607
+Berlin-Lichtenberg,Dresden-Neustadt,368.0,56,38,6.5714,0.6786
+Dortmund Hbf,Gelsenkirchen Hbf,-1765.0,103,101,-17.1359,0.9806
+Darmstadt Hbf,Frankfurt am Main Flughafen Fernbahnhof,52.0,39,17,1.3333,0.4359
+Solingen Hbf,Oberhausen Hbf,47.0,90,10,0.5222,0.1111
+Oberhausen Hbf,Wuppertal Hbf,-13.0,108,12,-0.1204,0.1111
+Essen Hbf,Unna,-169.0,56,32,-3.0179,0.5714
+Unna,Bochum Hbf,199.0,55,36,3.6182,0.6545
+Hamm (Westf) Hbf,Soest,172.0,106,99,1.6226,0.934
+Soest,Lippstadt,94.0,107,100,0.8785,0.9346
+Lippstadt,Paderborn Hbf,90.0,107,102,0.8411,0.9533
+Paderborn Hbf,Altenbeken,-150.0,107,102,-1.4019,0.9533
+Altenbeken,Warburg (Westf),65.0,99,91,0.6566,0.9192
+Warburg (Westf),Kassel-Wilhelmshöhe,109.0,107,91,1.0187,0.8505
+Leipzig Hbf,Weißenfels,-161.0,180,140,-0.8944,0.7778
+Weißenfels,Naumburg (Saale) Hbf,129.0,185,94,0.6973,0.5081
+Naumburg (Saale) Hbf,Jena Paradies,47.0,182,123,0.2582,0.6758
+Jena Paradies,Jena-Göschwitz,-17.0,185,129,-0.0919,0.6973
+Jena-Göschwitz,Rudolstadt (Thür),59.0,149,115,0.396,0.7718
+Rudolstadt (Thür),Saalfeld (Saale),-156.0,149,122,-1.047,0.8188
+Saalfeld (Saale),Ludwigsstadt,-105.0,149,90,-0.7047,0.604
+Ludwigsstadt,Kronach,-9.0,148,82,-0.0608,0.5541
+Kronach,Lichtenfels,-11.0,148,88,-0.0743,0.5946
+Lichtenfels,Bamberg,242.0,148,135,1.6351,0.9122
+Nürnberg Hbf,Ansbach,-81.0,261,244,-0.3103,0.9349
+Ansbach,Crailsheim,57.0,263,250,0.2167,0.9506
+Crailsheim,Ellwangen,152.0,262,245,0.5802,0.9351
+Ellwangen,Aalen Hbf,-2.0,263,249,-0.0076,0.9468
+Aalen Hbf,Schwäbisch Gmünd,113.0,263,247,0.4297,0.9392
+Schwäbisch Gmünd,Stuttgart Hbf,407.0,210,208,1.9381,0.9905
+Vaihingen (Enz),Mühlacker,-1533.0,262,230,-5.8511,0.8779
+Mühlacker,Pforzheim Hbf,2.0,266,93,0.0075,0.3496
+Pforzheim Hbf,Karlsruhe Hbf,896.0,211,155,4.2464,0.7346
+Dillenburg,Lennestadt-Altenhundem,97.0,48,41,2.0208,0.8542
+Lennestadt-Altenhundem,Schwerte (Ruhr),227.0,50,45,4.54,0.9
+Schwerte (Ruhr),Unna,27.0,52,35,0.5192,0.6731
+Unna,Dortmund Hbf,-332.0,51,45,-6.5098,0.8824
+Hamm (Westf) Hbf,Münster (Westf) Hbf,542.0,197,144,2.7513,0.731
+Osnabrück Hbf,Bünde (Westf),187.0,55,50,3.4,0.9091
+Bünde (Westf),Hannover Hbf,-43.0,55,55,-0.7818,1.0
+Hannover Hbf,Berlin-Lichtenberg,-203.0,53,41,-3.8302,0.7736
+Berlin-Lichtenberg,Wolfsburg Hbf,3.0,37,2,0.0811,0.0541
+Bonn Hbf,Düsseldorf Hbf,19.0,55,1,0.3455,0.0182
+Braunschweig Hbf,Magdeburg-Buckau,-483.0,51,38,-9.4706,0.7451
+Magdeburg-Buckau,Magdeburg Hbf,565.0,51,42,11.0784,0.8235
+Halle (Saale) Hbf,Frankfurt (Main) Hbf,-125.0,54,16,-2.3148,0.2963
+Mainz Hbf,Leipzig Hbf,143.0,55,16,2.6,0.2909
+Anklam,Neustrelitz Hbf,-97.0,53,35,-1.8302,0.6604
+Neustrelitz Hbf,Pasewalk,218.0,53,48,4.1132,0.9057
+Solingen Hbf,Duisburg Hbf,479.0,46,38,10.413,0.8261
+Bochum Hbf,Düsseldorf Hbf,-68.0,46,32,-1.4783,0.6957
+Düsseldorf Hbf,Dortmund Hbf,28.0,96,80,0.2917,0.8333
+Köln Hbf,Oberhausen Hbf,64.0,56,14,1.1429,0.25
+Düsseldorf Hbf,Hagen Hbf,1251.0,106,84,11.8019,0.7925
+Hagen Hbf,Düsseldorf Flughafen,54.0,55,16,0.9818,0.2909
+Berlin Gesundbrunnen,Neustrelitz Hbf,-566.0,51,45,-11.098,0.8824
+Neustrelitz Hbf,Ribnitz-Damgarten West,0.0,52,0,0.0,0.0
+Ribnitz-Damgarten West,Bernau (b Berlin),557.0,45,44,12.3778,0.9778
+Uelzen,Hannover Hbf,-40.0,102,100,-0.3922,0.9804
+Aachen Hbf,Düsseldorf Hbf,-52.0,50,31,-1.04,0.62
+Düsseldorf Hbf,Essen Hbf,132.0,53,30,2.4906,0.566
+Essen Hbf,Köln Hbf,-156.0,64,31,-2.4375,0.4844
+Köln Hbf,Berlin Ostbahnhof,-80.0,53,27,-1.5094,0.5094
+Berlin Ostbahnhof,Solingen Hbf,54.0,52,6,1.0385,0.1154
+Hannover Hbf,Berlin Gesundbrunnen,-1761.0,203,184,-8.6749,0.9064
+Essen Hbf,Bremen Hbf,-499.0,57,34,-8.7544,0.5965
+Bremen Hbf,Münster (Westf) Hbf,675.0,153,142,4.4118,0.9281
+Berlin-Spandau,Berlin Südkreuz,224.0,46,22,4.8696,0.4783
+Berlin Südkreuz,Wolfsburg Hbf,-210.0,51,31,-4.1176,0.6078
+Hildesheim Hbf,Leipzig Hbf,-16.0,54,6,-0.2963,0.1111
+Leipzig Hbf,Göttingen,11.0,54,4,0.2037,0.0741
+Kassel-Wilhelmshöhe,Halle (Saale) Hbf,150.0,52,25,2.8846,0.4808
+Niebüll,Langenhorn (Schlesw),243.0,148,38,1.6419,0.2568
+Langenhorn (Schlesw),Bredstedt,-2.0,176,62,-0.0114,0.3523
+Erlangen,Erfurt Hbf,-14.0,69,57,-0.2029,0.8261
+Bergen auf Rügen,Berlin Hbf,0.0,0,0,,
+Berlin Hbf,Stralsund Hbf,-111.0,52,51,-2.1346,0.9808
+Hamburg Hbf,Berlin Südkreuz,103.0,48,28,2.1458,0.5833
+Mainz Hbf,Worms Hbf,24.0,94,40,0.2553,0.4255
+Worms Hbf,Mannheim Hbf,79.0,91,42,0.8681,0.4615
+Ulm Hbf,Günzburg,-93.0,159,120,-0.5849,0.7547
+Günzburg,Augsburg Hbf,173.0,203,122,0.8522,0.601
+Riesa,Döbeln Hbf,6.0,57,2,0.1053,0.0351
+Döbeln Hbf,Dresden-Neustadt,687.0,57,53,12.0526,0.9298
+Dresden Hbf,Freiberg (Sachs),-10.0,106,96,-0.0943,0.9057
+Freiberg (Sachs),Chemnitz Hbf,-46.0,105,94,-0.4381,0.8952
+Bremen Hbf,Oldenburg (Oldb) Hbf,0.0,21,18,0.0,0.8571
+Vaihingen (Enz),Heidelberg Hbf,130.0,184,132,0.7065,0.7174
+Heidelberg Hbf,Heppenheim (Bergstr),117.0,43,28,2.7209,0.6512
+Heppenheim (Bergstr),Bensheim,11.0,43,26,0.2558,0.6047
+Hamburg Hbf,Lüneburg,118.0,70,61,1.6857,0.8714
+Berlin-Spandau,Berlin Zoologischer Garten,-1711.0,161,122,-10.6273,0.7578
+Münster (Westf) Hbf,Hamm (Westf) Hbf,190.0,93,84,2.043,0.9032
+Münster (Westf) Hbf,Wanne-Eickel Hbf,-68.0,53,50,-1.283,0.9434
+Wanne-Eickel Hbf,Köln Messe/Deutz,-397.0,53,30,-7.4906,0.566
+Köln Messe/Deutz,Gelsenkirchen Hbf,357.0,53,30,6.7358,0.566
+Hamburg Hbf,Bremen Hbf,118.0,99,94,1.1919,0.9495
+Dortmund Hbf,Solingen Hbf,28.0,50,6,0.56,0.12
+Eisenach,Berlin Südkreuz,-156.0,58,36,-2.6897,0.6207
+Berlin Hbf,Bad Hersfeld,138.0,57,26,2.4211,0.4561
+Darmstadt Hbf,Karlsruhe Hbf,-30.0,39,6,-0.7692,0.1538
+Karlsruhe Hbf,Bensheim,76.0,43,5,1.7674,0.1163
+Bensheim,Mannheim Hbf,317.0,122,58,2.5984,0.4754
+Gäufelden,München-Pasing,-97.0,44,21,-2.2045,0.4773
+München-Pasing,Bondorf (b Herrenberg),127.0,39,19,3.2564,0.4872
+Bondorf (b Herrenberg),München Hbf,-148.0,44,24,-3.3636,0.5455
+München Hbf,Horb,158.0,43,23,3.6744,0.5349
+Oberndorf (Neckar),Rottweil,10.0,55,26,0.1818,0.4727
+Rottweil,Spaichingen,22.0,56,34,0.3929,0.6071
+Angermünde,Berlin Hbf,0.0,6,0,0.0,0.0
+Berlin Südkreuz,Eberswalde Hbf,-617.0,46,45,-13.413,0.9783
+Berlin Gesundbrunnen,Halle (Saale) Hbf,563.0,46,43,12.2391,0.9348
+Erfurt Hbf,Coburg,31.0,64,63,0.4844,0.9844
+Coburg,Nürnberg Hbf,170.0,46,46,3.6957,1.0
+Augsburg Hbf,München Hbf,-34.0,45,43,-0.7556,0.9556
+Engen,Sulz (Neckar),0.0,38,0,0.0,0.0
+Sulz (Neckar),Tuttlingen,4.0,46,2,0.087,0.0435
+Tuttlingen,Herrenberg,-4.0,38,2,-0.1053,0.0526
+Herrenberg,Spaichingen,0.0,29,0,0.0,0.0
+Oberndorf (Neckar),Horb,39.0,46,11,0.8478,0.2391
+Horb,Böblingen,0.0,9,0,0.0,0.0
+Göttingen,Esslingen (Neckar),-46.0,55,6,-0.8364,0.1091
+Esslingen (Neckar),Kassel-Wilhelmshöhe,60.0,55,6,1.0909,0.1091
+Fulda,Friedberg (Hess),95.0,54,4,1.7593,0.0741
+Friedberg (Hess),Marburg (Lahn),-85.0,54,3,-1.5741,0.0556
+Marburg (Lahn),Hanau Hbf,662.0,48,40,13.7917,0.8333
+Karlsruhe Hbf,Wolfsburg Hbf,-74.0,16,3,-4.625,0.1875
+Wolfsburg Hbf,Mannheim Hbf,80.0,15,4,5.3333,0.2667
+Mannheim Hbf,Kassel-Wilhelmshöhe,-160.0,16,4,-10.0,0.25
+Kassel-Wilhelmshöhe,Berlin Ostbahnhof,-31.0,16,1,-1.9375,0.0625
+Berlin Ostbahnhof,Göttingen,26.0,15,1,1.7333,0.0667
+Hamburg-Harburg,Bamberg,116.0,16,4,7.25,0.25
+Bamberg,Fulda,-53.0,16,5,-3.3125,0.3125
+Fulda,München Hbf,-78.0,11,2,-7.0909,0.1818
+München Hbf,Frankfurt (Main) Hbf,115.0,14,7,8.2143,0.5
+Düsseldorf Hbf,Halle (Saale) Hbf,35.0,15,4,2.3333,0.2667
+Halle (Saale) Hbf,Duisburg Hbf,-28.0,15,4,-1.8667,0.2667
+Duisburg Hbf,Münster (Westf) Hbf,-8.0,16,1,-0.5,0.0625
+Emden Hbf,Nürnberg Hbf,5.0,12,3,0.4167,0.25
+Heide (Holst),Dortmund Hbf,-494.0,50,41,-9.88,0.82
+Dortmund Hbf,Itzehoe,540.0,43,36,12.5581,0.8372
+Itzehoe,Hamburg Hbf,85.0,75,72,1.1333,0.96
+Gotha,Frankfurt (Main) Hbf,0.0,2,0,0.0,0.0
+Wiesbaden Hbf,Limburg Süd,-29.0,99,32,-0.2929,0.3232
+Siegburg/Bonn,Köln/Bonn Flughafen,-203.0,145,109,-1.4,0.7517
+Köln/Bonn Flughafen,Köln Hbf,147.0,42,31,3.5,0.7381
+Bremen Hbf,Oberhausen Hbf,-395.0,42,40,-9.4048,0.9524
+Oberhausen Hbf,Münster (Westf) Hbf,289.0,42,39,6.881,0.9286
+Solingen Hbf,Düsseldorf Flughafen,73.0,50,42,1.46,0.84
+Friedberg (Hess),Bad Nauheim,313.0,87,62,3.5977,0.7126
+Hannover Hbf,Köln Hbf,1585.0,113,109,14.0265,0.9646
+Halle (Saale) Hbf,Berlin Gesundbrunnen,-175.0,35,34,-5.0,0.9714
+Berlin Gesundbrunnen,Berlin Südkreuz,0.0,1,0,0.0,0.0
+Frankfurt am Main Flughafen Fernbahnhof,Nürnberg Hbf,731.0,87,87,8.4023,1.0
+Hamburg Hbf,Essen Hbf,86.0,21,18,4.0952,0.8571
+Bredstedt,Husum,41.0,51,10,0.8039,0.1961
+Göttingen,Lüneburg,-519.0,54,44,-9.6111,0.8148
+Celle,Hamburg Hbf,1001.0,58,53,17.2586,0.9138
+Hamburg-Harburg,Uelzen,14.0,55,7,0.2545,0.1273
+Köln/Bonn Flughafen,Köln Messe/Deutz,211.0,152,124,1.3882,0.8158
+Duisburg Hbf,Hagen Hbf,-940.0,104,92,-9.0385,0.8846
+Hagen Hbf,Essen Hbf,595.0,55,43,10.8182,0.7818
+Koblenz Hbf,Remagen,-122.0,54,10,-2.2593,0.1852
+Bochum Hbf,Köln Messe/Deutz,103.0,54,8,1.9074,0.1481
+Solingen Hbf,Dortmund Hbf,905.0,151,98,5.9934,0.649
+Hamburg Dammtor,Frankfurt am Main Flughafen Fernbahnhof,-81.0,53,10,-1.5283,0.1887
+Frankfurt am Main Flughafen Fernbahnhof,Hamburg-Altona,80.0,54,8,1.4815,0.1481
+Hamburg-Altona,Frankfurt (Main) Hbf,0.0,54,0,0.0,0.0
+Ribnitz-Damgarten West,Greifswald,48.0,53,15,0.9057,0.283
+Prenzlau,Neustrelitz Hbf,-183.0,53,49,-3.4528,0.9245
+Eberswalde Hbf,Bernau (b Berlin),-11.0,53,41,-0.2075,0.7736
+Bernau (b Berlin),Berlin Gesundbrunnen,1.0,30,23,0.0333,0.7667
+Frankfurt am Main Flughafen Fernbahnhof,Hannover Hbf,52.0,57,1,0.9123,0.0175
+Hannover Hbf,Hanau Hbf,-62.0,57,1,-1.0877,0.0175
+Wolfsburg Hbf,Bonn Hbf,342.0,53,24,6.4528,0.4528
+Dortmund Hbf,Frankfurt am Main Flughafen Fernbahnhof,-448.0,45,34,-9.9556,0.7556
+Frankfurt (Main) Hbf,Hagen Hbf,647.0,48,41,13.4792,0.8542
+München Hbf,Berchtesgaden Hbf,-15.0,4,1,-3.75,0.25
+Berchtesgaden Hbf,Bischofswiesen,14.0,41,32,0.3415,0.7805
+Bischofswiesen,Bayerisch Gmain,22.0,42,33,0.5238,0.7857
+Bayerisch Gmain,Bad Reichenhall-Kirchberg,0.0,42,25,0.0,0.5952
+Bad Reichenhall-Kirchberg,Bad Reichenhall,-10.0,42,34,-0.2381,0.8095
+Bad Reichenhall,Piding,31.0,42,33,0.7381,0.7857
+Piding,Hammerau,32.0,42,35,0.7619,0.8333
+Hammerau,Ainring,-22.0,42,30,-0.5238,0.7143
+Ainring,Freilassing,-20.0,42,35,-0.4762,0.8333
+Freilassing,Traunstein,91.0,43,37,2.1163,0.8605
+Traunstein,Übersee,18.0,43,37,0.4186,0.8605
+Übersee,Prien am Chiemsee,-25.0,43,36,-0.5814,0.8372
+Prien am Chiemsee,Rosenheim,-19.0,43,30,-0.4419,0.6977
+Rosenheim,München Ost,27.0,43,30,0.6279,0.6977
+München Ost,München-Pasing,84.0,40,36,2.1,0.9
+Wolfsburg Hbf,Leipzig Hbf,-20.0,55,3,-0.3636,0.0545
+Leipzig Hbf,Braunschweig Hbf,78.0,57,5,1.3684,0.0877
+Braunschweig Hbf,Eisenach,-76.0,57,5,-1.3333,0.0877
+Eisenach,Hildesheim Hbf,95.0,57,6,1.6667,0.1053
+Magdeburg Hbf,Magdeburg-Buckau,-42.0,55,18,-0.7636,0.3273
+Magdeburg-Buckau,Helmstedt,88.0,47,18,1.8723,0.383
+Braunschweig Hbf,Peine,-24.0,55,27,-0.4364,0.4909
+Peine,Hannover Hbf,41.0,47,30,0.8723,0.6383
+Oldenburg (Oldb) Hbf,Osnabrück Hbf,-257.0,54,50,-4.7593,0.9259
+Osnabrück Hbf,Bad Zwischenahn,302.0,54,45,5.5926,0.8333
+Heidelberg Hbf,Frankfurt am Main Flughafen Fernbahnhof,348.0,54,47,6.4444,0.8704
+Frankfurt (Main) Hbf,Eisenach,-572.0,55,49,-10.4,0.8909
+Weimar,Naumburg (Saale) Hbf,177.0,52,7,3.4038,0.1346
+Naumburg (Saale) Hbf,Halle (Saale) Hbf,671.0,50,38,13.42,0.76
+Berlin Ostbahnhof,Berlin Südkreuz,62.0,51,23,1.2157,0.451
+Kassel-Wilhelmshöhe,Leipzig Hbf,-39.0,57,7,-0.6842,0.1228
+Halle (Saale) Hbf,Eisenach,-91.0,57,27,-1.5965,0.4737
+Magdeburg Hbf,Berlin Hbf,-231.0,51,46,-4.5294,0.902
+Berlin Gesundbrunnen,Stendal Hbf,110.0,51,45,2.1569,0.8824
+Chemnitz Hbf,Freiberg (Sachs),1.0,48,10,0.0208,0.2083
+Hude,Osnabrück Hbf,-101.0,50,40,-2.02,0.8
+Osnabrück Hbf,Delmenhorst,129.0,50,45,2.58,0.9
+Nienburg (Weser),Wolfsburg Hbf,-243.0,49,43,-4.9592,0.8776
+Hannover Hbf,Stendal Hbf,-213.0,51,44,-4.1765,0.8627
+Stendal Hbf,Braunschweig Hbf,204.0,51,35,4.0,0.6863
+Brandenburg Hbf,Berlin-Spandau,-131.0,50,29,-2.62,0.58
+Berlin-Spandau,Potsdam Hbf,159.0,48,26,3.3125,0.5417
+Potsdam Hbf,Berlin Gesundbrunnen,-62.0,49,30,-1.2653,0.6122
+Berlin Gesundbrunnen,Berlin-Wannsee,175.0,33,25,5.303,0.7576
+Bonn-Beuel,Koblenz Hbf,1197.0,84,43,14.25,0.5119
+Delmenhorst,Osnabrück Hbf,-41.0,34,20,-1.2059,0.5882
+Saarbrücken Hbf,Homburg (Saar) Hbf,-13.0,50,26,-0.26,0.52
+Homburg (Saar) Hbf,Kaiserslautern Hbf,-5.0,50,31,-0.1,0.62
+Kaiserslautern Hbf,Neustadt (Weinstr) Hbf,-30.0,50,28,-0.6,0.56
+Neustadt (Weinstr) Hbf,Mannheim Hbf,84.0,50,37,1.68,0.74
+Erfurt Hbf,Berlin Gesundbrunnen,-944.0,56,47,-16.8571,0.8393
+Berlin Ostbahnhof,Leipzig Hbf,-40.0,53,4,-0.7547,0.0755
+Leipzig Hbf,Berlin-Spandau,88.0,96,7,0.9167,0.0729
+Berlin-Spandau,Halle (Saale) Hbf,862.0,53,51,16.2642,0.9623
+Ulm Hbf,Neu-Ulm,-28.0,41,28,-0.6829,0.6829
+Neu-Ulm,Günzburg,25.0,44,34,0.5682,0.7727
+Frankfurt am Main Flughafen Fernbahnhof,Wiesbaden Hbf,-649.0,55,55,-11.8,1.0
+Hamburg Dammtor,Neumünster,114.0,53,39,2.1509,0.7358
+Neumünster,Kiel Hbf,22.0,107,38,0.2056,0.3551
+Erfurt Hbf,Frankfurt (Main) Hbf,1349.0,45,37,29.9778,0.8222
+Mannheim Hbf,Neustadt (Weinstr) Hbf,-11.0,98,80,-0.1122,0.8163
+Neustadt (Weinstr) Hbf,Kaiserslautern Hbf,3.0,98,78,0.0306,0.7959
+Kaiserslautern Hbf,Homburg (Saar) Hbf,103.0,98,85,1.051,0.8673
+Homburg (Saar) Hbf,Saarbrücken Hbf,-207.0,99,83,-2.0909,0.8384
+Bamberg,Leipzig Hbf,-265.0,57,40,-4.6491,0.7018
+Hamburg-Altona,Neumünster,-94.0,47,9,-2.0,0.1915
+Wuppertal Hbf,Köln Messe/Deutz,-1908.0,94,86,-20.2979,0.9149
+Bonn-Beuel,Düsseldorf Hbf,88.0,46,4,1.913,0.087
+Hagen Hbf,Köln Messe/Deutz,-2093.0,113,111,-18.5221,0.9823
+Bonn Hbf,Bonn-Beuel,-1105.0,51,41,-21.6667,0.8039
+Nürnberg Hbf,Coburg,374.0,49,49,7.6327,1.0
+Berlin Südkreuz,Erfurt Hbf,-650.0,107,96,-6.0748,0.8972
+Halle (Saale) Hbf,Nürnberg Hbf,1161.0,58,57,20.0172,0.9828
+Schwäbisch Gmünd,Schorndorf,-46.0,51,48,-0.902,0.9412
+Schorndorf,Stuttgart Hbf,138.0,51,51,2.7059,1.0
+Pforzheim Hbf,Karlsruhe-Durlach,187.0,51,42,3.6667,0.8235
+Karlsruhe Hbf,Frankfurt am Main Flughafen Fernbahnhof,21.0,22,5,0.9545,0.2273
+Frankfurt am Main Flughafen Fernbahnhof,Fulda,-20.0,22,5,-0.9091,0.2273
+Fulda,Duisburg Hbf,2.0,23,4,0.087,0.1739
+Duisburg Hbf,Erlangen,1.0,23,3,0.0435,0.1304
+Erfurt Hbf,Dortmund Hbf,-10.0,23,2,-0.4348,0.087
+Dortmund Hbf,Leipzig Hbf,17.0,23,2,0.7391,0.087
+Berlin Südkreuz,Limburg Süd,-28.0,22,4,-1.2727,0.1818
+Siegburg/Bonn,Hamburg Dammtor,1.0,22,4,0.0455,0.1818
+Hamburg-Altona,Bruchsal,0.0,21,0,0.0,0.0
+Bruchsal,Berlin Ostbahnhof,-1.0,21,1,-0.0476,0.0476
+Berlin Ostbahnhof,Vaihingen (Enz),-9.0,22,2,-0.4091,0.0909
+Wiesloch-Walldorf,Frankfurt (Main) Hbf,5.0,17,2,0.2941,0.1176
+Frankfurt (Main) Hbf,Heidelberg Hbf,-68.0,21,4,-3.2381,0.1905
+Wiesbaden Hbf,Berlin Hbf,42.0,20,3,2.1,0.15
+Berlin-Spandau,Stuttgart Hbf,-15.0,20,2,-0.75,0.1
+Stuttgart Hbf,Osnabrück Hbf,6.0,23,4,0.2609,0.1739
+Aachen Hbf,Ulm Hbf,28.0,21,1,1.3333,0.0476
+Nürnberg Hbf,Kassel-Wilhelmshöhe,16.0,19,5,0.8421,0.2632
+Berlin-Spandau,Hannover-Messe / Laatzen,60.0,27,2,2.2222,0.0741
+Hannover-Messe / Laatzen,Göttingen,248.0,84,27,2.9524,0.3214
+Göttingen,Halle (Saale) Hbf,22.0,27,5,0.8148,0.1852
+Erfurt Hbf,Mannheim Hbf,-305.0,27,22,-11.2963,0.8148
+Mannheim Hbf,Bad Hersfeld,221.0,27,19,8.1852,0.7037
+Fulda,Heidelberg Hbf,-508.0,27,26,-18.8148,0.963
+Wiesloch-Walldorf,Darmstadt Hbf,-157.0,27,12,-5.8148,0.4444
+Darmstadt Hbf,Neu-Edingen/Friedrichsfeld,2.0,27,7,0.0741,0.2593
+Offenburg,Müllheim (Baden),-123.0,27,26,-4.5556,0.963
+Recklinghausen Hbf,Wanne-Eickel Hbf,46.0,148,66,0.3108,0.4459
+Wanne-Eickel Hbf,Gelsenkirchen Hbf,-143.0,200,84,-0.715,0.42
+Oberhausen Hbf,Köln Messe/Deutz,-106.0,49,16,-2.1633,0.3265
+Bonn-Beuel,Oberhausen Hbf,124.0,48,19,2.5833,0.3958
+Bonn Hbf,Bingen (Rhein) Hbf,-415.0,44,32,-9.4318,0.7273
+Donaueschingen,Immendingen,0.0,49,6,0.0,0.1224
+Immendingen,Singen (Hohentwiel),-20.0,49,6,-0.4082,0.1224
+Konstanz,Remagen,452.0,33,25,13.697,0.7576
+Stendal Hbf,Hannover Hbf,160.0,55,53,2.9091,0.9636
+Hannover Hbf,Bünde (Westf),106.0,56,56,1.8929,1.0
+Bünde (Westf),Osnabrück Hbf,70.0,56,54,1.25,0.9643
+Karlsruhe Hbf,Karlsruhe-Durlach,-1.0,32,2,-0.0312,0.0625
+Karlsruhe-Durlach,Bruchsal,2.0,47,3,0.0426,0.0638
+Heidelberg Hbf,Neu-Edingen/Friedrichsfeld,-1.0,47,1,-0.0213,0.0213
+Neu-Edingen/Friedrichsfeld,Bensheim,8.0,47,3,0.1702,0.0638
+Lüneburg,Ludwigslust,-12.0,42,4,-0.2857,0.0952
+Ludwigslust,Hamburg-Harburg,16.0,42,6,0.381,0.1429
+Hamburg Hbf,Schwerin Hbf,210.0,101,60,2.0792,0.5941
+Frankfurt (Main) Hbf,Greifswald,51.0,46,5,1.1087,0.1087
+Greifswald,Friedberg (Hess),1.0,37,1,0.027,0.027
+Treysa,Göttingen,-8.0,47,1,-0.1702,0.0213
+Uelzen,Bad Bevensen,0.0,47,0,0.0,0.0
+Bad Bevensen,Lüneburg,0.0,47,0,0.0,0.0
+Hannover Hbf,Hamburg Hbf,0.0,25,0,0.0,0.0
+Hagen Hbf,Bielefeld Hbf,353.0,266,265,1.3271,0.9962
+Minden (Westf),Berlin Zoologischer Garten,-516.0,57,43,-9.0526,0.7544
+Berlin Zoologischer Garten,Hannover Hbf,835.0,55,48,15.1818,0.8727
+Nürnberg Hbf,Frankfurt am Main Flughafen Fernbahnhof,231.0,39,39,5.9231,1.0
+Lüneburg,Kassel-Wilhelmshöhe,86.0,14,8,6.1429,0.5714
+Wiesbaden Hbf,Hannover Hbf,192.0,9,6,21.3333,0.6667
+Köln Messe/Deutz,Hagen Hbf,-637.0,54,54,-11.7963,1.0
+Hagen Hbf,Köln Hbf,-77.0,56,5,-1.375,0.0893
+Rosenheim,Prien am Chiemsee,0.0,44,0,0.0,0.0
+Prien am Chiemsee,Traunstein,0.0,45,0,0.0,0.0
+Traunstein,Freilassing,0.0,12,0,0.0,0.0
+Aachen Hbf,Düren,-83.0,86,66,-0.9651,0.7674
+Düren,Köln Hbf,15.0,44,33,0.3409,0.75
+Bochum Hbf,Solingen Hbf,-493.0,96,79,-5.1354,0.8229
+Herford,Hannover Hbf,-12.0,104,89,-0.1154,0.8558
+Münster (Westf) Hbf,Köln Messe/Deutz,-151.0,50,31,-3.02,0.62
+Bonn-Beuel,Recklinghausen Hbf,145.0,50,25,2.9,0.5
+Oberhausen Hbf,Bonn Hbf,-260.0,50,27,-5.2,0.54
+Koblenz Hbf,Duisburg Hbf,248.0,38,24,6.5263,0.6316
+Berlin Hbf,Leipzig Hbf,-112.0,48,38,-2.3333,0.7917
+Halle (Saale) Hbf,Bamberg,-38.0,48,4,-0.7917,0.0833
+Erlangen,Berlin Südkreuz,75.0,45,19,1.6667,0.4222
+Nürnberg Hbf,Weilheim (Oberbay),-214.0,47,40,-4.5532,0.8511
+Weilheim (Oberbay),Murnau,0.0,47,5,0.0,0.1064
+Murnau,Garmisch-Partenkirchen,-13.0,46,5,-0.2826,0.1087
+Garmisch-Partenkirchen,München Hbf,140.0,29,26,4.8276,0.8966
+Nürnberg Hbf,Regensburg Hbf,-61.0,47,46,-1.2979,0.9787
+Regensburg Hbf,Plattling,-71.0,93,75,-0.7634,0.8065
+Plattling,Passau Hbf,-185.0,93,72,-1.9892,0.7742
+Rostock Hbf,Waren (Müritz),-22.0,52,30,-0.4231,0.5769
+Stuttgart Hbf,Herrenberg,71.0,20,20,3.55,1.0
+Hannover Hbf,Lüneburg,-812.0,105,90,-7.7333,0.8571
+Coburg,Bamberg,-4.0,18,18,-0.2222,1.0
+Minden (Westf),Herford,-201.0,97,74,-2.0722,0.7629
+Dortmund Hbf,Essen Hbf,10.0,51,4,0.1961,0.0784
+Duisburg Hbf,Limburg Süd,-19.0,55,7,-0.3455,0.1273
+Limburg Süd,Esslingen (Neckar),-20.0,55,3,-0.3636,0.0545
+Esslingen (Neckar),Düsseldorf Hbf,21.0,8,5,2.625,0.625
+Mannheim Hbf,Köln Messe/Deutz,-39.0,57,14,-0.6842,0.2456
+Köln Messe/Deutz,Mainz Hbf,138.0,54,13,2.5556,0.2407
+Frankfurt am Main Flughafen Fernbahnhof,Montabaur,-969.0,100,94,-9.69,0.94
+Gelsenkirchen Hbf,Hagen Hbf,127.0,57,10,2.2281,0.1754
+Wuppertal Hbf,Dortmund Hbf,831.0,57,56,14.5789,0.9825
+Berlin-Wannsee,Berlin Gesundbrunnen,-35.0,34,24,-1.0294,0.7059
+Heide (Holst),Hamburg-Altona,-642.0,53,40,-12.1132,0.7547
+Itzehoe,Hamburg-Harburg,-670.0,53,41,-12.6415,0.7736
+Bremen Hbf,Dortmund Hbf,-988.0,51,49,-19.3725,0.9608
+Dortmund Hbf,Osnabrück Hbf,812.0,46,40,17.6522,0.8696
+Tuttlingen,Rottweil,7.0,48,23,0.1458,0.4792
+Mülheim (Ruhr) Hbf,Köln Messe/Deutz,-269.0,56,34,-4.8036,0.6071
+Solingen Hbf,Bonn-Beuel,-42.0,55,14,-0.7636,0.2545
+Bonn-Beuel,Köln Hbf,404.0,55,51,7.3455,0.9273
+Stuttgart Hbf,Plochingen,-71.0,50,49,-1.42,0.98
+Plochingen,Göppingen,-28.0,52,50,-0.5385,0.9615
+Göppingen,Ulm Hbf,-100.0,52,47,-1.9231,0.9038
+Ulm Hbf,Memmingen,479.0,51,49,9.3922,0.9608
+Memmingen,Kempten (Allgäu) Hbf,196.0,51,49,3.8431,0.9608
+Nürnberg Hbf,Hannover Hbf,-52.0,7,6,-7.4286,0.8571
+Neumünster,Uelzen,131.0,53,26,2.4717,0.4906
+Uelzen,Hamburg Dammtor,-118.0,53,25,-2.2264,0.4717
+Hamburg Dammtor,Celle,93.0,53,17,1.7547,0.3208
+Kassel-Wilhelmshöhe,Heidelberg Hbf,-424.0,58,30,-7.3103,0.5172
+Heidelberg Hbf,Frankfurt (Main) Hbf,421.0,58,35,7.2586,0.6034
+Frankfurt (Main) Hbf,Esslingen (Neckar),-44.0,40,10,-1.1,0.25
+Recklinghausen Hbf,Oberhausen Hbf,216.0,46,37,4.6957,0.8043
+Oberhausen Hbf,Wanne-Eickel Hbf,-170.0,45,35,-3.7778,0.7778
+Frankfurt (Main) Hbf,Bonn Hbf,-316.0,40,40,-7.9,1.0
+Aschaffenburg Hbf,Regensburg Hbf,-606.0,42,42,-14.4286,1.0
+Passau Hbf,Würzburg Hbf,512.0,11,11,46.5455,1.0
+Lüneburg,Bad Bevensen,-479.0,58,51,-8.2586,0.8793
+Bad Bevensen,Uelzen,313.0,58,35,5.3966,0.6034
+Mannheim Hbf,Esslingen (Neckar),-697.0,55,55,-12.6727,1.0
+Bremen Hbf,Diepholz,72.0,114,91,0.6316,0.7982
+Diepholz,Osnabrück Hbf,-54.0,114,97,-0.4737,0.8509
+Bochum Hbf,Duisburg Hbf,0.0,14,0,0.0,0.0
+Karlsruhe Hbf,Freiburg (Breisgau) Hbf,155.0,59,57,2.6271,0.9661
+Hamburg-Harburg,Hannover-Messe / Laatzen,-68.0,105,15,-0.6476,0.1429
+Papenburg (Ems),Esslingen (Neckar),30.0,57,6,0.5263,0.1053
+Esslingen (Neckar),Meppen,-40.0,57,7,-0.7018,0.1228
+Münster (Westf) Hbf,Oberhausen Hbf,-7.0,57,6,-0.1228,0.1053
+Oberhausen Hbf,Recklinghausen Hbf,1.0,57,4,0.0175,0.0702
+Gelsenkirchen Hbf,Dortmund Hbf,-13.0,12,3,-1.0833,0.25
+Westerland (Sylt),Keitum,-31.0,48,29,-0.6458,0.6042
+Keitum,Klanxbüll,51.0,47,31,1.0851,0.6596
+Klanxbüll,Niebüll,-88.0,48,33,-1.8333,0.6875
+Ludwigslust,Berlin Hbf,-187.0,48,45,-3.8958,0.9375
+Bruchsal,Esslingen (Neckar),-94.0,57,47,-1.6491,0.8246
+Berlin Hbf,Ludwigslust,-166.0,56,56,-2.9643,1.0
+Berlin Hbf,Halle (Saale) Hbf,-172.0,40,40,-4.3,1.0
+Gotha,Fulda,217.0,40,38,5.425,0.95
+Berlin Ostbahnhof,Köln Hbf,0.0,0,0,,
+Frankfurt (Main) Hbf,Bad Nauheim,37.0,43,14,0.8605,0.3256
+Dillenburg,Frankfurt (Main) West,-62.0,39,23,-1.5897,0.5897
+Köln Hbf,Remagen,39.0,53,20,0.7358,0.3774
+Andernach,Bonn-Beuel,352.0,52,45,6.7692,0.8654
+Hannover Hbf,Hannover-Messe / Laatzen,-334.0,57,36,-5.8596,0.6316
+Werdohl,Hagen Hbf,-504.0,44,38,-11.4545,0.8636
+Hagen Hbf,Altena (Westf),508.0,44,40,11.5455,0.9091
+Wabern (Bz Kassel),Celle,-82.0,12,8,-6.8333,0.6667
+Hamburg Hbf,Kassel-Wilhelmshöhe,102.0,10,7,10.2,0.7
+Lüneburg,Hamburg Hbf,0.0,9,0,0.0,0.0
+Stralsund Hbf,Hamburg-Harburg,0.0,9,0,0.0,0.0
+Elsterwerda,Berlin Hbf,11.0,24,8,0.4583,0.3333
+Berlin Hbf,Neustrelitz Hbf,-527.0,57,57,-9.2456,1.0
+Neustrelitz Hbf,Berlin Gesundbrunnen,511.0,57,56,8.9649,0.9825
+Düren,Düsseldorf Hbf,-90.0,51,34,-1.7647,0.6667
+Bruchsal,Pforzheim Hbf,33.0,45,20,0.7333,0.4444
+Stuttgart Hbf,Schorndorf,79.0,54,53,1.463,0.9815
+Oberhausen Hbf,Düsseldorf Hbf,23.0,56,13,0.4107,0.2321
+Wiesloch-Walldorf,Vaihingen (Enz),-4.0,1,1,-4.0,1.0
+Limburg Süd,Düsseldorf Hbf,62.0,47,3,1.3191,0.0638
+Solingen Hbf,Hamm (Westf) Hbf,-615.0,45,44,-13.6667,0.9778
+Hamm (Westf) Hbf,Wuppertal Hbf,587.0,46,44,12.7609,0.9565
+Hagen Hbf,Oberhausen Hbf,-58.0,49,7,-1.1837,0.1429
+Oberhausen Hbf,Essen Hbf,404.0,48,35,8.4167,0.7292
+Hamburg-Harburg,Emden Hbf,-1014.0,47,41,-21.5745,0.8723
+Rheine,Hamburg Hbf,1123.0,49,45,22.9184,0.9184
+Garmisch-Partenkirchen,Murnau,4.0,56,4,0.0714,0.0714
+Murnau,Weilheim (Oberbay),1.0,56,6,0.0179,0.1071
+Weilheim (Oberbay),Halle (Saale) Hbf,83.0,56,8,1.4821,0.1429
+Halle (Saale) Hbf,München Hbf,23.0,8,6,2.875,0.75
+Erfurt Hbf,Berlin Südkreuz,1001.0,57,56,17.5614,0.9825
+Bochum Hbf,Wuppertal Hbf,-195.0,56,48,-3.4821,0.8571
+Wuppertal Hbf,Essen Hbf,195.0,57,35,3.4211,0.614
+Würzburg Hbf,Frankfurt (Main) Hbf,396.0,58,35,6.8276,0.6034
+Dortmund Hbf,Düsseldorf Hbf,-181.0,57,9,-3.1754,0.1579
+Berlin Südkreuz,Naumburg (Saale) Hbf,-502.0,51,47,-9.8431,0.9216
+Naumburg (Saale) Hbf,Kassel-Wilhelmshöhe,-29.0,54,7,-0.537,0.1296
+Eisenach,Jena Paradies,-155.0,52,6,-2.9808,0.1154
+Jena Paradies,Bitterfeld,873.0,51,36,17.1176,0.7059
+Bitterfeld,Esslingen (Neckar),-932.0,51,38,-18.2745,0.7451
+Esslingen (Neckar),Leipzig Hbf,872.0,50,34,17.44,0.68
+Stuttgart Hbf,Neu-Ulm,-627.0,37,31,-16.9459,0.8378
+Neu-Ulm,Ulm Hbf,587.0,38,34,15.4474,0.8947
+Rostock Hbf,Berlin Gesundbrunnen,-123.0,56,41,-2.1964,0.7321
+Wolfsburg Hbf,Köthen,-15.0,44,3,-0.3409,0.0682
+Köthen,Berlin Ostbahnhof,0.0,20,0,0.0,0.0

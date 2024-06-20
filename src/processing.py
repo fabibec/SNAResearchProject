@@ -227,6 +227,24 @@ def add_station_delay():
     station_df.to_csv(data_path + "/stations/processed/stations.csv", index=False)
 
 
+def calculate_regression_data():
+    nodes = pd.read_csv(data_path + "/nodes.csv", index_col=False)
+    nodes.set_index("name")
+    nodes["avgDelayIn"] = round(nodes["sumInDelay"] / nodes["numTrainsIn"], 4)
+    nodes["avgDelayOut"] = round(nodes["sumInDelay"] / nodes["numTrainsIn"], 4)
+    nodes["pureDelayIn"] = round(nodes["sumInDelay"] / nodes["numDelayedTrainsIn"], 4)
+    nodes["pureDelayOut"] = round(nodes["sumInDelay"] / nodes["numDelayedTrainsOut"], 4)
+
+    nodes["punctuality"] = round((nodes["numDelayedTrainsIn"] + nodes["numDelayedTrainsOut"]) /
+                                 (nodes["numTrainsIn"] + nodes["numTrainsOut"]), 4)
+    nodes.to_csv(data_path + "/nodes.csv", index=False)
+
+    edges = pd.read_csv(data_path + "/edges.csv", index_col=False)
+    edges["avgDelay"] = round(edges["sumDelay"] / edges["numTrains"], 4)
+    edges["punctuality"] = round(edges["numDelayedTrains"] / edges["numTrains"], 4)
+    edges.to_csv(data_path + "/edges.csv", index=False)
+
+
 if __name__ == "__main__":
     '''This only keeps the stations we need for the network and some possibly interesting attributes'''
     process_stations()
@@ -236,3 +254,6 @@ if __name__ == "__main__":
 
     '''Calculates the average delay the station causes'''
     add_station_delay()
+
+    '''Calculate the final delay metrics for the linear regression'''
+    calculate_regression_data()
