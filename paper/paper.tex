@@ -50,7 +50,7 @@ linkcolor=blue,
 \maketitle
 
 \begin{abstract}
-  Although the German railway network is considered the largest in Europe, it is also infamous for being very unreliable. Since 70 percent of long-distance trains are considered to be not punctual, the German government introduced a railway spending programme with the aim of reducing delays and making the train a more desirable mode of transportation. In order for the spending programme to be successful, it is necessary to identify the factors that cause delays. In this paper, several of these factors will be shown, retrieved from a linear regression analysis. The study revealed that specific train station operators and control centers exert an influence on train delay, both positively and negatively. These insights can be employed to identify optimal train organisation strategies and implement them across the entire network. Furthermore, this research can serve as a foundation for identifying other crucial influences through the utilisation of a larger data set containing more information.
+  Although the German railway network is considered the largest in Europe, it is also infamous for being very unreliable. Given that 70 percent of long-distance trains are currently not punctual, the German government has introduced a railway spending programme with the objective of reducing delays and enhancing the attractiveness of rail travel. In order for the spending programme to be successful, it is necessary to identify the factors that cause delays. In this paper, several of these factors will be shown, retrieved from a linear regression analysis. The study revealed that specific train station operators and control centers exert an influence on train delay, both positively and negatively. These insights can be employed to identify optimal train organisation strategies and implement them across the entire railway network. Furthermore, this research can serve as a foundation for identifying other crucial influences through the utilisation of a larger data set containing more information.
 \end{abstract}
 
 \section{\label{sec:Introduction}Introduction}
@@ -63,8 +63,8 @@ This figure may appear satisfactory at first glance, but it is important to cons
 To provide context, Switzerland, a neighboring country to Germany, has a punctuality rate of 90 percent for long-distance trains \citep{SBB2024}. 
 The reliability of Deutsche Bahn trains is so poor, that the Swiss Federal Office of Transport proposed to stop German trains from entering too deep into the country, in order to prevent cascading delays on their own trains  caused by the DB trains \citep{Magill2023}.
 
-Delay is one of the most significant reasons why the German government introduced a 47 billion euro rail-spending program in order to overhaul the railway network, improve reliability and most importantly to reduce CO\textsubscript{2} emissions by making the train an equally attractive mean of transport \citep{Scally2023}. 
-One of the first measures to make traveling by train more appealing was to introduce affordable train tickets in the form of a 49 Euro Ticket \citep{DW2023}, however if German trains lack general punctuality, the reduced travel costs will not necessarily result in a shift in customer preference towards rail travel over private vehicles.
+Delay is one of the most significant reasons why the German government introduced a 47 billion euro rail-spending program in order to overhaul the railway network, improve reliability and most importantly to reduce CO\textsubscript{2} emissions by making the train an attractive mean of transport \citep{Scally2023}. 
+One of the first measures to make traveling by train more appealing was to introduce affordable train tickets in the form of a 49 Euro Ticket \citep{DW2023}. However if German trains lack general punctuality, the reduced travel costs will not necessarily result in a shift in customer preference towards rail travel over private vehicles.
 
 In order to spend this money purposefully, an in-depth analysis of the German railway system is needed in order to determine plausible causes for unreliability and train delay. 
 Hence to this event I want to discover if Social Network Analysis is a fitting tool in order to find potential causes for train delay that can only be eliminated by targeted investments. 
@@ -90,15 +90,15 @@ This paper also utilizes timetable data in order to calculate the required delay
 
 \cite{Murali2010} created a linear regression model to predict railroad delay. 
 However instead of using historic train data, they generated their training data by using a simulation and later applied the resulting model to subsections of the Los Angeles train network. 
-The main part of this paper is also employing linear regression, nevertheless here the aim is find important factors that determine train delays and would therefore assist in the improvement of such a linear regression model.
+The main part of this paper is also employing linear regression, nevertheless here the aim is to find important factors that determine train delays and would therefore assist in the improvement of such a linear regression model.
 
 Different research conducted by \cite{Hauck2020} makes use of the same linear regression model, however they used a dataset that was provided by the german railway service and is structured in similar fashion to the one that will be constructed as a part of this research. 
-The dataset contains timestamps of the excepted events and the actual time of the event to calculate the delay out of the difference. This at first glance seems almost identical to what will be executed in this paper, however the mentioned research was again only interested in providing an accurate prediction system.
+The dataset contains timestamps of the excepted events and the actual time of the event to calculate the delay out of the difference. This at first glance seems almost identical to what will be executed in this paper, however the mentioned researchers were again primarily interested in providing an accurate prediction system.
 
 Research that aims to determine factors that cause train delay has been created by \cite{Dingler2010}. The goal of this paper was to gain a better understanding for delay-causing factors. 
 They obtained their data from a railway simulation software and observed the relationship of delay and factors such as train volume or train speed.
 
-This overview of related works helps to draw the conclusion, that the topic of train delays as quite recognized in science.
+This overview of related works helps to draw the conclusion, that the topic of train delays is quite recognized in science.
 Hence this paper embeds ideas that have already been observed in different perspectives. 
 But ultimately the application of Social Network Analysis on historic german railway data in order to observe possible factors of train delay is an idea that has been absent from research until now.  
 
@@ -114,9 +114,9 @@ In this chapter I will review the data gathering and prepossessing, as well as p
 The first challenge was to obtain historical delay data for German trains. This was complicated by the fact that, unlike many other rail services, Deutsche Bahn does not provide open access to this data \citep[p.~5]{Spanninger2022}. 
 Instead, only delay data for the previous eight hours could be retrieved from the \href{https://developers.deutschebahn.com/db-api-marketplace/apis/frontpage}{official API}. 
 In order to obtain an acceptable amount of data, regular queries would have to be executed over a period of months. This was not possible due to the time constraints of this research. 
-However, the necessary data could be found on the website \href{https://www.zugfinder.net/en/start}{Zugfinder}. This service provides historical delay data for up to two years if a subscription is purchased. 
-The delay data is taken from the public timetable of trains and should therefore be as accurate as the official data. However, it only collects data for long-distance trains, unlike the \href{https://developers.deutschebahn.com/db-api-marketplace/apis/frontpage}{official API}, which also provides information on regional trains. 
-For the purpose of this research, however, the available data is sufficient as regional trains have a punctuality rate of over 90 percent compared to around 70 percent for long-distance trains \citep{DBPunctuality2024}. 
+Despite that, the necessary data could be found on the website \href{https://www.zugfinder.net/en/start}{Zugfinder}. This service provides historical delay data for up to two years if a subscription is purchased. 
+The delay data is taken from the public timetable of trains and should therefore be as accurate as the official data. However, the webiste only collects data for long-distance trains, unlike the \href{https://developers.deutschebahn.com/db-api-marketplace/apis/frontpage}{official API}, which also provides information on regional trains. 
+For the purpose of this research, nevertheless, the available data is sufficient as regional trains have a punctuality rate of over 90 percent compared to around 70 percent for long-distance trains \citep{DBPunctuality2024}. 
 As the site does not provide an API by default, a web scraper was written to collect a reasonable amount of data. The resulting source code is available on my personal GitHub repository \citep{repo}. 
 
 \begin{table}[b]
@@ -124,7 +124,7 @@ As the site does not provide an API by default, a web scraper was written to col
   \begin{tabular}{ll}
   \hline
   attribute      & description                                                                                      \\ \hline
-  type           & station type dependent on their size                                                             \\
+  type           & \makecell{station type dependent on their size \\ e.g. Metropolitan, Interchange and Feeder}                                                            \\
   platforms      & \makecell{number of platforms available for trains \\ to depart or arrive}                                     \\
   operator       & \makecell{transportation companies, mostly from federal states, \\ that operate a network of railway stations} \\
   control center & \makecell{railway station that coordinates the train traffic of \\ the particular station}                     \\ \hline
@@ -135,10 +135,10 @@ As the site does not provide an API by default, a web scraper was written to col
 
 In order to gather the requisite data, I initially retrieved a list of all German train stations from the official Deutsche Bahn API. 
 I then proceeded to remove all stations that do not accommodate trains. Furthermore, I collected metadata, which can be seen in Table~\ref{fig:network-metadata}. 
-This data will later be used to determine possible dependencies on various forms of delay. With this list I searched through every departure board on \href{https://www.zugfinder.net/en/start}{Zugfinder}, utilizing the Selenium library in Python, with the goal of finding possible trains to retrieve timetable data from. 
+This data will later be used to determine possible dependencies on various forms of delay. Using this list I searched through every departure board on \href{https://www.zugfinder.net/en/start}{Zugfinder}, utilizing the Selenium library in Python, with the goal of finding possible trains to retrieve timetable data from. 
 All trains were then processed in order to remove trains that partly operate outside of Germany, as no sufficient metadata was available for the later analysis. 
 
-Subsequently, I compiled the timetable for each train between April and Mai 2024. This data then was processed in order to calculate the delay rates of the trains utilizing the contained arrival and departure times at every given stop.
+Subsequently, I compiled the timetable for each train between April and Mai 2024. This data then was primed in order to calculate the delay rates of the trains utilizing the contained arrival and departure times at every given stop.
 
 \maketitle
 \subsection{\label{sec:Preprocessing}Data preprocessing}
@@ -185,7 +185,7 @@ Table~\ref{fig:network-overview} depicts that the nodes in the network can be se
 The findings of the network are comparable to the Barabasi Albert Model of preferential attachment. This can be observed in the degree distribution of the network. 
 Figure~\ref{fig:network-deg-dist} does not show a perfect power law distribution, as can be validated by Figure~\ref{fig:network-powerlaw}. 
 However, the Metropolitan railway stations function as a target for preferential attachment, which is logical given that smaller train stations connect to larger ones to facilitate passenger access to as many destinations as possible. 
-Nevertheless, this also introduces potential reasons for delay, as larger train stations may not be able to accommodate the influx of incoming trains effectively, potentially due to a lack of platforms. Alternatively, connections to the Metropolitan stations may be congested by the sheer number of trains utilizing them, which in turn results in cascading delays. 
+This also introduces potential reasons for delay, as larger train stations may not be able to accommodate the influx of incoming trains effectively, potentially due to a lack of platforms. Alternatively, connections to the Metropolitan stations may be congested by the sheer number of trains utilizing them, which in turn results in cascading delays. 
 Therefore, the hypothesis will be examined in greater detail at a later stage. 
 
 The network in general is also notably sparse, as evidenced by the edge density of approximately 0.015. 
@@ -203,7 +203,7 @@ A dyad census yielded 44,800 unlinked nodes, 435 mutually connected nodes, and 5
    \label{fig:network-powerlaw}
 \end{figure}
 
-Nevertheless, the maximum distance of the network is relatively short, with the shortest path from Berchtesgaden, which is in close proximity to the Austrian border in Bavaria, to Klanxbüll, situated in the vicinity of the Danish border, being only 24 edges in length. 
+Regardless, the maximum distance of the network is relatively short, with the shortest path from Berchtesgaden, which is in close proximity to the Austrian border in Bavaria, to Klanxbüll, situated in the vicinity of the Danish border, being only 24 edges in length. 
 It should be mentioned that passing a node does not necessarily indicate a train switch, which implies that every destination in this network is reachable quite easily. The reciprocity is also quite high at approximately 0.627, which can be interpreted as follows: If one were to travel to a particular destination via a specific number of stations, it is likely that a similar route exists which would allow one to return to their original point of departure. 
 
 Upon initial observation, the infrastructure of the German long-distance train appears to be well-designed and free of significant design flaws. Nevertheless, the network exhibits a lack of reliability, necessitating the use of linear regression to examine potential dependencies in greater depth.
@@ -226,12 +226,12 @@ For computing metrics on the network, the Python library \href{https://networkx.
 
 As previously stated in Chapter \ref{sec:Research methodology}, the centrality of a train station or a connection may influence the delay. The simplest measure of centrality is the degree, which simply counts the adjacent nodes. Since the data provides directed edges, the degree is separated into in-degree and out-degree. 
 
-Testing the average incoming delay and average outgoing delay on their linkage to the incoming and outgoing degree does not reveal a meaningful connection. Firstly, the in- and outdegree are highly linearly dependent and therefore cannot both be used as predictor variables at the same time. This is a predictable result, given that only two stations on each train ride function as starting or end station, where the degree differs. Even if a model is constructed with one of the directed degrees, the p-value of all four combinations is between 0.003 and 0.004, which is a relatively high value. Furthermore, the adjusted R² error is only around 0.01, indicating that these models do not cover a significant range of variations. Despite this, all four models show a slight positive correlation between average delay and degree, suggesting that further exploration of the hypothesis is warranted. The model indicates that the average delay is higher at stations with a greater number of connections to other stations. Since the edges merely describe different connections and do not provide information about the utilisation of the latter, the number of handled trains was added in order to potentially improve the model. 
+Testing the average incoming delay and average outgoing delay on their linkage to the incoming and outgoing degree does not reveal a meaningful connection. Firstly, the in- and outdegree are highly linearly dependent and therefore cannot both be used as predictor variables at the same time. This is a predictable result, given that only two stations on each train ride function as starting or end station, where the degree differs. Even if a model is constructed with one of the directed degrees, the p-value of all four combinations is between 0.003 and 0.004, which is a relatively high value. Furthermore, the adjusted R² error is only around 0.01, indicating that these models do not cover a significant range of variations. Despite this, all four models show a slightly positive correlation between average delay and degree, suggesting that further exploration of the hypothesis is warranted. The model indicates that the average delay is higher at stations with a greater number of connections to other stations. Since the edges merely describe different connections and do not provide information about the utilisation of the latter, the number of handled trains was added in order to potentially improve the model. 
 However, both of the predictors are again highly collinear, and therefore the given model is not reliable.
 
 On the other hand, the correlation of degree and the standard deviation of the delay provides much more promising results. The models exhibit a very low p-value, while the adjusted R² error is approximately 0.7 for all combinations. Furthermore, the model depicts a positive relationship between degree and standard deviation, with an estimated value of approximately 8. This leads to the conclusion that at stations with higher degrees, trains arrive and depart less reliably. 
 
-The betweenness centrality incorporates information about the brokerage of a particular node and therefore the shortest path connecting two railway stations \citep[p.~35]{Linton}. This centrality measure will be the starting point of the next linear regression model. It is unfortunate that the average delay of a station based on the betweenness centrality generates worse results than the model with degree centrality. The application of betweenness centrality to the standard deviation again signals a positive relationship, with the model exhibiting a very low p-value. Conversely, the adjusted R² is somewhat lower this time. As betweenness centrality can also be calculated for edges, this model was also explored. Unfortunately, this model did not yield any new insights, either. 
+The betweenness centrality incorporates information about the brokerage of a particular node and therefore the shortest path connecting two railway stations \citep[p.~35]{Linton}. This centrality measure will be the starting point of the next linear regression model. It is unfortunate that the average delay of a station based on the betweenness centrality generates worse results than the model with degree centrality. The application of betweenness centrality to the standard deviation again signals a positive relationship, with the model exhibiting a very low p-value. Conversely, the adjusted R² is lower this time. As betweenness centrality can also be calculated for edges, this model was also explored. Unfortunately, this model did not yield any new insights, either. 
 
 The closeness centrality, which incorporates the notion of proximity between nodes \citep[p.~180]{Rodrigues2019}, has also been examined. However, the model did not yield any novel insights.
 
@@ -265,18 +265,18 @@ The second most significant p-value belongs to the operator \textit{Verkehrsgese
 The estimated value is $-6.5$. Despite operating at 17 stations, this operator still ranks fifth in the network in terms of the number of stations it serves. 
 Conversely, this operator does not manage any Metropolitan stations, which may account for this performance. 
 Furthermore, the federal state of Mecklenburg-Vorpommern has only one international border to Poland, in contrast to Baden-Württemberg, which has multiple international borders. 
-This results in less international train traffic to be managed in Mecklenburg-Vorpommern. However, this result reinforces the hypothesis that metropolitan train stations in general have a positive effect on delay.
+This results in less international train traffic to be managed in Mecklenburg-Vorpommern. However, this result reinforces the hypothesis that metropolitan train stations in general have a positive correlation with average delay.
 
 As previously indicated in Table~\ref{fig:network-metadata}, the data relating to the control center of each railway station included in the study were also provided.
 As with the regression model that employed the operator as a predictor variable, a model that utilized the control center as a predictor variable also yielded a noteworthy insight.
 The resulting model yielded a single statistically significant p-value for the control center at the main station in Nuremberg, Bavaria.
 This particular station exhibited a highly positive correlation with the average delay, with an estimated value of 5.710. 
-One possible explanation for this result is the geographical distribution of the stations. <
+One possible explanation for this result is the geographical distribution of the stations.
 As is evident from Figure~\ref{fig:nb-control}, the controlled railway stations are distributed over a considerable distance. 
 
 \begin{figure}[h]
   \includegraphics[clip=true,width=\columnwidth]{../data/visualizations/Nürnberg_controlled_stations.png}
-  \caption{Visualization of the train stations controlled by Nürnberg main station, which is colored in red}
+  \caption{Visualization of the train stations controlled by Nuremberg main station, which is colored in red}
    \label{fig:nb-control}
 \end{figure}
 
@@ -293,7 +293,7 @@ The aforementioned regions are overseen by other control centers, which necessit
 A linear model that incorporates all the previously introduced predictor variables also yields new insights. 
 The only significant p-value indicates a positive correlation between delay and the control center at Dortmund main station. 
 As illustrated in Figure~\ref{fig:do-control}, the region managed stations are in close proximity to one another, making them more susceptible to delays. 
-This phenomenon is the inverse of that observed at the Nürnberg main station.
+This phenomenon is the inverse of that observed at Nuremberg main station.
 
 \maketitle
 \section{\label{sec:Discussion}Discussion}
@@ -306,7 +306,7 @@ Given that the operator with a negative influence on delay did not have a signif
 
 Furthermore, the experiments yielded the discovery of specific control centres that exhibited a positive correlation with delay, namely Dortmund Main Station and Nuremberg Main Station. 
 One possible reason for this phenomenon was the geographic distance between the control centres. In contrast, the stations in Dortmund are situated in close proximity, which facilitates the propagation of delay effects. 
-The railway stations under the control of Nürnberg are distributed over a considerable area, which makes it more challenging to anticipate potential train movements. 
+The railway stations under the control of Nuremberg are distributed over a considerable area, which makes it more challenging to anticipate potential train movements. 
 This is due to the fact that there is more room for maintenance on the train tracks, which in turn can result in trains departing at a later time in order to avoid track congestion. 
 
 Finally, the centrality measures and other metadata demonstrated a positive correlation between the size of a station and its average delay, as well as its standard deviation. 
@@ -314,7 +314,7 @@ This phenomenon can be explained by the fact that the greater the number of trai
 For instance, long-distance trains may depart at a later time, as they must wait for connecting trains that are not on time.
 
 However, the accuracy of the results is limited by the amount of data used. Since only two months of timetable data was considered, it would be a possible idea for future research to include data of a larger timespan. 
-It may also be helpful to consider external events, such as holidays, since these events cause a higher traveler volume. Especially as the number of trains handled by a train station also indicated a slight positive relationship with average delay.
+It may also be helpful to consider external events, such as holidays, since these events cause a higher traveler volume. Especially as the number of trains handled by a train station also indicated a slightly positive relationship with average delay.
 
 \maketitle
 \section{\label{sec:Conclusion}Conclusion}
@@ -322,7 +322,7 @@ It may also be helpful to consider external events, such as holidays, since thes
 In this paper linear regression models have been used in order to determine possible reasons for train delay based on centrality measures and additional collected metadata about train stations. 
 
 The most significant and unexpected outcome was the ability of this method to identify specific operators and control centers with either a positive or negative correlation to average delay, despite the models not providing this information for all operators and control centers. 
-This would represent a potential starting point for future research, where additional data, such as delay data over an extended period of time, or for example weather and railway employee movement data, could be utilized to yield more interesting results. 
+This would represent a potential starting point for future research, where additional data, such as delay data over an extended period of time, or for example weather and railway employee data, could be utilized to yield more interesting results. 
 
 Nevertheless, the small amount of data also yielded some helpful results, which proves the effectiveness of this method. The current results are beneficial in directing spending towards potential areas for improvement in order to enhance the overall network reliability, thereby making commuting by train a more attractive proposition.
 \pagebreak

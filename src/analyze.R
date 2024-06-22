@@ -25,6 +25,6 @@ dyad_census(net)
 triad_census(net)
 
 #Diameter
-d iameter(net, directed=T)
+diameter(net, directed=T)
 diam <- get_diameter(net, directed=T)
 diam

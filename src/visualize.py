@@ -5,7 +5,6 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpl_patches
-import numpy as np
 from mpl_toolkits.basemap import Basemap as Basemap
 from dotenv import load_dotenv
 
